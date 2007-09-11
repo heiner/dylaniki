@@ -1,0 +1,80 @@
+a:link {
+	color: #0000FF;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #800000;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #800080;
+	text-decoration: none;
+}
+
+a:active {
+	color: #800000;
+	text-decoration: none;
+}
+
+body, td {
+	color: #272727;
+	font-family: Georgia, garamond, "book antiqua", serif;
+	font-size: 1em;
+	line-height: 1.5em;
+	margin-bottom: 0;
+	margin-top: 0;
+	text-align: justify;
+	text-indent: 2em;
+	width: 30em;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Georgia,Garamond,"Book Antiqua",serif;
+	line-height: 1.8em;
+	text-indent: 0px;
+}
+
+p {
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
+pre {
+	font-family: "Lucida Console","Courier New",Courier,monospace;
+}
+
+.dropcap {
+	float: left;
+	font-size: 350%;
+	line-height: 85%;
+	padding-right: 3px;
+	width: 0.7em;
+}
+
+.first {
+	text-indent: 0px;
+}
+
+.stor {
+	font-size: 1.2em;
+}
+
+.quote {
+	margin-left: 2em;
+	margin-right: 1em;
+	margin-bottom: 2em;
+	margin-top: 1em;
+	text-indent: 0px;
+	font-size: small;
+	line-height: 1.2em;
+}
+
+#textarea {
+	width: 30em;
+	margin-left: auto;
+	margin-right: auto;
+	}

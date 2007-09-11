@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+<title>Using Seal under Windows</title>
+<link rel="stylesheet" type="text/css" href="css/general.css" />
+<link href="css/articles.css" rel="stylesheet" type="text/css" />
+<style>
+tt {font-size: 0.9em; color: #030; font-family: "lucida console","bitstream vera sans mono", monospace}
+.first {margin-top:1em; }
+pre {font-size: 0.9em; color: #030;}
+</style>
+</head>
+
+<body>
+<div id="content">
+
+<h1>Using Seal under Windows</h1>
+<p class="first">Seal is written in the programming language <em>Ruby</em>, and converts through the type-setting environment <em>LaTeX</em>, so in order to use it, you need to have these installed.</p>
+<p>Under Windows, this involves some steps that may seem complicated to the average point-and-click user, but it&rsquo;s not really difficult. Below is first a quick-install routine, then a more detailed walkthrough. </p>
+
+
+<h3>Quick install</h3>
+<ol>
+<li>Download and install <a href="http://rubyinstaller.rubyforge.org/wiki/wiki.pl">Ruby</a> and <a href="http://www.miktex.org/Default.aspx">MikTeX.</a> </li>
+	<li>Download and unpack dylanchords <a href="http://dylanchords.nfshost.com">[1]</a> <a href="http://dylanchords.brokenbricks.com">[2]</a> and <a href="http://www.math.tu-dresden.de/~kuettler/seal/">Seal.</a></li>
+<li>Browse to wherever you unpacked Seal.        </li>
+<li>Run <tt>ruby seal-convert &#060;path\to\dylanchords&#062;</tt></li>
+<li>Run <tt>ruby seal-tex --pdf</tt> to get pdf output; follow instructions along the way.
+	</li>
+<li>Go to the subdirectory <tt>book</tt>, where you will find <tt>mbpbook.pdf</tt></li>
+</ol>
+
+	<h2>Detailed instructions</h2>
+	<h3> 1. Preparations</h3>
+<p class="first">1. Both Ruby and MikTeX are freely available. Ruby from</p>
+<p class="first"><a href="http://rubyinstaller.rubyforge.org/wiki/wiki.pl">http://rubyinstaller.rubyforge.org/wiki/wiki.pl</a> </p>
+<p>(<a href="http://rubyforge.org/frs/download.php/4174/ruby182-15.exe">direct link to the installer</a>),</p>
+<p class="first">and MikTeX, the Windows version of LaTeX, from</p>
+<p class="first"> <a href="http://www.miktex.org/Default.aspx">http://www.miktex.org/Default.aspx </a></p>
+<p>(<a href="http://prdownloads.sourceforge.net/miktex/basic-miktex-2.5-beta-8.exe?download">direct link</a>). </p>
+<p class="first">These are fairly big downloads, but it&rsquo;s worth it&hellip;    </p>
+<p class="first">Once you&rsquo;ve got them home, both Ruby and MikTex are one-click installers (well, you may have to double-click, but I count that as one), so click on the exe-files, choose a destination (you can for instance accept the suggestions), and sit back and wait.</p>
+<p>You will be presented with some alternatives about what to install. E.g., if you don&rsquo;t think you are ever going to look into programming with Ruby, you may unselect the documentation during the installation. One thing you should <em>not</em> unselect, however, is SciTE, a superb text editor which comes bundled with Ruby.</p>
+	
+<p class="first">2. Then you need something to feed the Seal with: a recent copy of the chords.zip file of dylanchords, available from <a href="http://dylanchords.nfshost.com">dylanchords.nfshost.com</a> or <a href="http://dylanchords.brokenbricks.com">dylanchords.brokenbricks.com</a></p>
+
+<p class="first"> 3. Oh yes, and you need Seal itself. The seal package is available from <a href="http://www.math.tu-dresden.de/~kuettler/seal/">http://www.math.tu-dresden.de/~kuettler/seal/</a></p>
+
+<p class="first">4. Unpack these, using the zip handler of your choice (I can recommend <a href="http://www.ghisler.com/">Total Commander</a>, the file manager par excellence, which also handles zip files, but any zip-utility will do &ndash; even the one that comes with Windows), to wherever you want it. The following instructions use c:\dylanchords\, but you can put it wherever you want. </p>
+<p> Unpack chords.zip, e.g. to c:\dylanchords</p>
+<p> Unpack seal-current.zip. If you unzip it to c:\dylanchords, it will unpack itself to the subdirectory seal-snapshot-&lt;x&gt; where &lt;x&gt; is the current version number of Seal.</p>
+
+
+<h3>2. Running Seal</h3>
+<p class="first">When the preparations are done, you are ready to run Seal itself.</p>
+<p class="first">1. Open a console. The easiest way is to press the Win-key + R (for &ldquo;run&rdquo;), then type <tt>cmd</tt> + Enter in the windows that pops up.</p>
+<p class="first"> 2. Navigate to the directory where you put seal, e.g., at the prompt, type:</p>
+<pre class="quote">cd c:\dylanchords\seal-snapshot-&lt;x&gt; </pre>
+<p class="first">(tip: you don&rsquo;t have to type it all: write a couple of letters and press TAB until the correct directory comes up, etc)</p>
+<p class="first"> 3. then type &ldquo;ruby seal-convert&rdquo; followed by the path to dylanchords. Ex:</p>
+<pre class="quote">ruby seal-convert c:\dylanchords</pre>
+<p class="first"> or, if you unpacked seal in c:\dylanchords\seal-current, you can do</p>
+<pre class="quote">ruby seal-convert .. </pre>
+<p class="first">(&ldquo;..&rdquo; means &ldquo;parent directory&rdquo;)</p>
+<p class="first"> If ruby is correctly installed, and you&rsquo;ve typed everything correctly, you should now see a lot of messages scroll by as seal converts all the html files into LaTeX files. Some of the messages may be warnings, but you can disregard that.</p>
+<p class="first"> 4. When seal-convert is done, type</p>
+<pre class="quote">ruby seal-tex --pdf</pre>
+<p class="first"> This will gather all the single .tex files into one single file, mbpbook.tex, and then convert that to a pdf file.</p>
+<p class="first"> MikTeX, even though it&rsquo;s a huge download, is only the bare bones of LaTeX. Seal uses some extra packages which are not part of the basic installation. The first time you run seal-tex, MikTeX will stop when it finds a missing package, and ask you to install it. This should proceed automatically &ndash; all you need to do is to click &ldquo;install&rdquo; when you are asked.</p>
+<p> Again, you will see a lot of messages rolling by. Some of these are complaints about overfull and underfull boxes (nothing about all the <em>wonder</em>ful boxes you will get, though, which proves that computer programs care more about numbers than about aesthetics, alternatively that computer programs belong in the pre-Kantian world, where beauty was defined in terms of numbers). Again, these can be disregarded. </p>
+<p class="first"> 5. If you&rsquo;ve done everything correctly, your pdf file, called mbpbook.pdf, should be ready for you. All the output files end up in the subdirectory &ldquo;book&rdquo; (unless you specify a different directory), so you will find it at<tt> c:\dylanchords\seal-snapshot-&lt;x&gt;\book\mbpbook.pdf</tt> </p>
+<p class="first"> 6. Pick up your guitar, tune it, clear your throat and your mind, go to a random page, play and enjoy.</p>
+
+
+<h3>Further Options</h3>
+<p class="first">The method described above is what you would do if you simply want a pdf file of the whole thing as quickly as possible. There are some other options available.</p>
+<p class="first">1. <tt>seal-convert</tt> has the following, general usage description:</p>
+<pre>Usage: ruby seal-convert [options] source [destination]</pre>
+<p class="first">The options can be any of the following (or nothing at all):</p>
+<pre>-f, --[no-]force       Overwrite existing directories
+-i, --[no-]interactive Ask before overwriting
+-v, --[no-]verbose     Write out what is going on
+-q, --[no-]quiet       Don&rsquo;t write what is going on
+</pre>
+<p class="first">The source is the path to wherever you have put the dylanchords files, and the destination is where you want the result. If this is left empty, the output will go to a subdirectory <tt>book</tt> in the seal folder. </p>
+<p>A sample run with all the places filled, may look like:</p>
+<pre>ruby seal-convert -iv c:\dylanchords c:\great_stuff\seal</pre>
+
+<p class="first">2. <tt>seal-tex</tt> has the following usage:</p>
+<pre>Usage: ruby seal-tex [options] [directory]</pre>
+<p class="first">and the following options:</p>
+<pre>
+--pdf              Create PDF output instead of PostScript
+-v, --[no-]verbose Write out what is going on
+-q, --[no-]quiet   Don't write what is going on
+-h, --help         Show this message
+--copyright        Show copyright (revised BSD License)</pre>
+<p class="first">If run without any arguments, <tt>ruby seal-tex</tt> will generate a postscript file, which is the format of choice in the LaTeX/Linux world. </p>
+
+<p class="first">3. Which files are included in the book, is determined by two files in the <tt>data</tt> subdirectory: <tt>albums.yaml</tt> and <tt>songs.yaml</tt>. If you just want some albums in your book, comment out the ones you don&rsquo;t want (put a # in front of them), and run <tt>ruby seal-convert</tt> and <tt>ruby seal-tex -pdf</tt> again. If you also specify a different output folder, you won&rsquo;t overwrite the main book. E.g., you can comment out everything except <em>Knocked out Loaded</em> in <tt>albums.yaml</tt> and do:</p>
+<pre>ruby seal-convert c:\dylanchords c:\dylanchords\torch-ballads</pre>
+
+<p class="first">4. Seal is open-source, which means that you can open all the files in the seal folders and see what they&rsquo;re doing. You can also change them if you&rsquo;re confident enough about your programming skills. </p>
+</div>
+</body>
+</html>

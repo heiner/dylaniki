@@ -1,0 +1,62 @@
+body {
+	font: "URW Palladio L", Georgia, Garamond, Times, serif 90%/120% ;
+	text-align: center;
+}
+
+#content {
+	text-align: justify;
+	width: 33em;
+	margin: 0 auto;
+	}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "URW Gothic L","Century Gothic", verdana, "Trebuchet MS", sans-serif;
+	font-weight: normal;
+	margin-top: 2em;
+	text-align: center;
+	margin-bottom: 0.5em;
+	}
+
+h3, h4 {
+	font-variant:small-caps;
+	letter-spacing:2px;
+	}
+
+p {
+	line-height: 1.4em;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	text-indent: 1.5em;
+}
+
+pre {
+	font-size: 10pt;
+	line-height: 1em;
+}
+
+
+.firstline {
+	font-variant: small-caps;
+}
+
+.headerfirst {
+	line-height: normal;
+	margin-top: 0;
+}
+
+.dropcap {
+	font-size: 300%;
+	line-height: 90%;
+	float: left;
+	padding-right: 2px;
+}
+.smallcaps {
+	font-variant: small-caps;
+}
+.author {
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+img {
+	text-align: center;
+}

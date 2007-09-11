@@ -1,0 +1,25 @@
+a:link
+{
+	color: white; text-decoration: none; 
+}
+a:visited
+{
+	color: silver; text-decoration: none;
+} 
+a:active 
+{
+	color: silver; text-decoration: none; 
+}
+A:hover 
+{ 
+    color: gray; text-decoration: none; 
+}
+body
+{
+	font-family: Georgia, Garamond, "Times New Roman", Times, serif;
+}
+h1, h2, h3, h4, h5, h6
+{
+	font-family: Georgia, Garamond, "Times New Roman", Times, serif;
+}
+pre          { font-family: "Lucida Console", "Courier New", Courier, monospace; font-size: smaller }
