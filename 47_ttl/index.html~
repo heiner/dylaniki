@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head>
+<title>Together Through Life</title>
+<link rel="stylesheet" type="text/css" href="../css/general.css" />
+<link href="../css/indexpages.css" rel="stylesheet" type="text/css" />
+</head>
+
+<h1><img src="../graphics/ttl.jpg" width="150" height="140" />
+Together Through Life</h1>
+
+<p class="recdate">Released April 28, 2009</p>
+
+
+<ul>
+   <li><a href="beyond_here_lies_nothin.html">Beyond Here Lies Nothin</a></li>
+    <li><a href="life_is_hard.html">Life is Hard</a></li>
+<!--    <li><a href="my_wifes_home_town.html">My Wife's Home Town</a></li>
+    <li><a href="if_you_ever_go_to_houston.html">If You Ever Go to
+Houston</a></li>
+    <li><a href="forgetful_heart.html">Forgetful Heart</a></li>
+    <li><a href="jolene.html">Jolene</a></li>
+    <li><a href="this_dream_of_you.html">This Dream of You</a></li>
+    <li><a href="shake_shake_mama.html">Shake Shake Mama</a></li>
+    <li><a href="i_feel_a_change_comin_on.html">I Feel A Change Comin
+on</a></li>
+    <li><a href="its_all_good.html">It's All Good</a></li
+</ul>
+
+</body>
+</html>
