@@ -39,7 +39,7 @@ padding-top: 0px;
  .bridge2 { margin-left: 60px;
  }
 
- .spoken {
+ .spoken, .chorus {
 	font-style: italic;
  }
 
@@ -158,3 +158,15 @@ padding-top: 0px;
  }
 
  .red {color: #FF0000}
+
+/*Harp keys*/
+.G {color:#0a6; font-weight: bold;}
+.A {color:#f00; font-weight: bold;}
+.B {color:#16f; font-weight: bold;}
+.C {color:#06f; font-weight: bold;}
+.D {color:#0e1; font-weight: bold;}
+.Bb {color:#c61; font-weight: bold;}
+.E {color:#f60; font-weight: bold;}
+.F {color:#16f; font-weight: bold;}
+.fn {font-size:80%;}
+.harp {font-weight: bold; color: black; }
