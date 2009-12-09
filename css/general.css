@@ -131,6 +131,17 @@ padding-top: 0px;
 	border: 1px solid black;
 }
 
+.preamble {
+    /*width: 90%;*/
+    background: #f3f3f3;
+    border: solid 1px #aaa;
+    padding: 1em 2em;
+    margin: 2em 0;
+    font-size: 90%;
+    line-height: 110%;
+    max-width: 40em;
+}
+
  /* misc styles */
 
  .dropcap {
@@ -138,6 +149,7 @@ padding-top: 0px;
 	line-height: 90%;
 	float: left;
 	padding-right: 2px;
+
  }
 
  .smallcaps {
@@ -146,6 +158,9 @@ padding-top: 0px;
 
  hr {
 	margin: 15px 0;
+    color: #aaa;
+    border: 1px solid #aaa;
+    background: #aaa;
  }
 
  .byline {
@@ -170,3 +185,5 @@ padding-top: 0px;
 .F {color:#16f; font-weight: bold;}
 .fn {font-size:80%;}
 .harp {font-weight: bold; color: black; }
+
+
