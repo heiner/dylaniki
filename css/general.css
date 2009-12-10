@@ -23,20 +23,29 @@
  }
 
  /* pre styles */
+ /*.tab - only for the tablature scores*/
+ /*.chords -- for chordcharts*/
+ /*.verse, .refrain, .bridge -- different indention levels for sections with different music*/
+ /*.crd -- for instrumental passages not conforming with any of the section classes (e.g. intros, outros, etc.)*/
+ /*.chorus -- sections where Dylan does not sing*/
+ /*.spoken -- spoken passages*/
 
- pre, .tab, .chords, .verse {
+ pre, .tab, .chords, .verse, .crd {
     font: "Lucida Console","Bitstream Vera Sans Mono","Courier New",Courier,monospace 90%/100%;
     margin-top: 1.5em;
  }
 
- .refrain, .bridge { margin-left: 30px;
+ .refrain, .bridge {
+     margin-left: 30px;
  }
 
- .refrain { margin-top: -5px; 
-padding-top: 0px; 
+ .refrain { 
+     margin-top: -5px; 
+     padding-top: 0px; 
  }
 
- .bridge2 { margin-left: 60px;
+ .bridge2 {
+     margin-left: 60px;
  }
 
  .spoken, .chorus {
@@ -75,6 +84,7 @@ padding-top: 0px;
  h1, h2, h3, h4 {
     font-family: "URW Gothic L", "Century Gothic", "Avant Garde", verdana, "Trebuchet MS", sans-serif;
     font-weight:normal;
+    text-transform:capitalize;
  }
 
  h1 {
@@ -142,6 +152,18 @@ padding-top: 0px;
     max-width: 40em;
 }
 
+.chordcharts {
+    background: #f3f3f3;
+    border: solid 1px #aaa;
+    padding: 1em 2em;
+    font-size: 90%;
+    width: 220px;
+    max-width: 420px;
+    position: fixed;
+    bottom: 30px;
+    right: 0;
+}
+
  /* misc styles */
 
  .dropcap {
@@ -174,9 +196,12 @@ padding-top: 0px;
 
  .red {color: #FF0000}
 
+
  .footsep {
+     /*For a <hr /> used as footnote separator*/
      width: 12em;
  }
+
 /*Harp keys*/
 .G {color:#0a6; font-weight: bold;}
 .A {color:#f00; font-weight: bold;}
