@@ -1,32 +1,32 @@
  /* link styles */
 
  a:link {
-	color: #003399;
-	text-decoration: none;
+    color: #003399;
+    text-decoration: none;
  }
 
  a:visited, a:active { color: maroon;
-	text-decoration: none;
+    text-decoration: none;
  }
 
  a:hover { color: purple;
-	text-decoration: none;
+    text-decoration: none;
  }
 
  .recordlink {
-	font-style:italic;
-	text-transform:capitalize;
+    font-style:italic;
+    text-transform:capitalize;
  }
 
  .songlink {
-	text-transform: capitalize;
+    text-transform: capitalize;
  }
 
  /* pre styles */
 
  pre, .tab, .chords, .verse {
-	font: "Lucida Console","Bitstream Vera Sans Mono","Courier New",Courier,monospace 90%/100%;
-	margin-top: 1.5em;
+    font: "Lucida Console","Bitstream Vera Sans Mono","Courier New",Courier,monospace 90%/100%;
+    margin-top: 1.5em;
  }
 
  .refrain, .bridge { margin-left: 30px;
@@ -40,20 +40,20 @@ padding-top: 0px;
  }
 
  .spoken, .chorus {
-	font-style: italic;
+    font-style: italic;
  }
 
 
  /*paragraph styles */
 
  body {
-	padding: 0 1em;
+    padding: 0 1em;
  }
 
  body, td, p {
-	font-size: 1em;
-	font-family: Georgia,"URW Palladio L",garamond,"book antiqua",serif;
-	margin: 0.7em 0 1em;
+    font-size: 1em;
+    font-family: Georgia,"URW Palladio L",garamond,"book antiqua",serif;
+    margin: 0.7em 0 1em;
  }
 
  .first { text-indent: 0px;
@@ -63,72 +63,72 @@ padding-top: 0px;
  }
 
  .quote { margin: 20px 2em;
-	font-size: 0.85em;
-	text-indent: 0px;
+    font-size: 0.85em;
+    text-indent: 0px;
  }
 
  .footnotes {
-	font-size: smaller;
-	width: 80%;
+    font-size: smaller;
+    width: 80%;
  }
 
  h1, h2, h3, h4 {
-	font-family: "URW Gothic L", "Century Gothic", "Avant Garde", verdana, "Trebuchet MS", sans-serif;
-	font-weight:normal;
+    font-family: "URW Gothic L", "Century Gothic", "Avant Garde", verdana, "Trebuchet MS", sans-serif;
+    font-weight:normal;
  }
 
  h1 {
-	text-transform: capitalize;
+    text-transform: capitalize;
  }
 
  .songversion {
-	font-size: 1.4em;
+    font-size: 1.4em;
  }
 
  .songtitle {
  }
 
  .leftcol { float: left;
-	width: 49.9%;
+    width: 49.9%;
  }
 
  .rightcol { width: 49.9%;
-	float: left;
+    float: left;
  }
 
  abbr {
-	border-bottom-style:dashed;
-	cursor:help;
+    border-bottom-style:dashed;
+    cursor:help;
  }
 
  /* Var page elements */
 
  .greenbox {
-	background-color:#cc9;
-	text-align:center;
-	font-size:0.9em;
-	border: 2px solid #866;
-	margin: 1em 0;
-	text-indent: 0px;
-	padding: 1em 0;
-	font-family: "URW Gothic L","Century Gothic", verdana, "Trebuchet MS", sans-serif;
+    background-color:#cc9;
+    text-align:center;
+    font-size:0.9em;
+    border: 2px solid #866;
+    margin: 1em 0;
+    text-indent: 0px;
+    padding: 1em 0;
+    font-family: "URW Gothic L","Century Gothic", verdana, "Trebuchet MS", sans-serif;
  }
 
  .greenbox a {
-	display: block;
-	padding: 0 2px;
-	color: #333;
-	border: 1px solid #cc9;
+    display: block;
+    padding: 0 2px;
+    color: #333;
+    border: 1px solid #cc9;
  }
 
 .greenbox a:visited {
-	color: #333;
+    color: #333;
 }
 
 .greenbox a:hover {
-	background-color:#FFFFFF;
-	color: maroon;
-	border: 1px solid black;
+    background-color:#FFFFFF;
+    color: maroon;
+    border: 1px solid black;
 }
 
 .preamble {
@@ -145,35 +145,38 @@ padding-top: 0px;
  /* misc styles */
 
  .dropcap {
-	font-size: 300%;
-	line-height: 90%;
-	float: left;
-	padding-right: 2px;
+    font-size: 300%;
+    line-height: 90%;
+    float: left;
+    padding-right: 2px;
 
  }
 
  .smallcaps {
-	font-variant: small-caps;
+    font-variant: small-caps;
  }
 
  hr {
-	margin: 15px 0;
+    margin: 15px 0;
     color: #aaa;
     border: 1px solid #aaa;
     background: #aaa;
  }
 
  .byline {
-	font-size: 0.8em;
-	font-style: italic;
+    font-size: 0.8em;
+    font-style: italic;
  }
 
  .center {
-	text-align:center;
+    text-align:center;
  }
 
  .red {color: #FF0000}
 
+ .footsep {
+     width: 12em;
+ }
 /*Harp keys*/
 .G {color:#0a6; font-weight: bold;}
 .A {color:#f00; font-weight: bold;}
