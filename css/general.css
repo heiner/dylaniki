@@ -30,7 +30,7 @@
  /*.chorus -- sections where Dylan does not sing*/
  /*.spoken -- spoken passages*/
 
- pre, .tab, .chords, .verse, .crd {
+pre, .tab, .chords, .verse, .crd {
     font: "Lucida Console","Bitstream Vera Sans Mono","Courier New",Courier,monospace 90%/100%;
     margin-top: 1.5em;
  }
@@ -74,6 +74,7 @@
  .quote { margin: 20px 2em;
     font-size: 0.85em;
     text-indent: 0px;
+
  }
 
  .footnotes {
@@ -164,6 +165,36 @@
     right: 0;
 }
 
+@media print {
+    .chordcharts {
+        background: #f3f3f3;
+        border: solid 1px #aaa;
+        padding: 1em 2em;
+        font-size: 90%;
+    }
+}
+
+#feed-control {
+    float: right;
+    min-width: 200px;
+    max-width: 250px;
+    margin: 0 0 1em 2em;
+    padding: .5em;
+    background: white !important;
+}
+.gfg-title {
+    font-family: "URW Gothic L", "Century Gothic", "Avant Garde", verdana, "Trebuchet MS", sans-serif;
+    font-weight:normal;
+    text-transform:capitalize;
+    font-size: 1.1em;
+}
+.gfg-entry {
+    border-bottom: 1px solid gray;
+}
+
+.gf-snippet {
+    line-height: 100%;
+}
  /* misc styles */
 
  .dropcap {
