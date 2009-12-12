@@ -167,10 +167,12 @@ pre, .tab, .chords, .verse, .crd {
 
 @media print {
     .chordcharts {
-        background: #f3f3f3;
-        border: solid 1px #aaa;
-        padding: 1em 2em;
+        background: #fff;
+        border: none;
+        margin-top: 2em;
+        padding: 1em;
         font-size: 90%;
+    position: relative;
     }
 }
 
