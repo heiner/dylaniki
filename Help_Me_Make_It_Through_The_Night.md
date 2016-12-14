@@ -1,0 +1,77 @@
+Kris Kristofferson<br>
+Played by Bob Dylan in Toad's Place, Jan 12 1990<br>
+Tabbed by Eyolf Østrem
+
+----
+<pre class="verse">
+(G) |C . . . |. . . . |F . . . |. . . . |
+    |G . . . |. . . . |C . . . |G . . . |
+</pre>
+<pre class="tab">
+(2nd time last measure:   C+
+                          :   .   .   .
+                        |---------4-------|
+                        |-------5---------|
+                        |-----5-----------|
+                        |---6-------------|
+                        |(3)--------------|
+                        |-----------------|
+                                     Take the...
+</pre>
+
+(C+ can also be played x32110)
+
+----
+<pre class="verse">
+                           C
+Take the ribbons from your hair
+                         F
+Shake it lose and let it fall
+                         G
+Lay it soft against your skin
+                        C
+Like the shadows on the wall
+
+Come and lay down by my side
+Till the early morning bright
+All I'm taking is your time
+Help me make it through the night
+</pre>
+
+<pre class="refrain">
+                              F
+I don't care what's right or wrong
+                    C
+I don't try to understand
+                     D
+Let the devil take tomorrow
+                     G    (/f /e /d  or   F Em Dm)
+For tonight I need a friend
+</pre>
+
+<pre class="verse">
+Yesterday is dead and gone
+And tomorrow's out of sight
+I don't care what's right or wrong
+Help me make it through the night
+
+[instrumental verses]
+</pre>
+
+<pre class="refrain">
+I don't care what's right or wrong
+I don't try to understand
+Let the devil take tomorrow
+For tonight I need a friend
+</pre>
+
+<pre class="verse">
+I don't care what's right or wrong
+I don't try to understand
+And today is also dead and gone
+Help me make it through the night.
+</pre>
+
+[[Category:Songs]]
+
+[[Category:Miscellaneous Songs]]

@@ -1,0 +1,1 @@
+#REDIRECT [[:Category:Double_dropped_D_tuning]]

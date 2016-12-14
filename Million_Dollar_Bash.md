@@ -1,0 +1,109 @@
+Words and music Bob Dylan<br>
+Released on [[The Basement Tapes]] (1967/1975) and on [[Biograph]] (1985)<br>
+Tabbed by Eyolf Østrem
+
+Capo 4th fret (sounding key E major)
+
+G6 (320000) is a suggestion for the last G in the chorus. It could be
+that he's playing 320010, i.e. a mix between G and C.<br>
+Some of the F's seem to be played Fmaj7 (x33210)
+
+----
+<pre class="verse">
+C
+           C
+Well, that big dumb blonde
+         F
+With her wheel of gorge
+    C
+And Turtle, that friend of theirs
+         G
+With his checks all forged
+        C
+And his cheeks in a chunk
+         F
+With his cheese in the cash
+        C
+They're all gonna be there
+        G              C
+At that million dollar bash
+</pre>
+
+<pre class="refrain">
+Am         F   C
+Ooh, baby, ooh-ee
+Am         F   C
+Ooh, baby, ooh-ee
+          G6             C
+It's that million dollar bash
+</pre>
+
+<pre class="verse">
+Ev'rybody from right now
+To over there and back
+The louder they come
+The bigger they crack
+Come now, sweet cream
+Don't forget to flash
+We're all gonna meet
+At that million dollar bash
+</pre>
+
+<pre class="refrain">
+Ooh, baby, ooh-ee
+Ooh, baby, ooh-ee
+It's that million dollar bash
+</pre>
+
+<pre class="verse">
+Well, I took my counselor
+Out to the barn
+Silly Nelly was there
+She told him to yarn
+along came Jones
+Emptied the trash
+Ev'rybody went down
+To that million dollar bash
+</pre>
+
+<pre class="refrain">
+Ooh, baby, ooh-ee
+Ooh, baby, ooh-ee
+It's that million dollar bash
+</pre>
+
+<pre class="verse">
+Well, I'm hittin' it too hard
+My stones won't take
+I get up in the mornin'
+But it's too early to wake
+First it's hello, goodbye
+Then push and then crash
+But we're all gonna make it
+At that million dollar bash
+</pre>
+
+<pre class="refrain">
+Ooh, baby, ooh-ee
+Ooh, baby, ooh-ee
+It's that million dollar bash
+</pre>
+
+<pre class="verse">
+Well, I looked at my watch
+I looked at my wrist
+I punched myself in the face
+With my fist
+I took my potatoes
+Down to be mashed
+Then I made it on over
+To that million dollar bash
+</pre>
+
+<pre class="refrain">
+Ooh, baby, ooh-ee
+Ooh, baby, ooh-ee
+It's that million dollar bash
+</pre>
+
+[[Category:Songs]]

@@ -1,0 +1,61 @@
+Words and music Bob Dylan<br>
+Released on [[Planet Waves]] (1974) and on [[Biograph]] (1985)<br>
+Tabbed by Eyolf Østrem
+
+Capo 2nd fret (original key A major)
+
+----
+<pre class="verse">
+G   D/f#   C/e   D   C   D   G
+
+G   D     G
+You angel you
+    G      D          G
+You got me under your wing.
+    G       D/f#         C/e     D
+The way you walk and the way you talk
+  C            D      G
+I feel I could almost sing.
+
+You angel you
+You're as fine as anything's fine.
+I just want to watch you talk with your
+memory on my mind
+</pre>
+
+<pre class="refrain">
+    C                               G
+You know I can't sleep at night for trying
+      G         D/f#      C/e    D
+Yes I never did feel this way before,
+G         D/f#       C/e     D
+Never did get up and walk the floor.
+G           D/f#     C/e    D
+ If this is love then gimme more
+    G
+And more and more and more (and more).
+</pre>
+
+<pre class="verse">
+You angel you
+You're as fine as can be
+The way you walk and the way you talk
+it's the way it ought to be
+</pre>
+
+<pre class="refrain">
+You know I can't sleep at night for trying
+Never did feel this way before,
+Never did get up and walk the floor.
+If this is love then gimme more
+And more and more and more.
+</pre>
+
+<pre class="verse">
+You angel you
+You got me under your wing.
+The way you walk and the way you talk
+I swear it would make me sing.
+</pre>
+
+[[Category:Songs]]

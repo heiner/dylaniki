@@ -1,0 +1,1 @@
+#REDIRECT [[It’s All Good]]

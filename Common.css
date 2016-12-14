@@ -1,0 +1,182 @@
+/* CSS placed here will be applied to all skins */
+
+/* Should be in a Skin */
+/*
+#content {
+  font-family:Garamond, Georgia, serif;
+  font-family: "palatino linotype","palatino lt std","palatino lt pro","palatino","urw palladio l","palladio","zapf calligraphic 801","zapf calligraphic","book antiqua","z-antiqua","aldus",serif;
+  font-size: 110%;
+}
+*/
+
+/* Should be in a Skin */
+pre {
+  font: 110%/115% Pragmata, Menlo, 'DejaVu LGC Sans Mono', 'DejaVu Sans Mono', Consolas, 'Everson Mono', 'Lucida Console', 'Andale Mono', 'Nimbus Mono L', 'Liberation Mono', FreeMono, 'Osaka Monospaced', Courier, 'New Courier', monospace;
+}
+
+/* Should be in a Skin */
+
+/*
+#firstHeading, .firstHeading {
+  font-style: italic;
+}
+*/
+
+/* Undo CSS style from Skin */
+pre {
+  border-style: none;
+  margin: 0px; 
+  padding-left: 0px;
+  background-color: transparent;
+}
+
+@media only screen and (max-device-width: 800px) {
+  pre { font-family: monospace; }
+}
+
+.refrain {
+  margin-left: 20px;
+}
+
+.bridge {
+  margin-left: 20px;
+}
+
+.spoken {
+  text-style: italic;
+}
+
+.refrain, .bridge {
+  margin-left: 30px;
+}
+
+.refrain {
+  margin-top: -5px;
+  padding-top: 0px;
+}
+
+.bridge2 {
+  margin-left: 60px;
+}
+
+.spoken, .chorus {
+  font-style: italic;
+}
+
+div#songs {
+  border: 1px solid #aaa;
+    background-color: #f9f9f9;
+    color: black;
+    margin: 0.5em 0 0.5em 1em;
+    padding: 0.2em;
+    float: right;
+    clear: right;
+}
+
+/* Infobox template style
+ * Copied from Wikipedia
+ */
+.infobox {
+    border: 1px solid #aaa;
+    background-color: #f9f9f9;
+    color: black;
+    margin: 0.5em 0 0.5em 1em;
+    padding: 0.2em;
+    float: right;
+    clear: right;
+}
+.infobox td,
+.infobox th {
+    vertical-align: top;
+}
+.infobox caption {
+    font-size: larger;
+}
+.infobox.bordered {
+    border-collapse: collapse;
+}
+.infobox.bordered td,
+.infobox.bordered th {
+    border: 1px solid #aaa;
+}
+.infobox.bordered .borderless td,
+.infobox.bordered .borderless th {
+    border: 0;
+}
+ 
+.infobox.sisterproject {
+    width: 20em;
+    font-size: 90%;
+}
+ 
+.infobox.standard-talk {
+    border: 1px solid #c0c090;
+    background-color: #f8eaba;
+}
+.infobox.standard-talk.bordered td,
+.infobox.standard-talk.bordered th {
+    border: 1px solid #c0c090;
+}
+ 
+/* styles for bordered infobox with merged rows */
+.infobox.bordered .mergedtoprow td,
+.infobox.bordered .mergedtoprow th {
+    border: 0;
+    border-top: 1px solid #aaa;
+    border-right: 1px solid #aaa;
+}
+ 
+.infobox.bordered .mergedrow td,
+.infobox.bordered .mergedrow th {
+    border: 0;
+    border-right: 1px solid #aaa;
+}
+ 
+/* Styles for geography infoboxes, eg countries,
+   country subdivisions, cities, etc.            */
+.infobox.geography {
+    text-align: left;
+    border-collapse: collapse;
+    line-height: 1.2em; 
+    font-size: 90%;
+}
+ 
+.infobox.geography  td,
+.infobox.geography  th {
+    border-top: 1px solid #aaa;
+    padding: 0.4em 0.6em 0.4em 0.6em;
+}
+.infobox.geography .mergedtoprow td,
+.infobox.geography .mergedtoprow th {
+    border-top: 1px solid #aaa;
+    padding: 0.4em 0.6em 0.2em 0.6em;
+}
+ 
+.infobox.geography .mergedrow td,
+.infobox.geography .mergedrow th {
+    border: 0;
+    padding: 0 0.6em 0.2em 0.6em;
+}
+ 
+.infobox.geography .mergedbottomrow td,
+.infobox.geography .mergedbottomrow th {
+    border-top: 0;
+    border-bottom: 1px solid #aaa;
+    padding: 0 0.6em 0.4em 0.6em;
+}
+ 
+.infobox.geography .maptable td,
+.infobox.geography .maptable th {
+    border: 0;
+    padding: 0;
+}
+
+#simpleSearch input#searchInput { width: 14em; }
+
+.red { color: #FF0000; }
+
+.quote {
+  margin: 20px 2em;
+  //font-size: 0.85em;
+  text-indent: 0px;
+}
