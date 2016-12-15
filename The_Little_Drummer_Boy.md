@@ -7,7 +7,7 @@ tags:
 ---
 
 Written by Katherine K. Davis  
-Released on [Christmas in the Heart](/wiki/Christmas in the Heart "wikilink")
+Released on [Christmas in the Heart](Christmas in the Heart "wikilink")
 (2009)  
 Tabbed by Eyolf Østrem
 

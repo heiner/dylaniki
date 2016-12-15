@@ -8,7 +8,7 @@ tags:
 
 E. Davies/J. Peterson  
 Recorded by Bob Dylan June 3 or 5, 1970, released on
-[Dylan](/wiki/Dylan "wikilink") (1973)  
+[Dylan](Dylan "wikilink") (1973)  
 Tabbed by Eyolf Østrem
 
 * * * * *

@@ -8,10 +8,10 @@ tags:
 
 Words and music Bob Dylan  
 Released on [Bringing It All Back
-Home](/wiki/Bringing It All Back Home "wikilink") (1965) and [Greatest Hits
-II](/wiki/Greatest Hits II "wikilink") (1971), and in live versions on [Self
-Portrait](/wiki/Self Portrait "wikilink") (1970) and [Live
-1966](/wiki/Live 1966 "wikilink") (1998)  
+Home](Bringing It All Back Home "wikilink") (1965) and [Greatest Hits
+II](Greatest Hits II "wikilink") (1971), and in live versions on [Self
+Portrait](Self Portrait "wikilink") (1970) and [Live
+1966](Live 1966 "wikilink") (1998)  
 Tabbed by Eyolf Østrem
 
 Capo 2nd fret (sounding key A major)

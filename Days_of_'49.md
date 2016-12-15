@@ -7,7 +7,7 @@ tags:
 ---
 
 By Warner/Lomax/Lomax  
-Played by Bob Dylan on [Self Portrait](/wiki/Self Portrait "wikilink")
+Played by Bob Dylan on [Self Portrait](Self Portrait "wikilink")
 (1970)  
 Tabbed by Eyolf Østrem
 

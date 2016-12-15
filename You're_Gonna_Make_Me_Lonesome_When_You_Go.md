@@ -9,14 +9,14 @@ tags:
 
 Words and music Bob Dylan  
 Recorded Sept 1974 and released on [Blood on the
-Tracks](/wiki/Blood on the Tracks "wikilink") (1975)  
+Tracks](Blood on the Tracks "wikilink") (1975)  
 Tabbed by Eyolf Østrem
 
 <h2 class="songversion">
 Album version (New York, Sept 1974)
 
 </h2>
-[Open D/E tuning](/wiki/Help:Roadmaps#Open_tunings "wikilink")
+[Open D/E tuning](Help:Roadmaps#Open_tunings "wikilink")
 
     Chords:
     E     054000

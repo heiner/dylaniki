@@ -9,7 +9,7 @@ tags:
 
 Written by Jim Anglin (1913-1987), who sold the copyrights to Roy Acuff
 (this was the case even with [This World Can't Stand
-Long](/wiki/This World Can't Stand Long "wikilink"); it's been recorded by The
+Long](This World Can't Stand Long "wikilink"); it's been recorded by The
 Blue Sky Boys, Hank Williams, et al., and by Ralph Stanley(on *Pray For
 The Boys*), which is probably the source of Dylan's version.
 

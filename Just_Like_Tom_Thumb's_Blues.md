@@ -7,10 +7,10 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Highway 61 Revisited](/wiki/Highway 61 Revisited "wikilink")
-(1965) and [Greatest Hits II](/wiki/Greatest Hits II "wikilink") (1971), from
-an earlier take on [No direction home](/wiki/No direction home "wikilink")
-(2005), and live on [Live 1966](/wiki/Live 1966 "wikilink") (1998)  
+Released on [Highway 61 Revisited](Highway 61 Revisited "wikilink")
+(1965) and [Greatest Hits II](Greatest Hits II "wikilink") (1971), from
+an earlier take on [No direction home](No direction home "wikilink")
+(2005), and live on [Live 1966](Live 1966 "wikilink") (1998)  
 Tabbed by Eyolf Østrem
 
 * * * * *

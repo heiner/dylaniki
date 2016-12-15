@@ -7,10 +7,10 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [The Bootleg Series 1-3](/wiki/The Bootleg Series 1-3 "wikilink")
+Released on [The Bootleg Series 1-3](The Bootleg Series 1-3 "wikilink")
 (1991) in a live recording from carnegie Hall, NY, Oct 26, 1963, and in
 a version from Philharmonic Hall (Oct 31, 1964) on [Live
-1964](/wiki/Live 1964 "wikilink") (2004)  
+1964](Live 1964 "wikilink") (2004)  
 Tabbed by Eyolf Østrem
 
 * * * * *

@@ -7,7 +7,7 @@ tags:
 ---
 
 Tampa Red, arr. by Elmore James  
-Released by Bob Dylan on [Self Portrait](/wiki/Self Portrait "wikilink")
+Released by Bob Dylan on [Self Portrait](Self Portrait "wikilink")
 (1970)  
 Tabbed by Eyolf Østrem
 

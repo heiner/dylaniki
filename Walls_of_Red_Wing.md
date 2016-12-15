@@ -8,8 +8,8 @@ tags:
 
 Words and music Bob Dylan  
 Recorded Apr 24, 1963, at the last
-[Freewheelin'](/wiki/Freewheelin' "wikilink") session, released on [The
-Bootleg Series 1-3](/wiki/The Bootleg Series 1-3 "wikilink") (1991)  
+[Freewheelin'](Freewheelin' "wikilink") session, released on [The
+Bootleg Series 1-3](The Bootleg Series 1-3 "wikilink") (1991)  
 Tabbed by Eyolf Østrem
 
 * * * * *

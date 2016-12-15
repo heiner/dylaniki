@@ -7,10 +7,10 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Blonde on Blonde](/wiki/Blonde on Blonde "wikilink") (1966) and
-[Greatest Hits II](/wiki/Greatest Hits II "wikilink") (1971), in a different
-studio version on [No direction home](/wiki/No direction home "wikilink")
-(2005), and in a live version on [Hard Rain](/wiki/Hard Rain "wikilink")
+Released on [Blonde on Blonde](Blonde on Blonde "wikilink") (1966) and
+[Greatest Hits II](Greatest Hits II "wikilink") (1971), in a different
+studio version on [No direction home](No direction home "wikilink")
+(2005), and in a live version on [Hard Rain](Hard Rain "wikilink")
 (1976)  
 Tabbed by Eyolf Østrem
 

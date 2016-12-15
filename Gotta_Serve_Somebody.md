@@ -7,8 +7,8 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Slow Train Coming](/wiki/Slow Train Coming "wikilink") (1979) and
-on [Biograph](/wiki/Biograph "wikilink") (1985). Played in a new arrangment
+Released on [Slow Train Coming](Slow Train Coming "wikilink") (1979) and
+on [Biograph](Biograph "wikilink") (1985). Played in a new arrangment
 during the summer 2001 tour  
 Tabbed (a tremendous achievement, indeed...) by Eyolf Østrem
 

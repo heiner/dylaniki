@@ -7,19 +7,19 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Highway 61 Revisited](/wiki/Highway 61 Revisited "wikilink")
-(1965), [Greatest Hits](/wiki/Greatest Hits "wikilink") (1967) and
-[Biograph](/wiki/Biograph "wikilink") (1985), in an alternate version on [The
-Bootleg Series 1-3](/wiki/The Bootleg Series 1-3 "wikilink") (1991) and in
-live versions on [Self Portrait](/wiki/Self Portrait "wikilink") (1970),
-[Before the Flood](/wiki/Before the Flood "wikilink") (1974), *At Budokan*
-(1978), *[Unplugged](/wiki/Unplugged "wikilink")* (1995), [Live
-1966](/wiki/Live 1966 "wikilink") (1998), and [No direction
-home](/wiki/No direction home "wikilink") (2005)  
+Released on [Highway 61 Revisited](Highway 61 Revisited "wikilink")
+(1965), [Greatest Hits](Greatest Hits "wikilink") (1967) and
+[Biograph](Biograph "wikilink") (1985), in an alternate version on [The
+Bootleg Series 1-3](The Bootleg Series 1-3 "wikilink") (1991) and in
+live versions on [Self Portrait](Self Portrait "wikilink") (1970),
+[Before the Flood](Before the Flood "wikilink") (1974), *At Budokan*
+(1978), *[Unplugged](Unplugged "wikilink")* (1995), [Live
+1966](Live 1966 "wikilink") (1998), and [No direction
+home](No direction home "wikilink") (2005)  
 Tabbed by Eyolf Østrem
 
 Note the similarity with *[She's Your Lover
-Now](/wiki/She's Your Lover Now "wikilink").*
+Now](She's Your Lover Now "wikilink").*
 
 <h2 class="songversion">
 Highway 61 Revisited version
@@ -194,7 +194,7 @@ Fmaj7 = (1)33210
     Like a rolling stone?
 
 <h2 class="songversion">
-[Unplugged](/wiki/Unplugged "wikilink") version
+[Unplugged](Unplugged "wikilink") version
 
 </h2>
 This is also the live version from Isle of Wight, released on Self

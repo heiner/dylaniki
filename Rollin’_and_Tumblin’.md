@@ -12,7 +12,7 @@ Words by Bob Dylan (most of them) (probably).
 Music copied fairly exactly from McKinley Morganfield’s (aka Muddy
 Waters) version of the eponymous song, which was first recorded and
 possibly written by Hambone Willie Newbern around 1929.  
-Released on [Modern Times](/wiki/Modern Times "wikilink") (2006)  
+Released on [Modern Times](Modern Times "wikilink") (2006)  
 Tabbed by Eyolf Østrem
 
 * * * * *

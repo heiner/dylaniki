@@ -7,14 +7,14 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Blonde on Blonde](/wiki/Blonde on Blonde "wikilink") (1966) and
-in live versions on [Biograph](/wiki/Biograph "wikilink") (1985) and on [Live
-1966](/wiki/Live 1966 "wikilink") (1998)  
+Released on [Blonde on Blonde](Blonde on Blonde "wikilink") (1966) and
+in live versions on [Biograph](Biograph "wikilink") (1985) and on [Live
+1966](Live 1966 "wikilink") (1998)  
 Tabbed by Eyolf Østrem
 
 * * * * *
 
-Below is the album version. The [Live 1966](/wiki/Live 1966 "wikilink")
+Below is the album version. The [Live 1966](Live 1966 "wikilink")
 version is identical, save for the G/b in the last line, which is played
 as a straight G. (In live versions from the never ending tour, this
 chord is played as a G6 chord: 320000)

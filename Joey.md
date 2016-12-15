@@ -7,7 +7,7 @@ tags:
 ---
 
 Written by Bob Dylan and Jacques Levy  
-Released on [Desire](/wiki/Desire "wikilink") (1976)  
+Released on [Desire](Desire "wikilink") (1976)  
 Tabbed by Eyolf Østrem
 
     G  F     C  G   x2

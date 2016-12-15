@@ -7,9 +7,9 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Recorded for [Infidels](/wiki/Infidels "wikilink") (and what an album that
+Recorded for [Infidels](Infidels "wikilink") (and what an album that
 would have been with this and Blind Willie on instead of . . .), and
-released on [The Bootleg Series 1-3](/wiki/The Bootleg Series 1-3 "wikilink")
+released on [The Bootleg Series 1-3](The Bootleg Series 1-3 "wikilink")
 (1991)  
 Tabbed by Eyolf Østrem
 

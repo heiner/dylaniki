@@ -8,7 +8,7 @@ tags:
 ---
 
 Written by Bob Dylan and Helena Springs  
-Recorded during the [Street Legal](/wiki/Street Legal "wikilink") sessions
+Recorded during the [Street Legal](Street Legal "wikilink") sessions
 (Apr 1978)  
 Tabbed by Eyolf Østrem
 

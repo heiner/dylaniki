@@ -7,14 +7,14 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Together Through Life](/wiki/Together Through Life "wikilink")
+Released on [Together Through Life](Together Through Life "wikilink")
 (2009)  
 Tabbed by Eyolf Østrem
 
 * * * * *
 
-The second cousin of [Summer Days](/wiki/Summer Days "wikilink") and the
-grandson of [Weeping Willow](/wiki/Weeping Willow "wikilink").
+The second cousin of [Summer Days](Summer Days "wikilink") and the
+grandson of [Weeping Willow](Weeping Willow "wikilink").
 
 Lick at the end of each phrase (played twice):
 

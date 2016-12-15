@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Planet Waves](/wiki/Planet Waves "wikilink") (1974)  
+Released on [Planet Waves](Planet Waves "wikilink") (1974)  
 Tabbed and transcribed by Eyolf Østrem
 
 <h2 class="songversion">

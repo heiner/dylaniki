@@ -7,9 +7,9 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Blonde on Blonde](/wiki/Blonde on Blonde "wikilink") (1966) and
-in a live version on [Before the Flood](/wiki/Before the Flood "wikilink")
-(1974) (also found on [Biograph](/wiki/Biograph "wikilink") (1985))  
+Released on [Blonde on Blonde](Blonde on Blonde "wikilink") (1966) and
+in a live version on [Before the Flood](Before the Flood "wikilink")
+(1974) (also found on [Biograph](Biograph "wikilink") (1985))  
  Tabbed by Eyolf Østrem
 
 * * * * *

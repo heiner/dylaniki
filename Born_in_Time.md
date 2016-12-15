@@ -7,10 +7,10 @@ tags:
 ---
 
 Words and Music by Bob Dylan  
-Recorded for [Oh Mercy](/wiki/Oh Mercy "wikilink") (1989) in a version
-released on [Tell Tale Signs](/wiki/Tell Tale Signs "wikilink") (2008),
+Recorded for [Oh Mercy](Oh Mercy "wikilink") (1989) in a version
+released on [Tell Tale Signs](Tell Tale Signs "wikilink") (2008),
 released in a different version on [Under The Red
-Sky](/wiki/Under The Red Sky "wikilink") (1990).  
+Sky](Under The Red Sky "wikilink") (1990).  
 Tabbed by Eyolf Østrem
 
 * * * * *

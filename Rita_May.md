@@ -8,7 +8,7 @@ tags:
 ---
 
 Written by Bob Dylan and Jacques Levy  
-Recorded during the [Desire](/wiki/Desire "wikilink") sessions and heard in
+Recorded during the [Desire](Desire "wikilink") sessions and heard in
 the film *Renaldo & Clara*  
 Tabbed by Eyolf Østrem
 

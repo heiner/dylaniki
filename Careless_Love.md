@@ -8,7 +8,7 @@ tags:
 
 Trad.  
 Recorded by Bob Dylan and Johnny Cash during the sessions for [Nashville
-Skyline](/wiki/Nashville Skyline "wikilink")  
+Skyline](Nashville Skyline "wikilink")  
 Tabbed by Eyolf Østrem
 
 * * * * *

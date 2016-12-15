@@ -8,8 +8,8 @@ tags:
 
 Words and music Bob Dylan  
 Recorded Oct 24, 1963 ([The Times They Are
-A-changin'](/wiki/The Times They Are A-changin' "wikilink") sessions) and
-released on [The Bootleg Series 1-3](/wiki/The Bootleg Series 1-3 "wikilink")
+A-changin'](The Times They Are A-changin' "wikilink") sessions) and
+released on [The Bootleg Series 1-3](The Bootleg Series 1-3 "wikilink")
 (1991)  
 Tabbed by Eyolf Østrem
 

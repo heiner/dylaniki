@@ -8,8 +8,8 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Blonde on Blonde](/wiki/Blonde on Blonde "wikilink") (1966) and
-in a live version on [Live 1966](/wiki/Live 1966 "wikilink") (1998)  
+Released on [Blonde on Blonde](Blonde on Blonde "wikilink") (1966) and
+in a live version on [Live 1966](Live 1966 "wikilink") (1998)  
 Tabbed by Eyolf Østrem
 
 * * * * *
@@ -20,7 +20,7 @@ dropped C tuning that he uses on Live 1966 (C-A-d-g-b-e').
 
 The versions are quite similar, apart from (1) the little riff running
 through the album version, and (2) the basic chord alternation, which in
-the album version is C - F, and on [Live 1966](/wiki/Live 1966 "wikilink") C -
+the album version is C - F, and on [Live 1966](Live 1966 "wikilink") C -
 Csus4. (it actually sounds like that's what Dylan is playing in the
 album version as well, but the little riff clearly alternates between C
 and F, so that's the predominant sound anyway).

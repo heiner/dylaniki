@@ -7,13 +7,13 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Freewheelin'](/wiki/Freewheelin' "wikilink") (1963) and on
-[Greatest Hits II](/wiki/Greatest Hits II "wikilink") (1971), in a different
-studio version on [No direction home](/wiki/No direction home "wikilink")
+Released on [Freewheelin'](Freewheelin' "wikilink") (1963) and on
+[Greatest Hits II](Greatest Hits II "wikilink") (1971), in a different
+studio version on [No direction home](No direction home "wikilink")
 (2005), and in live versions on [Before the
-Flood](/wiki/Before the Flood "wikilink") (1974),
-[Budokan](/wiki/Budokan "wikilink") (1978), and [Live
-1964](/wiki/Live 1964 "wikilink") (2004). Included are also the lyrics from
+Flood](Before the Flood "wikilink") (1974),
+[Budokan](Budokan "wikilink") (1978), and [Live
+1964](Live 1964 "wikilink") (2004). Included are also the lyrics from
 Gaslight III (late 1962), which differ considerably from the later  
 Tabbed by Eyolf Østrem
 

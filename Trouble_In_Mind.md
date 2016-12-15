@@ -9,7 +9,7 @@ tags:
 
 Words and music Bob Dylan  
 Recorded April 30, 1979 during the [Slow Train
-Coming](/wiki/Slow Train Coming "wikilink") sessions, released as a B-side,
+Coming](Slow Train Coming "wikilink") sessions, released as a B-side,
 with one verse left out, on the *Gotta serve somebody* single (and
 *Precious Angel* in some countries)  
 Tabbed by Eyolf Østrem

@@ -8,8 +8,8 @@ tags:
 
 Words and music Bob Dylan  
 Recorded Oct 5, 1965 during the [Blonde on
-Blonde](/wiki/Blonde on Blonde "wikilink") sessions, released on
-[Biograph](/wiki/Biograph "wikilink") (1985)  
+Blonde](Blonde on Blonde "wikilink") sessions, released on
+[Biograph](Biograph "wikilink") (1985)  
 Tabbed by Eyolf Østrem
 
 * * * * *

@@ -7,7 +7,7 @@ tags:
 ---
 
 Trad., arranged by Bob Dylan  
-Released on [World Gone Wrong](/wiki/World Gone Wrong "wikilink") (1993)  
+Released on [World Gone Wrong](World Gone Wrong "wikilink") (1993)  
 Tabbed by Eyolf Østrem
 
 * * * * *

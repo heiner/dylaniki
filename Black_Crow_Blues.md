@@ -8,7 +8,7 @@ tags:
 
 Words and music Bob Dylan  
 Released on [Another Side Of Bob
-Dylan](/wiki/Another Side Of Bob Dylan "wikilink") (1964)  
+Dylan](Another Side Of Bob Dylan "wikilink") (1964)  
 Tabbed by Eyolf Østrem
 
 On this occasion, the “other side” of Dylan is the piano player. Here's

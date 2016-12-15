@@ -8,13 +8,13 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Recorded during the [Infidels](/wiki/Infidels "wikilink") sessions (1983)  
+Recorded during the [Infidels](Infidels "wikilink") sessions (1983)  
 Tabbed by Eyolf Østrem
 
 Who were Julius and Ethel? See
 [<http://www.ncs.pvt.k12.va.us/ryerbury/2ros/2ros.htm>](http://www.ncs.pvt.k12.va.us/ryerbury/2ros/2ros.htm)
 or
-[<http://en.wikipedia.org/wiki/Ethel_and_Julius_Rosenberg>](http://en.wikipedia.org/wiki/Ethel_and_Julius_Rosenberg).
+[<http://en.wikipedia.orgEthel_and_Julius_Rosenberg>](http://en.wikipedia.orgEthel_and_Julius_Rosenberg).
 
 * * * * *
 

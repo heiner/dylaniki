@@ -7,7 +7,7 @@ tags:
 ---
 
 Another instrumental from the hand of Bob Dylan, released, as the
-climactical culmination of [Self Portrait](/wiki/Self Portrait "wikilink")
+climactical culmination of [Self Portrait](Self Portrait "wikilink")
 (1970)  
 Tabbed by Eyolf Østrem, as the final proof that he's out of his mind.
 

@@ -9,9 +9,9 @@ tags:
 
 Words and music Bob Dylan (but to some extent based on Bob Wills' *Brain
 Cloudy Blues*)  
-Recorded Jul 9, 1962, during the [Freewheelin'](/wiki/Freewheelin' "wikilink")
+Recorded Jul 9, 1962, during the [Freewheelin'](Freewheelin' "wikilink")
 sessions, released on [The Bootleg Series
-1-3](/wiki/The Bootleg Series 1-3 "wikilink") (1991)  
+1-3](The Bootleg Series 1-3 "wikilink") (1991)  
 Tabbed by Eyolf Østrem
 
 * * * * *

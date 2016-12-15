@@ -8,8 +8,8 @@ tags:
 ---
 
 Words and music: Bob Dylan  
-Outtake from [Blood on the Tracks](/wiki/Blood on the Tracks "wikilink")
-(1975), released on [Biograph](/wiki/Biograph "wikilink") (1985)  
+Outtake from [Blood on the Tracks](Blood on the Tracks "wikilink")
+(1975), released on [Biograph](Biograph "wikilink") (1985)  
 Tabbed by Eyolf Østrem
 
 Open E tuning (E B E G\# B E) or one tone lower, to give your guitar

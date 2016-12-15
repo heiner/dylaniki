@@ -7,8 +7,8 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [The Basement Tapes](/wiki/The Basement Tapes "wikilink")
-(1967/1975) and on [Biograph](/wiki/Biograph "wikilink") (1985)  
+Released on [The Basement Tapes](The Basement Tapes "wikilink")
+(1967/1975) and on [Biograph](Biograph "wikilink") (1985)  
 Tabbed by Eyolf Østrem
 
 Capo 4th fret (sounding key E major)

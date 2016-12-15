@@ -7,7 +7,7 @@ tags:
 ---
 
 Written by Bob Dylan  
-Released on [Under The Red Sky](/wiki/Under The Red Sky "wikilink") (1990)  
+Released on [Under The Red Sky](Under The Red Sky "wikilink") (1990)  
 Tabbed by Eyolf Østrem
 
 The basic chord is some kind of Em or Em7, but with hints of E and E7 as

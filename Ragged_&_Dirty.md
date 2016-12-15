@@ -8,7 +8,7 @@ tags:
 
 Written by Yank Rachell and Sleepy John Estes  
 arranged by Bob Dylan and played on [World Gone
-Wrong](/wiki/World Gone Wrong "wikilink") (1993)  
+Wrong](World Gone Wrong "wikilink") (1993)  
 Tabbed by Eyolf Østrem
 
 Capo 4th fret (original key E major)

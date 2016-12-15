@@ -10,18 +10,18 @@ Recorded: June 9 1964,
 released: Aug 8, 1964
 
 <div id="songs">
-1.  [All I Really Want to Do](/wiki/All I Really Want to Do "wikilink")
-2.  [Black Crow Blues](/wiki/Black Crow Blues "wikilink")
-3.  [Spanish Harlem Incident](/wiki/Spanish Harlem Incident "wikilink")
-4.  [Chimes of Freedom](/wiki/Chimes of Freedom "wikilink")
-5.  [I Shall Be Free No. 10](/wiki/I Shall Be Free No. 10 "wikilink")
-6.  [To Ramona](/wiki/To Ramona "wikilink")
-7.  [Motorpsycho Nightmare](/wiki/Motorpsycho Nightmare "wikilink")
-8.  [My Back Pages](/wiki/My Back Pages "wikilink")
+1.  [All I Really Want to Do](All I Really Want to Do "wikilink")
+2.  [Black Crow Blues](Black Crow Blues "wikilink")
+3.  [Spanish Harlem Incident](Spanish Harlem Incident "wikilink")
+4.  [Chimes of Freedom](Chimes of Freedom "wikilink")
+5.  [I Shall Be Free No. 10](I Shall Be Free No. 10 "wikilink")
+6.  [To Ramona](To Ramona "wikilink")
+7.  [Motorpsycho Nightmare](Motorpsycho Nightmare "wikilink")
+8.  [My Back Pages](My Back Pages "wikilink")
 9.  [I Don't Believe You (She Acts Like We Never Have
-    Met)](/wiki/I Don't Believe You (She Acts Like We Never Have Met) "wikilink")
-10. [Ballad in Plain D](/wiki/Ballad in Plain D "wikilink")
-11. [It Ain't Me, Babe](/wiki/It Ain't Me, Babe "wikilink")
+    Met)](I Don't Believe You (She Acts Like We Never Have Met) "wikilink")
+10. [Ballad in Plain D](Ballad in Plain D "wikilink")
+11. [It Ain't Me, Babe](It Ain't Me, Babe "wikilink")
 
 </div>
 <div id="intro">
@@ -45,8 +45,8 @@ Sessions [1960–1994]</em>). In other words: he can’t be all right all
 the time.
 
 In several of the songs, most notably in <em>[Ballad in Plain
-D](/wiki/Ballad in Plain D "wikilink") </em>and <em>[My Back
-Pages](/wiki/My Back Pages "wikilink"), </em>it is evident that Dylan hasn’t
+D](Ballad in Plain D "wikilink") </em>and <em>[My Back
+Pages](My Back Pages "wikilink"), </em>it is evident that Dylan hasn’t
 really learnt the chord changes properly before he started recording. In
 these two songs it is difficult to find two verses that are played in
 the same way. There are lots of temporary solutions. True enough, the
@@ -56,22 +56,22 @@ them planned…
 Apart from this, it is interesting to note how a few guitaristic
 specialties recur in song after song. One is the use of the chord
 changes C/d – G/d (xx0553 – xx0433), as in [All I Really Want to
-Do](/wiki/All I Really Want to Do "wikilink"), slightly varied in [I Don't
+Do](All I Really Want to Do "wikilink"), slightly varied in [I Don't
 Believe You (She Acts Like We Never Have
-Met)](/wiki/I Don't Believe You (She Acts Like We Never Have Met) "wikilink"),
+Met)](I Don't Believe You (She Acts Like We Never Have Met) "wikilink"),
 and most beautifully in [Chimes of
-Freedom](/wiki/Chimes of Freedom "wikilink"). Another is the progression
+Freedom](Chimes of Freedom "wikilink"). Another is the progression
 xx0430 - xx0210 – 320003 which occurs both in [All I Really Want to
-Do](/wiki/All I Really Want to Do "wikilink") and in [Spanish Harlem
-Incident](/wiki/Spanish Harlem Incident "wikilink"). And the most persistent
+Do](All I Really Want to Do "wikilink") and in [Spanish Harlem
+Incident](Spanish Harlem Incident "wikilink"). And the most persistent
 of these “tricks” is the figure G-G6-G7 found in [To
-Ramona](/wiki/To Ramona "wikilink"), [My Back
-Pages](/wiki/My Back Pages "wikilink"), [I Don't Believe You (She Acts Like We
+Ramona](To Ramona "wikilink"), [My Back
+Pages](My Back Pages "wikilink"), [I Don't Believe You (She Acts Like We
 Never Have
-Met)](/wiki/I Don't Believe You (She Acts Like We Never Have Met) "wikilink")
-and [Ballad in Plain D](/wiki/Ballad in Plain D "wikilink")<em>. </em>Add to
+Met)](I Don't Believe You (She Acts Like We Never Have Met) "wikilink")
+and [Ballad in Plain D](Ballad in Plain D "wikilink")<em>. </em>Add to
 this that all of the songs (except, of course, the piano song [Black
-Crow Blues](/wiki/Black Crow Blues "wikilink")) are played in G or C, with an
+Crow Blues](Black Crow Blues "wikilink")) are played in G or C, with an
 occasional capo, and you have an album which is quite simple,
 guitaristically speaking.
 

@@ -8,8 +8,8 @@ tags:
 
 Words and music Bob Dylan  
 Recorded Nov 4, 1971 after the sessions for [New
-Morning](/wiki/New Morning "wikilink") (1970), and released on [The Bootleg
-Series 1-3](/wiki/The Bootleg Series 1-3 "wikilink") (1991)  
+Morning](New Morning "wikilink") (1970), and released on [The Bootleg
+Series 1-3](The Bootleg Series 1-3 "wikilink") (1991)  
 Tabbed by Eyolf Østrem
 
 Either the tape is slow or the instruments have been tuned down a

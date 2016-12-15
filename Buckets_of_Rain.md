@@ -8,11 +8,11 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Blood on the Tracks](/wiki/Blood on the Tracks "wikilink")
+Released on [Blood on the Tracks](Blood on the Tracks "wikilink")
 (1975)  
 Tabbed by Eyolf Østrem
 
-[Open D/E tuning](/wiki/Help:Roadmaps#Open_tunings "wikilink")
+[Open D/E tuning](Help:Roadmaps#Open_tunings "wikilink")
 
 The notes within parentheses in the tab below aren't really pull-offs,
 they are just the audible removal of the first finger from the third

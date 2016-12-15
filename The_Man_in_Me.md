@@ -8,7 +8,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-(from the album [New Morning](/wiki/New Morning "wikilink"), 1970)  
+(from the album [New Morning](New Morning "wikilink"), 1970)  
 Tabbed by Eyolf Østrem
 
 * * * * *

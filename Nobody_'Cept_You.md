@@ -7,9 +7,9 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Recorded Nov 2, 1973 during the [Planet Waves](/wiki/Planet Waves "wikilink")
+Recorded Nov 2, 1973 during the [Planet Waves](Planet Waves "wikilink")
 sessions, released on [The Bootleg Series
-1-3](/wiki/The Bootleg Series 1-3 "wikilink") (1991)  
+1-3](The Bootleg Series 1-3 "wikilink") (1991)  
 Tabbed by Eyolf Østrem
 
 * * * * *

@@ -7,12 +7,12 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Recorded during [The Basement](/wiki/The Basement "wikilink") sessions (summer
+Recorded during [The Basement](The Basement "wikilink") sessions (summer
 1967)  
 Released in a live version from the Isle of Wight festival (1969) on
-[Self Portrait](/wiki/Self Portrait "wikilink") (1970) and on [Greatest Hits
-vol. 2](/wiki/Greatest Hits vol. 2 "wikilink") (1971). Original basement
-version released on [Biograph](/wiki/Biograph "wikilink") (1985)  
+[Self Portrait](Self Portrait "wikilink") (1970) and on [Greatest Hits
+vol. 2](Greatest Hits vol. 2 "wikilink") (1971). Original basement
+version released on [Biograph](Biograph "wikilink") (1985)  
 Tabbed by Eyolf Østrem
 
 <h2 class="songversion">

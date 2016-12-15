@@ -7,9 +7,9 @@ tags:
 ---
 
 Written by Bob Dylan  
-Released on [The Bootleg Series 1-3](/wiki/The Bootleg Series 1-3 "wikilink")
+Released on [The Bootleg Series 1-3](The Bootleg Series 1-3 "wikilink")
 (1991) in a live version from Carnegie Hall, New York City, Oct 26,
-1963, and in another live version on [Live 1964](/wiki/Live 1964 "wikilink")
+1963, and in another live version on [Live 1964](Live 1964 "wikilink")
 (2004)  
 Tabbed by Eyolf Østrem
 

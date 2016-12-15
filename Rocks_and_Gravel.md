@@ -12,7 +12,7 @@ According to bobdylan.com this was written by Bob Dylan (I don't know
 about that...). Other sources have attributions to Mance Lipscombe or
 Alan Lomax and W. B. Richardson (thanks to van Kampen for notifying
 me).  
-Recorded twice during the [Freewheelin'](/wiki/Freewheelin' "wikilink")
+Recorded twice during the [Freewheelin'](Freewheelin' "wikilink")
 sessions (Apr 25 and Nov 1, 1962), and made it to the promo edition of
 the album, but was withdrawn in the last moment.  
 The following is the version from the second of the three concerts at

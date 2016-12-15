@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Shot of Love](/wiki/Shot of Love "wikilink") (1981)  
+Released on [Shot of Love](Shot of Love "wikilink") (1981)  
 Tabbed by Eyolf Østrem
 
 Capo 1st fret (sounding key Ab major)

@@ -4,4 +4,4 @@ permalink: Template talk:Infobox
 layout: wiki
 ---
 
-See <http://en.wikipedia.org/wiki/Template_talk:Infobox>
+See <http://en.wikipedia.orgTemplate_talk:Infobox>

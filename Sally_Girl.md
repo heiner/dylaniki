@@ -9,8 +9,8 @@ tags:
 
 Trad.  
 Recorded by Bob Dylan April 24-25, 1962, during the
-[Freewheelin'](/wiki/Freewheelin' "wikilink") sessions, and released on [No
-direction home](/wiki/No direction home "wikilink") (2005)  
+[Freewheelin'](Freewheelin' "wikilink") sessions, and released on [No
+direction home](No direction home "wikilink") (2005)  
 Tabbed by Eyolf Østrem
 
 * * * * *

@@ -9,7 +9,7 @@ tags:
 Words and music Bruce (“U. Utah”) Phillips (thanks to Jonmark Pierce for
 notifying me)  
 Played by Bob Dylan during [The Basement
-Tapes](/wiki/The Basement Tapes "wikilink") sessions, summer 1967  
+Tapes](The Basement Tapes "wikilink") sessions, summer 1967  
 Tabbed by Eyolf Østrem
 
 * * * * *

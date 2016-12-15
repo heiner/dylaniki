@@ -20,7 +20,7 @@ early outtake version. It has been italicized in the tab below.
 Version 1
 
 </h2>
-[Open D/E tuning](/wiki/Help:Roadmaps#Open_tunings "wikilink") (E B E G\# B E)
+[Open D/E tuning](Help:Roadmaps#Open_tunings "wikilink") (E B E G\# B E)
 
 Chords:
 

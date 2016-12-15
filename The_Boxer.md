@@ -9,7 +9,7 @@ tags:
 Paul Simon  
 Recorded by Bob Dylan, in a duet between “raucous HWY61”-Dylan and
 “mellifluous Nashville Skyline”-Dylan, for [Self
-Portrait](/wiki/Self Portrait "wikilink") (1970)  
+Portrait](Self Portrait "wikilink") (1970)  
  Tabbed by Eyolf Østrem
 
 * * * * *

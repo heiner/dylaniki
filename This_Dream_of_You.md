@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music by Bob Dylan  
-Released on [Together Through Life](/wiki/Together Through Life "wikilink")
+Released on [Together Through Life](Together Through Life "wikilink")
 (2009)  
 Tabbed by Eyolf Østrem
 

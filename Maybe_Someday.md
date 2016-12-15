@@ -7,7 +7,7 @@ tags:
 ---
 
 Written by Bob Dylan  
-Released on [Knocked Out Loaded](/wiki/Knocked Out Loaded "wikilink") (1986)  
+Released on [Knocked Out Loaded](Knocked Out Loaded "wikilink") (1986)  
 Tabbed by Eyolf Østrem
 
 * * * * *

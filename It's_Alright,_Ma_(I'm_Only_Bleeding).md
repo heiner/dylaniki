@@ -9,10 +9,10 @@ tags:
 
 Words and music Bob Dylan  
 Released on [Bringing It All Back
-Home](/wiki/Bringing It All Back Home "wikilink") (1966) and in live versions
-on [Before the Flood](/wiki/Before the Flood "wikilink") (1974),
-[Budokan](/wiki/Budokan "wikilink") (1978) and [Live
-1964](/wiki/Live 1964 "wikilink") (2004)  
+Home](Bringing It All Back Home "wikilink") (1966) and in live versions
+on [Before the Flood](Before the Flood "wikilink") (1974),
+[Budokan](Budokan "wikilink") (1978) and [Live
+1964](Live 1964 "wikilink") (2004)  
  Tabbed by Eyolf Østrem
 
 <h2 class="songversion">

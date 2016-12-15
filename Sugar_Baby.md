@@ -8,7 +8,7 @@ tags:
 
 Words by Bob Dylan. Musically a Theft from “The Lonesome Road” by
 Austin/Shilkret, sung by Gene Austin  
-Released on [Love And Theft](/wiki/Love And Theft "wikilink") (2001)  
+Released on [Love And Theft](Love And Theft "wikilink") (2001)  
 Tabbed by Eyolf Østrem
 
 * * * * *

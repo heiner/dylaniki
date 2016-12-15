@@ -9,16 +9,16 @@ tags:
 Released Nov 16, 1973
 
 <div id="songs">
-1.  [Lily of the West](/wiki/Lily of the West "wikilink")
-2.  [Can't Help Falling in Love](/wiki/Can't Help Falling in Love "wikilink")
-3.  [Sarah Jane](/wiki/Sarah Jane "wikilink")
-4.  [Mr. Bojangles](/wiki/Mr. Bojangles "wikilink")
-5.  [The Ballad of Ira Hayes](/wiki/The Ballad of Ira Hayes "wikilink")
-6.  [Mary Ann](/wiki/Mary Ann "wikilink")
-7.  [Big Yellow Taxi](/wiki/Big Yellow Taxi "wikilink")
-8.  [A Fool Such As I](/wiki/A Fool Such As I "wikilink")
+1.  [Lily of the West](Lily of the West "wikilink")
+2.  [Can't Help Falling in Love](Can't Help Falling in Love "wikilink")
+3.  [Sarah Jane](Sarah Jane "wikilink")
+4.  [Mr. Bojangles](Mr. Bojangles "wikilink")
+5.  [The Ballad of Ira Hayes](The Ballad of Ira Hayes "wikilink")
+6.  [Mary Ann](Mary Ann "wikilink")
+7.  [Big Yellow Taxi](Big Yellow Taxi "wikilink")
+8.  [A Fool Such As I](A Fool Such As I "wikilink")
 9.  [Spanish is the Loving
-    Tongue](/wiki/Spanish is the Loving Tongue "wikilink")
+    Tongue](Spanish is the Loving Tongue "wikilink")
 
 </div>
 <div id="intro">

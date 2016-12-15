@@ -8,7 +8,7 @@ tags:
 
 Written by Bob Dylan  
 Recorded 2005 for “a film that never got made”, and released on [Tell
-Tale Signs](/wiki/Tell Tale Signs "wikilink") (2008)  
+Tale Signs](Tell Tale Signs "wikilink") (2008)  
 Tabbed by Eyolf Østrem
 
 * * * * *

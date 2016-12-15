@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Slow Train Coming](/wiki/Slow Train Coming "wikilink") (1979)  
+Released on [Slow Train Coming](Slow Train Coming "wikilink") (1979)  
 Tabbed by Eyolf Østrem
 
 On the album the song is played on the piano, in the key of Ab major.

@@ -7,8 +7,8 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Planet Waves](/wiki/Planet Waves "wikilink") (1974) and on
-[Biograph](/wiki/Biograph "wikilink") (1985)  
+Released on [Planet Waves](Planet Waves "wikilink") (1974) and on
+[Biograph](Biograph "wikilink") (1985)  
 Tabbed by Eyolf Østrem
 
 Capo 2nd fret (original key A major)

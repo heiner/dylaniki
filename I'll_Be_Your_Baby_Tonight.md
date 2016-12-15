@@ -7,9 +7,9 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [John Wesley Harding](/wiki/John Wesley Harding "wikilink")
-(1967), [Greatest Hits II](/wiki/Greatest Hits II "wikilink") (1971) and
-[Biograph](/wiki/Biograph "wikilink") (1985)  
+Released on [John Wesley Harding](John Wesley Harding "wikilink")
+(1967), [Greatest Hits II](Greatest Hits II "wikilink") (1971) and
+[Biograph](Biograph "wikilink") (1985)  
 Tabbed by Eyolf Østrem
 
 * * * * *

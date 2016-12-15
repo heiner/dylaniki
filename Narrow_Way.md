@@ -9,7 +9,7 @@ tags:
 <span class="writtenby">Written by <span class="writer">Bob Dylan
 </span></span>  
 <span class="versioninfo">Released on [Tempest
-(2012)](/wiki/Tempest (2012) "wikilink")</span>  
+(2012)](Tempest (2012) "wikilink")</span>  
 <span class="tabbedby">Tabbed by <span class="tabber"> Eyolf Østrem
 </span></span>
 

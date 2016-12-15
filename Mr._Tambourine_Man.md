@@ -9,12 +9,12 @@ tags:
 
 Words and music Bob Dylan  
 Released on [Bringing It All Back
-Home](/wiki/Bringing It All Back Home "wikilink") (1965), [Greatest
-Hits](/wiki/Greatest Hits "wikilink") (1967) and
-[Biograph](/wiki/Biograph "wikilink") (1985), and in live versions on
-[Budokan](/wiki/Budokan "wikilink") (1978), [Live 1966](Live 1966 "wikilink")
-(1998), [Live 1975](/wiki/Live 1975 "wikilink") (2002), and [Live
-1964](/wiki/Live 1964 "wikilink") (2004)  
+Home](Bringing It All Back Home "wikilink") (1965), [Greatest
+Hits](Greatest Hits "wikilink") (1967) and
+[Biograph](Biograph "wikilink") (1985), and in live versions on
+[Budokan](Budokan "wikilink") (1978), [Live 1966](Live 1966 "wikilink")
+(1998), [Live 1975](Live 1975 "wikilink") (2002), and [Live
+1964](Live 1964 "wikilink") (2004)  
  Tabbed by Eyolf Østrem
 
 <h2 class="songversion">

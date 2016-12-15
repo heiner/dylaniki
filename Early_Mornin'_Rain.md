@@ -7,7 +7,7 @@ tags:
 ---
 
 Written by Gordon Lightfoot  
-Recorded by Bob Dylan for [Self Portrait](/wiki/Self Portrait "wikilink")
+Recorded by Bob Dylan for [Self Portrait](Self Portrait "wikilink")
 (1970)  
 Tabbed by Eyolf Østrem
 

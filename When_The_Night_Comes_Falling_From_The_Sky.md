@@ -7,9 +7,9 @@ tags:
 ---
 
 Words and music: Bob Dylan  
-Released on [Empire Burlesque](/wiki/Empire Burlesque "wikilink") (1985) and
+Released on [Empire Burlesque](Empire Burlesque "wikilink") (1985) and
 in an early (and much better!) version on [The Bootleg Series
-1-3](/wiki/The Bootleg Series 1-3 "wikilink")  
+1-3](The Bootleg Series 1-3 "wikilink")  
 Tabbed by Eyolf Østrem
 
 <h2 class="songversion">

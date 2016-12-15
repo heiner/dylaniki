@@ -8,7 +8,7 @@ tags:
 
 Written by Bob Dylan  
 Recorded during the Basement sessions with the Band, and released on
-[The Bootleg Series 1-3](/wiki/The Bootleg Series 1-3 "wikilink") (1991)  
+[The Bootleg Series 1-3](The Bootleg Series 1-3 "wikilink") (1991)  
 Tabbed by Eyolf Østrem
 
 Capo 2nd fret (sounding key A major)

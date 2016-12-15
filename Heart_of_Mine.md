@@ -8,8 +8,8 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Shot of Love](/wiki/Shot of Love "wikilink") (1981) and in a live
-version on [Biograph](/wiki/Biograph "wikilink") (1985)  
+Released on [Shot of Love](Shot of Love "wikilink") (1981) and in a live
+version on [Biograph](Biograph "wikilink") (1985)  
  Tabbed by Eyolf Østrem
 
 This is a “piano song”, which means that it translates fairly badly to

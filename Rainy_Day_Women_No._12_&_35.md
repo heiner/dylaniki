@@ -6,10 +6,10 @@ layout: wiki
 
 Words and music Bob Dylan
 
-Released on [Blonde on Blonde](/wiki/Blonde on Blonde "wikilink") (1966) and
-[Greatest Hits](/wiki/Greatest Hits "wikilink") (1967) and in live versions on
-[Before the Flood](/wiki/Before the Flood "wikilink") (1974) and
-[Unplugged](/wiki/Unplugged "wikilink") (1994))
+Released on [Blonde on Blonde](Blonde on Blonde "wikilink") (1966) and
+[Greatest Hits](Greatest Hits "wikilink") (1967) and in live versions on
+[Before the Flood](Before the Flood "wikilink") (1974) and
+[Unplugged](Unplugged "wikilink") (1994))
 
 Tabbed by Eyolf Østrem
 
@@ -75,7 +75,7 @@ They'll stone you when you are set down in your grave. But I would not
 feel so all alone, Everybody must get stoned. </verse>
 
 <h2 class="songversion">
-[Unplugged](/wiki/Unplugged "wikilink") version
+[Unplugged](Unplugged "wikilink") version
 
 </h2>
 Played in E without a capo. The descending riffs are played with the

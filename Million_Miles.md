@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music by Bob Dylan  
-Released on [Time out of Mind](/wiki/Time out of Mind "wikilink") (1997)  
+Released on [Time out of Mind](Time out of Mind "wikilink") (1997)  
 Tabbed by Eyolf Østrem
 
 Capo 4th fret (Original key Abm). The sevenths are generally “instable”.

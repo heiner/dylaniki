@@ -7,8 +7,8 @@ tags:
 ---
 
 Words and music by Bob Dylan  
-Released on [Time out of Mind](/wiki/Time out of Mind "wikilink") (1997) and
-in alternate versions on [Tell Tale Signs](/wiki/Tell Tale Signs "wikilink")
+Released on [Time out of Mind](Time out of Mind "wikilink") (1997) and
+in alternate versions on [Tell Tale Signs](Tell Tale Signs "wikilink")
 (2008).  
 Tabbed by Eyolf Østrem
 

@@ -10,10 +10,10 @@ tags:
 
 Words and music Bob Dylan, with inspiration from Martin Carthy's
 arrangement of the traditional <i>[Scarborough
-Fair](http://en.wikipedia.org/wiki/Scarborough_Fair)</i>  
-Released on [Freewheelin'](/wiki/Freewheelin' "wikilink") (1963) and in
-different versions on [Nashville Skyline](/wiki/Nashville Skyline "wikilink")
-(1969) and [Real Live](/wiki/Real Live "wikilink") (1984)  
+Fair](http://en.wikipedia.orgScarborough_Fair)</i>  
+Released on [Freewheelin'](Freewheelin' "wikilink") (1963) and in
+different versions on [Nashville Skyline](Nashville Skyline "wikilink")
+(1969) and [Real Live](Real Live "wikilink") (1984)  
 Tabbed by Eyolf Østrem
 
 * * * * *

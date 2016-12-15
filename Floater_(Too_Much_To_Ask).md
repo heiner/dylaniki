@@ -8,7 +8,7 @@ tags:
 
 Words by Bob Dylan. Music taken from “Snuggled On Your Shoulders” by
 Lombardo/Young  
-Released on [Love And Theft](/wiki/Love And Theft "wikilink") (2001)  
+Released on [Love And Theft](Love And Theft "wikilink") (2001)  
 Tabbed by Eyolf Østrem
 
 * * * * *

@@ -7,8 +7,8 @@ tags:
 ---
 
 Words and music Bob Dylan and Jacques Levy  
-Released on [Desire](/wiki/Desire "wikilink") (1976), and in a live version on
-[Live 1975](/wiki/Live 1975 "wikilink") (2002)  
+Released on [Desire](Desire "wikilink") (1976), and in a live version on
+[Live 1975](Live 1975 "wikilink") (2002)  
  Tabbed by Eyolf Østrem
 
 The *Live 1975* version is virtually identical to the album version

@@ -8,7 +8,7 @@ tags:
 
 Trad.  
 Recorded fall 1960, released on [No direction
-home](/wiki/No direction home "wikilink") (2005)  
+home](No direction home "wikilink") (2005)  
 Tabbed by Eyolf Østrem
 
 * * * * *
@@ -28,7 +28,7 @@ the verses:
     |-----------------|-----------------|
 
 Note also the strong lyric similarities with [Wagoner's
-Lad](/wiki/Wagoner's Lad "wikilink")
+Lad](Wagoner's Lad "wikilink")
 
 * * * * *
 

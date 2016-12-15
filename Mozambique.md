@@ -7,12 +7,12 @@ tags:
 ---
 
 By Bob Dylan and Jacques Levy  
-Released on [Desire](/wiki/Desire "wikilink") (1976)  
+Released on [Desire](Desire "wikilink") (1976)  
 Tabbed by Eyolf Østrem
 
 Note that the descending riff that goes through the song closely
 resembles the characteristic passage in [Abandoned
-Love](/wiki/Abandoned Love "wikilink"), written at about the same time.
+Love](Abandoned Love "wikilink"), written at about the same time.
 
 Chords
 

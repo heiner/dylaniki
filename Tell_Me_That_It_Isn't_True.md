@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Nashville Skyline](/wiki/Nashville Skyline "wikilink") (1969)  
+Released on [Nashville Skyline](Nashville Skyline "wikilink") (1969)  
 Tabbed by Eyolf Østrem
 
 Capo 3rd fret (sounding key F major)

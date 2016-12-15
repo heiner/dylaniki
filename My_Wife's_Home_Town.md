@@ -7,7 +7,7 @@ tags:
 ---
 
 Written by Bob Dylan and Willie Dixon  
-Released on [Together Through Life](/wiki/Together Through Life "wikilink")
+Released on [Together Through Life](Together Through Life "wikilink")
 (2009)  
 Tabbed by Eyolf Østrem
 

@@ -8,7 +8,7 @@ tags:
 
 Written by Bob Dylan (this must have been a central piece in his
 nomination for the Nobel Prize)  
-Released on [Under The Red Sky](/wiki/Under The Red Sky "wikilink") (1990)  
+Released on [Under The Red Sky](Under The Red Sky "wikilink") (1990)  
 Tabbed by Eyolf Østrem
 
 * * * * *

@@ -7,8 +7,8 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Slow Train Coming](/wiki/Slow Train Coming "wikilink") (1979) and
-on [Biograph](/wiki/Biograph "wikilink") (1985)  
+Released on [Slow Train Coming](Slow Train Coming "wikilink") (1979) and
+on [Biograph](Biograph "wikilink") (1985)  
 Tabbed by Eyolf Østrem
 
 Spice up the Es with an occasional Esus4 (022200)

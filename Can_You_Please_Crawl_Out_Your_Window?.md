@@ -8,7 +8,7 @@ tags:
 
 Words and music Bob Dylan  
 Recorded Oct 1965 and released as a single dec 1965. Released again on
-[Biograph](/wiki/Biograph "wikilink") (1985)  
+[Biograph](Biograph "wikilink") (1985)  
 Tabbed by Eyolf Østrem
 
 * * * * *

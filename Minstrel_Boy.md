@@ -8,7 +8,7 @@ tags:
 
 Written by Bob Dylan  
 Performed live on the Isle of Wight festival, and released on [Self
-Portrait](/wiki/Self Portrait "wikilink") (1970)  
+Portrait](Self Portrait "wikilink") (1970)  
 Tabbed by Eyolf Østrem
 
 The chords in the chorus are approximations only; the last line could be

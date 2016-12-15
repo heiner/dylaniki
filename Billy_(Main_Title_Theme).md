@@ -8,7 +8,7 @@ tags:
 
 By Bob Dylan  
 Released on the soundtrack album [Pat Garrett & Billy The
-Kid](/wiki/Pat Garrett & Billy The Kid "wikilink") (1973)  
+Kid](Pat Garrett & Billy The Kid "wikilink") (1973)  
 Tabbed by Eyolf Østrem
 
 * * * * *

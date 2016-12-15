@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Stephen C. Foster  
-Released on [Good As I Been To You](/wiki/Good As I Been To You "wikilink")
+Released on [Good As I Been To You](Good As I Been To You "wikilink")
 (1992)  
 Tabbed by Eyolf Østrem
 

@@ -10,7 +10,7 @@ Written by Joni Mitchell (see
 [<http://www.jmdl.com/guitar/quickglance.cfm>](http://www.jmdl.com/guitar/quickglance.cfm)
 for various alternatives to Joni's own version)  
 Recorded by Bob Dylan June 4, 1970 and released by Columbia on
-[Dylan](/wiki/Dylan "wikilink") (1973)  
+[Dylan](Dylan "wikilink") (1973)  
 Tabbed by Eyolf Østrem
 
 * * * * *

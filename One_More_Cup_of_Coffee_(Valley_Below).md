@@ -7,9 +7,9 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Desire](/wiki/Desire "wikilink") (1976) and live on [At
-Budokan](/wiki/At Budokan "wikilink") (1978) and on [Live
-1975](/wiki/Live 1975 "wikilink") (2002)  
+Released on [Desire](Desire "wikilink") (1976) and live on [At
+Budokan](At Budokan "wikilink") (1978) and on [Live
+1975](Live 1975 "wikilink") (2002)  
 Tabbed by Eyolf Østrem
 
 The *Live 1975* version is virtually identical to the album version

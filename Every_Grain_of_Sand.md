@@ -7,9 +7,9 @@ tags:
 ---
 
 Words and Music Bob Dylan  
-Released on [Shot of Love](/wiki/Shot of Love "wikilink") (1981),
-[Biograph](/wiki/Biograph "wikilink") (1985) and in an early version on [The
-Bootleg Series 1-3](/wiki/The Bootleg Series 1-3 "wikilink") (1991)  
+Released on [Shot of Love](Shot of Love "wikilink") (1981),
+[Biograph](Biograph "wikilink") (1985) and in an early version on [The
+Bootleg Series 1-3](The Bootleg Series 1-3 "wikilink") (1991)  
 Tabbed by Eyolf Østrem
 
 <h2 class="songversion">

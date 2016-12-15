@@ -7,7 +7,7 @@ tags:
 ---
 
 Written by Richard Manuel and Bob Dylan  
-Released on [The Basement Tapes](/wiki/The Basement Tapes "wikilink")
+Released on [The Basement Tapes](The Basement Tapes "wikilink")
 (1967/1975)  
 Tabbed by Eyolf Østrem
 

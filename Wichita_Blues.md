@@ -9,7 +9,7 @@ tags:
 ---
 
 Robert Johnson  
-Recorded by Bob Dylan during the [Freewheelin'](/wiki/Freewheelin' "wikilink")
+Recorded by Bob Dylan during the [Freewheelin'](Freewheelin' "wikilink")
 sessions  
 Tabbed by Eyolf Østrem, from the version played in Cynthia Gooding's
 appartment, Feb/Mar 1962

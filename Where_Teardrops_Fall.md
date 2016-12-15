@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan.  
-Released on [Oh Mercy](/wiki/Oh Mercy "wikilink") (1989).  
+Released on [Oh Mercy](Oh Mercy "wikilink") (1989).  
 Tabbed by Jeff Kokosinski, with slight emendations by Eyolf Østrem.
 
 D' in the last line of the verses is basically a D and a G played at the

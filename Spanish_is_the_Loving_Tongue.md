@@ -9,7 +9,7 @@ tags:
 
 Charles Badger Clark  
 Recorded by Bob Dylan Apr 1969, and released by Columbia on the fake
-Dylan-album [Dylan](/wiki/Dylan "wikilink") (1973), in what's a contender to
+Dylan-album [Dylan](Dylan "wikilink") (1973), in what's a contender to
 the title “Dylan's most tasteless arrangement” (but they seem to be
 having fun. . .).  
 Also recorded in a wonderful piano version, and played live during the
@@ -153,7 +153,7 @@ Additional verses, not sung by Dylan on this occasion:
 Outtake version
 
 </h2>
-Recorded June 2, 1970 ([New Morning](/wiki/New Morning "wikilink") sessions)
+Recorded June 2, 1970 ([New Morning](New Morning "wikilink") sessions)
 
 One of the most beautiful tracks Dylan has ever recorded, and certainly
 the best version of this song, ever, with superbly loose piano

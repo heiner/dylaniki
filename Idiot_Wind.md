@@ -8,10 +8,10 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Blood on the Tracks](/wiki/Blood on the Tracks "wikilink") (1975)
-and in a live version on [Hard Rain](/wiki/Hard Rain "wikilink") (1976)  
+Released on [Blood on the Tracks](Blood on the Tracks "wikilink") (1975)
+and in a live version on [Hard Rain](Hard Rain "wikilink") (1976)  
 The original New York version was released on [The Bootleg Series
-1-3](/wiki/The Bootleg Series 1-3 "wikilink") (1991)  
+1-3](The Bootleg Series 1-3 "wikilink") (1991)  
 Tabbed by Eyolf Østrem
 
 <h2 class="songversion">

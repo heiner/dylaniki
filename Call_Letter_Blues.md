@@ -9,14 +9,14 @@ tags:
 
 Words and music Bob Dylan  
 Recorded Sep 16, 1974, during the [Blood on the
-Tracks](/wiki/Blood on the Tracks "wikilink") sessions, released on [The
-Bootleg Series 1-3](/wiki/The Bootleg Series 1-3 "wikilink") (1991)  
+Tracks](Blood on the Tracks "wikilink") sessions, released on [The
+Bootleg Series 1-3](The Bootleg Series 1-3 "wikilink") (1991)  
 Tabbed by Eyolf Østrem
 
 Musically this is more or less identical to [Meet me in the
-Morning](/wiki/Meet me in the Morning "wikilink").
+Morning](Meet me in the Morning "wikilink").
 
-[Open D/E tuning](/wiki/Help:Roadmaps#Open_tunings "wikilink")
+[Open D/E tuning](Help:Roadmaps#Open_tunings "wikilink")
 
 Chords:
 

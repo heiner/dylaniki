@@ -7,9 +7,9 @@ tags:
 ---
 
 Written by Bob Dylan  
-Recorded Apr 25, 1962 during the [Freewheelin'](/wiki/Freewheelin' "wikilink")
+Recorded Apr 25, 1962 during the [Freewheelin'](Freewheelin' "wikilink")
 session, released on [The Bootleg Series
-1-3](/wiki/The Bootleg Series 1-3 "wikilink") (1991)  
+1-3](The Bootleg Series 1-3 "wikilink") (1991)  
 Tabbed by Eyolf Østrem
 
 Capo 1st fret (sounding key Ab major)

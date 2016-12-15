@@ -8,7 +8,7 @@ tags:
 
 (Sam Coslow/Will Grosz)  
 Played by Bob Dylan on [Good As I Been To
-You](/wiki/Good As I Been To You "wikilink") (1992)  
+You](Good As I Been To You "wikilink") (1992)  
 Tabbed by Eyolf Østrem
 
 Capo 1st fret (original key F major)

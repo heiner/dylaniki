@@ -8,7 +8,7 @@ tags:
 
 Written by Bob Dylan  
 Released on [The Times They Are
-A-changin'](/wiki/The Times They Are A-changin' "wikilink") (1964)  
+A-changin'](The Times They Are A-changin' "wikilink") (1964)  
 Tabbed by Eyolf Østrem
 
 * * * * *
@@ -33,7 +33,7 @@ The theoretically inclined may note the interesting change that the
 third chord has undergone, mainly because of the change in what
 follows.  
 The chords are the same as for [Girl From the North
-Country](/wiki/Girl From the North Country "wikilink").
+Country](Girl From the North Country "wikilink").
 
 * * * * *
 

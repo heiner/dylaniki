@@ -22,8 +22,8 @@ healing waters of Hot Springs). The refrain line “Diamond Jo come and
 get me” could be a reference to the boat.  
 Early versions of the song recorded by the Georgia Crackers (1927) and
 Charlie Butler (1937), then a prisoner at the Parchman prison.  
-The song is not related to [Diamond Joe](/wiki/Diamond Joe "wikilink") on
-[Good As I Been To You](/wiki/Good As I Been To You "wikilink"), neither
+The song is not related to [Diamond Joe](Diamond Joe "wikilink") on
+[Good As I Been To You](Good As I Been To You "wikilink"), neither
 musically nor thematically.
 
 * * * * *

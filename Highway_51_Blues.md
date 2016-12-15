@@ -7,12 +7,12 @@ tags:
  - Open D/E tuning
 ---
 
-Recorded by Bob Dylan on [Bob Dylan](/wiki/Bob Dylan "wikilink") (1961)  
+Recorded by Bob Dylan on [Bob Dylan](Bob Dylan "wikilink") (1961)  
 Tabbed by Eyolf Østrem
 
 * * * * *
 
-Played in [Open D/E](/wiki/Help:Roadmaps#Open_tunings "wikilink") tuning. The
+Played in [Open D/E](Help:Roadmaps#Open_tunings "wikilink") tuning. The
 song is played in E, so either tune in open E or (recommended) in open D
 with a capo on the 2nd fret. The basic chords are:
 

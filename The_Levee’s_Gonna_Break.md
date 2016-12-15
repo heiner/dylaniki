@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Modern Times](/wiki/Modern Times "wikilink") (2006)  
+Released on [Modern Times](Modern Times "wikilink") (2006)  
 Tabbed by Eyolf Østrem
 
 Best played with a capo on the 1st fret (sounding key Bb major)

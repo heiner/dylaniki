@@ -8,7 +8,7 @@ tags:
 
 G. Weiss, H.Peretti, L.Creatore  
 Recorded by Bob Dylan June 3, 1970 and released by Columbia on
-[Dylan](/wiki/Dylan "wikilink") (1973)  
+[Dylan](Dylan "wikilink") (1973)  
  Tabbed by Eyolf Østrem
 
 Chords:

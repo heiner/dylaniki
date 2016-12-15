@@ -8,8 +8,8 @@ tags:
 
 Words and music Bob Dylan  
 Recorded june 1964 and released on [The Bootleg Series
-1-3](/wiki/The Bootleg Series 1-3 "wikilink") (1991), and in a live version on
-[Live 1975](/wiki/Live 1975 "wikilink") (2002)  
+1-3](The Bootleg Series 1-3 "wikilink") (1991), and in a live version on
+[Live 1975](Live 1975 "wikilink") (2002)  
 Tabbed by Eyolf Østrem
 
 <h2 class="songversion">

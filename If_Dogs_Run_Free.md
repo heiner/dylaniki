@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [New Morning](/wiki/New Morning "wikilink") (1970), and debuted
+Released on [New Morning](New Morning "wikilink") (1970), and debuted
 live during the fall 2000 tour.  
 Tabbed by Eyolf Østrem
 

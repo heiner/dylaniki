@@ -24,7 +24,7 @@ indicated the rhythm in the first verse. They use a capo on the 6th fret
 (sounding key F\# major)
 
 The melody is clearly based upon [The Lakes of
-Pontchartrain](/wiki/The Lakes of Pontchartrain "wikilink") or a related tune
+Pontchartrain](The Lakes of Pontchartrain "wikilink") or a related tune
 (apparently Dylan learned “Lakes...” from Paul Brady in 1984).
 
 * * * * *

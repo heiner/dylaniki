@@ -7,7 +7,7 @@ tags:
 ---
 
 Written by Bob Dylan  
-Recorded for [Self Portrait](/wiki/Self Portrait "wikilink") (1970)  
+Recorded for [Self Portrait](Self Portrait "wikilink") (1970)  
 Tabbed by Eyolf Østrem
 
 * * * * *

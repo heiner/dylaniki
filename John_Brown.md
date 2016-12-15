@@ -11,7 +11,7 @@ Written by Bob Dylan
 Recorded as Witmark and Broadside demos in 1963 and performed
 occasionally in the early days (Gaslight II, *Bob Dylan in Concert*),
 but not released officially on a Dylan album until
-[Unplugged](/wiki/Unplugged "wikilink") (1995).  
+[Unplugged](Unplugged "wikilink") (1995).  
  Tabbed by Eyolf Østrem
 
 <h2 class="songversion">
@@ -185,10 +185,10 @@ And with the ending:
     |: D . . . | /c . . . | G/b . . . | Gm/Bb . . . :| D
 
 Otherwise the lyrics are more or less as in the
-[Unplugged](/wiki/Unplugged "wikilink") version.
+[Unplugged](Unplugged "wikilink") version.
 
 <h2 class="songversion">
-[Unplugged](/wiki/Unplugged "wikilink") version
+[Unplugged](Unplugged "wikilink") version
 
 </h2>
 An occasional lick:

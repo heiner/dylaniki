@@ -12,7 +12,7 @@ Played occasionally in 1962
 Tabbed by Eyolf Østrem
 
 Quite similar to another song, [I Pity the Poor
-Immigrant](/wiki/I Pity the Poor Immigrant "wikilink").
+Immigrant](I Pity the Poor Immigrant "wikilink").
 
 Capo 1st fret (sounding key C\# major)
 

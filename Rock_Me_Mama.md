@@ -9,7 +9,7 @@ tags:
 
 Words and music Bob Dylan  
 Recorded during the sessions for [Pat Garrett & Billy The
-Kid](/wiki/Pat Garrett & Billy The Kid "wikilink") (Feb 1973)  
+Kid](Pat Garrett & Billy The Kid "wikilink") (Feb 1973)  
 Tabbed and transcribed by Eyolf Østrem
 
 The words are absolutely not clear. Brackets mean that I can't hear what

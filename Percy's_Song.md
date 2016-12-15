@@ -8,11 +8,11 @@ tags:
 ---
 
 Words Bob Dylan, melody trad. (“[The Wind and The
-Rain](/wiki/The Wind and The Rain "wikilink")”, which is a variant of [The Two
-Sisters](/wiki/The Two Sisters "wikilink"))  
+Rain](The Wind and The Rain "wikilink")”, which is a variant of [The Two
+Sisters](The Two Sisters "wikilink"))  
 Recorded Oct 24, 1963 during the sessions for [The Times They Are
-A-Changin'](/wiki/The Times They Are A-Changin' "wikilink") and released on
-[Biograph](/wiki/Biograph "wikilink") (1991)  
+A-Changin'](The Times They Are A-Changin' "wikilink") and released on
+[Biograph](Biograph "wikilink") (1991)  
 Tabbed by Eyolf Østrem
 
 * * * * *

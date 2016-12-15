@@ -8,8 +8,8 @@ tags:
 
 Words and music Bob Dylan  
 Recorded Oct 24, 1963 during the sessions for [The Times They Are
-A-Changin'](/wiki/The Times They Are A-Changin' "wikilink"), and released on
-[Biograph](/wiki/Biograph "wikilink") (1985)  
+A-Changin'](The Times They Are A-Changin' "wikilink"), and released on
+[Biograph](Biograph "wikilink") (1985)  
 Tabbed by Eyolf Østrem
 
 * * * * *

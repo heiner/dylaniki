@@ -9,7 +9,7 @@ tags:
 
 Words and music Bob Dylan  
 Released on [The Times They Are
-A-changin'](/wiki/The Times They Are A-changin' "wikilink") (1964)  
+A-changin'](The Times They Are A-changin' "wikilink") (1964)  
 Tabbed by Eyolf Østrem
 
 Double dropped D tuning (D-A-d-g-b-d, i.e. tune the 1st and the 6th

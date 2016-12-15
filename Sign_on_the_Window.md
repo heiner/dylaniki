@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [New Morning](/wiki/New Morning "wikilink") (1970)  
+Released on [New Morning](New Morning "wikilink") (1970)  
 Tabbed by Eyolf Østrem
 
 Piano song - in F\# major, possibly the worst conceivable guitar key. I

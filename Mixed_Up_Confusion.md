@@ -8,7 +8,7 @@ tags:
 
 Words and music Bob Dylan  
 Recorded Nov 1962 and released as a single (Dylan's first!), then on
-[Biograph](/wiki/Biograph "wikilink") (1985)  
+[Biograph](Biograph "wikilink") (1985)  
 Tabbed (phew...) by Eyolf Østrem
 
           D7

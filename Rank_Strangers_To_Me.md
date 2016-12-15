@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music by Albert Brumley  
-Sung by Bob Dylan on [Down In The Groove](/wiki/Down In The Groove "wikilink")
+Sung by Bob Dylan on [Down In The Groove](Down In The Groove "wikilink")
 (1988)  
 Tabbed by Eyolf Østrem
 

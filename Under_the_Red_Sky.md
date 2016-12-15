@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Under The Red Sky](/wiki/Under The Red Sky "wikilink") (1990)  
+Released on [Under The Red Sky](Under The Red Sky "wikilink") (1990)  
 Tabbed by Eyolf Østrem
 
 \* The B is really an A/b chord (x22222).

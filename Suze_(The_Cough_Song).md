@@ -8,7 +8,7 @@ tags:
 
 One of Dylan's attempts at an instrumental.  
 Recorded Oct 24, 1963 and released on [The Bootleg Series
-1-3](/wiki/The Bootleg Series 1-3 "wikilink") (1991)  
+1-3](The Bootleg Series 1-3 "wikilink") (1991)  
 Tabbed by Eyolf Østrem
 
 The trick in this song is to let the chords begin on the last 8th note

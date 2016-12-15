@@ -8,7 +8,7 @@ tags:
 ---
 
 (Blind Lemon Jefferson)  
-Performed by Bob Dylan on [Bob Dylan](/wiki/Bob Dylan "wikilink") (1962)  
+Performed by Bob Dylan on [Bob Dylan](Bob Dylan "wikilink") (1962)  
 Tabbed by Eyolf Østrem
 
 <h2 class="songversion">

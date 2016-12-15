@@ -8,7 +8,7 @@ tags:
 
 Words and music Bob Dylan  
 Released on [Bringing It All Back
-Home](/wiki/Bringing It All Back Home "wikilink") (1965)  
+Home](Bringing It All Back Home "wikilink") (1965)  
 Tabbed by Eyolf Østrem
 
 * * * * *

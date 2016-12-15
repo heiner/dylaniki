@@ -7,8 +7,8 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Nashville Skyline](/wiki/Nashville Skyline "wikilink") (1969) and
-live on [Hard Rain](/wiki/Hard Rain "wikilink") (1976)  
+Released on [Nashville Skyline](Nashville Skyline "wikilink") (1969) and
+live on [Hard Rain](Hard Rain "wikilink") (1976)  
 Tabbed by Eyolf Østrem
 
 * * * * *

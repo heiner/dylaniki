@@ -15,7 +15,7 @@ Tabbed by Eyolf Østrem
 
 * * * * *
 
-[Open D/E tuning](/wiki/Help:Roadmaps#Open_tunings "wikilink")
+[Open D/E tuning](Help:Roadmaps#Open_tunings "wikilink")
 (D-A-d-f\#-a-d') Capo 5th fret (sounding key G major)
 
 These are the basic figures that are played throughout the song. The

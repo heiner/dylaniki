@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Planet Waves](/wiki/Planet Waves "wikilink") (1974)  
+Released on [Planet Waves](Planet Waves "wikilink") (1974)  
 Tabbed by Eyolf Østrem
 
 The song could equally well be played with C chords and a capo on the

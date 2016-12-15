@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Slow Train Coming](/wiki/Slow Train Coming "wikilink") (1979)  
+Released on [Slow Train Coming](Slow Train Coming "wikilink") (1979)  
 Tabbed by Eyolf Østrem
 
 Chords (these are the chords he used in Toronto, Apr 20 1980):

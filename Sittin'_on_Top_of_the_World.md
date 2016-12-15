@@ -8,7 +8,7 @@ tags:
 
 Trad.  
 Released by Bob Dylan on [Good As I Been To
-You](/wiki/Good As I Been To You "wikilink") (1992)  
+You](Good As I Been To You "wikilink") (1992)  
 Tabbed by Eyolf Østrem
 
 It seems that the B is played with an open E string: x24400, but the

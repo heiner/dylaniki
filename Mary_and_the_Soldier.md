@@ -8,8 +8,8 @@ tags:
 
 Trad.  
 Recorded by Bob Dylan for [World Gone
-Wrong](/wiki/World Gone Wrong "wikilink") (1993), and released on [Tell Tale
-Signs](/wiki/Tell Tale Signs "wikilink") (2008)  
+Wrong](World Gone Wrong "wikilink") (1993), and released on [Tell Tale
+Signs](Tell Tale Signs "wikilink") (2008)  
 Tabbed by Eyolf Østrem
 
 * * * * *

@@ -9,7 +9,7 @@ tags:
 
 Words and music Bob Dylan  
 Recorded summer 2005 for the *North Country* soundtrack. Outtake version
-released on [Tell Tale Signs](/wiki/Tell Tale Signs "wikilink") (2008)  
+released on [Tell Tale Signs](Tell Tale Signs "wikilink") (2008)  
 Tabbed by Eyolf Østrem
 
 * * * * *

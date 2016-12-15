@@ -8,8 +8,8 @@ tags:
 ---
 
 Bob Dylan  
-Recorded Apr 7, 1981 during the [Shot of Love](/wiki/Shot of Love "wikilink")
-sessions, and released on [Biograph](/wiki/Biograph "wikilink") (1985)  
+Recorded Apr 7, 1981 during the [Shot of Love](Shot of Love "wikilink")
+sessions, and released on [Biograph](Biograph "wikilink") (1985)  
 Tabbed by Eyolf Østrem
 
 Alternate lyric versions below (Taken from the ["It's Not a House, It's

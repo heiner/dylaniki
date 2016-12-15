@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Blonde on Blonde](/wiki/Blonde on Blonde "wikilink")(1966)  
+Released on [Blonde on Blonde](Blonde on Blonde "wikilink")(1966)  
 Tabbed by Eyolf Østrem
 
 * * * * *

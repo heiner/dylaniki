@@ -9,23 +9,23 @@ tags:
 Recorded Apr-May, 1983  
 Released Oct 27, 1983
 
-1.  [Jokerman](/wiki/Jokerman "wikilink")
-2.  [Sweetheart Like You](/wiki/Sweetheart Like You "wikilink")
-3.  [Neighborhood Bully](/wiki/Neighborhood Bully "wikilink")
-4.  [License to Kill](/wiki/License to Kill "wikilink")
-5.  [Man Of Peace](/wiki/Man Of Peace "wikilink")
-6.  [Union Sundown](/wiki/Union Sundown "wikilink")
-7.  [I and I](/wiki/I and I "wikilink")
+1.  [Jokerman](Jokerman "wikilink")
+2.  [Sweetheart Like You](Sweetheart Like You "wikilink")
+3.  [Neighborhood Bully](Neighborhood Bully "wikilink")
+4.  [License to Kill](License to Kill "wikilink")
+5.  [Man Of Peace](Man Of Peace "wikilink")
+6.  [Union Sundown](Union Sundown "wikilink")
+7.  [I and I](I and I "wikilink")
 8.  [Don't Fall Apart on Me
-    Tonight](/wiki/Don't Fall Apart on Me Tonight "wikilink")
+    Tonight](Don't Fall Apart on Me Tonight "wikilink")
 
 Outtakes:
 
--   [This Was My Love](/wiki/This Was My Love "wikilink")
+-   [This Was My Love](This Was My Love "wikilink")
 -   [Angel Flying Too Close to the
-    Ground](/wiki/Angel Flying Too Close to the Ground "wikilink")
--   [Blind Willie McTell](/wiki/Blind Willie McTell "wikilink")
--   [Tell Me](/wiki/Tell Me "wikilink")
--   [Lord, Protect My Child](/wiki/Lord, Protect My Child "wikilink")
--   [Julius and Ethel](/wiki/Julius and Ethel "wikilink")
+    Ground](Angel Flying Too Close to the Ground "wikilink")
+-   [Blind Willie McTell](Blind Willie McTell "wikilink")
+-   [Tell Me](Tell Me "wikilink")
+-   [Lord, Protect My Child](Lord, Protect My Child "wikilink")
+-   [Julius and Ethel](Julius and Ethel "wikilink")
 

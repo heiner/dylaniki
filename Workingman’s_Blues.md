@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Modern Times](/wiki/Modern Times "wikilink") (2006)  
+Released on [Modern Times](Modern Times "wikilink") (2006)  
 Tabbed by Eyolf Østrem
 
 * * * * *
@@ -15,12 +15,12 @@ Tabbed by Eyolf Østrem
 Did you ever expect to hear a line like “The buying power of the
 proletariat's gone down” in a song lyric? Way to go, Bobby! In a
 straight line from [Ballad of Hollis
-Brown](/wiki/Ballad of Hollis Brown "wikilink"), through the ''Farm Aid
+Brown](Ballad of Hollis Brown "wikilink"), through the ''Farm Aid
 ''initiative in the eighties, here’s one of the highlights of the album
 — but more than a political statement, it is also a love-ballad.
 
 Musically, it is a close cousin of [Cross the Green
-Mountain](/wiki/Cross the Green Mountain "wikilink") with which it shares the
+Mountain](Cross the Green Mountain "wikilink") with which it shares the
 ever-descending bass line and some of the chord shadings that never
 manage to decide whether they’re major or minor (and *which* minor they
 are!).

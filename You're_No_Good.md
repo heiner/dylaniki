@@ -9,7 +9,7 @@ tags:
 (That's what it's called on bobdylan.com anyway)
 
 (Jesse Fuller)  
-Played by Bob Dylan on [Bob Dylan](/wiki/Bob Dylan "wikilink") (1962)  
+Played by Bob Dylan on [Bob Dylan](Bob Dylan "wikilink") (1962)  
 Tabbed by Eyolf Østrem
 
 Note that the harmonica interlude is played in the key of G major, but

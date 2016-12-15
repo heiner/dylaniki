@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music by Bob Dylan  
-Released on [Time out of Mind](/wiki/Time out of Mind "wikilink") (1997), and
+Released on [Time out of Mind](Time out of Mind "wikilink") (1997), and
 played live in a quite different version in 2000  
 Tabbed by Eyolf Østrem
 

@@ -8,10 +8,10 @@ tags:
 
 Words and music Bob Dylan  
 Released on [Bringing It All Back
-Home](/wiki/Bringing It All Back Home "wikilink") (1965), [Greatest
-Hits](/wiki/Greatest Hits "wikilink") (1967) and
-[Biograph](/wiki/Biograph "wikilink") (1985), and in an alternate version on
-[The Bootleg Series 1-3](/wiki/The Bootleg Series 1-3 "wikilink") (1991)  
+Home](Bringing It All Back Home "wikilink") (1965), [Greatest
+Hits](Greatest Hits "wikilink") (1967) and
+[Biograph](Biograph "wikilink") (1985), and in an alternate version on
+[The Bootleg Series 1-3](The Bootleg Series 1-3 "wikilink") (1991)  
 Tabbed by Eyolf Østrem
 
 In the early solo version on *The Bootleg Series*, Dylan's guitar is

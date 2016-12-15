@@ -7,11 +7,11 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [New Morning](/wiki/New Morning "wikilink") (1970), [Greatest Hits
-II](/wiki/Greatest Hits II "wikilink") (1971) and
-[Biograph](/wiki/Biograph "wikilink") (1985), and in an earlier version
+Released on [New Morning](New Morning "wikilink") (1970), [Greatest Hits
+II](Greatest Hits II "wikilink") (1971) and
+[Biograph](Biograph "wikilink") (1985), and in an earlier version
 (w/George Harrison) on [The Bootleg Series
-1-3](/wiki/The Bootleg Series 1-3 "wikilink") (1991)  
+1-3](The Bootleg Series 1-3 "wikilink") (1991)  
  Tabbed by Eyolf Østrem
 
 * * * * *

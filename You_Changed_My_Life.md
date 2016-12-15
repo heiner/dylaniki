@@ -7,9 +7,9 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Recorded Apr 23, 1981 during the [Shot of Love](/wiki/Shot of Love "wikilink")
+Recorded Apr 23, 1981 during the [Shot of Love](Shot of Love "wikilink")
 sessions, released on [The Bootleg Series
-1-3](/wiki/The Bootleg Series 1-3 "wikilink") (1991)  
+1-3](The Bootleg Series 1-3 "wikilink") (1991)  
 Tabbed by Eyolf Østrem
 
 * * * * *

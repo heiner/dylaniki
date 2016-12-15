@@ -9,9 +9,9 @@ tags:
 Words and Music Bob Dylan (but strongly based on Dominic Behan’s *The
 Patriot Game*)  
 Released on [The Times They Are
-A-Changin'](/wiki/The Times They Are A-Changin' "wikilink") (1963) and in live
-versions on [Unplugged](/wiki/Unplugged "wikilink") (1995) and [Live
-1964](/wiki/Live 1964 "wikilink") (2004)  
+A-Changin'](The Times They Are A-Changin' "wikilink") (1963) and in live
+versions on [Unplugged](Unplugged "wikilink") (1995) and [Live
+1964](Live 1964 "wikilink") (2004)  
 Tabbed by Eyolf Østrem
 
 <h2 class="songversion">
@@ -127,7 +127,7 @@ better rhyme than the original):
     I never got straight
 
 <h2 class="songversion">
-*[Unplugged](/wiki/Unplugged "wikilink")* version
+*[Unplugged](Unplugged "wikilink")* version
 
 </h2>
 Basically the same as above, only slightly simplified.

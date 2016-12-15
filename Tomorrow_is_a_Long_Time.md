@@ -11,8 +11,8 @@ tags:
 Words and music Bob Dylan  
 Recorded as a Witmark Demo Dec. 1962, in the NY Town Hall Apr 12 1963
 for the unissued live album *In Concert* (Included on [Greatest Hits
-vol. 2](/wiki/Greatest Hits vol. 2 "wikilink")), and June 1970 during the
-sessions for [New Morning](/wiki/New Morning "wikilink") (outtake).  
+vol. 2](Greatest Hits vol. 2 "wikilink")), and June 1970 during the
+sessions for [New Morning](New Morning "wikilink") (outtake).  
  Tabbed by Eyolf Østrem
 
 <h2 class="songversion">
@@ -149,7 +149,7 @@ Intro:
 Witmark Demo, Dec. 1962
 
 </h2>
-[Open D/E tuning](/wiki/Help:Roadmaps#Open_tunings "wikilink")
+[Open D/E tuning](Help:Roadmaps#Open_tunings "wikilink")
 
 The chords seem numerous and difficult, with their long names, but it's
 all quite simple actually – don't let the appearance scare you.

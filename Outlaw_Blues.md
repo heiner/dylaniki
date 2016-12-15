@@ -8,7 +8,7 @@ tags:
 
 Words and music Bob Dylan  
 Released on [Bringing It All Back
-Home](/wiki/Bringing It All Back Home "wikilink") (1965)  
+Home](Bringing It All Back Home "wikilink") (1965)  
 Tabbed by Eyolf Østrem
 
 As usual in this kind of blues song, there's a whole lot of Em in the E.

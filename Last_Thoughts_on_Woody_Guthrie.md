@@ -8,7 +8,7 @@ tags:
 
 Written by Bob Dylan  
 Spoken live , and released on [The Bootleg Series
-1-3](/wiki/The Bootleg Series 1-3 "wikilink") (1991)  
+1-3](The Bootleg Series 1-3 "wikilink") (1991)  
 
     When yer head gets twisted and yer mind grows numb
     When you think you're too old, too young, too smart or too dumb

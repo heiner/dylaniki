@@ -7,8 +7,8 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Modern Times](/wiki/Modern Times "wikilink") (2006) and in an
-outtake version on [Tell Tale Signs](/wiki/Tell Tale Signs "wikilink")
+Released on [Modern Times](Modern Times "wikilink") (2006) and in an
+outtake version on [Tell Tale Signs](Tell Tale Signs "wikilink")
 (2008)  
 Tabbed by Eyolf Østrem
 
@@ -79,7 +79,7 @@ the neck.
 * * * * *
 
 <h3 class="songversion">
-[Tell Tale Signs](/wiki/Tell Tale Signs "wikilink")
+[Tell Tale Signs](Tell Tale Signs "wikilink")
 
 `   version`
 

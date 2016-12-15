@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [John Wesley Harding](/wiki/John Wesley Harding "wikilink")
+Released on [John Wesley Harding](John Wesley Harding "wikilink")
 (1967)  
 Tabbed by Eyolf Østrem
 

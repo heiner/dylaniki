@@ -11,12 +11,12 @@ tags:
 Written by Robert Johnson (who based his version on Kokomo Arnold's
 *Milk Cow Blues*)  
 Recorded by Bob Dylan Apr 25, 1962
-([Freewheelin'](/wiki/Freewheelin' "wikilink") sessions)  
+([Freewheelin'](Freewheelin' "wikilink") sessions)  
 Tabbed by Eyolf Østrem
 
 * * * * *
 
-[Open D/E tuning](/wiki/Help:Roadmaps#Open_tunings "wikilink") Capo 8th or
+[Open D/E tuning](Help:Roadmaps#Open_tunings "wikilink") Capo 8th or
 10th fret  
 (I recommend the E tuning here, otherwise it may be difficult to get the
 capo in place)

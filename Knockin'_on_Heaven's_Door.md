@@ -8,12 +8,12 @@ tags:
 
 Words and music Bob Dylan  
 Released on [Pat Garrett &amp; Billy The
-Kid](/wiki/Pat Garrett &amp; Billy The Kid "wikilink") (1973) and on
-[Biograph](/wiki/Biograph "wikilink") (1985), and in live versions on [Before
-the Flood](/wiki/Before the Flood "wikilink") (1974), [At
-Budokan](/wiki/At Budokan "wikilink") (1978), ''Dylan and the Dead ''(1988),
-[MTV Unplugged](/wiki/MTV Unplugged "wikilink") (1995), and [Live
-1975](/wiki/Live 1975 "wikilink") (2002)  
+Kid](Pat Garrett &amp; Billy The Kid "wikilink") (1973) and on
+[Biograph](Biograph "wikilink") (1985), and in live versions on [Before
+the Flood](Before the Flood "wikilink") (1974), [At
+Budokan](At Budokan "wikilink") (1978), ''Dylan and the Dead ''(1988),
+[MTV Unplugged](MTV Unplugged "wikilink") (1995), and [Live
+1975](Live 1975 "wikilink") (2002)  
 Tabbed and transcribed by Eyolf Østrem
 
 * * * * *
@@ -25,7 +25,7 @@ knockin'.
 
 The Am7 is played as a simple Am in most versions.
 
-[Unplugged](/wiki/Unplugged "wikilink") version same as below, but with a capo
+[Unplugged](Unplugged "wikilink") version same as below, but with a capo
 on the 2nd fret (on Jackson's guitar; Dylan fumbles around with an
 occasional lick on an uncapoed guitar).
 

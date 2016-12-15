@@ -8,7 +8,7 @@ tags:
 
 Words by Bob Dylan. Music taken from Johnnie & Jack's “Uncle John's
 Bongos” (pointed out by Eben Hensby)  
-Released on [Love And Theft](/wiki/Love And Theft "wikilink") (2001)  
+Released on [Love And Theft](Love And Theft "wikilink") (2001)  
 Tabbed by Eyolf Østrem
 
 * * * * *

@@ -10,24 +10,24 @@ tags:
 Released October 13, 2009
 
 <div id="songs">
-1.  [Here Comes Santa Claus](/wiki/Here Comes Santa Claus "wikilink")
-2.  [Do You Hear What I Hear](/wiki/Do You Hear What I Hear "wikilink")
-3.  [Winter Wonderland](/wiki/Winter Wonderland "wikilink")
+1.  [Here Comes Santa Claus](Here Comes Santa Claus "wikilink")
+2.  [Do You Hear What I Hear](Do You Hear What I Hear "wikilink")
+3.  [Winter Wonderland](Winter Wonderland "wikilink")
 4.  [Hark The Herald Angels
-    Sing](/wiki/Hark The Herald Angels Sing "wikilink")
-5.  [I’ll Be Home For Christmas](/wiki/I’ll Be Home For Christmas "wikilink")
-6.  [Little Drummer Boy](/wiki/Little Drummer Boy "wikilink")
-7.  [Christmas Blues](/wiki/Christmas Blues "wikilink")
+    Sing](Hark The Herald Angels Sing "wikilink")
+5.  [I’ll Be Home For Christmas](I’ll Be Home For Christmas "wikilink")
+6.  [Little Drummer Boy](Little Drummer Boy "wikilink")
+7.  [Christmas Blues](Christmas Blues "wikilink")
 8.  [O Come All Ye Faithful (Adeste
-    Fideles)](/wiki/O Come All Ye Faithful (Adeste Fideles) "wikilink")
+    Fideles)](O Come All Ye Faithful (Adeste Fideles) "wikilink")
 9.  [Have Yourself A Merry Little
-    Christmas](/wiki/Have Yourself A Merry Little Christmas "wikilink")
-10. [Must Be Santa](/wiki/Must Be Santa "wikilink")
-11. [Silver Bells](/wiki/Silver Bells "wikilink")
-12. [First Noel](/wiki/First Noel "wikilink")
-13. [Christmas Island](/wiki/Christmas Island "wikilink")
-14. [The Christmas Song](/wiki/The Christmas Song "wikilink")
-15. [O Little Town Of Bethlehem](/wiki/O Little Town Of Bethlehem "wikilink")
+    Christmas](Have Yourself A Merry Little Christmas "wikilink")
+10. [Must Be Santa](Must Be Santa "wikilink")
+11. [Silver Bells](Silver Bells "wikilink")
+12. [First Noel](First Noel "wikilink")
+13. [Christmas Island](Christmas Island "wikilink")
+14. [The Christmas Song](The Christmas Song "wikilink")
+15. [O Little Town Of Bethlehem](O Little Town Of Bethlehem "wikilink")
 
 </div>
 <div id="intro">

@@ -8,7 +8,7 @@ tags:
 
 Ian Tyson/Warner Brother Music  
 Recorded by Bob Dylan and The Band during [The Basement
-Tapes](/wiki/The Basement Tapes "wikilink") sessions, 1967  
+Tapes](The Basement Tapes "wikilink") sessions, 1967  
 Tabbed by Eyolf Østrem (thanks to Karla in Kansas for correction)
 
 Capo 2nd fret (sounding key A major)

@@ -8,9 +8,9 @@ tags:
 
 Words and music Bob Dylan  
 Released on [The Times They Are
-A-changin'](/wiki/The Times They Are A-changin' "wikilink") (1964) and on
-[Biograph](/wiki/Biograph "wikilink") (1985) and in live versions on [Live
-1975](/wiki/Live 1975 "wikilink") (2002) and [Live 1964](Live 1964 "wikilink")
+A-changin'](The Times They Are A-changin' "wikilink") (1964) and on
+[Biograph](Biograph "wikilink") (1985) and in live versions on [Live
+1975](Live 1975 "wikilink") (2002) and [Live 1964](Live 1964 "wikilink")
 (2004)  
 Tabbed by Eyolf Østrem
 

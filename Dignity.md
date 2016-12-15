@@ -9,7 +9,7 @@ tags:
 (Words and Music by Bob Dylan) (or James Damiano?)  
 1994 Special Rider Music  
 Released on *Greatest Hits vol. 3* (1994) and on
-*[Unplugged](/wiki/Unplugged "wikilink")* (1995) in a live version.
+*[Unplugged](Unplugged "wikilink")* (1995) in a live version.
 
 * * * * *
 

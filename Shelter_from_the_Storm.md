@@ -8,12 +8,12 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Blood on the Tracks](/wiki/Blood on the Tracks "wikilink")
-(1975), and in live versions on [Hard Rain](/wiki/Hard Rain "wikilink") (1976)
-and [At Budokan](/wiki/At Budokan "wikilink") (1978)  
+Released on [Blood on the Tracks](Blood on the Tracks "wikilink")
+(1975), and in live versions on [Hard Rain](Hard Rain "wikilink") (1976)
+and [At Budokan](At Budokan "wikilink") (1978)  
 Tabbed by Eyolf Østrem
 
-[Open D/E tuning](/wiki/Help:RoadmapsOpen_tunings "wikilink")
+[Open D/E tuning](Help:RoadmapsOpen_tunings "wikilink")
 
 Chords:
 

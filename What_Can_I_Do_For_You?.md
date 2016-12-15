@@ -8,7 +8,7 @@ tags:
 ---
 
 Words and Music by Bob Dylan  
-Released on [Saved](/wiki/Saved (Album) "wikilink") (1980)  
+Released on [Saved](Saved (Album) "wikilink") (1980)  
 Tabbed by Eyolf Østrem
 
 Capo 3rd fret (original key Eb major).

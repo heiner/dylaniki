@@ -69,7 +69,7 @@ this:
 
 * * * * *
 
-\*) Cf. the end of the story of [Dink's Song](/wiki/Dink's Song "wikilink"),
+\*) Cf. the end of the story of [Dink's Song](Dink's Song "wikilink"),
 as told by John Lomax:
 
 A few months ago I inquired about Dink at Yazoo City, Mississippi, her

@@ -15,27 +15,27 @@ released Jan 20, 1975
 <http://www.bobdylan.com/sites/www.bobdylan.com/files/imagecache/thumb_100/bloodonthetracks_0.jpg>
 
 </center>
-1.  [Tangled Up in Blue](/wiki/Tangled Up in Blue "wikilink")
+1.  [Tangled Up in Blue](Tangled Up in Blue "wikilink")
     ([mini-essay](http://dylanchords.info/professors/tangled_up_in_tangled_up_in_blue.htm)
     about the song and its many incarnations)
-2.  [Simple Twist of Fate](/wiki/Simple Twist of Fate "wikilink")
-3.  [You're a Big Girl Now](/wiki/You're a Big Girl Now "wikilink")
-4.  [Idiot Wind](/wiki/Idiot Wind "wikilink")
+2.  [Simple Twist of Fate](Simple Twist of Fate "wikilink")
+3.  [You're a Big Girl Now](You're a Big Girl Now "wikilink")
+4.  [Idiot Wind](Idiot Wind "wikilink")
 5.  [You're Gonna Make Me Lonesome When You
-    Go](/wiki/You're Gonna Make Me Lonesome When You Go "wikilink")
-6.  [Meet Me in the Morning](/wiki/Meet Me in the Morning "wikilink")
+    Go](You're Gonna Make Me Lonesome When You Go "wikilink")
+6.  [Meet Me in the Morning](Meet Me in the Morning "wikilink")
 7.  [Lily, Rosemary and the Jack of
-    Hearts](/wiki/Lily, Rosemary and the Jack of Hearts "wikilink")
-8.  [If You See Her, Say Hello](/wiki/If You See Her, Say Hello "wikilink")
-9.  [Shelter from the Storm](/wiki/Shelter from the Storm "wikilink")
-10. [Buckets of Rain](/wiki/Buckets of Rain "wikilink") (incl. “Nuggets of
+    Hearts](Lily, Rosemary and the Jack of Hearts "wikilink")
+8.  [If You See Her, Say Hello](If You See Her, Say Hello "wikilink")
+9.  [Shelter from the Storm](Shelter from the Storm "wikilink")
+10. [Buckets of Rain](Buckets of Rain "wikilink") (incl. “Nuggets of
     Rain” with Bette Midler)
 
 Outtakes:
 
--   [Up to Me](/wiki/Up to Me "wikilink") (released on <em>Biograph</em>,
+-   [Up to Me](Up to Me "wikilink") (released on <em>Biograph</em>,
     1985)
--   [Call Letter Blues](/wiki/Call Letter Blues "wikilink") (Released on
+-   [Call Letter Blues](Call Letter Blues "wikilink") (Released on
     <em>The Bootleg Series 1–3</em>, 1991)
 
 </div>
@@ -108,7 +108,7 @@ tuning. The biographies (i.e. Heylin) say that Dylan had learned the
 open D/E tuning from Joni Mitchell (I’ll refer to it as “open E”
 hereafter). This can’t be all true, since Dylan used this tuning
 extensively during the recording of
-<em>[Freewheelin’](/wiki/Freewheelin’ "wikilink"). </em>He does use it in a
+<em>[Freewheelin’](Freewheelin’ "wikilink"). </em>He does use it in a
 quite different way, though.
 
 The center of gravity in the open-tuning <em>Blood on the Tracks
@@ -117,7 +117,7 @@ use a chord like this, when you have the same chord on the open strings
 – after all, that’s the whole point of open tuning, isn’t it?
 
 Well, not quite. Beginners – like the Dylan of
-[Freewheelin’](/wiki/Freewheelin’ "wikilink") – may find the 000000 chord
+[Freewheelin’](Freewheelin’ "wikilink") – may find the 000000 chord
 convenient. But a more proficient and mature player like 1974-Dylan,
 realizes that it has a series of disadvantages compared to 054000.
 First, an open string is like a binary number: it’s either on or off,
@@ -148,7 +148,7 @@ E sonority. This is precisely the same function as the C chord has in
 Dylan’s most cherished figure: G-C/g-G (320003-3x2013-320003). This
 “embellished E” character is emphasized by the alternative fingering
 020100, where the open b string adds yet another tone from the E major
-chord. In [Buckets of Rain](/wiki/Buckets of Rain "wikilink"), where the 5th
+chord. In [Buckets of Rain](Buckets of Rain "wikilink"), where the 5th
 string is not used, it is impossible to decide whether the chord 0x0100
 should be regarded as an A or as an Esus4.
 
@@ -165,7 +165,7 @@ of this B chord. It is a quite rare guest in his songs <em>prior to
 </em>Blood on the Tracks.
 
 When Dylan wants a “real” B sound, as in the outtake [Up to
-Me](/wiki/Up to Me "wikilink") he uses the barre 777777.
+Me](Up to Me "wikilink") he uses the barre 777777.
 
 Two more figures should be mentioned:
 
@@ -183,21 +183,21 @@ about. Both figures are realizations of the basic progression g\#-f\#-e
 (try it!), but this progression is given different functions through
 different harmonizations. In the first figure, <em>g\# </em>is home base
 and <em>e </em>is part of the contrasting sonority A (see [Up to
-Me](/wiki/Up to Me "wikilink")). In the second this is reversed: here
+Me](Up to Me "wikilink")). In the second this is reversed: here
 <em>g\#</em> belongs to the contrasting “B-area” (G\#m and B are closely
 related), and <em>e</em> brings resolution to the phrase by landing on
 the tonic (see [You're a Big Girl
-Now](/wiki/You're a Big Girl Now "wikilink")). (I doubt that Dylan is aware of
+Now](You're a Big Girl Now "wikilink")). (I doubt that Dylan is aware of
 this, but it’s a neat little twin-figure all the same).
 
 These few elements account for most of the songs on the album. Some of
 the songs stand out by employing other effects. The second figure above
-is prominent in [Idiot Wind](/wiki/Idiot Wind "wikilink"), but here it is
+is prominent in [Idiot Wind](Idiot Wind "wikilink"), but here it is
 supplemented by the effect of the contrast between A major and A minor,
 through the chord Am=x05450 (note also the wonderful economy of means in
 the progression xx4340-xx2120-x05450). The same major/minor A can be
-found in [Simple Twist of Fate](/wiki/Simple Twist of Fate "wikilink"),
-whereas [Meet Me in the Morning](/wiki/Meet Me in the Morning "wikilink")
+found in [Simple Twist of Fate](Simple Twist of Fate "wikilink"),
+whereas [Meet Me in the Morning](Meet Me in the Morning "wikilink")
 holds this debate in the area of the tonic E itself, in the blues
 manner.
 

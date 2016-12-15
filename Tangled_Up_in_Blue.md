@@ -8,12 +8,12 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Blood on the Tracks](/wiki/Blood on the Tracks "wikilink") (1975)
-and on [Biograph](/wiki/Biograph "wikilink") (1985), and live on [Real
-Live](/wiki/Real Live "wikilink") (1984) and [Live 1975](Live 1975 "wikilink")
+Released on [Blood on the Tracks](Blood on the Tracks "wikilink") (1975)
+and on [Biograph](Biograph "wikilink") (1985), and live on [Real
+Live](Real Live "wikilink") (1984) and [Live 1975](Live 1975 "wikilink")
 (2002)  
 Original New York version released on [The Bootleg Series
-1-3](/wiki/The Bootleg Series 1-3 "wikilink") (1991)  
+1-3](The Bootleg Series 1-3 "wikilink") (1991)  
 Tabbed by Eyolf Østrem
 
 Read my little essay on this song [Tangled up in Tangled up in
@@ -28,7 +28,7 @@ The main text is the version recorded Sept 16, released on the Bootleg
 Series 1-3. Some lyrical variations from the version from Sept 19,
 included for release on the original test pressing, have been indicated.
 
-[Open D/E tuning](/wiki/Help:Roadmaps#Open_tunings "wikilink")
+[Open D/E tuning](Help:Roadmaps#Open_tunings "wikilink")
 
 Chords
 

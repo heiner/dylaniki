@@ -7,9 +7,9 @@ tags:
 ---
 
 Words and Music Bob Dylan  
-Recorded May 3, 1983 during the [Infidels](/wiki/Infidels "wikilink")
+Recorded May 3, 1983 during the [Infidels](Infidels "wikilink")
 sessions, and released on [The Bootleg Series
-1-3](/wiki/The Bootleg Series 1-3 "wikilink") (1991)  
+1-3](The Bootleg Series 1-3 "wikilink") (1991)  
 Tabbed by Eyolf Østrem
 
 * * * * *

@@ -9,14 +9,14 @@ tags:
 
 Written by Bob Dylan, based on the traditional tune “Brennan on The
 Moor” (thanks to Oliver Rea for notifying me)  
-Recorded at the first [Freewheelin'](/wiki/Freewheelin' "wikilink") session
+Recorded at the first [Freewheelin'](Freewheelin' "wikilink") session
 (April 24, 1962), and released on [The Bootleg Series
-1-3](/wiki/The Bootleg Series 1-3 "wikilink") (1991)  
+1-3](The Bootleg Series 1-3 "wikilink") (1991)  
 Tabbed by Eyolf Østrem
 
 * * * * *
 
-[Open D/E tuning](/wiki/Help:Roadmaps#Open_tunings "wikilink")  
+[Open D/E tuning](Help:Roadmaps#Open_tunings "wikilink")  
 Capo 10th or 8th fret
 
 Chords

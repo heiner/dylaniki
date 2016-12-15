@@ -7,8 +7,8 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Recorded during the [Infidels](/wiki/Infidels "wikilink") sessions (1983)  
-Released on [Down In The Groove](/wiki/Down In The Groove "wikilink") (1988)  
+Recorded during the [Infidels](Infidels "wikilink") sessions (1983)  
+Released on [Down In The Groove](Down In The Groove "wikilink") (1988)  
 Tabbed by Eyolf Østrem
 
 The figure at the end of most phrases could be played

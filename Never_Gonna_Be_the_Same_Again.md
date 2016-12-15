@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Empire Burlesque](/wiki/Empire Burlesque "wikilink") (1985)  
+Released on [Empire Burlesque](Empire Burlesque "wikilink") (1985)  
 Tabbed by Eyolf Østrem
 
 Best played with a capo on the 1st fret. The As should be embellished

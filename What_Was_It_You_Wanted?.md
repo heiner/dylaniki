@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Oh Mercy](/wiki/Oh Mercy "wikilink") (1989).  
+Released on [Oh Mercy](Oh Mercy "wikilink") (1989).  
 Tabbed by Eyolf Østrem
 
 * * * * *

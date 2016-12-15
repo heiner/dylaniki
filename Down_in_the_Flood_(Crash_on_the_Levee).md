@@ -7,9 +7,9 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [The Basement Tapes](/wiki/The Basement Tapes "wikilink")
+Released on [The Basement Tapes](The Basement Tapes "wikilink")
 (1967/1975). A different version was recorded Oct 1971 with Happy Traum
-(banjo) and released on [Greatest Hits II](/wiki/Greatest Hits II "wikilink")
+(banjo) and released on [Greatest Hits II](Greatest Hits II "wikilink")
 (1971)  
 Tabbed by Eyolf Østrem
 

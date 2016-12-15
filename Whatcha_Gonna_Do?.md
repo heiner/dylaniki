@@ -10,7 +10,7 @@ tags:
 
 Words and music Bob Dylan  
 Recorded Nov 14 and Dec 6 1962 during the
-[Freewheelin'](/wiki/Freewheelin' "wikilink") sessions  
+[Freewheelin'](Freewheelin' "wikilink") sessions  
 Tabbed by Eyolf Østrem
 
 * * * * *

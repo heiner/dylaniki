@@ -8,7 +8,7 @@ tags:
 
 Written by Bob Dylan  
 Recorded 12–13 May 2006 for the *Lucky You* soundtrack, and released on
-[Tell Tale Signs](/wiki/Tell Tale Signs "wikilink") (2008)  
+[Tell Tale Signs](Tell Tale Signs "wikilink") (2008)  
 Tabbed by Eyolf Østrem
 
 * * * * *

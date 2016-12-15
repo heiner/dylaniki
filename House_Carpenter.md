@@ -8,9 +8,9 @@ tags:
 ---
 
 Trad (arr. Bob Dylan)  
-Recorded Nov 22, 1961 during the [Bob Dylan](/wiki/Bob Dylan "wikilink")
+Recorded Nov 22, 1961 during the [Bob Dylan](Bob Dylan "wikilink")
 sessions. Released on [The Bootleg Series
-1-3](/wiki/The Bootleg Series 1-3 "wikilink") (1991)  
+1-3](The Bootleg Series 1-3 "wikilink") (1991)  
 Tabbed by Eyolf Østrem
 
 Dropped D tuning (D-A-d-g-b-e')

@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Saved](/wiki/Saved (Album) "wikilink") (1980)  
+Released on [Saved](Saved (Album) "wikilink") (1980)  
 Tabbed by Eyolf Østrem
 
 “Piano song”. When played on a guitar it sits better in G with a capo on

@@ -9,7 +9,7 @@ tags:
 
 Words and music Bob Dylan  
 Written for the soundtrack of the film *Gods And Generals* (2003),
-released on [Tell Tale Signs](/wiki/Tell Tale Signs "wikilink") (2008)  
+released on [Tell Tale Signs](Tell Tale Signs "wikilink") (2008)  
 Lyrics taken from communal efforts at the Pool message board; tab by
 Eyolf Østrem
 

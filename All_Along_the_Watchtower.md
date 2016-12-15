@@ -7,15 +7,15 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [John Wesley Harding](/wiki/John Wesley Harding "wikilink") (1967)
-and [Greatest Hits II](/wiki/Greatest Hits II "wikilink") (1971), and in live
-versions on [Before the Flood](/wiki/Before the Flood "wikilink") (1974; also
-released on [Biograph](/wiki/Biograph "wikilink") 1985), [At
-Budokan](/wiki/At Budokan "wikilink") (1978) and
-[Unplugged](/wiki/Unplugged "wikilink") (1995)  
+Released on [John Wesley Harding](John Wesley Harding "wikilink") (1967)
+and [Greatest Hits II](Greatest Hits II "wikilink") (1971), and in live
+versions on [Before the Flood](Before the Flood "wikilink") (1974; also
+released on [Biograph](Biograph "wikilink") 1985), [At
+Budokan](At Budokan "wikilink") (1978) and
+[Unplugged](Unplugged "wikilink") (1995)  
 Tabbed by Eyolf Østrem (who was also released 1967)
 
-The *[Unplugged](/wiki/Unplugged "wikilink")* version is the same as below,
+The *[Unplugged](Unplugged "wikilink")* version is the same as below,
 only without the capo, and Dylan himself leaving the G's to John
 Jackson, and only playing Am - F.
 

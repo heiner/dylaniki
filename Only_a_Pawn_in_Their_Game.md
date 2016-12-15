@@ -8,7 +8,7 @@ tags:
 
 Words and music Bob Dylan  
 Released on [The Times They Are
-A-changin'](/wiki/The Times They Are A-changin' "wikilink") (1964)  
+A-changin'](The Times They Are A-changin' "wikilink") (1964)  
 Tabbed by Eyolf Østrem
 
 Capo 2nd fret (sounding key A major)

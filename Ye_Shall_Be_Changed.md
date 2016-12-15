@@ -8,7 +8,7 @@ tags:
 
 Words and music Bob Dylan  
 Recorded May 2, 1979 for *Slow Train Coming*, and released on [The
-Bootleg Series 1-3](/wiki/The Bootleg Series 1-3 "wikilink") (1991)  
+Bootleg Series 1-3](The Bootleg Series 1-3 "wikilink") (1991)  
 Tabbed by Eyolf Østrem
 
 * * * * *

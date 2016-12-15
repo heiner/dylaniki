@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Street Legal](/wiki/Street Legal "wikilink") (1978)  
+Released on [Street Legal](Street Legal "wikilink") (1978)  
 Tabbed by Eyolf Østrem
 
 * * * * *

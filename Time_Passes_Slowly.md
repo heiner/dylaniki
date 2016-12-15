@@ -7,8 +7,8 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [New Morning](/wiki/New Morning "wikilink") (1970) and on
-[Biograph](/wiki/Biograph "wikilink") (1985)  
+Released on [New Morning](New Morning "wikilink") (1970) and on
+[Biograph](Biograph "wikilink") (1985)  
 Tabbed by Eyolf Østrem
 
 Capo 1st fret (sounding key Eb major)

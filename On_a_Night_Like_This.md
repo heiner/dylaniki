@@ -6,8 +6,8 @@ tags:
  - Songs
 ---
 
-Words and music Bob Dylan (from [Planet Waves](/wiki/Planet Waves "wikilink")
-(1974) and [Biograph](/wiki/Biograph "wikilink") (1985))  
+Words and music Bob Dylan (from [Planet Waves](Planet Waves "wikilink")
+(1974) and [Biograph](Biograph "wikilink") (1985))  
 Tabbed by Eyolf Østrem
 
 Capo 1st fret (original key F major, which is of course playable, but I

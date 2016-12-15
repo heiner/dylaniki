@@ -7,9 +7,9 @@ tags:
 ---
 
 By Bob Dylan and Jacques Levy  
-Released on [Desire](/wiki/Desire "wikilink") (1976) and in live versions on
-[Biograph](/wiki/Biograph "wikilink") (1985) and [Live
-1975](/wiki/Live 1975 "wikilink") (2002)  
+Released on [Desire](Desire "wikilink") (1976) and in live versions on
+[Biograph](Biograph "wikilink") (1985) and [Live
+1975](Live 1975 "wikilink") (2002)  
 Tabbed by Eyolf Østrem (a tough one)
 
 Same chords througout. Replace with G, F, C or any other three chords

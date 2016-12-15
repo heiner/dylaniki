@@ -10,10 +10,10 @@ tags:
 
 Words and music Bob Dylan  
 Released on [Highway 61 Revisited
-(Album)](/wiki/Highway 61 Revisited (Album) "wikilink"), in another studio
-verision on [No direction home](/wiki/No direction home "wikilink") (2005),
-and in live versions on [Live 1966](/wiki/Live 1966 "wikilink") and
-*[Unplugged](/wiki/Unplugged "wikilink")* (1995)  
+(Album)](Highway 61 Revisited (Album) "wikilink"), in another studio
+verision on [No direction home](No direction home "wikilink") (2005),
+and in live versions on [Live 1966](Live 1966 "wikilink") and
+*[Unplugged](Unplugged "wikilink")* (1995)  
 Tabbed by Eyolf Østrem
 
 <h2 class="songversion">
@@ -25,7 +25,7 @@ Capo 4th fret (sounding key E major)
 
 I think I've had more requests for the solo part of this song than for
 all other songs taken together. [Here it
-is](/wiki/Desolation Row (Solo part) "wikilink").
+is](Desolation Row (Solo part) "wikilink").
 
 Chords:
 
@@ -264,7 +264,7 @@ Chords:
     From Desolation Row
 
 <h2 class="songversion">
-[Unplugged](/wiki/Unplugged "wikilink") version
+[Unplugged](Unplugged "wikilink") version
 
 </h2>
 The special thing about this version is the rhythm, with a 3-3-2

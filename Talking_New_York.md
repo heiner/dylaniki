@@ -7,7 +7,7 @@ tags:
 ---
 
 (Bob Dylan/trad.)  
-Played by Bob Dylan on [Bob Dylan](/wiki/Bob Dylan "wikilink") (1962)  
+Played by Bob Dylan on [Bob Dylan](Bob Dylan "wikilink") (1962)  
 Tabbed by Eyolf Østrem
 
 * * * * *

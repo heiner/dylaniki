@@ -1,7 +1,7 @@
 ---
 title: Unplugged (1995, live)
 permalink: wiki/Unplugged_(1995,_live)/
-redirect_to: /wiki/Unplugged/
+redirect_to: Unplugged/
 ---
 
-You should automatically be redirected to [Unplugged](/wiki/Unplugged/)
+You should automatically be redirected to [Unplugged](Unplugged/)

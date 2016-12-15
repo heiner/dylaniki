@@ -8,10 +8,10 @@ tags:
 
 Words and music Bob Dylan  
 Released on [Another Side Of Bob
-Dylan](/wiki/Another Side Of Bob Dylan "wikilink") (1964) and [Greatest Hits
-II](/wiki/Greatest Hits II "wikilink") (1971). Live versions on [At
-Budokan](/wiki/At Budokan "wikilink") (1978) and [Live
-1964](/wiki/Live 1964 "wikilink") (2004)  
+Dylan](Another Side Of Bob Dylan "wikilink") (1964) and [Greatest Hits
+II](Greatest Hits II "wikilink") (1971). Live versions on [At
+Budokan](At Budokan "wikilink") (1978) and [Live
+1964](Live 1964 "wikilink") (2004)  
 Tabbed by Eyolf Østrem
 
 Capo 2nd fret (sounding key A major)

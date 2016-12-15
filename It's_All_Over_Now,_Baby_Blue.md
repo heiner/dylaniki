@@ -9,10 +9,10 @@ tags:
 
 Words and music Bob Dylan  
 Released on [Bringing It All Back
-Home](/wiki/Bringing It All Back Home "wikilink") (1965) and [Greatest Hits
-II](/wiki/Greatest Hits II "wikilink") (1971), and in live versions on [Live
-1966](/wiki/Live 1966 "wikilink") (1998), [Biograph](Biograph "wikilink")
-(1985) and [Live 1975](/wiki/Live 1975 "wikilink") (2002)  
+Home](Bringing It All Back Home "wikilink") (1965) and [Greatest Hits
+II](Greatest Hits II "wikilink") (1971), and in live versions on [Live
+1966](Live 1966 "wikilink") (1998), [Biograph](Biograph "wikilink")
+(1985) and [Live 1975](Live 1975 "wikilink") (2002)  
  Tabbed by Eyolf Østrem
 
 Dropped C tuning (C-A-d-g-b-e')  
@@ -67,7 +67,7 @@ Album version
     And it's all over now, Baby Blue.
 
 <h2 class="songversion">
-[Live 1966](/wiki/Live 1966 "wikilink") and *Biograph* version
+[Live 1966](Live 1966 "wikilink") and *Biograph* version
 
 </h2>
 Same as the above, but with capo on the 2nd fret, and with this little

@@ -7,8 +7,8 @@ tags:
 ---
 
 Words by Bob Dylan & Jacques Levy, music by Bob Dylan  
-Recorded Jul 28, 1975, during the [Desire](/wiki/Desire "wikilink") sessions,
-released on [The Bootleg Series 1-3](/wiki/The Bootleg Series 1-3 "wikilink")
+Recorded Jul 28, 1975, during the [Desire](Desire "wikilink") sessions,
+released on [The Bootleg Series 1-3](The Bootleg Series 1-3 "wikilink")
 (1991)  
 Tabbed by Eyolf Østrem
 

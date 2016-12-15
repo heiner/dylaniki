@@ -9,7 +9,7 @@ tags:
 
 By Curtis Mayfield  
 Played by Bob Dylan during [The Basement
-Tapes](/wiki/The Basement Tapes "wikilink") sessions (1967), and released on
+Tapes](The Basement Tapes "wikilink") sessions (1967), and released on
 the promo EP for *Renaldo and Clara* (1976/78)  
 Tabbed by Eyolf Østrem
 
