@@ -1,1 +1,0 @@
-Open and alternate tunings used in some songs. See [[Help:Roadmaps#Open.2Falternate_tunings]].

@@ -1,75 +1,76 @@
-Words and music Bob Dylan<br>
-Released on [[Saved (Album)|Saved]] (1980)<br>
-Tabbed by Eyolf Østrem (it wasn't all that hard, really...) <br>
+---
+title: Saved
+permalink: Saved
+layout: wiki
+tags:
+ - Songs
+---
 
-----
-<pre class="verse">
-B
+Words and music Bob Dylan  
+Released on [Saved](/wiki/Saved (Album) "wikilink") (1980)  
+Tabbed by Eyolf Østrem (it wasn't all that hard, really...)  
 
-I was blinded by the devil,
+* * * * *
 
-Born already ruined,
+    B
 
-Stone-cold dead
+    I was blinded by the devil,
 
-As I stepped out of the womb.
+    Born already ruined,
 
-By His grace I have been touched,
+    Stone-cold dead
 
-By His word I have been healed,
+    As I stepped out of the womb.
 
-By His hand I've been delivered,
+    By His grace I have been touched,
 
-By His spirit I've been sealed.
-</pre>
-<pre class="refrain">
+    By His word I have been healed,
 
-I've been saved
+    By His hand I've been delivered,
 
-By the blood of the lamb,
+    By His spirit I've been sealed.
 
-Saved
 
-By the blood of the lamb,
+    I've been saved
 
-Saved, (saved)
-        E
-And I'm so glad
+    By the blood of the lamb,
 
-Yes, I'm so glad,
-          B
-Well, I'm so glad,
+    Saved
 
-so glad,
-          F#              (F#maj7 F#7)
-I want to thank You, Lord,
-          E
-I want to thank You, Lord,
-          B
-I want to thank You, Lord.
-</pre>
-<pre class="verse">
-By His truth I can be upright,
-By His strength I do endure,
-By His power I've been lifted,
-In His love I am secure.
-He bought me with a price,
-Freed me from the pit,
-Full of emptiness and wrath
-And the fire that burns in it.
-</pre>
-<pre class="refrain">
-I've been saved...
-</pre>
-<pre class="verse">
-Nobody to rescue me,
-Nobody would dare,
-I was going down for the last time,
-But by His mercy I've been spared.
-Not by works,
-But by faith in Him who called,
-For so long I've been hindered,
-For so long I've been stalled.
-</pre>
+    By the blood of the lamb,
 
-[[Category:Songs]]
+    Saved, (saved)
+            E
+    And I'm so glad
+
+    Yes, I'm so glad,
+              B
+    Well, I'm so glad,
+
+    so glad,
+              F#              (F#maj7 F#7)
+    I want to thank You, Lord,
+              E
+    I want to thank You, Lord,
+              B
+    I want to thank You, Lord.
+
+    By His truth I can be upright,
+    By His strength I do endure,
+    By His power I've been lifted,
+    In His love I am secure.
+    He bought me with a price,
+    Freed me from the pit,
+    Full of emptiness and wrath
+    And the fire that burns in it.
+
+    I've been saved...
+
+    Nobody to rescue me,
+    Nobody would dare,
+    I was going down for the last time,
+    But by His mercy I've been spared.
+    Not by works,
+    But by faith in Him who called,
+    For so long I've been hindered,
+    For so long I've been stalled.

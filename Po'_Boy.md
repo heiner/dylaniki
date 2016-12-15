@@ -1,137 +1,128 @@
-Words and music Bob Dylan<br>
-Released on [[Love And Theft]] (2001)<br>
+---
+title: Po' Boy
+permalink: Po' Boy
+layout: wiki
+tags:
+ - Songs
+---
+
+Words and music Bob Dylan  
+Released on [Love And Theft](/wiki/Love And Theft "wikilink") (2001)  
 Tabbed by Eyolf Østrem
 
-----
+* * * * *
+
 Chords:
 
-<pre class="chords">
-Fmaj7   133210  or x-8-10-10-10-12
-F6      13x231  or x-8-10-10-10-10
-Am/f#   202210  or xx4555 (=F#m7-5)
-Bm7-5   x2323x
-E7-5    010100  or, more correctly, 010130
-D9      x54555  or x54530 (in the bridge)
-B5      x2440x
-G6      320000
-G       320003  or 320033
-</pre>
+    Fmaj7   133210  or x-8-10-10-10-12
+    F6      13x231  or x-8-10-10-10-10
+    Am/f#   202210  or xx4555 (=F#m7-5)
+    Bm7-5   x2323x
+    E7-5    010100  or, more correctly, 010130
+    D9      x54555  or x54530 (in the bridge)
+    B5      x2440x
+    G6      320000
+    G       320003  or 320033
 
 The E7-5 is the combined result of guitar and bass. A plain E7 is just
-as good.<br>
+as good.  
 The G at the end of the bridge is, just like in Mississippi, more of a
 G7sus4 (3x301x) or G11 (3x3211).
 
-----
-<pre class="tab">
-  Fmaj7 F6          C     Am/f#       Fmaj7   G6 G  C
-  :   .   .   .     :   .   .   .     :   .   .   .     :   .   .   .
-|-12----10--------|-----------------|--------/3-1---0-|-----------------
-|-10----10--------|-1-----1---------|/5-5-5-5/5-3---1-|-----------------
-|-10----10--------|-0-----2---------|--------(0-0---0)|-----------------
-|-10----10--------|-2-----2---------|/5-5-5-5---------|-----------------
-|-----------------|-3-----0---------|-----------------|-----------------
-|-----------------|-------2---------|-----------------|-----------------
-</pre>
-<pre class="verse">
-C                                 Bm7-5        E7(-5)
-Man came to the door, I say, "For whom are you lookin' "
-               Am                   D9
-He says, "Your wife." I say, "She's busy in the kitchen cookin' "
-Fmaj7 F6   C         Am/f#
-Po'   boy, where you been?
-F(maj7)            G6          G    C
-I already told you, won't tell you again.
+* * * * *
 
-I say, "How much you want for that?" I go into the store,
-Man says, "Three dollars." "All right," I say, "Will you take four?"
-Po' boy, never say die,
-Things will be all right by and by.
+      Fmaj7 F6          C     Am/f#       Fmaj7   G6 G  C
+      :   .   .   .     :   .   .   .     :   .   .   .     :   .   .   .
+    |-12----10--------|-----------------|--------/3-1---0-|-----------------
+    |-10----10--------|-1-----1---------|/5-5-5-5/5-3---1-|-----------------
+    |-10----10--------|-0-----2---------|--------(0-0---0)|-----------------
+    |-10----10--------|-2-----2---------|/5-5-5-5---------|-----------------
+    |-----------------|-3-----0---------|-----------------|-----------------
+    |-----------------|-------2---------|-----------------|-----------------
 
-Workin' like on the main line, working like a devil,
-The game is the same, it's just up on another level.
-Po' boy, dressed in black,
-Police at your back.         B(5)
-</pre>
+    C                                 Bm7-5        E7(-5)
+    Man came to the door, I say, "For whom are you lookin' "
+                   Am                   D9
+    He says, "Your wife." I say, "She's busy in the kitchen cookin' "
+    Fmaj7 F6   C         Am/f#
+    Po'   boy, where you been?
+    F(maj7)            G6          G    C
+    I already told you, won't tell you again.
 
-<pre class="bridge">
-Em  B7       Em      B7
-Po' boy in a red hot town,
-Em     B7                Em
- out beyond the twinklin' stars,
-E7           Am            E7         Am
-Ridin' first class trains, makin' the rounds,
-E7                  Am        D9        G
-Tryin' to keep from fallin' between the cars
-</pre>
-<pre class="tab bridge">
-G
-   .       :     .     .             .       :     .     .
----------|-------------------    ----------|-------------------
--5-6---5-|-8---8-----6-------    --1-3---1-|-5---5-----3-------
--5-7---5-|-9---9-----7------- or ----------|-------------------
----------|-------------------    --2-3---2-|-5---5-----3-------
----------|-------------------    ----------|-------------------
----------|-------------------    ----------|-------------------
-</pre>
+    I say, "How much you want for that?" I go into the store,
+    Man says, "Three dollars." "All right," I say, "Will you take four?"
+    Po' boy, never say die,
+    Things will be all right by and by.
 
-<pre class="verse">
-Othello told Desdemona, "I'm cold, cover me with a blanket,
-By the way, what happened to that poisoned wine?"
-        She said, "I gave it to you, you drank it."
-Po' boy, layin' him straight,
-Pickin' up the cherries fallin' off the plate.
+    Workin' like on the main line, working like a devil,
+    The game is the same, it's just up on another level.
+    Po' boy, dressed in black,
+    Police at your back.         B(5)
 
-Time and love has branded me with its claws
-Had to go to Florida dodgin' them Georgia laws.
-Po' boy, in the hotel called The Palace of Gloom,
-Call down to room service, says "Send up a room."
-</pre>
+    Em  B7       Em      B7
+    Po' boy in a red hot town,
+    Em     B7                Em
+     out beyond the twinklin' stars,
+    E7           Am            E7         Am
+    Ridin' first class trains, makin' the rounds,
+    E7                  Am        D9        G
+    Tryin' to keep from fallin' between the cars
 
-<pre class="bridge">
-My mother was a daughter of a wealthy farmer,
-My father was a travelin' salesman, I never met him.
-When my mother died, my uncle took me and he ran a funeral parlor.
-He did a lot of nice things for me and I won't forget him.
-</pre>
+    G
+       .       :     .     .             .       :     .     .
+    ---------|-------------------    ----------|-------------------
+    -5-6---5-|-8---8-----6-------    --1-3---1-|-5---5-----3-------
+    -5-7---5-|-9---9-----7------- or ----------|-------------------
+    ---------|-------------------    --2-3---2-|-5---5-----3-------
+    ---------|-------------------    ----------|-------------------
+    ---------|-------------------    ----------|-------------------
 
-<pre class="tab bridge">
-    .       :     .     .
-----------|-------------------
---1-3---1-|-5---------3-3-----
-----------|-------------------
---2-3---2-|-5---------3-3-----
-----------|-------------------
-----------|-------------------
-</pre>
+    Othello told Desdemona, "I'm cold, cover me with a blanket,
+    By the way, what happened to that poisoned wine?"
+            She said, "I gave it to you, you drank it."
+    Po' boy, layin' him straight,
+    Pickin' up the cherries fallin' off the plate.
 
-<pre class="verse">
-All I know is that I'm thrilled by your kiss,
-I don't know any more than this.
-Po' boy, pickin' up sticks,
-Build you a house out of mortar and bricks.
+    Time and love has branded me with its claws
+    Had to go to Florida dodgin' them Georgia laws.
+    Po' boy, in the hotel called The Palace of Gloom,
+    Call down to room service, says "Send up a room."
 
-Knockin' on the door, I said, "Who's it, where you from?"
-Man said, "Freddie."  I said, "Freddie who?"
-        He said, "Freddie or not, here I come!"
-Po' boy, 'neath the stars that shine,
-Washin' them dishes, feedin' them swine.
+    My mother was a daughter of a wealthy farmer,
+    My father was a travelin' salesman, I never met him.
+    When my mother died, my uncle took me and he ran a funeral parlor.
+    He did a lot of nice things for me and I won't forget him.
 
-[Intro (slowly)]
-</pre>
+        .       :     .     .
+    ----------|-------------------
+    --1-3---1-|-5---------3-3-----
+    ----------|-------------------
+    --2-3---2-|-5---------3-3-----
+    ----------|-------------------
+    ----------|-------------------
 
-----
+    All I know is that I'm thrilled by your kiss,
+    I don't know any more than this.
+    Po' boy, pickin' up sticks,
+    Build you a house out of mortar and bricks.
+
+    Knockin' on the door, I said, "Who's it, where you from?"
+    Man said, "Freddie."  I said, "Freddie who?"
+            He said, "Freddie or not, here I come!"
+    Po' boy, 'neath the stars that shine,
+    Washin' them dishes, feedin' them swine.
+
+    [Intro (slowly)]
+
+* * * * *
+
 An alternate way of playing the end of the intro:
 
-<pre class="tab">
-  Fmaj7    G6        C
-  :    .   .     .       :
-|-0--------0---------0-|-------
-|-1--------0---3-1---1-|-------
-|-2--------0---------0-|-------
-|-3--------0---------2-|-------
-|-3--------2---------3-|-------
-|-1--------3-----------|-------
-</pre>
-
-[[Category:Songs]]
+      Fmaj7    G6        C
+      :    .   .     .       :
+    |-0--------0---------0-|-------
+    |-1--------0---3-1---1-|-------
+    |-2--------0---------0-|-------
+    |-3--------0---------2-|-------
+    |-3--------2---------3-|-------
+    |-1--------3-----------|-------

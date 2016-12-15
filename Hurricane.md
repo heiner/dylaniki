@@ -1,135 +1,140 @@
-Words and music Bob Dylan and Jacques Levy<br>
-Released on [[Desire]] (1976), and in a live version on [[Live 1975]] (2002)<br>
+---
+title: Hurricane
+permalink: Hurricane
+layout: wiki
+tags:
+ - Songs
+---
 
-Tabbed by Eyolf Østrem
+Words and music Bob Dylan and Jacques Levy  
+Released on [Desire](/wiki/Desire "wikilink") (1976), and in a live version on
+[Live 1975](/wiki/Live 1975 "wikilink") (2002)  
+ Tabbed by Eyolf Østrem
 
-The ''Live 1975'' version is virtually identical to the album
-version (chord-wise)
+The *Live 1975* version is virtually identical to the album version
+(chord-wise)
 
-----
-<pre class="verse">
-|: Am   F   Am   F :|
+* * * * *
 
-Am                           F
-Pistol shots ring out in the barroom night
-Am                             F
-Enter Patty Valentine from the upper hall.
-Am                          F
-She sees the bartender in a pool of blood,
-Am                       F
-Cries out, "My God, they killed them all!"
-C                           F
-Here comes the story of the Hurricane,
-C                       F
-The man the authorities came to blame
-Dm                          C
-For somethin' that he never done.
-Dm                        C   Em              Am
-Put in a prison cell, but one time he could-a been
-    F               C       G
-The champion of the world.
+    |: Am   F   Am   F :|
 
-Am   F   Am   F
+    Am                           F
+    Pistol shots ring out in the barroom night
+    Am                             F
+    Enter Patty Valentine from the upper hall.
+    Am                          F
+    She sees the bartender in a pool of blood,
+    Am                       F
+    Cries out, "My God, they killed them all!"
+    C                           F
+    Here comes the story of the Hurricane,
+    C                       F
+    The man the authorities came to blame
+    Dm                          C
+    For somethin' that he never done.
+    Dm                        C   Em              Am
+    Put in a prison cell, but one time he could-a been
+        F               C       G
+    The champion of the world.
 
-Three bodies lyin' there does Patty see
-And another man named Bello, movin' around mysteriously.
-"I didn't do it," he says, and he throws up his hands
-"I was only robbin' the register, I hope you understand.
-I saw them leavin'," he says, and he stops
-"One of us had better call up the cops."
-And so Patty calls the cops
-And they arrive on the scene with their red lights flashin'
-In the hot New Jersey night.
+    Am   F   Am   F
 
-Meanwhile, far away in another part of town
-Rubin Carter and a couple of friends are drivin' around.
-Number one contender for the middleweight crown
-Had no idea what kinda shit was about to go down
-When a cop pulled him over to the side of the road
-Just like the time before and the time before that.
-In Paterson that's just the way things go.
-If you're black you might as well not show up on the street
-'Less you wanna draw the heat.
+    Three bodies lyin' there does Patty see
+    And another man named Bello, movin' around mysteriously.
+    "I didn't do it," he says, and he throws up his hands
+    "I was only robbin' the register, I hope you understand.
+    I saw them leavin'," he says, and he stops
+    "One of us had better call up the cops."
+    And so Patty calls the cops
+    And they arrive on the scene with their red lights flashin'
+    In the hot New Jersey night.
 
-Alfred Bello had a partner and he had a rap for the cops.
-Him and Arthur Dexter Bradley were just out prowlin' around
-He said, "I saw two men runnin' out, they looked like middleweights
-They jumped into a white car with out-of-state plates."
-And Miss Patty Valentine just nodded her head.
-Cop said, "Wait a minute, boys, this one's not dead"
-So they took him to the infirmary
-And though this man could hardly see
-They told him that he could identify the guilty men.
+    Meanwhile, far away in another part of town
+    Rubin Carter and a couple of friends are drivin' around.
+    Number one contender for the middleweight crown
+    Had no idea what kinda shit was about to go down
+    When a cop pulled him over to the side of the road
+    Just like the time before and the time before that.
+    In Paterson that's just the way things go.
+    If you're black you might as well not show up on the street
+    'Less you wanna draw the heat.
 
-Four in the mornin' and they haul Rubin in,
-Take him to the hospital and they bring him upstairs.
-The wounded man looks up through his one dyin' eye
-Says, "Wha'd you bring him in here for? He ain't the guy!"
-Yes, here's the story of the Hurricane,
-The man the authorities came to blame
-For somethin' that he never done.
-Put in a prison cell, but one time he could-a been
-The champion of the world.
+    Alfred Bello had a partner and he had a rap for the cops.
+    Him and Arthur Dexter Bradley were just out prowlin' around
+    He said, "I saw two men runnin' out, they looked like middleweights
+    They jumped into a white car with out-of-state plates."
+    And Miss Patty Valentine just nodded her head.
+    Cop said, "Wait a minute, boys, this one's not dead"
+    So they took him to the infirmary
+    And though this man could hardly see
+    They told him that he could identify the guilty men.
 
-Four months later, the ghettos are in flame,
-Rubin's in South America, fightin' for his name
-While Arthur Dexter Bradley's still in the robbery game
-And the cops are puttin' the screws to him, lookin' for somebody to blame.
-"Remember that murder that happened in a bar?"
-"Remember you said you saw the getaway car?"
-"You think you'd like to play ball with the law?"
-"Think it might-a been that fighter that you saw runnin' that night?"
-"Don't forget that you are white."
+    Four in the mornin' and they haul Rubin in,
+    Take him to the hospital and they bring him upstairs.
+    The wounded man looks up through his one dyin' eye
+    Says, "Wha'd you bring him in here for? He ain't the guy!"
+    Yes, here's the story of the Hurricane,
+    The man the authorities came to blame
+    For somethin' that he never done.
+    Put in a prison cell, but one time he could-a been
+    The champion of the world.
 
-Arthur Dexter Bradley said, "I'm really not sure."
-Cops said, "A poor boy like you could use a break
-We got you for the motel job and we're talkin' to your friend Bello
-Now you don't wanta have to go back to jail, be a nice fellow.
-You'll be doin' society a favor.
-That sonofabitch is brave and gettin' braver.
-We want to put his ass in stir
-We want to pin this triple murder on him
-He ain't no Gentleman Jim."
+    Four months later, the ghettos are in flame,
+    Rubin's in South America, fightin' for his name
+    While Arthur Dexter Bradley's still in the robbery game
+    And the cops are puttin' the screws to him, lookin' for somebody to blame.
+    "Remember that murder that happened in a bar?"
+    "Remember you said you saw the getaway car?"
+    "You think you'd like to play ball with the law?"
+    "Think it might-a been that fighter that you saw runnin' that night?"
+    "Don't forget that you are white."
 
-Rubin could take a man out with just one punch
-But he never did like to talk about it all that much.
-It's my work, he'd say, and I do it for pay
-And when it's over I'd just as soon go on my way
-Up to some paradise
-Where the trout streams flow and the air is nice
-And ride a horse along a trail.
-But then they took him to the jailhouse
-Where they try to turn a man into a mouse.
+    Arthur Dexter Bradley said, "I'm really not sure."
+    Cops said, "A poor boy like you could use a break
+    We got you for the motel job and we're talkin' to your friend Bello
+    Now you don't wanta have to go back to jail, be a nice fellow.
+    You'll be doin' society a favor.
+    That sonofabitch is brave and gettin' braver.
+    We want to put his ass in stir
+    We want to pin this triple murder on him
+    He ain't no Gentleman Jim."
 
-All of Rubin's cards were marked in advance
-The trial was a pig-circus, he never had a chance.
-The judge made Rubin's witnesses drunkards from the slums
-To the white folks who watched he was a revolutionary bum
-And to the black folks he was just a crazy nigger.
-No one doubted that he pulled the trigger.
-And though they could not produce the gun,
-The D.A. said he was the one who did the deed
-And the all-white jury agreed.
+    Rubin could take a man out with just one punch
+    But he never did like to talk about it all that much.
+    It's my work, he'd say, and I do it for pay
+    And when it's over I'd just as soon go on my way
+    Up to some paradise
+    Where the trout streams flow and the air is nice
+    And ride a horse along a trail.
+    But then they took him to the jailhouse
+    Where they try to turn a man into a mouse.
 
-Rubin Carter was falsely tried.
-The crime was murder "one," guess who testified?
-Bello and Bradley and they both baldly lied
-And the newspapers, they all went along for the ride.
-How can the life of such a man
-Be in the palm of some fool's hand?
-To see him obviously framed
-Couldn't help but make me feel ashamed to live in a land
-Where justice is a game.
+    All of Rubin's cards were marked in advance
+    The trial was a pig-circus, he never had a chance.
+    The judge made Rubin's witnesses drunkards from the slums
+    To the white folks who watched he was a revolutionary bum
+    And to the black folks he was just a crazy nigger.
+    No one doubted that he pulled the trigger.
+    And though they could not produce the gun,
+    The D.A. said he was the one who did the deed
+    And the all-white jury agreed.
 
-Now all the criminals in their coats and their ties
-Are free to drink martinis and watch the sun rise
-While Rubin sits like Buddha in a ten-foot cell
-An innocent man in a living hell.
-That's the story of the Hurricane,
-But it won't be over till they clear his name
-And give him back the time he's done.
-Put in a prison cell, but one time he could-a been
-The champion of the world.
-</pre>
+    Rubin Carter was falsely tried.
+    The crime was murder "one," guess who testified?
+    Bello and Bradley and they both baldly lied
+    And the newspapers, they all went along for the ride.
+    How can the life of such a man
+    Be in the palm of some fool's hand?
+    To see him obviously framed
+    Couldn't help but make me feel ashamed to live in a land
+    Where justice is a game.
 
-[[Category:Songs]]
+    Now all the criminals in their coats and their ties
+    Are free to drink martinis and watch the sun rise
+    While Rubin sits like Buddha in a ten-foot cell
+    An innocent man in a living hell.
+    That's the story of the Hurricane,
+    But it won't be over till they clear his name
+    And give him back the time he's done.
+    Put in a prison cell, but one time he could-a been
+    The champion of the world.

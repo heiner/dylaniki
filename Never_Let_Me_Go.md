@@ -1,51 +1,51 @@
-Written by Joseph C. Scott<br>
+---
+title: Never Let Me Go
+permalink: Never Let Me Go
+layout: wiki
+tags:
+ - Songs
+ - Miscellaneous Songs
+---
+
+Written by Joseph C. Scott  
 Performed by Bob Dylan and Joan Baez during the first Rolling Thunder
-Revue (1975)<br>
+Revue (1975)  
 Tabbed by Eyolf Østrem
 
 D9 = xx0210 (play straight D if you prefer that)
 
-----
-<pre class="verse">
-(/d-e-f#) G
+* * * * *
 
-            G          Em
-Just let me love you tonight
-Am(/c) D           G  Em
-    Forget about tomorrow
-Am(/c) D              G        Em
-    My darlin' let me hold you tight
-    C G/b Am  D  G       C/g  G
-And never let me go
+    (/d-e-f#) G
 
-Dry your eyes
-No tears and no sorrow
-Cling to me with all your might
-And never let me go
+                G          Em
+    Just let me love you tonight
+    Am(/c) D           G  Em
+        Forget about tomorrow
+    Am(/c) D              G        Em
+        My darlin' let me hold you tight
+        C G/b Am  D  G       C/g  G
+    And never let me go
 
-G7
-</pre>
+    Dry your eyes
+    No tears and no sorrow
+    Cling to me with all your might
+    And never let me go
 
-<pre class="bridge">
-  C                Cm
-A million times or more dear
-    G         D     G        G7
-You said we'd never part
-    B7       Em
-But lately I find
-  A7             D...C...G/b...D9
-A stranger in my arms
-</pre>
+    G7
 
-<pre class="verse">
-Give me the right
-In summer or in spring-time
-To tell the world that you are mine
-And never let me go.
+      C                Cm
+    A million times or more dear
+        G         D     G        G7
+    You said we'd never part
+        B7       Em
+    But lately I find
+      A7             D...C...G/b...D9
+    A stranger in my arms
 
-C  G/b  Am D  G
-</pre>
+    Give me the right
+    In summer or in spring-time
+    To tell the world that you are mine
+    And never let me go.
 
-[[Category:Songs]]
-
-[[Category:Miscellaneous Songs]]
+    C  G/b  Am D  G

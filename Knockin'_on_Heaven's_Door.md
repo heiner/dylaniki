@@ -1,195 +1,218 @@
-Words and music Bob Dylan<br>
-Released on [[Pat Garrett &amp; Billy The Kid]] (1973) and on [[Biograph]] (1985), and in live versions on [[Before the Flood]] (1974), [[At Budokan]] (1978), ''Dylan and the Dead ''(1988), [[MTV Unplugged]] (1995), and [[Live 1975]] (2002)<br>
+---
+title: Knockin' on Heaven's Door
+permalink: Knockin' on Heaven's Door
+layout: wiki
+tags:
+ - Songs
+---
+
+Words and music Bob Dylan  
+Released on [Pat Garrett &amp; Billy The
+Kid](/wiki/Pat Garrett &amp; Billy The Kid "wikilink") (1973) and on
+[Biograph](/wiki/Biograph "wikilink") (1985), and in live versions on [Before
+the Flood](/wiki/Before the Flood "wikilink") (1974), [At
+Budokan](/wiki/At Budokan "wikilink") (1978), ''Dylan and the Dead ''(1988),
+[MTV Unplugged](/wiki/MTV Unplugged "wikilink") (1995), and [Live
+1975](/wiki/Live 1975 "wikilink") (2002)  
 Tabbed and transcribed by Eyolf Østrem
 
-----
-The challenge with this song is not the chords, which are quite simple, actually, but
-the lyrics, which change quite a lot, almost from show to show, with improvised new lines
-about what brings him to the door, knockin'.
+* * * * *
+
+The challenge with this song is not the chords, which are quite simple,
+actually, but the lyrics, which change quite a lot, almost from show to
+show, with improvised new lines about what brings him to the door,
+knockin'.
 
 The Am7 is played as a simple Am in most versions.
 
-[[Unplugged]] version same as below, but with a capo on the 2nd fret (on Jackson's guitar;
-Dylan fumbles around with an occasional lick on an uncapoed guitar).
+[Unplugged](/wiki/Unplugged "wikilink") version same as below, but with a capo
+on the 2nd fret (on Jackson's guitar; Dylan fumbles around with an
+occasional lick on an uncapoed guitar).
 
 In many live versions, the last line of the refrain is “Just like so
 many times before” (thanks to Wayne Hampton for reminding me).
 
-----
-<pre class="tab">
-|:G . D . Am7 . . . |G . D . C . . . :|</pre>
+* * * * *
 
-<pre class="verse">
-G               D            Am7
-Mama, take this badge off of me
-G        D         C
- I can't use it anymore.
-G             D                 Am7
- It's gettin' dark, too dark to see
-G                D                    C
- I feel like I'm knockin' on heaven's door.
-</pre>
-<pre class="refrain">
-Knock, knock, knockin' on heaven's door
-Knock, knock, knockin' on heaven's door
-Knock, knock, knockin' on heaven's door
-Knock, knock, knockin' on heaven's door
-</pre>
-<pre class="verse">
-Mama, put my guns in the ground
-I can't shoot them anymore.
-That long black cloud is comin' down
-I feel like I'm knockin' on heaven's door.
-</pre>
-<pre class="refrain">
-Knock, knock, knockin' on heaven's door
-Knock, knock, knockin' on heaven's door
-Knock, knock, knockin' on heaven's door
-Knock, knock, knockin' on heaven's door</pre>
+    |:G . D . Am7 . . . |G . D . C . . . :|
 
-<h2 class="songversion">Live 1975 version</h2>
+    G               D            Am7
+    Mama, take this badge off of me
+    G        D         C
+     I can't use it anymore.
+    G             D                 Am7
+     It's gettin' dark, too dark to see
+    G                D                    C
+     I feel like I'm knockin' on heaven's door.
 
+    Knock, knock, knockin' on heaven's door
+    Knock, knock, knockin' on heaven's door
+    Knock, knock, knockin' on heaven's door
+    Knock, knock, knockin' on heaven's door
+
+    Mama, put my guns in the ground
+    I can't shoot them anymore.
+    That long black cloud is comin' down
+    I feel like I'm knockin' on heaven's door.
+
+    Knock, knock, knockin' on heaven's door
+    Knock, knock, knockin' on heaven's door
+    Knock, knock, knockin' on heaven's door
+    Knock, knock, knockin' on heaven's door
+
+<h2 class="songversion">
+Live 1975 version
+
+</h2>
 The chords are the same as above.
 
-Mama wipe the blood off of my face<br>
-I can't see through it anymore<br>
-I need someone to talk to, and a new hiding place<br>
+Mama wipe the blood off of my face  
+I can't see through it anymore  
+I need someone to talk to, and a new hiding place  
 I feel like I'm looking at heaven's door
 
-[Roger McGuinn:]<br>
-Mama I can hear that thunder roar<br>
-Echoin' down from God's distant shore<br>
-I can hear 'em callin' for my soul<br>
+[Roger McGuinn:]  
+Mama I can hear that thunder roar  
+Echoin' down from God's distant shore  
+I can hear 'em callin' for my soul  
 Feel I'm knockin' on heaven's door
 
-----
-<h3>Live version, 2001</h3>
+* * * * *
 
-The most stable chord sequence in the world (maybe with the exception of "All
-Along the Watchtower") has been changed!
+<h3>
+Live version, 2001
 
-<pre>| E . B . | F#m . . . | E . B . | A . . . |</pre>
+</h3>
+The most stable chord sequence in the world (maybe with the exception of
+"All Along the Watchtower") has been changed!
 
-<pre class="verse">
-E               B            F#m
-Mama, take this badge off of me
-E        B         A
- I can't use it anymore.
-A             E(/g#)            B
- It's gettin' dark, too dark to see
-C#m              B                    A
- I feel like I'm knockin' on heaven's door.
- </pre>
+    | E . B . | F#m . . . | E . B . | A . . . |
 
-----
-<h3>Alternative outtake verses from the Burbank sessions, Feb 1973</h3>
+    E               B            F#m
+    Mama, take this badge off of me
+    E        B         A
+     I can't use it anymore.
+    A             E(/g#)            B
+     It's gettin' dark, too dark to see
+    C#m              B                    A
+     I feel like I'm knockin' on heaven's door.
+     
 
-Take #1:
+* * * * *
 
-Mama, put my guns in the ground<br>
-I don't need them anymore.<br>
-long black train is comin' round<br>
+<h3>
+Alternative outtake verses from the Burbank sessions, Feb 1973
+
+</h3>
+Take \#1:
+
+Mama, put my guns in the ground  
+I don't need them anymore.  
+long black train is comin' round  
 I feel like I'm knockin' on heaven's door.
 
-Mama, take this badge off of me<br>
-I don't need it anymore.<br>
-It's gettin' dark, too dark to see<br>
+Mama, take this badge off of me  
+I don't need it anymore.  
+It's gettin' dark, too dark to see  
 I feel I'm knockin' on heaven's door.
 
-Mama, put my guns in the ground<br>
-I can't shoot them anymore.<br>
-that long black train is comin' round<br>
+Mama, put my guns in the ground  
+I can't shoot them anymore.  
+that long black train is comin' round  
 I'm knockin' up on heaven's door
 
-Take #2:
+Take \#2:
 
-"Ok, let's do it without the vocal. It's the last time I work for anybody though,
-on a movie. With music."
+"Ok, let's do it without the vocal. It's the last time I work for
+anybody though, on a movie. With music."
 
-----
-<h3>Various live lyric changes</h3>
+* * * * *
 
-Mama wipe the blood from my face<br>
-I'm sick and tired of the war<br>
-Got a lone black feelin', and it's hard to trace<br>
-Feel like I'm knockin' on heaven's door<br>
-    (1974, various locations, incl. the version on [[''Before the Flood'']]. <br>
-    This verse is inserted between the two verses on the original album)
+<h3>
+Various live lyric changes
 
-Mama take these bells out of my ears<br>
-I can't hear them anymore<br>
-They're bringin' me down and givin' me tears<br>
+</h3>
+Mama wipe the blood from my face  
+I'm sick and tired of the war  
+Got a lone black feelin', and it's hard to trace  
+Feel like I'm knockin' on heaven's door  
+ (1974, various locations, incl. the version on [''Before the
+Flood''](''Before the Flood'' "wikilink").  
+ This verse is inserted between the two verses on the original album)
+
+Mama take these bells out of my ears  
+I can't hear them anymore  
+They're bringin' me down and givin' me tears  
 Feel like I'm knockin' on heaven's door
 
-Roger McGuinn's verse:<br>
-Mama I can hear that thunder roar<br>
-Echoin' down from God's distant shore<br>
-I can hear it callin' for my soul<br>
-Feel I'm knockin' on heaven's door<br>
-    (Waterbury CT, 751111)
+Roger McGuinn's verse:  
+Mama I can hear that thunder roar  
+Echoin' down from God's distant shore  
+I can hear it callin' for my soul  
+Feel I'm knockin' on heaven's door  
+ (Waterbury CT, 751111)
 
-Mama wipe the blood off of my face<br>
-I can't see through it anymore<br>
-I need someone to talk to, and a new hiding place<br>
-I feel like I'm knocking on heaven's door<br>
-    (Boston, 751121)
+Mama wipe the blood off of my face  
+I can't see through it anymore  
+I need someone to talk to, and a new hiding place  
+I feel like I'm knocking on heaven's door  
+ (Boston, 751121)
 
-Mama take these tears out of my eyes<br>
-I can't see through them anymore<br>
-Just for once, I'd like to see the sunrise<br>
-Feel like I'm knockin' on heaven's door<br>
-    (MSG, "Night of the Hurricane", 751208)
+Mama take these tears out of my eyes  
+I can't see through them anymore  
+Just for once, I'd like to see the sunrise  
+Feel like I'm knockin' on heaven's door  
+ (MSG, "Night of the Hurricane", 751208)
 
-Mama take this badge off of me<br>
-I can't feel it anymore<br>
-It's getting dark, too dark to see<br>
-Feel like I'm knockin' on heaven's door<br>
-    (New Orleans, 760503, Fort Worth 760516)
+Mama take this badge off of me  
+I can't feel it anymore  
+It's getting dark, too dark to see  
+Feel like I'm knockin' on heaven's door  
+ (New Orleans, 760503, Fort Worth 760516)
 
-Mama tow my barge down to sea<br>
-Pull it down from shore to shore<br>
-Two brown eyes are lookin' at me <br>
+Mama tow my barge down to sea  
+Pull it down from shore to shore  
+Two brown eyes are lookin' at me  
 Feel like I'm knockin' on heaven's door.
 
-Goin' down by that road <br>
-Feelin' down and more and more <br>
-Take the train by [...]<br>
-Feel like I'm knockin' on heaven's door. <br>
-    (Earl's Court, London 810628)
+Goin' down by that road  
+Feelin' down and more and more  
+Take the train by [...]  
+Feel like I'm knockin' on heaven's door.  
+ (Earl's Court, London 810628)
 
-[...] on this scene<br>
-fallin' down like to the floor<br>
-Two brown eyes are looking at me<br>
-Feel like I'm knockin' on heaven's door<br>
-    (Earl's Court, London 810629)
+[...] on this scene  
+fallin' down like to the floor  
+Two brown eyes are looking at me  
+Feel like I'm knockin' on heaven's door  
+ (Earl's Court, London 810629)
 
-Mama take me above all that misery<br>
-Let it fall down to the floor<br>
-Two brown eyes are looking at me<br>
-Feel like I'm knockin' on heaven's door<br>
-    (Drammen, Norway, 810710)
+Mama take me above all that misery  
+Let it fall down to the floor  
+Two brown eyes are looking at me  
+Feel like I'm knockin' on heaven's door  
+ (Drammen, Norway, 810710)
 
-Mama take this [front part away]<br>
-I just don't want it anymore<br>
-Aah, when I get in front of something it's too much to pay<br>
+Mama take this [front part away]  
+I just don't want it anymore  
+Aah, when I get in front of something it's too much to pay  
 Yeah, Feel like I'm knockin' on heaven's door
 
-Mama take my boat [out of the sea]<br>
-Let it fall down to the floor<br>
-Two brown eyes are looking at me<br>
-Feel like I'm knockin' on heaven's door.<br>
-    (Avignon, 810725)
+Mama take my boat [out of the sea]  
+Let it fall down to the floor  
+Two brown eyes are looking at me  
+Feel like I'm knockin' on heaven's door.  
+ (Avignon, 810725)
 
-Mama wipe the blod from my face<br>
-I just can't see trough it any more<br>
-Sometimes you feel so damn out of place<br>
-And I feel like I'm knockin' on-a heavens door<br>
-    (Bristol Connecticut, Lake Compounce 4 Sep, 1988. Submitted by Patrik Winquist)
+Mama wipe the blod from my face  
+I just can't see trough it any more  
+Sometimes you feel so damn out of place  
+And I feel like I'm knockin' on-a heavens door  
+ (Bristol Connecticut, Lake Compounce 4 Sep, 1988. Submitted by Patrik
+Winquist)
 
-The sun is setting down<br>
-On this ill-forgotten town<br>
-Two riders are coming down<br>
-Bury my heart in this ground<br>
-    (Unknown date and location, submitted by Chris Barrett)
-
-[[Category:Songs]]
+The sun is setting down  
+On this ill-forgotten town  
+Two riders are coming down  
+Bury my heart in this ground  
+ (Unknown date and location, submitted by Chris Barrett)

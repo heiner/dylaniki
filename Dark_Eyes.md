@@ -1,100 +1,98 @@
-Words and music Bob Dylan<br>
-Released on [[Empire Burlesque]] (1985)<br>
+---
+title: Dark Eyes
+permalink: Dark Eyes
+layout: wiki
+tags:
+ - Songs
+---
+
+Words and music Bob Dylan  
+Released on [Empire Burlesque](/wiki/Empire Burlesque "wikilink") (1985)  
 Tabbed by Eyolf Østrem
 
-----
-In ''Dylan behind closed doors, The recording sessions [1960-1994]'' Clinton Heylin says about the guitar playing on this
-song:
+* * * * *
 
-<p class="quote">
+In *Dylan behind closed doors, The recording sessions [1960-1994]*
+Clinton Heylin says about the guitar playing on this song:
+
 Even after Dylan had written the song, the guitar part proved
 problematic as he repeatedly hit the wrong strings accidentally in the
-studio. With only three strings necessary for what is actually a
-rather trite melody, the other three strings were taped down, at which
-point Dylan finally got the song on tape (p.161).
-</p>
+studio. With only three strings necessary for what is actually a rather
+trite melody, the other three strings were taped down, at which point
+Dylan finally got the song on tape (p.161).
 
-This is complete nonsense, which more or less confirms my suspicion
-that Heylin hasn't really listened carefully enough to the things he
-writes off. Dylan uses all six strings, hits “wrong” bass notes, but
-so consistently and clearly that it definitely is the way he wanted it
-to sound. It's odd, though, with that open 4th string throughout most
-of the song.
+This is complete nonsense, which more or less confirms my suspicion that
+Heylin hasn't really listened carefully enough to the things he writes
+off. Dylan uses all six strings, hits “wrong” bass notes, but so
+consistently and clearly that it definitely is the way he wanted it to
+sound. It's odd, though, with that open 4th string throughout most of
+the song.
 
 What is special is that all the strings are tuned down one whole step,
 so that what is really a song in G major, is played as if in A major.
 
 I'm not dead certain about all this – especially the choices of
 positions for the chords in the first measure (and corresponding). It
-''sounds'' as if he plays it as written below, but the more natural
-thing would be to play -655 -454 -655. You decide. If you come up with
-a better solution, pleast let me know
+*sounds* as if he plays it as written below, but the more natural thing
+would be to play -655 -454 -655. You decide. If you come up with a
+better solution, pleast let me know
 
-<strong>Chords </strong>(the roman numerals refer to the fret position):<br>
-Most of these chords have a ''d'' in the bass; see tab for fingerings
+<strong>Chords </strong>(the roman numerals refer to the fret
+position):  
+Most of these chords have a *d* in the bass; see tab for fingerings
 
-<pre class="chords">
-Av     xx0655  (i.e. A/d)
-Eiv    xx0454 or x7x454
-Eix    x7999x
-</pre>
+    Av     xx0655  (i.e. A/d)
+    Eiv    xx0454 or x7x454
+    Eix    x7999x
 
-<pre class="tab">
-    A       Av  E   A     D       E         A   Av  E   A     D       A
-  .     :   .   .   .     :   .   .   .     :   .   .   .     :   .   .   .
-|---0-|-----5---0---0---|-2-------0-------|-0---5---0---0---|(2)--------------|
-|---2-|-----5---0---2---|-3-------0-------|-2---5---0---2---|-3-------2-------|
-|---2-|-----6---1---2---|-2-------1-------|-2---6---1---2---|-2-------2-------|
-|-----|---0---0---0---0-|---0---------2---|-------0---0---0-|---0-0-----------|
-|-----|-0---------------|---------------0-|-----------------|-------0-------0-|
-|-----|-----------------|-------0---------|-----------------|-----------------|
-</pre>
-<pre class="tab">
-  A   Av  E   A     D       E         A   Av  E   A     D       A
-  :   .   .   .     :   .   .   .     :   .   .   .     :   .   .   .
-|-0---5---4---5---|-2-------0-------|-0---5---0---0---|-2-------0-------|
-|-2---5---5---5---|-3-------0-------|-2---5---0---2---|-3-------2-------|
-|-2---6---4---6---|-2-------1-------|-2---6---1---2---|-2---2---2-------|
-|---0---0---0---0-|---0-------2-----|-------0---0---0-|---0---0---------|
-|-----------------|---------------0-|-----------------|-----------------|
-|-----------------|-------0---------|-----------------|-----------------|
-</pre>
-<pre class="tab">
-     Eix  Av  Aix Av    D       Eiv       Eiv Av  Aix Av    D       Eiv
+        A       Av  E   A     D       E         A   Av  E   A     D       A
+      .     :   .   .   .     :   .   .   .     :   .   .   .     :   .   .   .
+    |---0-|-----5---0---0---|-2-------0-------|-0---5---0---0---|(2)--------------|
+    |---2-|-----5---0---2---|-3-------0-------|-2---5---0---2---|-3-------2-------|
+    |---2-|-----6---1---2---|-2-------1-------|-2---6---1---2---|-2-------2-------|
+    |-----|---0---0---0---0-|---0---------2---|-------0---0---0-|---0-0-----------|
+    |-----|-0---------------|---------------0-|-----------------|-------0-------0-|
+    |-----|-----------------|-------0---------|-----------------|-----------------|
+
+      A   Av  E   A     D       E         A   Av  E   A     D       A
       :   .   .   .     :   .   .   .     :   .   .   .     :   .   .   .
-----|-----5---9---5---|-2-------4-------|-4---5---9---5---|-2-------4-------|
-----|-9---5--10---5---|-3---3---5-------|-5---5--10---5---|-3---3---5-------|
-----|-9---6---9---6---|-2-2-----4-------|-4---6---9---6---|-2-2-----4-------|
-----|-9-----0---0---0-|-----------------|-------0---0---0-|-----------------|
--/7-|-----------------|-------7-------7-|---0-------------|-------7---------|
-----|-----------------|-----------------|-----------------|-----------------|
-      I  live in  an -  o-ther world where life and death are memorized
-</pre>
+    |-0---5---4---5---|-2-------0-------|-0---5---0---0---|-2-------0-------|
+    |-2---5---5---5---|-3-------0-------|-2---5---0---2---|-3-------2-------|
+    |-2---6---4---6---|-2-------1-------|-2---6---1---2---|-2---2---2-------|
+    |---0---0---0---0-|---0-------2-----|-------0---0---0-|---0---0---------|
+    |-----------------|---------------0-|-----------------|-----------------|
+    |-----------------|-------0---------|-----------------|-----------------|
 
-<pre class="verse">
-        A  Av Eiv Av  D  E            A    Av  Eiv     Av     D    A
-Oh, the gentlemen are talking and the midnight moon is on the riverside,
-        A    Av  Eiv Av D   E       A  Av Eiv  Av  D     A
-They're drinking up and walking and it is time for me to slide.
-Evii Av   Aix Av D    E           Evii Av  Aix   Av  D    E
-I    live in  another world where life and death are memorized,
-          A     Av Eiv    Av   D       E          A  Av Eiv Av  D    A
-Where the earth is strung with lovers' pearls and all I see are dark eyes.
+         Eix  Av  Aix Av    D       Eiv       Eiv Av  Aix Av    D       Eiv
+          :   .   .   .     :   .   .   .     :   .   .   .     :   .   .   .
+    ----|-----5---9---5---|-2-------4-------|-4---5---9---5---|-2-------4-------|
+    ----|-9---5--10---5---|-3---3---5-------|-5---5--10---5---|-3---3---5-------|
+    ----|-9---6---9---6---|-2-2-----4-------|-4---6---9---6---|-2-2-----4-------|
+    ----|-9-----0---0---0-|-----------------|-------0---0---0-|-----------------|
+    -/7-|-----------------|-------7-------7-|---0-------------|-------7---------|
+    ----|-----------------|-----------------|-----------------|-----------------|
+          I  live in  an -  o-ther world where life and death are memorized
 
-A cock is crowing far away and another soldier's deep in prayer,
-Some mother's child has gone astray, she can't find him anywhere.
-But I can hear another drum beating for the dead that rise,
-Whom nature's beast fears as they come and all I see are dark eyes.
+            A  Av Eiv Av  D  E            A    Av  Eiv     Av     D    A
+    Oh, the gentlemen are talking and the midnight moon is on the riverside,
+            A    Av  Eiv Av D   E       A  Av Eiv  Av  D     A
+    They're drinking up and walking and it is time for me to slide.
+    Evii Av   Aix Av D    E           Evii Av  Aix   Av  D    E
+    I    live in  another world where life and death are memorized,
+              A     Av Eiv    Av   D       E          A  Av Eiv Av  D    A
+    Where the earth is strung with lovers' pearls and all I see are dark eyes.
 
-They tell me to be discreet for all intended purposes,
-They tell me revenge is sweet and from where they stand, I'm sure it is.
-But I feel nothing for their game where beauty goes unrecognized,
-All I feel is heat and flame and all I see are dark eyes.
+    A cock is crowing far away and another soldier's deep in prayer,
+    Some mother's child has gone astray, she can't find him anywhere.
+    But I can hear another drum beating for the dead that rise,
+    Whom nature's beast fears as they come and all I see are dark eyes.
 
-Oh, the French girl, she's in paradise and a drunken man is at the wheel,
-Hunger pays a heavy price to the falling gods of speed and steel.
-Oh, time is short and the days are sweet and passion rules the arrow that flies,
-A million faces at my feet but all I see are dark eyes.
-</pre>
+    They tell me to be discreet for all intended purposes,
+    They tell me revenge is sweet and from where they stand, I'm sure it is.
+    But I feel nothing for their game where beauty goes unrecognized,
+    All I feel is heat and flame and all I see are dark eyes.
 
-[[Category:Songs]]
+    Oh, the French girl, she's in paradise and a drunken man is at the wheel,
+    Hunger pays a heavy price to the falling gods of speed and steel.
+    Oh, time is short and the days are sweet and passion rules the arrow that flies,
+    A million faces at my feet but all I see are dark eyes.

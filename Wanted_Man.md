@@ -1,45 +1,51 @@
-Written by Bob Dylan and Johnny Cash<br>
-Recorded by Johnny Cash<br>
+---
+title: Wanted Man
+permalink: Wanted Man
+layout: wiki
+tags:
+ - Songs
+---
+
+Written by Bob Dylan and Johnny Cash  
+Recorded by Johnny Cash  
 Tabbed by Eyolf Østrem
 
-----
-<pre class="verse">
-       C                         D
-Wanted man in California, wanted man in Buffalo,
-       G                          F         C
-wanted man in Kansas City, wanted man in Ohio
+* * * * *
 
-Wanted man in Mississippi, wanted man in old Cheyenne,
-wherever you might look tonight you might see this wanted man
+           C                         D
+    Wanted man in California, wanted man in Buffalo,
+           G                          F         C
+    wanted man in Kansas City, wanted man in Ohio
 
-I might be in Colorado, or Georgia by the sea,
-workin' for some man who may not know at all who I might be
+    Wanted man in Mississippi, wanted man in old Cheyenne,
+    wherever you might look tonight you might see this wanted man
 
-If you ever see me comin', and if you know who I am,
-don't you breath it to nobody 'cos you know I'm on the lamb
+    I might be in Colorado, or Georgia by the sea,
+    workin' for some man who may not know at all who I might be
 
-Wanted man by Lucy Watson, wanted man by Jeannie Brown,
-wanted man by Nelly Johnson, wanted man in this Tex town
+    If you ever see me comin', and if you know who I am,
+    don't you breath it to nobody 'cos you know I'm on the lamb
 
-Well, I've had all that I wanted of a lot of things I had,
-and a lot more than I needed of some things that turned out bad.
+    Wanted man by Lucy Watson, wanted man by Jeannie Brown,
+    wanted man by Nelly Johnson, wanted man in this Tex town
 
-I got sidetracked in El Paso, stopped to get myself a map
-Went the wrong way in Pleura with Juanita on my back
+    Well, I've had all that I wanted of a lot of things I had,
+    and a lot more than I needed of some things that turned out bad.
 
-Then I went to sleep in Shreveport, Woke up in Abilene
-Wonderin' why I'm wanted at some town half way between
+    I got sidetracked in El Paso, stopped to get myself a map
+    Went the wrong way in Pleura with Juanita on my back
 
-Wanted man in Albuquerque, Wanted man in Syracuse
-Wanted man in Tallahassee, Wanted man in Baton Rouge
+    Then I went to sleep in Shreveport, Woke up in Abilene
+    Wonderin' why I'm wanted at some town half way between
 
-There's somebody set to grab me anywhere that I might be
-And wherever you might look tonight you might get a glimpse of me
+    Wanted man in Albuquerque, Wanted man in Syracuse
+    Wanted man in Tallahassee, Wanted man in Baton Rouge
 
-Wanted man in California, wanted man in Buffalo
-Wanted man in Kansas City, wanted man in Ohio
+    There's somebody set to grab me anywhere that I might be
+    And wherever you might look tonight you might get a glimpse of me
 
-Wanted man in Mississippi, wanted man in ol' Cheyenne
-Wherever you might look tonight you might see this wanted man</pre>
+    Wanted man in California, wanted man in Buffalo
+    Wanted man in Kansas City, wanted man in Ohio
 
-[[Category:Songs]]
+    Wanted man in Mississippi, wanted man in ol' Cheyenne
+    Wherever you might look tonight you might see this wanted man

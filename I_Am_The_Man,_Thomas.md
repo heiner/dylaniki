@@ -1,99 +1,84 @@
-Written by Ralph Stanley and Larry Sparks<br>
-Performed by Bob Dylan during 1999 (various locations)<br>
-Lyrics transcribed by seabreez (based on Ralph Stanley's own version)<br>
-The two chords discovered by Eyolf Østrem<br>
+---
+title: I Am The Man, Thomas
+permalink: I Am The Man, Thomas
+layout: wiki
+tags:
+ - Songs
+ - Miscellaneous Songs
+---
+
+Written by Ralph Stanley and Larry Sparks  
+Performed by Bob Dylan during 1999 (various locations)  
+Lyrics transcribed by seabreez (based on Ralph Stanley's own version)  
+The two chords discovered by Eyolf Østrem  
 Thanks to Michael for supplies.
 
-----
-<pre class="refrain">
-G
-I am the Man, Thomas
+* * * * *
 
-I am the Man
+    G
+    I am the Man, Thomas
 
-Look at these nail scars
-D          G
-Here in my hand
-</pre>
+    I am the Man
 
-<pre class="verse">
-G
-They drove me up the hill, Thomas
+    Look at these nail scars
+    D          G
+    Here in my hand
 
-I am the Man
+    G
+    They drove me up the hill, Thomas
 
-They made me carry the cross, Thomas
-D        G
-I am the Man
-</pre>
+    I am the Man
 
-<pre class="refrain">
-I am the Man, Thomas
-I am the Man
-Look at these nail scars
-Here in my hand
-</pre>
+    They made me carry the cross, Thomas
+    D        G
+    I am the Man
 
-<pre class="verse">
-They crowned my head with thorns, Thomas
-I am the Man
-They nailed me to the cross, Thomas
-I am the Man
-</pre>
+    I am the Man, Thomas
+    I am the Man
+    Look at these nail scars
+    Here in my hand
 
-<pre class="refrain">
-I am the Man, Thomas
-I am the Man
-Look at these nail scars
-Here in my hand
-</pre>
+    They crowned my head with thorns, Thomas
+    I am the Man
+    They nailed me to the cross, Thomas
+    I am the Man
 
-<pre class="verse">
-They pierced me in the side
-I am the Man
-I died on the cross, Thomas
-I am the Man
-</pre>
+    I am the Man, Thomas
+    I am the Man
+    Look at these nail scars
+    Here in my hand
 
-<pre class="refrain">
-I am the Man, Thomas
-I am the Man
-Look at these nails scars
-Here in my hand
-</pre>
+    They pierced me in the side
+    I am the Man
+    I died on the cross, Thomas
+    I am the Man
 
-<pre class="verse">
-They buried me in the tomb, Thomas
-I am the Man
-In three days I rose, Thomas
-I am the Man
-</pre>
+    I am the Man, Thomas
+    I am the Man
+    Look at these nails scars
+    Here in my hand
 
-<pre class="refrain">
-I am the Man, Thomas
-I am the Man
-Look at these nails scars
-Here in my hand
-</pre>
+    They buried me in the tomb, Thomas
+    I am the Man
+    In three days I rose, Thomas
+    I am the Man
 
-----
+    I am the Man, Thomas
+    I am the Man
+    Look at these nails scars
+    Here in my hand
+
+* * * * *
+
 Dylan seems to have combined verse two and three into the following:
 
-<pre class="quote verse">
-They pierced my side with thorns, Thomas
-I am the Man
-They made me carry the cross, Thomas
-I am the Man
-</pre>
+    They pierced my side with thorns, Thomas
+    I am the Man
+    They made me carry the cross, Thomas
+    I am the Man
 
-It's hard to work out exactly, though (Bob apparently thought so
-too). Suggestions for words instead of thorns are: forks, pork and,
-more plausible, swords. At one show the third line was, I believe,
-sung:
+It's hard to work out exactly, though (Bob apparently thought so too).
+Suggestions for words instead of thorns are: forks, pork and, more
+plausible, swords. At one show the third line was, I believe, sung:
 
-<pre class="quote verse">They drove me off a cliff, Thomas
-</pre>
-
-[[Category:Songs]]
-
-[[Category:Miscellaneous Songs]]
+    They drove me off a cliff, Thomas

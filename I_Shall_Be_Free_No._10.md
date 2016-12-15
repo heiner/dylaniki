@@ -1,94 +1,100 @@
-Words and music Bob Dylan<br>
-Released on [[Another Side of Bob Dylan]] (1964)<br>
+---
+title: I Shall Be Free No. 10
+permalink: I Shall Be Free No. 10
+layout: wiki
+tags:
+ - Songs
+---
+
+Words and music Bob Dylan  
+Released on [Another Side of Bob
+Dylan](/wiki/Another Side of Bob Dylan "wikilink") (1964)  
 Tabbed by Eyolf Østrem
 
-----
-<pre class="verse">
-[Harmonica intro]
-:    .    .    .   :  .  .  .  :  .  .  :  .  .  .  .  .
-D Em    D Em   D   G     C     D        G
+* * * * *
 
-G                 C
-I'm just average, common too
-    D
-I'm just like him, the same as you
-    G           C
-I'm everybody's brother and son
+    [Harmonica intro]
+    :    .    .    .   :  .  .  .  :  .  .  :  .  .  .  .  .
+    D Em    D Em   D   G     C     D        G
 
-I ain't different than anyone
-G
-It ain't no use a-talking to me
-              C
-It's just the same as talking to you.
+    G                 C
+    I'm just average, common too
+        D
+    I'm just like him, the same as you
+        G           C
+    I'm everybody's brother and son
 
-[Harmonica]
-:  .  :  .  .  .  :    .    .    .
-D     G     C     D Em    D Em   D
+    I ain't different than anyone
+    G
+    It ain't no use a-talking to me
+                  C
+    It's just the same as talking to you.
 
-I was shadow-boxing earlier in the day
-I figured I was ready for Cassius Clay
-I said "Fee, fie, fo, fum, Cassius Clay here I come
-26, 27, 28, 29, I'm gonna make your face look just like mine
-Five, four, three, two, one, Cassius Clay you'd better run
-99, 100 101, 102, your ma won't even recognize you
-14, 15, 16, 17, 18, 19, gonna knock him clean right out of his spleen.
+    [Harmonica]
+    :  .  :  .  .  .  :    .    .    .
+    D     G     C     D Em    D Em   D
 
-Well, I don't know, but I've been told
-The streets in heaven are lined with gold
-I ask you how things could get much worse
-If the Russians happen to get up there first
-Wowee! pretty scary!
+    I was shadow-boxing earlier in the day
+    I figured I was ready for Cassius Clay
+    I said "Fee, fie, fo, fum, Cassius Clay here I come
+    26, 27, 28, 29, I'm gonna make your face look just like mine
+    Five, four, three, two, one, Cassius Clay you'd better run
+    99, 100 101, 102, your ma won't even recognize you
+    14, 15, 16, 17, 18, 19, gonna knock him clean right out of his spleen.
 
-Now, I'm liberal, but to a degree
-I want ev'rybody to be free
-But if you think that I'll let Barry Goldwater
-Move in next door and mary my daughter
-You must think I'm crazy!
-I wouldn't let him do it for all the farms in Cuba.
+    Well, I don't know, but I've been told
+    The streets in heaven are lined with gold
+    I ask you how things could get much worse
+    If the Russians happen to get up there first
+    Wowee! pretty scary!
 
-Well, I set my monkey on the log
-And ordered him to do the Dog
-He wagged his tail and shook his head
-And he went and did the Cat instead
-He's a weird monkey, very funky.
+    Now, I'm liberal, but to a degree
+    I want ev'rybody to be free
+    But if you think that I'll let Barry Goldwater
+    Move in next door and mary my daughter
+    You must think I'm crazy!
+    I wouldn't let him do it for all the farms in Cuba.
 
-I sat with my high-heeled sneakers on
-Waiting to play tennis in the noonday sun
-I had my white shorts rolled up past my waist
-And my wig-hat falling in my face
-But they wouldn't let me on the tennis court.
+    Well, I set my monkey on the log
+    And ordered him to do the Dog
+    He wagged his tail and shook his head
+    And he went and did the Cat instead
+    He's a weird monkey, very funky.
 
-I gotta woman, she's so mean
-She sticks my boots in the washing machine
-Sticks me with buckshot when I'm nude
-Puts bubblegum in my food
-She's funny, wants my money, calls me honey.
+    I sat with my high-heeled sneakers on
+    Waiting to play tennis in the noonday sun
+    I had my white shorts rolled up past my waist
+    And my wig-hat falling in my face
+    But they wouldn't let me on the tennis court.
 
-Now I gotta friend who spends his life
-Stabbing my picture with a bowie-knife
-Dreams of strangling me with a scarf
-When my name comes up he pretends to barf
-I've got a million friends !
+    I gotta woman, she's so mean
+    She sticks my boots in the washing machine
+    Sticks me with buckshot when I'm nude
+    Puts bubblegum in my food
+    She's funny, wants my money, calls me honey.
 
-Now they asked me to read a poem
-At the sorority sister's home
-I got knocked down and my head was swimmin'
-I wound up with the Dean of Women
-Yippee ! I'm a poet, and I know it
-Hope I don't blow it.
+    Now I gotta friend who spends his life
+    Stabbing my picture with a bowie-knife
+    Dreams of strangling me with a scarf
+    When my name comes up he pretends to barf
+    I've got a million friends !
 
-I'm gonna grow my hair down to my feet so strange
-So I look like a walking mountain range
-And I'm gonna ride into Omaha on a horse
-Out to the country club and the golf course
-Carry the New York Times, shoot a few holes, blow their minds.
+    Now they asked me to read a poem
+    At the sorority sister's home
+    I got knocked down and my head was swimmin'
+    I wound up with the Dean of Women
+    Yippee ! I'm a poet, and I know it
+    Hope I don't blow it.
 
-You're probably wondering by now
-Just what this song is all about
-What's probably got you baffled more
-What this thing here is for
-It's nothing
-It's something I learned over in England
-</pre>
+    I'm gonna grow my hair down to my feet so strange
+    So I look like a walking mountain range
+    And I'm gonna ride into Omaha on a horse
+    Out to the country club and the golf course
+    Carry the New York Times, shoot a few holes, blow their minds.
 
-[[Category:Songs]]
+    You're probably wondering by now
+    Just what this song is all about
+    What's probably got you baffled more
+    What this thing here is for
+    It's nothing
+    It's something I learned over in England

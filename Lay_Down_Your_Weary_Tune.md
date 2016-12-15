@@ -1,76 +1,82 @@
-Words and music Bob Dylan<br>
-Recorded Oct 24, 1963 during the sessions for [[The Times They Are A-Changin']], and released on [[Biograph]] (1985)<br>
+---
+title: Lay Down Your Weary Tune
+permalink: Lay Down Your Weary Tune
+layout: wiki
+tags:
+ - Songs
+---
+
+Words and music Bob Dylan  
+Recorded Oct 24, 1963 during the sessions for [The Times They Are
+A-Changin'](/wiki/The Times They Are A-Changin' "wikilink"), and released on
+[Biograph](/wiki/Biograph "wikilink") (1985)  
 Tabbed by Eyolf Østrem
 
-----
+* * * * *
+
 Capo 2nd fret (sounding key A major)
 
 The strumming is very square, and only with downstrokes.
 
-<pre class="tab">
-  D   /c  /b-a  G                 C
-  .   .   .     :   .   .   .
---2-----------|-3---3---3---3---|-0-----
---3-----------|-0---0---0---0---|-1-----
---2---2---0---|-0---0---0---0---|-0----- etc
---0---0---0-0-|-0---0---0---0---|-2-----
-------3---2-0-|-2---2(0)2---2(0)|-3-----
---------------|-3---3(0)3---3(0)|-3-----
- Lay down your  wea   -     ry    tune . . .
-</pre>
+      D   /c  /b-a  G                 C
+      .   .   .     :   .   .   .
+    --2-----------|-3---3---3---3---|-0-----
+    --3-----------|-0---0---0---0---|-1-----
+    --2---2---0---|-0---0---0---0---|-0----- etc
+    --0---0---0-0-|-0---0---0---0---|-2-----
+    ------3---2-0-|-2---2(0)2---2(0)|-3-----
+    --------------|-3---3(0)3---3(0)|-3-----
+     Lay down your  wea   -     ry    tune . . .
 
-----
-<pre class="verse">
-D   /c   /b-a G     C         G
-Lay down your weary tune, lay down,
-             Em       D
-Lay down the song you strum,
-    /c   /b-a G   D/a        G           C
-And rest yourself 'neath the strength of strings
-             G  D /c-b G  . D
-No voice can hope to   hum.
+* * * * *
 
-       /c /b-a G       C        G
-Struck by the sounds before the sun,
-I knew the night had gone.
-The morning breeze like a bugle blew
-Against the drums of dawn.
-Lay down your weary tune, lay down,
-Lay down the song you strum,
-And rest yourself 'neath the strength of strings
-No voice can hope to hum.
+    D   /c   /b-a G     C         G
+    Lay down your weary tune, lay down,
+                 Em       D
+    Lay down the song you strum,
+        /c   /b-a G   D/a        G           C
+    And rest yourself 'neath the strength of strings
+                 G  D /c-b G  . D
+    No voice can hope to   hum.
 
-The ocean wild like an organ played,
-The seaweed's wove its strands.
-The crashin' waves like cymbals clashed
-Against the rocks and sands.
-Lay down your weary tune, lay down,
-Lay down the song you strum,
-And rest yourself 'neath the strength of strings
-No voice can hope to hum.
+           /c /b-a G       C        G
+    Struck by the sounds before the sun,
+    I knew the night had gone.
+    The morning breeze like a bugle blew
+    Against the drums of dawn.
+    Lay down your weary tune, lay down,
+    Lay down the song you strum,
+    And rest yourself 'neath the strength of strings
+    No voice can hope to hum.
 
-I stood unwound beneath the skies
-And clouds unbound by laws.
-The cryin' rain like a trumpet sang
-And asked for no applause.
-Lay down your weary tune, lay down,
-Lay down the song you strum,
-And rest yourself 'neath the strength of strings
-No voice can hope to hum.
+    The ocean wild like an organ played,
+    The seaweed's wove its strands.
+    The crashin' waves like cymbals clashed
+    Against the rocks and sands.
+    Lay down your weary tune, lay down,
+    Lay down the song you strum,
+    And rest yourself 'neath the strength of strings
+    No voice can hope to hum.
 
-The last of leaves fell from the trees
-And clung to a new love's breast.
-The branches bare like a banjo played
-To the winds that listened best.
+    I stood unwound beneath the skies
+    And clouds unbound by laws.
+    The cryin' rain like a trumpet sang
+    And asked for no applause.
+    Lay down your weary tune, lay down,
+    Lay down the song you strum,
+    And rest yourself 'neath the strength of strings
+    No voice can hope to hum.
 
-I gazed down in the river's mirror
-And watched its winding strum.
-The water smooth ran like a hymn
-And like a harp did hum.
-Lay down your weary tune, lay down,
-Lay down the song you strum,
-And rest yourself 'neath the strength of strings
-No voice can hope to hum.
-</pre>
+    The last of leaves fell from the trees
+    And clung to a new love's breast.
+    The branches bare like a banjo played
+    To the winds that listened best.
 
-[[Category:Songs]]
+    I gazed down in the river's mirror
+    And watched its winding strum.
+    The water smooth ran like a hymn
+    And like a harp did hum.
+    Lay down your weary tune, lay down,
+    Lay down the song you strum,
+    And rest yourself 'neath the strength of strings
+    No voice can hope to hum.

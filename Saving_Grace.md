@@ -1,37 +1,42 @@
-Words and music by Bob Dylan<br>
-Released on [[Saved (Album)|Saved]] (1980)<br>
+---
+title: Saving Grace
+permalink: Saving Grace
+layout: wiki
+tags:
+ - Songs
+---
+
+Words and music by Bob Dylan  
+Released on [Saved](/wiki/Saved (Album) "wikilink") (1980)  
 Tabbed by Eyolf Østrem
 
-----
-<pre class="verse">
-C              C/7     F            G     C
-If You find it in Your heart, can I be forgiven?
-C       C/b       Am           C/g   F  Bb  F
-Guess I owe You some kind of apology.
-/f /g  Ab                                         C
-I've escaped death so many times, I know I'm only living
-              G                 C
-By the saving grace that's over me.
+* * * * *
 
-By this time I'd-a thought I would be sleeping
-In a pine box for all eternity.
-My faith keeps me alive, but I still be weeping
-For the saving grace that's over me.
+    C              C/7     F            G     C
+    If You find it in Your heart, can I be forgiven?
+    C       C/b       Am           C/g   F  Bb  F
+    Guess I owe You some kind of apology.
+    /f /g  Ab                                         C
+    I've escaped death so many times, I know I'm only living
+                  G                 C
+    By the saving grace that's over me.
 
-Well, the death of life, then come the resurrection,
-Wherever I am welcome is where I'll be.
-I put all my confidence in Him, my sole protection
-Is the saving grace that's over me.
+    By this time I'd-a thought I would be sleeping
+    In a pine box for all eternity.
+    My faith keeps me alive, but I still be weeping
+    For the saving grace that's over me.
 
-Well, the devil's shining light, it can be most blinding,
-But to search for love, that ain't no more than vanity.
-As I look around this world all that I'm finding
-Is the saving grace that's over me.
+    Well, the death of life, then come the resurrection,
+    Wherever I am welcome is where I'll be.
+    I put all my confidence in Him, my sole protection
+    Is the saving grace that's over me.
 
-The wicked know no peace and you just can't fake it,
-There's only one road and it leads to Calvary.
-It gets discouraging at times, but I know I'll make it
-By the saving grace that's over me.
-</pre>
+    Well, the devil's shining light, it can be most blinding,
+    But to search for love, that ain't no more than vanity.
+    As I look around this world all that I'm finding
+    Is the saving grace that's over me.
 
-[[Category:Songs]]
+    The wicked know no peace and you just can't fake it,
+    There's only one road and it leads to Calvary.
+    It gets discouraging at times, but I know I'll make it
+    By the saving grace that's over me.

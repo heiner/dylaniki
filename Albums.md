@@ -1,1 +1,0 @@
-A list of Bob Dylan albums. See also the list of [[:Category:Miscellaneous Songs|miscellaneous songs]].

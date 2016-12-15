@@ -1,39 +1,41 @@
-Written by Bob Dylan<br>
-Recorded Jan 19, 1963 at the Broadside office, released on
-''Broadside Ballads'', Sep 1963, Dylan under the name Blind Boy
-Grunt<br>
+---
+title: Talkin' Devil
+permalink: Talkin' Devil
+layout: wiki
+tags:
+ - Songs
+ - Miscellaneous Songs
+---
 
-Tabbed by Eyolf Østrem
+Written by Bob Dylan  
+Recorded Jan 19, 1963 at the Broadside office, released on *Broadside
+Ballads*, Sep 1963, Dylan under the name Blind Boy Grunt  
+ Tabbed by Eyolf Østrem
 
-----
-<pre class="verse">
-["This is all about what the devil is,
-some people say that there's no devil."]
+* * * * *
 
-G
+    ["This is all about what the devil is,
+    some people say that there's no devil."]
 
-     G                   C
-Well sometimes you can't see him so good
-        D
-When he hides his head neath a snow white hood
- /f# G                      C
-An'  rides to kill with his face well hid
-        D
-An' then goes home to his wife an' kids.
+    G
 
-Wonder if his kids know who he is?
+         G                   C
+    Well sometimes you can't see him so good
+            D
+    When he hides his head neath a snow white hood
+     /f# G                      C
+    An'  rides to kill with his face well hid
+            D
+    An' then goes home to his wife an' kids.
 
-/f# |G . . /a-b | C . /b-c | D . . /e-f# | G
+    Wonder if his kids know who he is?
 
-Well he wants you to hate, he wants to fear
-He wants you to fear somethin' that's not even there.
-He'll give you his hate an' he'll give you his lies
-He'll give you the weapons to run out an' die
-An' you give him your soul.
+    /f# |G . . /a-b | C . /b-c | D . . /e-f# | G
 
-["That's just two verses to it."]
-</pre>
+    Well he wants you to hate, he wants to fear
+    He wants you to fear somethin' that's not even there.
+    He'll give you his hate an' he'll give you his lies
+    He'll give you the weapons to run out an' die
+    An' you give him your soul.
 
-[[Category:Songs]]
-
-[[Category:Miscellaneous Songs]]
+    ["That's just two verses to it."]

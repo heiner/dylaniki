@@ -1,19 +1,27 @@
-Recorded during the sessions for [[Pat Garrett &amp; Billy The Kid]] (Feb 1973)
+---
+title: Climax Tobacco
+permalink: Climax Tobacco
+layout: wiki
+tags:
+ - Songs
+ - Miscellaneous Songs
+---
 
-----
-D: "Let's keep that take. Right after that take, put down this wild track, would
-you? It just consists of:"
+Recorded during the sessions for [Pat Garrett &amp; Billy The
+Kid](/wiki/Pat Garrett &amp; Billy The Kid "wikilink") (Feb 1973)
 
-Corn<br>
-beans<br>
-peas<br>
-Succotash<br>
-guacamole<br><br>
-second coming coffee <br>
+* * * * *
+
+D: "Let's keep that take. Right after that take, put down this wild
+track, would you? It just consists of:"
+
+Corn  
+beans  
+peas  
+Succotash  
+guacamole  
+  
+second coming coffee  
 and climax tobacco
 
 "End of take"
-
-[[Category:Songs]]
-
-[[Category:Miscellaneous Songs]]

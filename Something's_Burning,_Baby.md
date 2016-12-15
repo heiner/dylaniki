@@ -1,62 +1,67 @@
-Words and music Bob Dylan<br>
-Released on [[Empire Burlesque]] (1985)<br>
+---
+title: Something's Burning, Baby
+permalink: Something's Burning, Baby
+layout: wiki
+tags:
+ - Songs
+---
+
+Words and music Bob Dylan  
+Released on [Empire Burlesque](/wiki/Empire Burlesque "wikilink") (1985)  
 Tabbed by Jeffrey Kokosinski
 
-----
-<pre class="verse">
-E                           A        E
-Something is burning, baby, are you aware?
-E                                      A             E
-Something is the matter, baby, there's smoke in your hair
-    E                          A         E
-Are you still my friend, baby, show me a sign
-       E                      A          E
-Is the love in your heart for me turning blind?
+* * * * *
 
-You've been avoiding the main streets for a long, long while
-The truth that I'm seeking is in your missing file
-What's your position, baby, what's going on?
-Why is the light in your eyes nearly gone?
+    E                           A        E
+    Something is burning, baby, are you aware?
+    E                                      A             E
+    Something is the matter, baby, there's smoke in your hair
+        E                          A         E
+    Are you still my friend, baby, show me a sign
+           E                      A          E
+    Is the love in your heart for me turning blind?
 
-I know everything about this place, or so it seems
-Am I no longer a part of your plans or your dreams?
-Well, it is so obvious that something has changed
-What's happening, baby, to make you act so strange?
+    You've been avoiding the main streets for a long, long while
+    The truth that I'm seeking is in your missing file
+    What's your position, baby, what's going on?
+    Why is the light in your eyes nearly gone?
 
-Something is burning, baby, here's what I say
-Even the bloodhounds of London couldn't find you today
-I see the shadow of a man, baby, makin' you blue
-Who is he, baby, and what's he to you?
+    I know everything about this place, or so it seems
+    Am I no longer a part of your plans or your dreams?
+    Well, it is so obvious that something has changed
+    What's happening, baby, to make you act so strange?
 
-We've reached the edge of the road, baby, where the pasture begins
-Where charity is supposed to cover up a multitude of sins
-But where do you live, baby, and where is the light?
-Why are your eyes just staring off in the night?
+    Something is burning, baby, here's what I say
+    Even the bloodhounds of London couldn't find you today
+    I see the shadow of a man, baby, makin' you blue
+    Who is he, baby, and what's he to you?
 
-      E                                                   A          E          E
-I can feel it in the night in the night in the night when I think of you
-      E                                                       A         E
-I can feel it in the light in the light in the light and it's got to be true
-E                                  A             E
-You can't live by bread alone, you won't be satisfied
-E                             A                 E
-You can't roll away the stone if your hands are tied
+    We've reached the edge of the road, baby, where the pasture begins
+    Where charity is supposed to cover up a multitude of sins
+    But where do you live, baby, and where is the light?
+    Why are your eyes just staring off in the night?
 
-Got to start someplace, baby, can you explain?
-Please don't fade away on me, baby, like the midnight train
-Answer me, baby, a casual look will do
-Just what in the world has come over you?
+          E                                                   A          E          E
+    I can feel it in the night in the night in the night when I think of you
+          E                                                       A         E
+    I can feel it in the light in the light in the light and it's got to be true
+    E                                  A             E
+    You can't live by bread alone, you won't be satisfied
+    E                             A                 E
+    You can't roll away the stone if your hands are tied
 
-I can feel it in the wind in the wind in the wind and it's upside down
-I can feel it in the dust as I get off the bus on the outskirts of town
-I've had the Mexico City blues since the last hairpin curve
-I don't wanna see you bleed, I know what you need
-but it ain't what you deserve
+    Got to start someplace, baby, can you explain?
+    Please don't fade away on me, baby, like the midnight train
+    Answer me, baby, a casual look will do
+    Just what in the world has come over you?
 
-Something is burning, baby, something's in flames
-There's a man going 'round calling names
-Ring down when you're ready, baby, I'm waiting for you
-I believe in the impossible, you know that I do
-</pre>
+    I can feel it in the wind in the wind in the wind and it's upside down
+    I can feel it in the dust as I get off the bus on the outskirts of town
+    I've had the Mexico City blues since the last hairpin curve
+    I don't wanna see you bleed, I know what you need
+    but it ain't what you deserve
 
-[[Category:Songs]]
+    Something is burning, baby, something's in flames
+    There's a man going 'round calling names
+    Ring down when you're ready, baby, I'm waiting for you
+    I believe in the impossible, you know that I do

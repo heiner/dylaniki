@@ -1,95 +1,100 @@
-Arranged by Bob Dylan<br>
-Played by Bob Dylan on [[Bob Dylan]] (1962) and occasionally during
-the Never Ending tour (21 performances in 1992, last performance 1998)<br>
+---
+title: Pretty Peggy-O
+permalink: Pretty Peggy-O
+layout: wiki
+tags:
+ - Songs
+---
+
+Arranged by Bob Dylan  
+Played by Bob Dylan on [Bob Dylan](/wiki/Bob Dylan "wikilink") (1962) and
+occasionally during the Never Ending tour (21 performances in 1992, last
+performance 1998)  
 Tabbed by Eyolf Østrem
 
-----
+* * * * *
+
 One verse intro (w/harp)
 
-<pre class="spoken">
-I've been around this whole country
-But I never yet found Fennario.
-</pre>
+    I've been around this whole country
+    But I never yet found Fennario.
 
-<pre class="verse">
-         G
-Well, as we marched down, as we marched down
-                              D
-Well, as we marched down to Fennerio'
-          G                           C
-Well, our captain fell in love with a lady like a dove
-    D                            G
-the name that she had was Pretty Peggy-O
+             G
+    Well, as we marched down, as we marched down
+                                  D
+    Well, as we marched down to Fennerio'
+              G                           C
+    Well, our captain fell in love with a lady like a dove
+        D                            G
+    the name that she had was Pretty Peggy-O
 
-Well, what will your mother say, what will your mother say
-What will your mother say, Pretty Peggy-O
-What will your mother say to know you're going away
-You're never, never, never coming back-io ?
+    Well, what will your mother say, what will your mother say
+    What will your mother say, Pretty Peggy-O
+    What will your mother say to know you're going away
+    You're never, never, never coming back-io ?
 
-Come a-running down your stairs
-Come a-running down your stairs
-Come a-running down your stairs, Pretty Peggy-O
-Come a-running down your stairs
-Combing back your yellow hair
-You're the prettiest darned girl I ever seen-io.
+    Come a-running down your stairs
+    Come a-running down your stairs
+    Come a-running down your stairs, Pretty Peggy-O
+    Come a-running down your stairs
+    Combing back your yellow hair
+    You're the prettiest darned girl I ever seen-io.
 
-The lieutenant he has gone
-The lieutenant he has gone
-The lieutenant he has gone, Pretty Peggy-O
-The lieutenant he has gone, long gone
-He's a-riding down in Texas with the rodeo.
+    The lieutenant he has gone
+    The lieutenant he has gone
+    The lieutenant he has gone, Pretty Peggy-O
+    The lieutenant he has gone, long gone
+    He's a-riding down in Texas with the rodeo.
 
-Well, our captain he is dead, our captain he is dead
-Our captain he is dead, Pretty Peggy-O
-Well, our captain he is dead, died for a maid
-He's buried somewhere in Louisiana-O.
-</pre>
+    Well, our captain he is dead, our captain he is dead
+    Our captain he is dead, Pretty Peggy-O
+    Well, our captain he is dead, died for a maid
+    He's buried somewhere in Louisiana-O.
 
-<h2 class="songversion">Live version (Albany, NY April 18 1998)</h2>
-<pre class="verse">
-D             G                  D
-As we marched out, to Fennario
-   D          Bm          F#m
-As we marched out, to Fennario
-          G               D                      G
-Well, our captain fell in love with a lady like a dove
-                                 D
-And he called her by name Pretty Peggy-O
+<h2 class="songversion">
+Live version (Albany, NY April 18 1998)
 
-Would you marry me, Pretty Peggy-O
-Would you marry me, Pretty Peggy-O
-Would you marry me, your cities I will free,
-Free all the ladies in the are-o.
+</h2>
+    D             G                  D
+    As we marched out, to Fennario
+       D          Bm          F#m
+    As we marched out, to Fennario
+              G               D                      G
+    Well, our captain fell in love with a lady like a dove
+                                     D
+    And he called her by name Pretty Peggy-O
 
-I would marry you, sweet William-o.
-I would marry you, sweet William-o.
-I would marry you, but your guineas are too few.
-I'm afraid my mama would be so angry-o.
+    Would you marry me, Pretty Peggy-O
+    Would you marry me, Pretty Peggy-O
+    Would you marry me, your cities I will free,
+    Free all the ladies in the are-o.
 
-What would your mama think, Pretty Peggy-O
-What would your mama think, Pretty Peggy-O
-what would your mama think if she could hear my guineas clink
-see me marching out ahead of my soldiers-o?
+    I would marry you, sweet William-o.
+    I would marry you, sweet William-o.
+    I would marry you, but your guineas are too few.
+    I'm afraid my mama would be so angry-o.
 
-If ever I return, Pretty Peggy-O
-If ever I return, Pretty Peggy-O
-If ever I return, your cities I will burn
-Destroy all the ladies in the area-o
+    What would your mama think, Pretty Peggy-O
+    What would your mama think, Pretty Peggy-O
+    what would your mama think if she could hear my guineas clink
+    see me marching out ahead of my soldiers-o?
 
-Come tripping down the stairs, Pretty Peggy-O
-Come tripping down the stairs, Pretty Peggy-O
-Come tripping down the stairs, come and make your yellow hair
-Bid your last farewell to sweet William-O.
+    If ever I return, Pretty Peggy-O
+    If ever I return, Pretty Peggy-O
+    If ever I return, your cities I will burn
+    Destroy all the ladies in the area-o
 
-The captain he is dead, Pretty Peggy-O
-The captain he is dead, Pretty Peggy-O
-The captain he is dead, and he died for a maid
-He's buried in Lousiana Country-O
+    Come tripping down the stairs, Pretty Peggy-O
+    Come tripping down the stairs, Pretty Peggy-O
+    Come tripping down the stairs, come and make your yellow hair
+    Bid your last farewell to sweet William-O.
 
-As we marched out, to Fennario
-As we marched out, to Fennario
-the captain fell in love with a lady like a dove
-And he called her by name Pretty Peggy-O
-</pre>
+    The captain he is dead, Pretty Peggy-O
+    The captain he is dead, Pretty Peggy-O
+    The captain he is dead, and he died for a maid
+    He's buried in Lousiana Country-O
 
-[[Category:Songs]]
+    As we marched out, to Fennario
+    As we marched out, to Fennario
+    the captain fell in love with a lady like a dove
+    And he called her by name Pretty Peggy-O

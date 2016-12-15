@@ -1,63 +1,66 @@
-Trad.<br>
-As performed by Bob Dylan, Oct 19 1988<br>
+---
+title: Wagoner's Lad
+permalink: Wagoner's Lad
+layout: wiki
+tags:
+ - Songs
+ - Miscellaneous Songs
+---
+
+Trad.  
+As performed by Bob Dylan, Oct 19 1988  
 Tabbed by Eyolf Østrem
 
-----
+* * * * *
+
 The version from Oct 19 1988 sounds one half step lower, but it is
-definitely played with the chords below. Either the tape is slow, or
-the guitars are tuned down (not likely).
+definitely played with the chords below. Either the tape is slow, or the
+guitars are tuned down (not likely).
 
 Cadd2 = x32030 or x32033
 
 The last line of each verse is played (more or less):
 
-<pre class="tab">
-  Cadd2               G     C/g    G
-  :     .     .       :     .      .
-|-------------------|-3-----3------3-----|-
-|-3-3-3-3-3-3-3-3-3-|-0-----1------0-----|-
-|-0-0-0-0-0-0-0-0-0-|-0-----0------0-----|-
-|-2-0-0-0-0-0-0-0-0-|-0-----2------0-----|-
-|-3-2-0-3-2-0-3-2-0-|-2------------2-----|-
-|-------------------|-3-----3------3-----|-
-  slave...    rest..  life
-</pre>
-<pre class="verse">
-   G                      C/g      G     C/g G
-Oh hard is the fortune of all womankind
-     G                       G /b   /c D    Dsus4 D
-It's always controlled, it's always confined
-   D              G             /b   /c D
-Controlled by her parents until she's a wife
-     Cadd2 /b /a  /c /b   /a      /c   /b /a  G
-Then slave to her husband for the rest of her life
+      Cadd2               G     C/g    G
+      :     .     .       :     .      .
+    |-------------------|-3-----3------3-----|-
+    |-3-3-3-3-3-3-3-3-3-|-0-----1------0-----|-
+    |-0-0-0-0-0-0-0-0-0-|-0-----0------0-----|-
+    |-2-0-0-0-0-0-0-0-0-|-0-----2------0-----|-
+    |-3-2-0-3-2-0-3-2-0-|-2------------2-----|-
+    |-------------------|-3-----3------3-----|-
+      slave...    rest..  life
 
-She is a poor girl, and her fortune is sad
-always been courted by the wagoner's lad
-He courted her truly both night and by day
-But now he is a-loaded and a-going away
+       G                      C/g      G     C/g G
+    Oh hard is the fortune of all womankind
+         G                       G /b   /c D    Dsus4 D
+    It's always controlled, it's always confined
+       D              G             /b   /c D
+    Controlled by her parents until she's a wife
+         Cadd2 /b /a  /c /b   /a      /c   /b /a  G
+    Then slave to her husband for the rest of her life
 
-Your parents don't like me they say I'm too poor
-They say I'm not worthy to enter your door
-But I work for a living, my money's my own
-And them that don't like it can leave me alone
+    She is a poor girl, and her fortune is sad
+    always been courted by the wagoner's lad
+    He courted her truly both night and by day
+    But now he is a-loaded and a-going away
 
-My horses ain't hungry, and they don't need your hay
-Come sit down beside me for as long as you stay
-I'd go to Montana if the moon showed any light,
-But my pony can't travel this dark road tonight.
+    Your parents don't like me they say I'm too poor
+    They say I'm not worthy to enter your door
+    But I work for a living, my money's my own
+    And them that don't like it can leave me alone
 
-I once had a sweetheart and her age was sixteen
-She's the flower of Belton and the rose of Seline.
-But her parents was against me, now she is the same,
-If I'd writ on your book, love, you just blot out my name.
+    My horses ain't hungry, and they don't need your hay
+    Come sit down beside me for as long as you stay
+    I'd go to Montana if the moon showed any light,
+    But my pony can't travel this dark road tonight.
 
-Hard is the fortune of all womankind
-It's always controlled, and it's always confined
-Controlled by her parents until she's a wife
-Then slave to her husband for the rest of her life.
-</pre>
+    I once had a sweetheart and her age was sixteen
+    She's the flower of Belton and the rose of Seline.
+    But her parents was against me, now she is the same,
+    If I'd writ on your book, love, you just blot out my name.
 
-[[Category:Songs]]
-
-[[Category:Miscellaneous Songs]]
+    Hard is the fortune of all womankind
+    It's always controlled, and it's always confined
+    Controlled by her parents until she's a wife
+    Then slave to her husband for the rest of her life.

@@ -1,62 +1,67 @@
-Words and music Bob Dylan<br>
-Released on [[Planet Waves]] (1974)<br>
+---
+title: Tough Mama
+permalink: Tough Mama
+layout: wiki
+tags:
+ - Songs
+---
+
+Words and music Bob Dylan  
+Released on [Planet Waves](/wiki/Planet Waves "wikilink") (1974)  
 Tabbed by Eyolf Østrem
 
-----
-<pre class="verse">
-D     Bm
-  Tough Mama
-A
-  Meat shakin' on your bones
-D     Bm
-  I'm gonna
-A
-  go down to the river and get some stones.
-Bm                                A
-Sister's on the highway with that steel-drivin' crew,
-Bm                           F#m     Em       G
-Papa's in the big house, his workin' days are through.
-C     G
-Tough Mama
-A
-Can I blow a little smoke on you?
+* * * * *
 
-Dark Beauty
-Won't you move it on over and make some room?
-It's my duty
-to bring you down to the field where the flowers bloom.
-Ashes in the furnace, dust on the rise,
-You came through it all the way, flyin' through the skies.
-Dark Beauty
-With that long night's journey in your eyes.
+    D     Bm
+      Tough Mama
+    A
+      Meat shakin' on your bones
+    D     Bm
+      I'm gonna
+    A
+      go down to the river and get some stones.
+    Bm                                A
+    Sister's on the highway with that steel-drivin' crew,
+    Bm                           F#m     Em       G
+    Papa's in the big house, his workin' days are through.
+    C     G
+    Tough Mama
+    A
+    Can I blow a little smoke on you?
 
-Sweet Goddess
-Born of a blinding light and a changing wind,
-Now, don't be modest,
-you know who you are and where you've been.
-Jack the Cowboy went up north
-He's buried in your past.
-The Lone Wolf went out drinking
-That was over pretty fast.
+    Dark Beauty
+    Won't you move it on over and make some room?
+    It's my duty
+    to bring you down to the field where the flowers bloom.
+    Ashes in the furnace, dust on the rise,
+    You came through it all the way, flyin' through the skies.
+    Dark Beauty
+    With that long night's journey in your eyes.
 
-Sweet Goddess
-Your perfect stranger's comin' in at last.
-Silver Angel
-With the badge of the lonesome road sewed in your sleeve,
-I'd be grateful if this golden ring you would receive.
-Today on the countryside it was a-hotter than a crotch,
-I stood alone upon the ridge and all I did was watch.
-Sweet Goddess
-It must be time to carve another notch.
+    Sweet Goddess
+    Born of a blinding light and a changing wind,
+    Now, don't be modest,
+    you know who you are and where you've been.
+    Jack the Cowboy went up north
+    He's buried in your past.
+    The Lone Wolf went out drinking
+    That was over pretty fast.
 
-I'm crestfallen
-The world of illusion is at my door,
-I ain't a-haulin'
-any of my lambs to the marketplace anymore.
-The prison walls are crumblin', there is no end in sight,
-I've gained some recognition but I lost my appetite.
-Dark Beauty
-Meet me at the border late tonight.
-</pre>
+    Sweet Goddess
+    Your perfect stranger's comin' in at last.
+    Silver Angel
+    With the badge of the lonesome road sewed in your sleeve,
+    I'd be grateful if this golden ring you would receive.
+    Today on the countryside it was a-hotter than a crotch,
+    I stood alone upon the ridge and all I did was watch.
+    Sweet Goddess
+    It must be time to carve another notch.
 
-[[Category:Songs]]
+    I'm crestfallen
+    The world of illusion is at my door,
+    I ain't a-haulin'
+    any of my lambs to the marketplace anymore.
+    The prison walls are crumblin', there is no end in sight,
+    I've gained some recognition but I lost my appetite.
+    Dark Beauty
+    Meet me at the border late tonight.

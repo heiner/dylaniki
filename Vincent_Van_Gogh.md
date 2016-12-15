@@ -1,49 +1,53 @@
-Words and music Robert Friemark<br>
+---
+title: Vincent Van Gogh
+permalink: Vincent Van Gogh
+layout: wiki
+tags:
+ - Songs
+ - Miscellaneous Songs
+---
+
+Words and music Robert Friemark  
 Sung with Bob Neuwirth on various dates and places during the second
 Rolling Thunder II, 1976
 
-Tabbed (if it can be called that...) by Eyolf Østrem <br>
+Tabbed (if it can be called that...) by Eyolf Østrem  
 
-----
-<pre class="verse">
-    D       G          D
-I'd like to tell you a story
-     D        G         D
-of a man that you might know.
-    D           G          D
-His parents all called him Vincent,
-     D        A       D
-his last name was Van Gogh.
+* * * * *
 
-He started drinking and painting
-and living a life of sin.
-He fell in with evil companions,
-a man named Paul Gaugin.
+        D       G          D
+    I'd like to tell you a story
+         D        G         D
+    of a man that you might know.
+        D           G          D
+    His parents all called him Vincent,
+         D        A       D
+    his last name was Van Gogh.
 
-They went to the city of Auvers,
-pursuing their carnal delights.
-They painted all during the afternoon
-and they played music all night.
+    He started drinking and painting
+    and living a life of sin.
+    He fell in with evil companions,
+    a man named Paul Gaugin.
 
-Now the people of that small city
-thought he was a little bit queer,
-to prove his love for mankind,
-he chopped off his outside ear.
+    They went to the city of Auvers,
+    pursuing their carnal delights.
+    They painted all during the afternoon
+    and they played music all night.
 
-So they put him in an institution
-but they could not keep him there.
-He picked up his paints and his easel
-and he went out to take some air.
+    Now the people of that small city
+    thought he was a little bit queer,
+    to prove his love for mankind,
+    he chopped off his outside ear.
 
-He picked up his paints and his easel
-and he went out to paint some crows.
-They found him face down in a cornfield,
-shot right between two rows.
+    So they put him in an institution
+    but they could not keep him there.
+    He picked up his paints and his easel
+    and he went out to take some air.
 
-    D         A           G    D
-Now where did Vincent van Go?
-</pre>
+    He picked up his paints and his easel
+    and he went out to paint some crows.
+    They found him face down in a cornfield,
+    shot right between two rows.
 
-[[Category:Songs]]
-
-[[Category:Miscellaneous Songs]]
+        D         A           G    D
+    Now where did Vincent van Go?

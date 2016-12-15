@@ -1,140 +1,131 @@
-Words and music Bob Dylan (and Jaques Levy)<br>
-Released on [[Desire]] (1976)and in live versions on
-[[Biograph]] (1985) and [[Live 1975]] (2002)<br>
+---
+title: Romance in Durango
+permalink: Romance in Durango
+layout: wiki
+tags:
+ - Songs
+---
+
+Words and music Bob Dylan (and Jaques Levy)  
+Released on [Desire](/wiki/Desire "wikilink") (1976)and in live versions on
+[Biograph](/wiki/Biograph "wikilink") (1985) and [Live
+1975](/wiki/Live 1975 "wikilink") (2002)  
 Tabbed by Eyolf Østrem
 
-----
-<pre class="verse">
-D
+* * * * *
 
-D                                   A
-Hot chili peppers in the blistering sun
-                       G   D
-Dust on my face and my cape,
-                        A
-Me and Magdalena on the run
-                              G   D
-I think this time we shall escape.
+    D
 
-Sold my guitar to the baker's son
-For a few crumbs and a place to hide,
-But I can get another one
-And I'll play for Magdalena as we ride.
-</pre>
+    D                                   A
+    Hot chili peppers in the blistering sun
+                           G   D
+    Dust on my face and my cape,
+                            A
+    Me and Magdalena on the run
+                                  G   D
+    I think this time we shall escape.
 
-<pre class="refrain">
-A
-No llores, mi querida
+    Sold my guitar to the baker's son
+    For a few crumbs and a place to hide,
+    But I can get another one
+    And I'll play for Magdalena as we ride.
 
-Dios nos vigila
-                                 G  D
-Soon the horse will take us to Durango.
-  A
-Agarrame, mi vida
+    A
+    No llores, mi querida
 
-Soon the desert will be gone
-                                G  D
-Soon you will be dancing the fandango.
-</pre>
+    Dios nos vigila
+                                     G  D
+    Soon the horse will take us to Durango.
+      A
+    Agarrame, mi vida
 
-<pre class="verse">
-Past the Aztec ruins and the ghosts of our people
-Hoofbeats like castanets on stone.
-At night I dream of bells in the village steeple
-Then I see the bloody face of Ramon.
+    Soon the desert will be gone
+                                    G  D
+    Soon you will be dancing the fandango.
 
-Was it me that shot him down in the cantina
-Was it my hand that held the gun?
-Come, let us fly, my Magdalena
-The dogs are barking and what's done is done.
-</pre>
+    Past the Aztec ruins and the ghosts of our people
+    Hoofbeats like castanets on stone.
+    At night I dream of bells in the village steeple
+    Then I see the bloody face of Ramon.
 
-<pre class="refrain">
-No llores, mi querida
-Dios nos vigila
-Soon the horse will take us to Durango.
-Agarrame, mi vida
-Soon the desert will be gone
-Soon you will be dancing the fandango.
-</pre>
+    Was it me that shot him down in the cantina
+    Was it my hand that held the gun?
+    Come, let us fly, my Magdalena
+    The dogs are barking and what's done is done.
 
-<pre class="verse">
-At the corrida we'll sit in the shade
-And watch the young torero stand alone.
-We'll drink tequila where our grandfathers stayed
-When they rode with Villa into Torre6n.
+    No llores, mi querida
+    Dios nos vigila
+    Soon the horse will take us to Durango.
+    Agarrame, mi vida
+    Soon the desert will be gone
+    Soon you will be dancing the fandango.
 
-Then the padre will recite the prayers of old
-In the little church this side of town.
-I will wear new boots and an earring of gold
-You'll shine with diamonds in your wedding gown.
+    At the corrida we'll sit in the shade
+    And watch the young torero stand alone.
+    We'll drink tequila where our grandfathers stayed
+    When they rode with Villa into Torre6n.
 
-The way is long but the end is near
-Already the fiesta has begun.
-The face of God will appear
-With His serpent eyes of obsidian.
-</pre>
+    Then the padre will recite the prayers of old
+    In the little church this side of town.
+    I will wear new boots and an earring of gold
+    You'll shine with diamonds in your wedding gown.
 
-<pre class="refrain">
-No ilores, mi querida
-Dios nos vigila
-Soon the horse will take us to Durango.
-Agarrame, mi vida
-Soon the desert will be gone
-Soon you will be dancing the fandango.
-</pre>
+    The way is long but the end is near
+    Already the fiesta has begun.
+    The face of God will appear
+    With His serpent eyes of obsidian.
 
-<pre class="verse">
-Was that the thunder that I heard?
-My head is vibrating, I feel a sharp pain.
-Come sit by me, don't say a word
-Oh, can it be that I am slain?
+    No ilores, mi querida
+    Dios nos vigila
+    Soon the horse will take us to Durango.
+    Agarrame, mi vida
+    Soon the desert will be gone
+    Soon you will be dancing the fandango.
 
-Quick, Magdalena, take my gun
-Look up in the hills, that flash of light.
-Aim well my little one
-We may not make it through the night.
-</pre>
+    Was that the thunder that I heard?
+    My head is vibrating, I feel a sharp pain.
+    Come sit by me, don't say a word
+    Oh, can it be that I am slain?
 
-<pre class="refrain">
-No llores, mi querida
-Dios nos vigila
-Soon the horse will take us to Durango.
-Agarrame, mi vida
-Soon the desert will be gone
-Soon you will be dancing the fandango.
-</pre>
+    Quick, Magdalena, take my gun
+    Look up in the hills, that flash of light.
+    Aim well my little one
+    We may not make it through the night.
 
-<!--\newpage --><h2 class="songversion">Rolling Thunder Revue version</h2>
-<pre class="verse">
-   &lt;     &lt;
-|: C   .   .   F/c   :|
+    No llores, mi querida
+    Dios nos vigila
+    Soon the horse will take us to Durango.
+    Agarrame, mi vida
+    Soon the desert will be gone
+    Soon you will be dancing the fandango.
 
-C                                   G
-Hot chili peppers in the blistering sun
-                       F   C
-Dust on my face and my cape,
-                        G
-Me and Magdalena on the run
-                              F   C
-I think this time we shall escape.
+<h2 class="songversion">
+Rolling Thunder Revue version
 
-. . .
-</pre>
+</h2>
+       &lt;     &lt;
+    |: C   .   .   F/c   :|
 
-<pre class="refrain">
-   G
-No llores, mi querida
+    C                                   G
+    Hot chili peppers in the blistering sun
+                           F   C
+    Dust on my face and my cape,
+                            G
+    Me and Magdalena on the run
+                                  F   C
+    I think this time we shall escape.
 
-Dios nos vigila
-                                 F  C
-Soon the horse will take us to Durango.
-  G
-Agarrame, mi vida
+    . . .
 
-Soon the desert will be gone
-                                F  C
-Soon you will be dancing the fandango.
-</pre>
+       G
+    No llores, mi querida
 
-[[Category:Songs]]
+    Dios nos vigila
+                                     F  C
+    Soon the horse will take us to Durango.
+      G
+    Agarrame, mi vida
+
+    Soon the desert will be gone
+                                    F  C
+    Soon you will be dancing the fandango.

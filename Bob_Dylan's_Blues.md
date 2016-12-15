@@ -1,61 +1,62 @@
-Words and music Bob Dylan<br>
-Released on [[Freewheelin']] (1963)<br>
+---
+title: Bob Dylan's Blues
+permalink: Bob Dylan's Blues
+layout: wiki
+tags:
+ - Songs
+---
+
+Words and music Bob Dylan  
+Released on [Freewheelin'](/wiki/Freewheelin' "wikilink") (1963)  
 Tabbed by Eyolf Østrem
 
 Capo 2nd fret (sounding key A major)
 
-----
-<pre class="verse">
-G
-Well, the Lone Ranger and Tonto
+* * * * *
 
-They are ridin' down the line
+    G
+    Well, the Lone Ranger and Tonto
 
-Fixin' ev'rybody's troubles
-             C
-Ev'rybody's 'cept mine
-               G
-Somebody musta tol' 'em
-     C (C/b) D/a  G
-That I was   doin' fine
-</pre>
+    They are ridin' down the line
 
-<pre>
-[1 verse harmonica solo:
+    Fixin' ev'rybody's troubles
+                 C
+    Ev'rybody's 'cept mine
+                   G
+    Somebody musta tol' 'em
+         C (C/b) D/a  G
+    That I was   doin' fine
 
-G' . .  . |        G' = xxx087
-G' . .  . |        G7'= xxx065
-G' . G7'. |
-C  . .  . |
-G  . D  . | G]
-</pre>
+    [1 verse harmonica solo:
 
-<pre class="verse">
-Oh you five and ten cent women
-With nothin' in your heads
-I got a real gal I'm lovin'
-And Lord I'll love her till I'm dead
-Go away from my door and my window too
-Right now
+    G' . .  . |        G' = xxx087
+    G' . .  . |        G7'= xxx065
+    G' . G7'. |
+    C  . .  . |
+    G  . D  . | G]
 
-Lord, I ain't goin' down to no race track
-See no sports car run
-I don't have no sports car
-And I don't even care to have one
-I can walk anytime around the block
+    Oh you five and ten cent women
+    With nothin' in your heads
+    I got a real gal I'm lovin'
+    And Lord I'll love her till I'm dead
+    Go away from my door and my window too
+    Right now
 
-Well, the wind keeps a-blowin' me
-Up and down the street
-With my hat in my hand
-And my boots on my feet
-Watch out so you don't step on me
+    Lord, I ain't goin' down to no race track
+    See no sports car run
+    I don't have no sports car
+    And I don't even care to have one
+    I can walk anytime around the block
 
-Well, lookit here buddy
-You want to be like me
-Pull out your six-shooter
-And rob every bank you can see
-Tell the judge I said it was all right
-Yes!
-</pre>
+    Well, the wind keeps a-blowin' me
+    Up and down the street
+    With my hat in my hand
+    And my boots on my feet
+    Watch out so you don't step on me
 
-[[Category:Songs]]
+    Well, lookit here buddy
+    You want to be like me
+    Pull out your six-shooter
+    And rob every bank you can see
+    Tell the judge I said it was all right
+    Yes!

@@ -1,1 +1,7 @@
-#REDIRECT [[The Bootleg Series 1-3]]
+---
+title: Bootleg Series 1-3
+permalink: wiki/Bootleg_Series_1-3/
+redirect_to: /wiki/The_Bootleg_Series_1-3/
+---
+
+You should automatically be redirected to [The Bootleg Series 1-3](/wiki/The_Bootleg_Series_1-3/)

@@ -1,86 +1,77 @@
-Words and music Bob Dylan<br>
-Recorded spring 1983 during the [[Infidels]] sessions, released on
-[[The Bootleg Series 1-3]] (1991)<br>
+---
+title: Tell Me
+permalink: Tell Me
+layout: wiki
+tags:
+ - Songs
+---
+
+Words and music Bob Dylan  
+Recorded spring 1983 during the [Infidels](/wiki/Infidels "wikilink")
+sessions, released on [The Bootleg Series
+1-3](/wiki/The Bootleg Series 1-3 "wikilink") (1991)  
 Tabbed by Eyolf Østrem
 
-The Bs are tinted with B7.<br>
+The Bs are tinted with B7.  
 The Es at the end of the three-line verses glide into E7 when more of
 these verses follow eachother.
 
-----
-<pre class="verse">
-E   B   E   B
+* * * * *
 
-     E               B
-Tell me, I've got to know.
-     E                    B
-Tell me, tell me before I go.
-</pre>
+    E   B   E   B
 
-<pre class="refrain">
-          A
-Does that fire still burn? Does that flame still glow?
-   E
-Or has it died out and melted like the snow.
-     B        E     (E7)
-Tell me. Tell me.
-</pre>
+         E               B
+    Tell me, I've got to know.
+         E                    B
+    Tell me, tell me before I go.
 
-<pre class="verse">
-Tell me, what are you focused upon?
-Tell me, will it come to me after you're gone? *)
-</pre>
+              A
+    Does that fire still burn? Does that flame still glow?
+       E
+    Or has it died out and melted like the snow.
+         B        E     (E7)
+    Tell me. Tell me.
 
-<pre class="refrain">
-Tell me now with a glance on the side.
-Shall I hold you close or let you go by?
-Tell me. Tell me.
+    Tell me, what are you focused upon?
+    Tell me, will it come to me after you're gone? *)
 
-Is that the heat and the beat of your pulse that I feel?
-If it's not that, then what is it that you're trying to conceal?
-Do you have any secrets that will only come out in time?
+    Tell me now with a glance on the side.
+    Shall I hold you close or let you go by?
+    Tell me. Tell me.
 
-Do you lie in your bed do you stare at the stars?
-Is your main friend someone who's an old acquaintance of ours?
-Tell me. Yes, tell me.
-</pre>
+    Is that the heat and the beat of your pulse that I feel?
+    If it's not that, then what is it that you're trying to conceal?
+    Do you have any secrets that will only come out in time?
 
-<pre class="verse">
-Tell me, are those rock 'n' roll dreams in your eyes?
-Tell me behind what door your treasure lies.
-</pre>
+    Do you lie in your bed do you stare at the stars?
+    Is your main friend someone who's an old acquaintance of ours?
+    Tell me. Yes, tell me.
 
-<pre class="refrain">
-Ever gone broke in a big way?
-Ever done the opposite of what the experts say?
-Tell me. Tell me.
+    Tell me, are those rock 'n' roll dreams in your eyes?
+    Tell me behind what door your treasure lies.
 
-Is it some kind of game that you're playin' with my heart
-How deep must I go, where do I start?
-Do you have any morals? Do you have any point of view?
+    Ever gone broke in a big way?
+    Ever done the opposite of what the experts say?
+    Tell me. Tell me.
 
-Is that a smile that I see on your face?
-Will it lead me to glory or lead me to disgrace?
-Tell me. Tell me.
-</pre>
+    Is it some kind of game that you're playin' with my heart
+    How deep must I go, where do I start?
+    Do you have any morals? Do you have any point of view?
 
-<pre class="verse">
-Tell me, is that my name in your book?
-Tell me, will you go back and take another look?
-</pre>
+    Is that a smile that I see on your face?
+    Will it lead me to glory or lead me to disgrace?
+    Tell me. Tell me.
 
-<pre class="refrain">
-Tell me the truth, don't tell me no lies.
-Are you anybody, someone, prays for, or cries?
-Tell me. Tell me.
-</pre>
+    Tell me, is that my name in your book?
+    Tell me, will you go back and take another look?
 
-----
-<nowiki>*</nowiki>) Played:
+    Tell me the truth, don't tell me no lies.
+    Are you anybody, someone, prays for, or cries?
+    Tell me. Tell me.
 
-<pre class="verse">
-      A/e E          A/e       E            B
-Tell me,    will it come to me after you're gone?
-</pre>
+* * * * *
 
-[[Category:Songs]]
+\*) Played:
+
+          A/e E          A/e       E            B
+    Tell me,    will it come to me after you're gone?

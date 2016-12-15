@@ -1,61 +1,67 @@
-Trad. (see [http://theband.hiof.no/lyrics/no_more_cane.html The Band site]for references and additional verses)<br>
-Played by Bob Dylan at the second Gaslight show (late October 1962)<br>
+---
+title: Ain't No More Cane
+permalink: Ain't No More Cane
+layout: wiki
+tags:
+ - Songs
+ - Miscellaneous Songs
+---
+
+Trad. (see [The Band
+site](http://theband.hiof.no/lyrics/no_more_cane.html)for references and
+additional verses)  
+Played by Bob Dylan at the second Gaslight show (late October 1962)  
 Tabbed by Eyolf Østrem
 
-----
+* * * * *
+
 Capo 4th fret (sounding key E major)
 
-One of the “special effects” here is the rhythm: square, and with
-all the strings left open before every strong beat (see the outro for
-an example).
+One of the “special effects” here is the rhythm: square, and with all
+the strings left open before every strong beat (see the outro for an
+example).
 
-----
-<pre class="verse">
-C             F           C
-Ain't no more cane on the Brazos
-C   D7     G  G6  G7
-Oh, oh, oh,
-C               F        C
-Its done ground all to molasses
-F   G   C
-M-m-m-m-m
+* * * * *
 
-C                   F        C
-Shoulda been on the river in 1910
-C   D7  G  G6
-M-m-m-m-m
-G7        C           F     C         Am
-They were driving the women just like men.
-D7 F  G   C
-M-m-m-m-m
+    C             F           C
+    Ain't no more cane on the Brazos
+    C   D7     G  G6  G7
+    Oh, oh, oh,
+    C               F        C
+    Its done ground all to molasses
+    F   G   C
+    M-m-m-m-m
 
-C                   F        G  C
-Shoulda been on the river in 1905
-C             F         C  Am
-Find yourself lucky to be alive
+    C                   F        C
+    Shoulda been on the river in 1910
+    C   D7  G  G6
+    M-m-m-m-m
+    G7        C           F     C         Am
+    They were driving the women just like men.
+    D7 F  G   C
+    M-m-m-m-m
 
-   C        F                 G       C
-Go down Old Hannah, don't you rise no more
-C          F        G        C
- Don't you rise til Judgment Day
+    C                   F        G  C
+    Shoulda been on the river in 1905
+    C             F         C  Am
+    Find yourself lucky to be alive
 
-      C        G          C
-Ain't no more cane on the Brazos
-C                      F        C      Am
-They've done ground it all to molasses
-</pre>
-<pre class="tab">
-  F       G         C       F     C
-  :   .   .   .     :   .   .   .     :   .   .   .   .
-|-1---1(0)3---3(0)|-0---0-0-111-110-|-0-0-0---0------------|
-|-1---1(0)0---0(0)|-1---1-0-111-111-|-1-1-1---1------------|
-|-2---2(0)0---0(0)|-0---0-0-222-220-|-0-0-0---0------------|
-|-3---3(0)0---0(0)|-2---2-0-333-332-|-2-2-2---2------------|
-|-3---3(0)2---2(0)|-3---3-0-333-333-|-3-3-3---3------------|
-|-1---1---3---3(0)|---------111-113-|----------------------|
-  m  -  m-m -   m - mm.
-</pre>
+       C        F                 G       C
+    Go down Old Hannah, don't you rise no more
+    C          F        G        C
+     Don't you rise til Judgment Day
 
-[[Category:Songs]]
+          C        G          C
+    Ain't no more cane on the Brazos
+    C                      F        C      Am
+    They've done ground it all to molasses
 
-[[Category:Miscellaneous Songs]]
+      F       G         C       F     C
+      :   .   .   .     :   .   .   .     :   .   .   .   .
+    |-1---1(0)3---3(0)|-0---0-0-111-110-|-0-0-0---0------------|
+    |-1---1(0)0---0(0)|-1---1-0-111-111-|-1-1-1---1------------|
+    |-2---2(0)0---0(0)|-0---0-0-222-220-|-0-0-0---0------------|
+    |-3---3(0)0---0(0)|-2---2-0-333-332-|-2-2-2---2------------|
+    |-3---3(0)2---2(0)|-3---3-0-333-333-|-3-3-3---3------------|
+    |-1---1---3---3(0)|---------111-113-|----------------------|
+      m  -  m-m -   m - mm.

@@ -1,101 +1,95 @@
-Words and music Bob Dylan<br>
-Recorded March 1971 and released on [[Greatest Hits, vol 2]]
-(1971)<br>
+---
+title: Watching the River Flow
+permalink: Watching the River Flow
+layout: wiki
+tags:
+ - Songs
+---
+
+Words and music Bob Dylan  
+Recorded March 1971 and released on [Greatest Hits, vol
+2](/wiki/Greatest Hits, vol 2 "wikilink") (1971)  
 Tabbed by Eyolf Østrem
 
-----
+* * * * *
+
 [turnaround intro]
 
-<pre class="tab">
-  :      .      .      .        :        .      .     .
-|-13--13-13--13-13--13-13--13-|-13-11----11--11-------------|
-|-----------------------------|-------13--------13----9---9-|
-|-----------------------------|-----------------------------|
-|-----------------------------|-----------------------------|
-|-----------------------------|-----------------------------|
-|-----------------------------|-----------------------------|
-</pre>
-<pre class="tab">
-  :      .     .     .       :     .     .     .
-|--------------------------|------------------------
-|--------------------------|-------1---1------------
-|-10-------5-----4-----3---|-2-----3---3------------
-|--------3---3-------------|-------2---2------------
-|--------------5---5-4---4-|-3-----3---3------------
-|--------------------------|------------------------
-</pre>
+      :      .      .      .        :        .      .     .
+    |-13--13-13--13-13--13-13--13-|-13-11----11--11-------------|
+    |-----------------------------|-------13--------13----9---9-|
+    |-----------------------------|-----------------------------|
+    |-----------------------------|-----------------------------|
+    |-----------------------------|-----------------------------|
+    |-----------------------------|-----------------------------|
 
-<pre class="verse">
-F
-What's the matter with me,
-             Bb
-I don't have much to say,
-F
-Daylight sneakin' through the window
-        G                       C
-And I'm still in this all-night cafe.
+      :      .     .     .       :     .     .     .
+    |--------------------------|------------------------
+    |--------------------------|-------1---1------------
+    |-10-------5-----4-----3---|-2-----3---3------------
+    |--------3---3-------------|-------2---2------------
+    |--------------5---5-4---4-|-3-----3---3------------
+    |--------------------------|------------------------
 
-F
-Walkin' to and fro beneath the moon
+    F
+    What's the matter with me,
                  Bb
-Out to where the trucks are rollin' slow,
-F
-To sit down on this bank of sand
-    C         F
-And watch the river flow.
+    I don't have much to say,
+    F
+    Daylight sneakin' through the window
+            G                       C
+    And I'm still in this all-night cafe.
 
-Wish I was back in the city
-Instead of this old bank of sand,
-With the sun beating down over the chimney tops
-And the one I love so close at hand.
+    F
+    Walkin' to and fro beneath the moon
+                     Bb
+    Out to where the trucks are rollin' slow,
+    F
+    To sit down on this bank of sand
+        C         F
+    And watch the river flow.
 
-If I had wings and I could fly,
-I know where I would go.
-But right now I'll just sit here so contentedly
-And watch the river flow.
-</pre>
+    Wish I was back in the city
+    Instead of this old bank of sand,
+    With the sun beating down over the chimney tops
+    And the one I love so close at hand.
 
-<pre class="bridge">
-C
-People disagreeing on just about everything, yeah,
-F
-Makes you stop and all wonder why.
-Dm                                       G
-Why only yesterday I saw somebody on the street
-                           C
-Who just couldn't help but cry.
-</pre>
+    If I had wings and I could fly,
+    I know where I would go.
+    But right now I'll just sit here so contentedly
+    And watch the river flow.
 
-<pre class="verse">
-Oh, but this ol' river keeps on rollin', though,
-No matter what gets in the way and which way the wind does blow,
-And as long as it does I'll just sit here
-And watch the river flow.
-</pre>
+    C
+    People disagreeing on just about everything, yeah,
+    F
+    Makes you stop and all wonder why.
+    Dm                                       G
+    Why only yesterday I saw somebody on the street
+                               C
+    Who just couldn't help but cry.
 
-<pre class="bridge">
-People disagreeing everywhere you look,
-Makes you wanna stop and read a book.
-Why only yesterday I saw somebody on the street
-That was really shook.
-</pre>
+    Oh, but this ol' river keeps on rollin', though,
+    No matter what gets in the way and which way the wind does blow,
+    And as long as it does I'll just sit here
+    And watch the river flow.
 
-<pre class="verse">
-But this ol' river keeps on rollin', though,
-No matter what gets in the way and which way the wind does blow,
-And as long as it does I'll just sit here
-              F          . . . Bb . .
-And watch the river flow.
-.         F      .   . . Bb . .
-Watch the river flow,
-.            F          . . . Bb . .
-Watchin' the river flow,
-.            F          . . . Bb . .
-Watchin' the river flow,
-              F                        C
-But I'll just sit down on this bank of sand
-                    F
-And watch the river flow.
-</pre>
+    People disagreeing everywhere you look,
+    Makes you wanna stop and read a book.
+    Why only yesterday I saw somebody on the street
+    That was really shook.
 
-[[Category:Songs]]
+    But this ol' river keeps on rollin', though,
+    No matter what gets in the way and which way the wind does blow,
+    And as long as it does I'll just sit here
+                  F          . . . Bb . .
+    And watch the river flow.
+    .         F      .   . . Bb . .
+    Watch the river flow,
+    .            F          . . . Bb . .
+    Watchin' the river flow,
+    .            F          . . . Bb . .
+    Watchin' the river flow,
+                  F                        C
+    But I'll just sit down on this bank of sand
+                        F
+    And watch the river flow.

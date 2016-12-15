@@ -1,145 +1,152 @@
-Words and Music Bob Dylan (but strongly based on Dominic Behan’s ''The Patriot Game'')<br>
-Released on [[The Times They Are A-Changin']] (1963) and in live versions on [[Unplugged]] (1995) and [[Live 1964]] (2004)<br>
+---
+title: With God on Our Side
+permalink: With God on Our Side
+layout: wiki
+tags:
+ - Songs
+---
+
+Words and Music Bob Dylan (but strongly based on Dominic Behan’s *The
+Patriot Game*)  
+Released on [The Times They Are
+A-Changin'](/wiki/The Times They Are A-Changin' "wikilink") (1963) and in live
+versions on [Unplugged](/wiki/Unplugged "wikilink") (1995) and [Live
+1964](/wiki/Live 1964 "wikilink") (2004)  
 Tabbed by Eyolf Østrem
 
-<h2 class="songversion">Album version</h2>
+<h2 class="songversion">
+Album version
 
-The <nowiki>*</nowiki> denotes the G - G6 - G7 figure that Dylan is so fond of:
+</h2>
+The \* denotes the G - G6 - G7 figure that Dylan is so fond of:
 
-<pre class="chords">
-G   320003
-G6  322003  or 3x2003
-G7  323003  or 3x3003
-</pre>
+    G   320003
+    G6  322003  or 3x2003
+    G7  323003  or 3x3003
 
 It can be replaced by just a G chord.
 
-<pre class="verse">
-C (First measure harp only)  |F   |Em   |G * |C
+    C (First measure harp only)  |F   |Em   |G * |C
 
-      C             F Em
-Oh my name it ain't nothin'
-   G   *        C
-My age it means less
-    F   Em  G C
-The country I come from
-   F          C
-Is called the Midwest
-    F      Em  G       C
-I's taught and brought up there
-    F        C
-The laws to abide
-                         F    Em
-And that the land that I live in
-    G   *      C
-Has God on its side.
+          C             F Em
+    Oh my name it ain't nothin'
+       G   *        C
+    My age it means less
+        F   Em  G C
+    The country I come from
+       F          C
+    Is called the Midwest
+        F      Em  G       C
+    I's taught and brought up there
+        F        C
+    The laws to abide
+                             F    Em
+    And that the land that I live in
+        G   *      C
+    Has God on its side.
 
-Oh the history books tell it
-They tell it so well
-The cavalries charged
-The Indians fell
-The cavalries charged
-The Indians died
-Oh the country was young
-With God on its side.
+    Oh the history books tell it
+    They tell it so well
+    The cavalries charged
+    The Indians fell
+    The cavalries charged
+    The Indians died
+    Oh the country was young
+    With God on its side.
 
-The Spanish-American
-War had its day
-And the Civil War too
-Was soon laid away
-And the names of the heroes
-I's made to memorize
-With guns in their hands
-And God on their side.
+    The Spanish-American
+    War had its day
+    And the Civil War too
+    Was soon laid away
+    And the names of the heroes
+    I's made to memorize
+    With guns in their hands
+    And God on their side.
 
-The First World War, boys
-It came and it went
-The reason for fighting
-I never did get *)
-But I learned to accept it
-Accept it with pride
-For you don't count the dead
-When God's on your side.
+    The First World War, boys
+    It came and it went
+    The reason for fighting
+    I never did get *)
+    But I learned to accept it
+    Accept it with pride
+    For you don't count the dead
+    When God's on your side.
 
-The Second World War
-Came to an end
-We forgave the Germans
-And then we were friends
-Though they murdered six million
-In the ovens they fried
-The Germans now too
-Have God on their side.
+    The Second World War
+    Came to an end
+    We forgave the Germans
+    And then we were friends
+    Though they murdered six million
+    In the ovens they fried
+    The Germans now too
+    Have God on their side.
 
-I've learned to hate the Russians
-All through my whole life
-If another war comes
-It's them we must fight
-To hate them and fear them
-To run and to hide
-And accept it all bravely
-With God on my side.
+    I've learned to hate the Russians
+    All through my whole life
+    If another war comes
+    It's them we must fight
+    To hate them and fear them
+    To run and to hide
+    And accept it all bravely
+    With God on my side.
 
-But now we got weapons
-Of chemical dust
-If fire them we're forced to
-Then fire them we must
-One push of the button
-And a shot the world wide
-And you never ask questions
-When God's on your side.
+    But now we got weapons
+    Of chemical dust
+    If fire them we're forced to
+    Then fire them we must
+    One push of the button
+    And a shot the world wide
+    And you never ask questions
+    When God's on your side.
 
-Through many dark hours
-I've been thinkin' about this
-That Jesus Christ
-Was betrayed by a kiss
-But I can't think for you
-You'll have to decide
-Whether Judas Iscariot
-Had God on his side.
+    Through many dark hours
+    I've been thinkin' about this
+    That Jesus Christ
+    Was betrayed by a kiss
+    But I can't think for you
+    You'll have to decide
+    Whether Judas Iscariot
+    Had God on his side.
 
-So now as I'm leavin'
-I'm weary as Hell
-The confusion I'm feelin'
-Ain't no tongue can tell
-The words fill my head
-And then fall to the floor
-That if God's on our side
-He'll stop the next war.
-</pre>
+    So now as I'm leavin'
+    I'm weary as Hell
+    The confusion I'm feelin'
+    Ain't no tongue can tell
+    The words fill my head
+    And then fall to the floor
+    That if God's on our side
+    He'll stop the next war.
 
-----
-<nowiki>*</nowiki>) The official lyrics have (as a rather silly attempt at producing a
+* * * * *
+
+\*) The official lyrics have (as a rather silly attempt at producing a
 better rhyme than the original):
 
-<pre class="verse">
-It closed out its fate
-The reason for fighting
-I never got straight
-</pre>
+    It closed out its fate
+    The reason for fighting
+    I never got straight
 
-<h2 class="songversion">''[[Unplugged]]'' version</h2>
+<h2 class="songversion">
+*[Unplugged](/wiki/Unplugged "wikilink")* version
 
+</h2>
 Basically the same as above, only slightly simplified.
 
-<pre class="verse">
-C                F Em
-Oh my name it is nothin'
-   G            C
-My age it means less
-    C *)
-The country I come from
-   F          C
-Is called the Midwest
-    C
-I's taught and brought up there
-    F        C
-The laws to abide
-                     F    Em
-And that land that I live in
-    G          C
-Has God on its side.
-</pre>
+    C                F Em
+    Oh my name it is nothin'
+       G            C
+    My age it means less
+        C *)
+    The country I come from
+       F          C
+    Is called the Midwest
+        C
+    I's taught and brought up there
+        F        C
+    The laws to abide
+                         F    Em
+    And that land that I live in
+        G          C
+    Has God on its side.
 
-<nowiki>*</nowiki>) The Cs are usually embellished by Csus4s.
-
-[[Category:Songs]]
+\*) The Cs are usually embellished by Csus4s.

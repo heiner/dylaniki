@@ -1,127 +1,108 @@
-Written by Hal Moore and Bill Fredricks<br>
-Released on [[Christmas in the Heart]] (2009)<br>
+---
+title: Must Be Santa
+permalink: Must Be Santa
+layout: wiki
+tags:
+ - Songs
+---
+
+Written by Hal Moore and Bill Fredricks  
+Released on [Christmas in the Heart](/wiki/Christmas in the Heart "wikilink")
+(2009)  
 Tabbed by Eyolf Østrem
 
-----
-<pre class="crd">
-|: D  A  E  A  :| x4
+* * * * *
 
-</pre>
-<pre class="verse">
-A                        E
-Who's got a beard that's long and white
- E                          A
-[<span class="chorus">Santa's got a beard that's long and white</span>]
-A                     E
-Who comes around on a special night
- E                       A
-[<span class="chorus">Santa comes around on a special night</span>]
-</pre>
+    |: D  A  E  A  :| x4
 
-<pre class="refrain">
-A
-Special Night, beard that's white
-Bm       E
- Must be Santa
-A        F#m
- Must be Santa
-Bm       E7           A
- Must be Santa, Santa Claus
-</pre>
+    A                        E
+    Who's got a beard that's long and white
+     E                          A
+    [<span class="chorus">Santa's got a beard that's long and white</span>]
+    A                     E
+    Who comes around on a special night
+     E                       A
+    [<span class="chorus">Santa comes around on a special night</span>]
 
-<pre class="verse">
-Who wears boots and a suit of red
-[<span class="chorus">Santa wears boots and a suit of red</span>]
-Who wears a long cap on his head
-[<span class="chorus">Santa wears a long cap on his head</span>]
-</pre>
+    A
+    Special Night, beard that's white
+    Bm       E
+     Must be Santa
+    A        F#m
+     Must be Santa
+    Bm       E7           A
+     Must be Santa, Santa Claus
 
-<pre class="refrain">
-Cap on head, suit that's red
-Special night, beard that's white
-Must be Santa
-Must be Santa
-Must be Santa, Santa Claus
-</pre>
+    Who wears boots and a suit of red
+    [<span class="chorus">Santa wears boots and a suit of red</span>]
+    Who wears a long cap on his head
+    [<span class="chorus">Santa wears a long cap on his head</span>]
 
-<pre class="verse">
-Who's got a big red cherry nose
-[<span class="chorus">Santa's got a big red cherry nose</span>]
-Who laughs this way ‘Ho, Ho, Ho!’
-[<span class="chorus">Santa laughs this way ‘Ho, Ho, Ho!’</span>]
-</pre>
+    Cap on head, suit that's red
+    Special night, beard that's white
+    Must be Santa
+    Must be Santa
+    Must be Santa, Santa Claus
 
-<pre class="refrain">
-‘Ho, Ho, Ho!’, cherry nose
-Cap on head, suit that's red
-Special night, beard that's white
-Must be Santa
-Must be Santa
-Must be Santa, Santa Claus
-</pre>
+    Who's got a big red cherry nose
+    [<span class="chorus">Santa's got a big red cherry nose</span>]
+    Who laughs this way ‘Ho, Ho, Ho!’
+    [<span class="chorus">Santa laughs this way ‘Ho, Ho, Ho!’</span>]
 
-<pre class="crd">
-|: Bb  Eb   F    Bb :| 
-</pre>
+    ‘Ho, Ho, Ho!’, cherry nose
+    Cap on head, suit that's red
+    Special night, beard that's white
+    Must be Santa
+    Must be Santa
+    Must be Santa, Santa Claus
 
-<pre class="verse">
-Bb                 F
-Who very soon will come our way
-                      Bb
-[<span class="chorus">Santa very soon will come our way</span>]
-                      F
-Eight little reindeer pull his sleigh
-                         Bb
-[<span class="chorus">Santa's little reindeer pull his sleigh</span>]
-</pre>
+    |: Bb  Eb   F    Bb :|
 
-<pre class="refrain">
-Reindeer sleigh, come our way
-‘Ho, Ho, Ho!’, cherry nose
-Cap on head, suit that's red
-Special night, beard that's white
+    Bb                 F
+    Who very soon will come our way
+                          Bb
+    [<span class="chorus">Santa very soon will come our way</span>]
+                          F
+    Eight little reindeer pull his sleigh
+                             Bb
+    [<span class="chorus">Santa's little reindeer pull his sleigh</span>]
 
-Cm       F
- Must be Santa
-Bb       Gm
- Must be Santa
-Cm       F            Bb
- Must be Santa, Santa Claus
-</pre>
+    Reindeer sleigh, come our way
+    ‘Ho, Ho, Ho!’, cherry nose
+    Cap on head, suit that's red
+    Special night, beard that's white
 
-<pre class="crd">
-|: B   E   F#   B  :|
-</pre>
-<pre class="bridge2">
-B               F#
-Dasher, Dancer, Prancer, Vixen,
-                     B
-Eisenhower, Kennedy, Johnson, Nixon,
-B               F#
-Dasher, Dancer, Prancer, Vixen,
-                B
-Carter, Reagan, Bush, and Clinton
-</pre>
+    Cm       F
+     Must be Santa
+    Bb       Gm
+     Must be Santa
+    Cm       F            Bb
+     Must be Santa, Santa Claus
 
-<pre class="refrain">
+    |: B   E   F#   B  :|
 
-Reindeer sleigh, come our way
-‘Ho, Ho, Ho!’, cherry nose
-Cap on head, suit that's red
-Special night, beard that's white
+    B               F#
+    Dasher, Dancer, Prancer, Vixen,
+                         B
+    Eisenhower, Kennedy, Johnson, Nixon,
+    B               F#
+    Dasher, Dancer, Prancer, Vixen,
+                    B
+    Carter, Reagan, Bush, and Clinton
 
-C#m      F#
- Must be Santa
-B        G#m
- Must be Santa
-C#m      F#           B
- Must be Santa, Santa Claus
-</pre>
 
-<pre class="refrain">
-Must be Santa
-Must be Santa
-Must be Santa, Santa Claus
-</pre>
+    Reindeer sleigh, come our way
+    ‘Ho, Ho, Ho!’, cherry nose
+    Cap on head, suit that's red
+    Special night, beard that's white
 
-[[Category:Songs]]
+    C#m      F#
+     Must be Santa
+    B        G#m
+     Must be Santa
+    C#m      F#           B
+     Must be Santa, Santa Claus
+
+    Must be Santa
+    Must be Santa
+    Must be Santa, Santa Claus

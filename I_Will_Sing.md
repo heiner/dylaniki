@@ -1,86 +1,78 @@
-Written by Max Dyer<br>
-Performed by Bob Dylan in Akron, Ohio May 18th, 1980 (only performance)<br>
+---
+title: I Will Sing
+permalink: I Will Sing
+layout: wiki
+tags:
+ - Songs
+ - Miscellaneous Songs
+---
+
+Written by Max Dyer  
+Performed by Bob Dylan in Akron, Ohio May 18th, 1980 (only
+performance)  
 Tabbed by Eyolf Østrem
 
-----
-<pre class="refrain">
-    C       Em7/b Am           C/g
-Allelu, Alleluia, glory to the Lord
-    F       C/e   Dm7          G
-Allelu, Alleluia, glory to the Lord
-    C       Em7/b Am           C/g
-Allelu, Alleluia, glory to the Lord
-    F     G            C   F/c  C
-Alleluia, glory to the Lord
-</pre>
+* * * * *
 
-<pre class="verse">
-We will sing, We will sing a song unto the Lord.
-We will sing, We will sing a song unto the Lord.
-We will sing, We will sing a song unto the Lord.
-We will sing a song unto the Lord
+        C       Em7/b Am           C/g
+    Allelu, Alleluia, glory to the Lord
+        F       C/e   Dm7          G
+    Allelu, Alleluia, glory to the Lord
+        C       Em7/b Am           C/g
+    Allelu, Alleluia, glory to the Lord
+        F     G            C   F/c  C
+    Alleluia, glory to the Lord
 
-In his name, in his name we have the victory.
-In his name, in his name we have the victory.
-In his name, in his name we have the victory.
-In his name we have the victory.
+    We will sing, We will sing a song unto the Lord.
+    We will sing, We will sing a song unto the Lord.
+    We will sing, We will sing a song unto the Lord.
+    We will sing a song unto the Lord
 
-Ev'ry knee shall bow, ev'ry tongue confess.
-Ev'ry knee shall bow, ev'ry tongue confess.
-Ev'ry knee shall bow, ev'ry tongue confess.
-That Jesus Christ is Lord.
-</pre>
+    In his name, in his name we have the victory.
+    In his name, in his name we have the victory.
+    In his name, in his name we have the victory.
+    In his name we have the victory.
 
-<pre class="refrain">
-Allelu, Alleluia, glory to the Lord
-Allelu, Alleluia, glory to the Lord
-Allelu, Alleluia, glory to the Lord
-Alleluia, glory to the Lord
-</pre>
+    Ev'ry knee shall bow, ev'ry tongue confess.
+    Ev'ry knee shall bow, ev'ry tongue confess.
+    Ev'ry knee shall bow, ev'ry tongue confess.
+    That Jesus Christ is Lord.
 
-<pre class="verse">
-We will come, we will come as one before the Lord.
-We will come, we will come as one before the Lord.
-We will come, we will come as one before the Lord.
-We will come as one before the Lord.
+    Allelu, Alleluia, glory to the Lord
+    Allelu, Alleluia, glory to the Lord
+    Allelu, Alleluia, glory to the Lord
+    Alleluia, glory to the Lord
 
-In his name, in his name we have the victory.
-In his name, in his name we have the victory.
-In his name, in his name we have the victory.
-In his name we have the victory.
-</pre>
+    We will come, we will come as one before the Lord.
+    We will come, we will come as one before the Lord.
+    We will come, we will come as one before the Lord.
+    We will come as one before the Lord.
 
-<pre class="refrain">
-Allelu, Alleluia, glory to the Lord
-Allelu, Alleluia, glory to the Lord
-Allelu, Alleluia, glory to the Lord
-Alleluia, glory to the Lord.
-</pre>
+    In his name, in his name we have the victory.
+    In his name, in his name we have the victory.
+    In his name, in his name we have the victory.
+    In his name we have the victory.
 
-<pre class="verse">
-Ev'ry knee shall bow, ev'ry tongue confess.
-Ev'ry knee shall bow, ev'ry tongue confess.
-Ev'ry knee shall bow, ev'ry tongue confess.
-That Jesus Christ is Lord.
-</pre>
+    Allelu, Alleluia, glory to the Lord
+    Allelu, Alleluia, glory to the Lord
+    Allelu, Alleluia, glory to the Lord
+    Alleluia, glory to the Lord.
 
-<pre class="refrain">
-Allelu, Alleluia, glory to the Lord
-Allelu, Alleluia, glory to the Lord
-Allelu, Alleluia, glory to the Lord
-Alleluia, glory to the Lord.
-</pre>
+    Ev'ry knee shall bow, ev'ry tongue confess.
+    Ev'ry knee shall bow, ev'ry tongue confess.
+    Ev'ry knee shall bow, ev'ry tongue confess.
+    That Jesus Christ is Lord.
 
-----
+    Allelu, Alleluia, glory to the Lord
+    Allelu, Alleluia, glory to the Lord
+    Allelu, Alleluia, glory to the Lord
+    Alleluia, glory to the Lord.
+
+* * * * *
+
 Additional verses, not sung by Dylan:
 
-<pre class="verse">
-If the Son, if the Son shall make you free
-You shall be free indeed.
-They that sow in tears shall reap in joy
-Alleluia, glory to the Lord.
-</pre>
-
-[[Category:Songs]]
-
-[[Category:Miscellaneous Songs]]
+    If the Son, if the Son shall make you free
+    You shall be free indeed.
+    They that sow in tears shall reap in joy
+    Alleluia, glory to the Lord.

@@ -1,64 +1,60 @@
-Written by Bob Dylan, I guess<br>
-Performed by Bob Dylan and the Band in the Basement, summer 1967<br>
+---
+title: One Man's Loss
+permalink: One Man's Loss
+layout: wiki
+tags:
+ - Songs
+---
+
+Written by Bob Dylan, I guess  
+Performed by Bob Dylan and the Band in the Basement, summer 1967  
 Tabbed by Eyolf Østrem
 
-Too bad the sound is so bad on this, because it's a text with
-potential. The bracketed passages are just representations of the
-sounds I seem to hear, with no claim for meaning or authority.
+Too bad the sound is so bad on this, because it's a text with potential.
+The bracketed passages are just representations of the sounds I seem to
+hear, with no claim for meaning or authority.
 
 I'd suggest a capo on the 5th fret (sounding key D major), with the
 following figure going through the whole song:
 
-<pre class="tab">
-  A       A6        A       D/a
-|-----------------|-----------------|
-|-----------------|---------3---3---|
-|-2---2---2---2---|-2---2---2---2---|
-|-2---2---4---4---|-2---2---4---4---|
-|-0---0---0---0---|-0---0---0---0---|
-|-----------------|-----------------|
-</pre>
+      A       A6        A       D/a
+    |-----------------|-----------------|
+    |-----------------|---------3---3---|
+    |-2---2---2---2---|-2---2---2---2---|
+    |-2---2---4---4---|-2---2---4---4---|
+    |-0---0---0---0---|-0---0---0---0---|
+    |-----------------|-----------------|
 
-----
-<pre class="verse">
-[first verse inaudible]
+* * * * *
 
-A
-[Let's take a cherry], I can't make it no more
+    [first verse inaudible]
 
-Can't stop, she's breaking all time on the floor
+    A
+    [Let's take a cherry], I can't make it no more
 
-Better come down easy or don't come down at all
+    Can't stop, she's breaking all time on the floor
 
-You don't try and to please me, somebody's gonna fall
-</pre>
-<pre class="refrain">
-D                                      A
-One man's loss always is another man's gain
-     E             D                       A
-Yes, one man's joy always is another man's pain
-</pre>
+    Better come down easy or don't come down at all
 
-<pre class="verse">
-Eight o'clock in the morning, [better] step aside
-[let me be to your] warning, you better go by
-Three times a loser, number 45
-better not lose her, best stayed alive
-</pre>
-<pre class="refrain">
-One man's loss always is another man's gain
-Yes, one man's joy always is another man's pain
-</pre>
+    You don't try and to please me, somebody's gonna fall
 
-<pre class="verse">
-Wish I'd have found me [...] at the wall
-One look at the watch, you better [lord at all]
-You can't stop it or wait it [...] at night
-Too hard to keep you waiting, calls me aside
-</pre>
-<pre class="refrain">
-One man's loss always is another man's gain
-Yes, one man's joy always is another man's pain
-</pre>
+    D                                      A
+    One man's loss always is another man's gain
+         E             D                       A
+    Yes, one man's joy always is another man's pain
 
-[[Category:Songs]]
+    Eight o'clock in the morning, [better] step aside
+    [let me be to your] warning, you better go by
+    Three times a loser, number 45
+    better not lose her, best stayed alive
+
+    One man's loss always is another man's gain
+    Yes, one man's joy always is another man's pain
+
+    Wish I'd have found me [...] at the wall
+    One look at the watch, you better [lord at all]
+    You can't stop it or wait it [...] at night
+    Too hard to keep you waiting, calls me aside
+
+    One man's loss always is another man's gain
+    Yes, one man's joy always is another man's pain

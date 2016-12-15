@@ -1,48 +1,49 @@
-Written by Jim Anglin (1913-1987), who sold the copyrights to Roy
-Acuff (this was the case even with [[This World Can't Stand Long]]; it's been recorded by The Blue Sky Boys, Hank Williams, et al., and by Ralph Stanley(on ''Pray For The Boys''), which is probably the source of Dylan's version.
+---
+title: Searching For A Soldier's Grave
+permalink: Searching For A Soldier's Grave
+layout: wiki
+tags:
+ - Songs
+ - Miscellaneous Songs
+---
 
-Performed by Bob Dylan on various occasions since the first
-performance in Portland, OR, Jun 15 2000<br>
-Tabbed and transcribed by Eyolf Østrem (who personally thinks it's
-a rather silly song...) (although Hank Williams considered it “one of
-the purdyest songs I reckon anybody ever wrote” – “all for poppa
-during WWII”)
+Written by Jim Anglin (1913-1987), who sold the copyrights to Roy Acuff
+(this was the case even with [This World Can't Stand
+Long](/wiki/This World Can't Stand Long "wikilink"); it's been recorded by The
+Blue Sky Boys, Hank Williams, et al., and by Ralph Stanley(on *Pray For
+The Boys*), which is probably the source of Dylan's version.
 
-----
-<pre class="verse">
-C . . |. /b /a | G . . .| C . . | . . . | . . . | . . .
+Performed by Bob Dylan on various occasions since the first performance
+in Portland, OR, Jun 15 2000  
+Tabbed and transcribed by Eyolf Østrem (who personally thinks it's a
+rather silly song...) (although Hank Williams considered it “one of the
+purdyest songs I reckon anybody ever wrote” – “all for poppa during
+WWII”)
 
-    C                                 F
-You ask me, stranger, why I make this journey
-C                                           G
-Why I cross three thousand miles of rolling waves.
-     C                                    F
-Like so many others my love was killed in action.
-C           G                 C
-So I'm here searching for his grave.
-</pre>
+* * * * *
 
-<pre class="refrain">
-Somewhere among the many thousand
-Of all the Americans who died, true and brave,
-That's where I know I'll find him resting
-So I'm here searching for his grave.
-</pre>
+    C . . |. /b /a | G . . .| C . . | . . . | . . . | . . .
 
-<pre class="verse">
-Beside each crossmark there all around me
-I'll kneel down and gladly say a prayer
-For all the dear loved ones home across the ocean
-Whose hearts like mine lie buried over here.
-</pre>
+        C                                 F
+    You ask me, stranger, why I make this journey
+    C                                           G
+    Why I cross three thousand miles of rolling waves.
+         C                                    F
+    Like so many others my love was killed in action.
+    C           G                 C
+    So I'm here searching for his grave.
 
-<pre class="refrain">
-Somewhere among the many dozens
-Of all the Americans who died true and brave
-That's where I know I'll find him resting
-So I'm here searching for his grave.
-</pre>
+    Somewhere among the many thousand
+    Of all the Americans who died, true and brave,
+    That's where I know I'll find him resting
+    So I'm here searching for his grave.
 
-[[Category:Songs]]
+    Beside each crossmark there all around me
+    I'll kneel down and gladly say a prayer
+    For all the dear loved ones home across the ocean
+    Whose hearts like mine lie buried over here.
 
-[[Category:Miscellaneous Songs]]
+    Somewhere among the many dozens
+    Of all the Americans who died true and brave
+    That's where I know I'll find him resting
+    So I'm here searching for his grave.

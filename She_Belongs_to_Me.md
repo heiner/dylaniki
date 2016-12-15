@@ -1,76 +1,87 @@
-Words and music Bob Dylan<br>
-Released on [[Bringing It All Back Home]] (1965) and [[Greatest Hits II]] (1971), and in live versions on [[Self Portrait]] (1970) and [[Live 1966]] (1998)<br>
+---
+title: She Belongs to Me
+permalink: She Belongs to Me
+layout: wiki
+tags:
+ - Songs
+---
+
+Words and music Bob Dylan  
+Released on [Bringing It All Back
+Home](/wiki/Bringing It All Back Home "wikilink") (1965) and [Greatest Hits
+II](/wiki/Greatest Hits II "wikilink") (1971), and in live versions on [Self
+Portrait](/wiki/Self Portrait "wikilink") (1970) and [Live
+1966](/wiki/Live 1966 "wikilink") (1998)  
 Tabbed by Eyolf Østrem
 
 Capo 2nd fret (sounding key A major)
 
-----
-<pre class="verse">
-(open E-string) - G
+* * * * *
 
-G
-She's got everything she needs,
-         C                      G      C/g G
-She's an artist, she don't look back.
-          C
-She's got everything she needs,
-                                G      C/g G
-She's an artist, she don't look back.
-                 A
-She can take the dark out of the nighttime
-    C                 G                C/g G
-And paint the daytime black.
+    (open E-string) - G
 
-You will start out standing
-Proud to steal her anything she sees.
-You will start out standing
-Proud to steal her anything she sees.
-But you will wind up peeking through her keyhole
-Down upon your knees.
+    G
+    She's got everything she needs,
+             C                      G      C/g G
+    She's an artist, she don't look back.
+              C
+    She's got everything she needs,
+                                    G      C/g G
+    She's an artist, she don't look back.
+                     A
+    She can take the dark out of the nighttime
+        C                 G                C/g G
+    And paint the daytime black.
 
-She never stumbles,
-She's got no place to fall.
-She never stumbles,
-She's got no place to fall.
-She's nobody's child,
-The Law can't touch her at all.
+    You will start out standing
+    Proud to steal her anything she sees.
+    You will start out standing
+    Proud to steal her anything she sees.
+    But you will wind up peeking through her keyhole
+    Down upon your knees.
 
-She wears an Egyptian ring
-That sparkles before she speaks.
-She wears an Egyptian ring
-That sparkles before she speaks.
-She's a hypnotist collector,
-You are a walking antique.
+    She never stumbles,
+    She's got no place to fall.
+    She never stumbles,
+    She's got no place to fall.
+    She's nobody's child,
+    The Law can't touch her at all.
 
-Bow down to her on Sunday,
-Salute her when her birthday comes.
-Bow down to her on Sunday,
-Salute her when her birthday comes.
-For Halloween give her a trumpet
-And for Christmas, buy her a drum.
-</pre>
+    She wears an Egyptian ring
+    That sparkles before she speaks.
+    She wears an Egyptian ring
+    That sparkles before she speaks.
+    She's a hypnotist collector,
+    You are a walking antique.
 
-<h2 class="songversion">Live 1966 version</h2>
+    Bow down to her on Sunday,
+    Salute her when her birthday comes.
+    Bow down to her on Sunday,
+    Salute her when her birthday comes.
+    For Halloween give her a trumpet
+    And for Christmas, buy her a drum.
 
+<h2 class="songversion">
+Live 1966 version
+
+</h2>
 Same as above, but with Capo 5th fret (sounding key C major)
 
-<h2 class="songversion">Self Portrait (Isle of Wight) version </h2>
+<h2 class="songversion">
+Self Portrait (Isle of Wight) version
 
+</h2>
 Either same as Live 66, or with C major chords:
 
-<pre class="verse">
-          C
-She's got everything she needs,
-         F                      C
-She's an artist, she don't look back.
-          F
-She's got everything she needs,
-                                C
-She's an artist, she don't look back.
-                 D
-She can take the dark out of the nighttime
-    F                 C
-And paint the daytime black.
-</pre>
-
-[[Category:Songs]]
+              C
+    She's got everything she needs,
+             F                      C
+    She's an artist, she don't look back.
+              F
+    She's got everything she needs,
+                                    C
+    She's an artist, she don't look back.
+                     D
+    She can take the dark out of the nighttime
+        F                 C
+    And paint the daytime black.

@@ -1,76 +1,80 @@
-Words and music Bob Dylan<br>
-Recorded Jul 1965 and released as a single Sep 1965, and on
-[[Greatest Hits]] (1967). Released again on [[Biograph]]
-(1985)<br>
+---
+title: Positively 4th Street
+permalink: Positively 4th Street
+layout: wiki
+tags:
+ - Songs
+ - Miscellaneous Songs
+---
+
+Words and music Bob Dylan  
+Recorded Jul 1965 and released as a single Sep 1965, and on [Greatest
+Hits](/wiki/Greatest Hits "wikilink") (1967). Released again on
+[Biograph](/wiki/Biograph "wikilink") (1985)  
 Tabbed by Eyolf Østrem
 
-----
-<pre class="verse">
-G         Am
-You got a lotta nerve
-C                 G
-To say you are my friend
-     G     D
-When I was down
-C        Em          D
-You just stood there grinning
+* * * * *
 
-You got a lotta nerve
-To say you gota helping hand to lend
-You just want to be on
-The side that's winning
+    G         Am
+    You got a lotta nerve
+    C                 G
+    To say you are my friend
+         G     D
+    When I was down
+    C        Em          D
+    You just stood there grinning
 
-You say I let you down
-You know it's not like that
-If you're so hurt
-Why then don't you show it
+    You got a lotta nerve
+    To say you gota helping hand to lend
+    You just want to be on
+    The side that's winning
 
-You say you lost your faith
-But that's not where it's at
-You had no faith to lose
-And you know it
+    You say I let you down
+    You know it's not like that
+    If you're so hurt
+    Why then don't you show it
 
-I know the reason
-That you talk behind my back
-I used to be among the crowd
-You're in with
+    You say you lost your faith
+    But that's not where it's at
+    You had no faith to lose
+    And you know it
 
-Do you take me for such a fool
-To think I'd make contact
-With the one who tries to hide
-What he don't know to begin with
+    I know the reason
+    That you talk behind my back
+    I used to be among the crowd
+    You're in with
 
-You see me on the street
-You always act surprised
-You say, "How are you?", "Good luck"
-But you don't mean it
+    Do you take me for such a fool
+    To think I'd make contact
+    With the one who tries to hide
+    What he don't know to begin with
 
-When you know as well as me
-You'd rather see me paralyzed
-Why don't you just come out once
-And scream it
+    You see me on the street
+    You always act surprised
+    You say, "How are you?", "Good luck"
+    But you don't mean it
 
-No, I do not feel that good
-When I see the heartbreaks you embrace
-If I was a master thief
-Perhaps I'd rob them
+    When you know as well as me
+    You'd rather see me paralyzed
+    Why don't you just come out once
+    And scream it
 
-And now I know you're dissatisfied
-With your position and your place
-Don't you understand
-It's not my problem
+    No, I do not feel that good
+    When I see the heartbreaks you embrace
+    If I was a master thief
+    Perhaps I'd rob them
 
-I wish that for just one time
-You could stand inside my shoes
-And just for that one moment
-I could be you
+    And now I know you're dissatisfied
+    With your position and your place
+    Don't you understand
+    It's not my problem
 
-Yes, I wish that for just one time
-You could stand inside my shoes
-You'd know what a drag it is
-To see you
-</pre>
+    I wish that for just one time
+    You could stand inside my shoes
+    And just for that one moment
+    I could be you
 
-[[Category:Songs]]
-
-[[Category:Miscellaneous Songs]]
+    Yes, I wish that for just one time
+    You could stand inside my shoes
+    You'd know what a drag it is
+    To see you

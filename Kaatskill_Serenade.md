@@ -1,110 +1,106 @@
-Written by David Bromberg<br>
+---
+title: Kaatskill Serenade
+permalink: Kaatskill Serenade
+layout: wiki
+tags:
+ - Songs
+ - Miscellaneous Songs
+---
+
+Written by David Bromberg  
 Recorded by Bob Dylan and Bromberg early/mid June 1992 (“The Bromberg
-Sessions”)<br>
-Tabbed by Eyolf Østrem (thanks to Peter Vincent for lyric
-corrections)
+Sessions”)  
+Tabbed by Eyolf Østrem (thanks to Peter Vincent for lyric corrections)
 
-----
-One of the gems from the Bromberg sessions. The main rhythm guitar
-plays the chords below, but it sounds as if there is one guitar in
-there somewhere with a capo on the 4th fret, playing with
-C-chords. See below for a version like that.
+* * * * *
 
-Peter Vincent has suggested the spelling Kaatskill, “because it was
-the spelling used by Washington Irving in the story of Rip Van Winkle,
-on which the song is based.” It is also the spelling that Bromberg used. Originally, I just couldn't bring myself to writing
-it that way – but I’ve changed my mind: Peter wins.
+One of the gems from the Bromberg sessions. The main rhythm guitar plays
+the chords below, but it sounds as if there is one guitar in there
+somewhere with a capo on the 4th fret, playing with C-chords. See below
+for a version like that.
 
-----
-<pre class="verse">
-[instr.]
+Peter Vincent has suggested the spelling Kaatskill, “because it was the
+spelling used by Washington Irving in the story of Rip Van Winkle, on
+which the song is based.” It is also the spelling that Bromberg used.
+Originally, I just couldn't bring myself to writing it that way – but
+I’ve changed my mind: Peter wins.
 
-              A
-Where are the men
-B7               E
- that I used to sport with?
-             A
-What has become
-B7                  E
-  of my beautiful town?
+* * * * *
 
-Wolf, my own friend
-Even you don't know me
-This must be the end
-My house is tumbled down
-</pre>
+    [instr.]
 
-<pre class="bridge">
-C#m              B    A
- My land it was rich,  but I wouldn't work it
-I guess I made a shrew of my wife
-My duty clear, I could always find some way to shirk it
-I dreamed away the best years of my life
+                  A
+    Where are the men
+    B7               E
+     that I used to sport with?
+                 A
+    What has become
+    B7                  E
+      of my beautiful town?
 
-Seems like only this morning, I went up into the mountain
-No word of warning, just her usual curse
-I hated the house, with all her nagging and shouting
-But to be in this strange world was a thousand times worse
-</pre>
+    Wolf, my own friend
+    Even you don't know me
+    This must be the end
+    My house is tumbled down
 
-<pre class="verse">
-Where are the men
-that I used to sport with?
-What has become
-of my beautiful town?
+    C#m              B    A
+     My land it was rich,  but I wouldn't work it
+    I guess I made a shrew of my wife
+    My duty clear, I could always find some way to shirk it
+    I dreamed away the best years of my life
 
-Wolf, my own friend
-Even you don't know me
-This must be the end
-My house is tumbled down
+    Seems like only this morning, I went up into the mountain
+    No word of warning, just her usual curse
+    I hated the house, with all her nagging and shouting
+    But to be in this strange world was a thousand times worse
 
-[instr.]
-</pre>
+    Where are the men
+    that I used to sport with?
+    What has become
+    of my beautiful town?
 
-<pre class="bridge">
-He called me by name, he bought me that cheaply
-He called me by name, I didn't know what to think
-I watched their loud games, and oh, I drink deeply
-Though no-one had ever asked me to drink
+    Wolf, my own friend
+    Even you don't know me
+    This must be the end
+    My house is tumbled down
 
-And you know that stolen liquor, it was sweeter than whiskey
-Many times quicker, just to put me to sleep
-That drinking with strangers can be very risky
-My sleep it was long, it was twenty years deep
-</pre>
+    [instr.]
 
-<pre class="verse">
-Where are the men
-that I used to sport with?
-What has become
-of my beautiful town?
+    He called me by name, he bought me that cheaply
+    He called me by name, I didn't know what to think
+    I watched their loud games, and oh, I drink deeply
+    Though no-one had ever asked me to drink
 
-Wolf, my own friend
-Even you don't know me
-This must be the end
-My house is tumbled down
-</pre>
+    And you know that stolen liquor, it was sweeter than whiskey
+    Many times quicker, just to put me to sleep
+    That drinking with strangers can be very risky
+    My sleep it was long, it was twenty years deep
 
-<h2 class="songversion">Version with capo 4th fret</h2>
-<pre class="verse">
-              F
-Where are the men
-G               C
- that I used to sport with?
-             F
-What has become
-G                   C
-  of my beautiful town?
+    Where are the men
+    that I used to sport with?
+    What has become
+    of my beautiful town?
 
-. . .
-</pre>
+    Wolf, my own friend
+    Even you don't know me
+    This must be the end
+    My house is tumbled down
 
-<pre class="bridge">
-Am               G    F
- My land it was rich,  but I wouldn't work it
-etc.
-</pre>
+<h2 class="songversion">
+Version with capo 4th fret
 
-[[Category:Songs]]
+</h2>
+                  F
+    Where are the men
+    G               C
+     that I used to sport with?
+                 F
+    What has become
+    G                   C
+      of my beautiful town?
 
-[[Category:Miscellaneous Songs]]
+    . . .
+
+    Am               G    F
+     My land it was rich,  but I wouldn't work it
+    etc.

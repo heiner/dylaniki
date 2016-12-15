@@ -1,13 +1,22 @@
-<p class="recdate">Recorded Jan–Feb 1973<br>
-Released Jul 13, 1973<br>
-(The movie was released in May 1973) </p>
-* [[Billy (Main Title Theme)]]
-* [[Billy]]
-* [[Knockin' on Heaven's Door]] (w/outtakes and lyric changes)
+---
+title: Pat Garrett & Billy The Kid
+permalink: Pat Garrett & Billy The Kid
+layout: wiki
+tags:
+ - Albums
+---
+
+Recorded Jan–Feb 1973  
+Released Jul 13, 1973  
+(The movie was released in May 1973)
+
+-   [Billy (Main Title Theme)](/wiki/Billy (Main Title Theme) "wikilink")
+-   [Billy](/wiki/Billy "wikilink")
+-   [Knockin' on Heaven's Door](/wiki/Knockin' on Heaven's Door "wikilink")
+    (w/outtakes and lyric changes)
 
 Outtakes:
 
-* [[Rock Me Mama]]
-* [[Climax Tobacco]]
+-   [Rock Me Mama](/wiki/Rock Me Mama "wikilink")
+-   [Climax Tobacco](/wiki/Climax Tobacco "wikilink")
 
-[[Category:Albums]]

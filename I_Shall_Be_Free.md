@@ -1,113 +1,116 @@
-Words and music Bob Dylan<br>
-Released on [[Freewheelin']] (1963) <br>
+---
+title: I Shall Be Free
+permalink: I Shall Be Free
+layout: wiki
+tags:
+ - Songs
+ - Open D/E tuning
+---
+
+Words and music Bob Dylan  
+Released on [Freewheelin'](/wiki/Freewheelin' "wikilink") (1963)  
 Tabbed by Eyolf Østrem
 
-Open D tuning (D-A-d-f#-a-d')<br>
-Capo 4th fret (sounding key F# major)
+Open D tuning (D-A-d-f\#-a-d')  
+Capo 4th fret (sounding key F\# major)
 
-<pre>
-Chords:
-D    000000
-A    002100 or 002102
-A/e  200100 or 202100
-G    020100
-</pre>
+    Chords:
+    D    000000
+    A    002100 or 002102
+    A/e  200100 or 202100
+    G    020100
 
-----
+* * * * *
+
 Intro and between verses:
 
-<pre class="verse">
-D . |A . . . |A . . |D G D G |D G D G |D .
+    D . |A . . . |A . . |D G D G |D G D G |D .
 
-        A/e
-Well, I took me a woman late last night,
-                                       D  A/e  D  A/e  D
-I's three-fourths drunk, she looked alright.
-        A/e
-Til she started peelin' off her onion gook,
-                                  D      G  D
-Took off her wig, said, "How do I look?"
-    G      D  G  D  G       D      G   D
-I's hot-flyin'. . . bare-naked . . .
-        G    D   A
-Out the window!
+            A/e
+    Well, I took me a woman late last night,
+                                           D  A/e  D  A/e  D
+    I's three-fourths drunk, she looked alright.
+            A/e
+    Til she started peelin' off her onion gook,
+                                      D      G  D
+    Took off her wig, said, "How do I look?"
+        G      D  G  D  G       D      G   D
+    I's hot-flyin'. . . bare-naked . . .
+            G    D   A
+    Out the window!
 
-Well, sometimes I might get drunk,
-Walk like a duck and smell like a skunk.
-Don't hurt me none, don't hurt my pride
-'Cause I got my little lady right by my side.
-(She's a-tryin' to hide
-pretendin' she don't know me)
+    Well, sometimes I might get drunk,
+    Walk like a duck and smell like a skunk.
+    Don't hurt me none, don't hurt my pride
+    'Cause I got my little lady right by my side.
+    (She's a-tryin' to hide
+    pretendin' she don't know me)
 
-I's out there paintin' on the old woodshed
-When a can a black paint it fell on my head.
-I went down to scrub and rub
-But I had to sit in back of the tub.
-(Cost a quarter
-half prize)
+    I's out there paintin' on the old woodshed
+    When a can a black paint it fell on my head.
+    I went down to scrub and rub
+    But I had to sit in back of the tub.
+    (Cost a quarter
+    half prize)
 
-Well, my telephone rang it would not stop,
-It's President Kennedy callin' me up.
-He said, "My friend, Bob, what do we need to make the country grow?"
-I said, "My friend, John, Brigitte Bardot,
-Anita Ekberg, Sophia Loren."
-(Country will grow)
+    Well, my telephone rang it would not stop,
+    It's President Kennedy callin' me up.
+    He said, "My friend, Bob, what do we need to make the country grow?"
+    I said, "My friend, John, Brigitte Bardot,
+    Anita Ekberg, Sophia Loren."
+    (Country will grow)
 
-Well, I got a woman five feet short,
-She yells and hollers and screams and snorts.
-She tickles my nose, pats me on my head,
-rolls me over and kicks me out of bed.
-(She's a man eater
-meat grinder
-bad looser)
+    Well, I got a woman five feet short,
+    She yells and hollers and screams and snorts.
+    She tickles my nose, pats me on my head,
+    rolls me over and kicks me out of bed.
+    (She's a man eater
+    meat grinder
+    bad looser)
 
-Oh, there ain't no use in me workin' all the time,
-I got a woman who works herself blind.
-Works up to her bridges, up to her neck,
-writes me letters and sends me checks.
-(She's a humdinger
-Folk singer
+    Oh, there ain't no use in me workin' all the time,
+    I got a woman who works herself blind.
+    Works up to her bridges, up to her neck,
+    writes me letters and sends me checks.
+    (She's a humdinger
+    Folk singer
 
-Late one day in the middle of the week,
-Eyes were closed I was half asleep.
-I chased me a woman up the hill,
-Right in the middle of an air raid drill.
-(I jumped a fallout shelter
-I jumped a string bean
-I jumped a TV dinner
-I jumped a shot gun)
+    Late one day in the middle of the week,
+    Eyes were closed I was half asleep.
+    I chased me a woman up the hill,
+    Right in the middle of an air raid drill.
+    (I jumped a fallout shelter
+    I jumped a string bean
+    I jumped a TV dinner
+    I jumped a shot gun)
 
-Now, the man on the stand he wants my vote,
-He's a-runnin' for office on the ballot note.
-He's out there preachin' in front of the steeple,
-Tellin' me he loves all kinds-a people.
-(He's eatin' bagels
-He's eatin' pizza
-He's eatin' chitlins
+    Now, the man on the stand he wants my vote,
+    He's a-runnin' for office on the ballot note.
+    He's out there preachin' in front of the steeple,
+    Tellin' me he loves all kinds-a people.
+    (He's eatin' bagels
+    He's eatin' pizza
+    He's eatin' chitlins
 
-Oh, I sat me down on a television floor,
-I flip the channel to number four.
-Out of the shower comes a football man
-With a bottle of oil in his hand.
-(Greasy kid stuff.
-What I want to know, Mr. Football Man, is
-What do you do about Willy Mays and Martin Luther King,
-Olatunji)
+    Oh, I sat me down on a television floor,
+    I flip the channel to number four.
+    Out of the shower comes a football man
+    With a bottle of oil in his hand.
+    (Greasy kid stuff.
+    What I want to know, Mr. Football Man, is
+    What do you do about Willy Mays and Martin Luther King,
+    Olatunji)
 
-Well, the funniest woman I ever seen
-Was the great-granddaughter of Mr. Clean.
-She takes about fifteen baths a day,
-Wants me to grow a mustache on my face.
-(She's insane!)
+    Well, the funniest woman I ever seen
+    Was the great-granddaughter of Mr. Clean.
+    She takes about fifteen baths a day,
+    Wants me to grow a mustache on my face.
+    (She's insane!)
 
-Well, ask me why I'm drunk alla time,
-It levels my head and eases my mind.
-I just walk along and stroll and sing,
-I see better days and I do better things.
-(I catch dinosaurs
-I make love to Elizabeth Taylor . . .
-Catch hell from Richard Burton!)
-</pre>
-
-[[Category:Songs]]
-[[Category:Open D/E tuning]]
+    Well, ask me why I'm drunk alla time,
+    It levels my head and eases my mind.
+    I just walk along and stroll and sing,
+    I see better days and I do better things.
+    (I catch dinosaurs
+    I make love to Elizabeth Taylor . . .
+    Catch hell from Richard Burton!)

@@ -1,78 +1,63 @@
-Trad.<br>
+---
+title: Polly Vaughn
+permalink: Polly Vaughn
+layout: wiki
+tags:
+ - Songs
+ - Miscellaneous Songs
+---
+
+Trad.  
 Recorded by Bob Dylan during the Bromberg Sessions, early/mid June
-1992<br>
-Tabbed by Eyolf Østrem (thanks to Peter Vincent for lyric
-corrections)
+1992  
+Tabbed by Eyolf Østrem (thanks to Peter Vincent for lyric corrections)
 
-----
-<pre class="verse">
-[instr. verse]
+* * * * *
 
-Em                     Am
- All ye brave huntsmen   who follow the gun
-Em                           B7
- Beware of a-shooting at the setting of the sun
-        Em                              Am
-For her true love went a-huntin' and he   shot in the dark
-    Em                B7             Em
-But oh and alas Polly Vaughn was his mark.
-</pre>
+    [instr. verse]
 
-<pre class="bridge">
-            G                                             B7
-She had her apron wrapped about her and he took her for a swan
-Em                   B7         Em
-Oh and alas - it was she, Polly Vaughn
-</pre>
+    Em                     Am
+     All ye brave huntsmen   who follow the gun
+    Em                           B7
+     Beware of a-shooting at the setting of the sun
+            Em                              Am
+    For her true love went a-huntin' and he   shot in the dark
+        Em                B7             Em
+    But oh and alas Polly Vaughn was his mark.
 
-<pre class="verse">
-He ran up beside her when he found it was she
-His legs they grew weak and his eyes could not see
-He embraced her in his arms when he found she was dead
-And a fountain of tears for his true love he shed
-</pre>
+                G                                             B7
+    She had her apron wrapped about her and he took her for a swan
+    Em                   B7         Em
+    Oh and alas - it was she, Polly Vaughn
 
-<pre class="bridge">
-Oh, she had her apron wrapped about her and he took her for a swan
-Oh and alas - it was she, Polly Vaughn
-</pre>
+    He ran up beside her when he found it was she
+    His legs they grew weak and his eyes could not see
+    He embraced her in his arms when he found she was dead
+    And a fountain of tears for his true love he shed
 
-<pre class="verse">
-He took her in his arms and home ran he
-Crying: "Father, dear father, I've shot fair Polly
-I've shot that fair female in the bloom of her life
-And I always intended to make her my wife
-</pre>
+    Oh, she had her apron wrapped about her and he took her for a swan
+    Oh and alas - it was she, Polly Vaughn
 
-<pre class="bridge">
-She had her apron wrapped about her and I took her for a swan
-Oh and alas - it was she, Polly Vaughn"
-</pre>
+    He took her in his arms and home ran he
+    Crying: "Father, dear father, I've shot fair Polly
+    I've shot that fair female in the bloom of her life
+    And I always intended to make her my wife
 
-<pre class="verse">
-Midnight, in his chamber, Polly Vaughn did appear
-Crying: "Jimmy oh Jimmy you have nothing to fear
-Stay in your country till your trial comes on
-you shall not be convicted for what you have done
-</pre>
+    She had her apron wrapped about her and I took her for a swan
+    Oh and alas - it was she, Polly Vaughn"
 
-<pre class="bridge">
-For I had my apron wrapped about me and you took me for a swan
-But oh and alas - it was I, Polly Vaughn"
-</pre>
+    Midnight, in his chamber, Polly Vaughn did appear
+    Crying: "Jimmy oh Jimmy you have nothing to fear
+    Stay in your country till your trial comes on
+    you shall not be convicted for what you have done
 
-<pre class="verse">
-In the midst of his trial Polly Vaughn did appear
-Crying: "Uncle dear Uncle Jimmy Randall must be cleared"
-The judge and the lawyers stood around in a row
-Polly Vaughn in the middle like a fountain of snow
-</pre>
+    For I had my apron wrapped about me and you took me for a swan
+    But oh and alas - it was I, Polly Vaughn"
 
-<pre class="bridge">
-She had her apron wrapped about her and he took her for a swan
-Oh and alas, it was she, Polly Vaughn
-</pre>
+    In the midst of his trial Polly Vaughn did appear
+    Crying: "Uncle dear Uncle Jimmy Randall must be cleared"
+    The judge and the lawyers stood around in a row
+    Polly Vaughn in the middle like a fountain of snow
 
-[[Category:Songs]]
-
-[[Category:Miscellaneous Songs]]
+    She had her apron wrapped about her and he took her for a swan
+    Oh and alas, it was she, Polly Vaughn

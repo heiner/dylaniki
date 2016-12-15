@@ -1,289 +1,272 @@
-Words and music Bob Dylan<br>
-Released on [[Planet Waves]] (1974)<br>
+---
+title: Going, Going, Gone
+permalink: Going, Going, Gone
+layout: wiki
+tags:
+ - Songs
+---
+
+Words and music Bob Dylan  
+Released on [Planet Waves](/wiki/Planet Waves "wikilink") (1974)  
 Tabbed and transcribed by Eyolf Østrem
 
-<h2 class="songversion">Official album version</h2>
-<pre class="verse">
-Am   Dm   |Am   Dm
+<h2 class="songversion">
+Official album version
 
-F
-I've just reached a place
-Am
-Where the willow don't bend.
-        Dm
-There's not much more to be said
-/c       Bb
-It's the top of the end.
+</h2>
+    Am   Dm   |Am   Dm
+
     F
-I'm going,
-    C
-I'm going,
-    Dm
-I'm gone.
+    I've just reached a place
+    Am
+    Where the willow don't bend.
+            Dm
+    There's not much more to be said
+    /c       Bb
+    It's the top of the end.
+        F
+    I'm going,
+        C
+    I'm going,
+        Dm
+    I'm gone.
 
-I'm closin' the book
-On the pages and the text
-And I don't really care
-What happens next.
-I'm just going,
-I'm going,
-I'm gone.
+    I'm closin' the book
+    On the pages and the text
+    And I don't really care
+    What happens next.
+    I'm just going,
+    I'm going,
+    I'm gone.
 
-I been hangin' on threads,
-I been playin' it straight,
-Now, I've just got to cut loose
-Before it gets late.
-So I'm going,
-I'm going,
-I'm gone.
-</pre>
+    I been hangin' on threads,
+    I been playin' it straight,
+    Now, I've just got to cut loose
+    Before it gets late.
+    So I'm going,
+    I'm going,
+    I'm gone.
 
-<pre class="bridge">
-Am                                     G
-Grandma said, "Boy, go and follow your heart
-G                         C/g        G
-And you'll be fine at the end of the line.
-G                     C/g      G
-All that's gold isn't meant to shine.
-      Am                    C         D       /(c c bb bb a)
-Don't you and your one true love ever part."
-</pre>
+    Am                                     G
+    Grandma said, "Boy, go and follow your heart
+    G                         C/g        G
+    And you'll be fine at the end of the line.
+    G                     C/g      G
+    All that's gold isn't meant to shine.
+          Am                    C         D       /(c c bb bb a)
+    Don't you and your one true love ever part."
 
-<pre class="verse">
-I been walkin' the road,
-I been livin' on the edge,
-Now, I've just got to go
-Before I get to the ledge.
-So I'm going,
-I'm just going,
-I'm gone.
-</pre>
+    I been walkin' the road,
+    I been livin' on the edge,
+    Now, I've just got to go
+    Before I get to the ledge.
+    So I'm going,
+    I'm just going,
+    I'm gone.
 
-----
-<h3>Lyric variations, live versions</h3>
-<h2 class="songversion">Lakeland 1976</h2>
+* * * * *
 
-<pre class="verse">
-I've just reached a place
-Where the willow don't bend.
-There's no more to be said
-It's the top of the end.
-I'm going,
-I'm going,
-I'm gone.
+<h3>
+Lyric variations, live versions
 
-I've been right on the edge
-playing it cool
-Now I just got to go
-Before I break the rules (?)
+</h3>
+<h2 class="songversion">
+Lakeland 1976
 
-I've been leaning on you
-for just too long
-and it's not (good?) for you
-it's not making me strong, so...
-</pre>
+</h2>
+    I've just reached a place
+    Where the willow don't bend.
+    There's no more to be said
+    It's the top of the end.
+    I'm going,
+    I'm going,
+    I'm gone.
 
-<pre class="bridge">
-Grandma said, "Boy, go and follow your heart
-And you'll be fine at the end of the line.
-All that's gold isn't meant to shine.
-Don't you and your one dream ever part."
-</pre>
+    I've been right on the edge
+    playing it cool
+    Now I just got to go
+    Before I break the rules (?)
 
-<pre class="verse">
-I'm in love with you baby
-but you got to understand
-that you got to be free
-so let go of my hand
-</pre>
+    I've been leaning on you
+    for just too long
+    and it's not (good?) for you
+    it's not making me strong, so...
 
-<pre class="bridge">
-Grandma said...
-</pre>
+    Grandma said, "Boy, go and follow your heart
+    And you'll be fine at the end of the line.
+    All that's gold isn't meant to shine.
+    Don't you and your one dream ever part."
 
-<h2 class="songversion">Fort Worth 1976</h2>
-<pre class="verse">
-I've just reached a place
-Where the willow don't bend.
-There's not much more to be said
-It's the top of the end.
-I'm going,
-I'm going,
-I'm gone.
+    I'm in love with you baby
+    but you got to understand
+    that you got to be free
+    so let go of my hand
 
-I'm in love with you baby
-but you got to understand
-that you want to be free,
-so let go of my hand
+    Grandma said...
 
-I've been sleeping on the road
-with my head in the dust
-Now I just got to go
-before it's all diamonds and rust
-</pre>
+<h2 class="songversion">
+Fort Worth 1976
 
-<pre class="bridge">
-Papa said: Son go and follow you heart
-You'll be fine at the end of the line
-All that's gold wasn't meant to shine
-Don't you and your life-long dream ever part
-</pre>
+</h2>
+    I've just reached a place
+    Where the willow don't bend.
+    There's not much more to be said
+    It's the top of the end.
+    I'm going,
+    I'm going,
+    I'm gone.
 
-<pre class="verse">
-I've just reached a place
-before I can hardly see
-And I'll just be too long
-so (...) take it what you see
-</pre>
+    I'm in love with you baby
+    but you got to understand
+    that you want to be free,
+    so let go of my hand
 
-<pre class="bridge">
-Papa said...
-</pre>
+    I've been sleeping on the road
+    with my head in the dust
+    Now I just got to go
+    before it's all diamonds and rust
 
-<pre class="verse">
-I've been telling you baby
-and you got to understand
-that you want to be free
-so let go of my hand
-</pre>
+    Papa said: Son go and follow you heart
+    You'll be fine at the end of the line
+    All that's gold wasn't meant to shine
+    Don't you and your life-long dream ever part
 
-<h2 class="songversion">Budokan 1978</h2>
-<pre class="verse">
-           F
-Well, I've just reached a place
-Gm
-where I can't stay awake
-Am
-I got to leave you baby
-          Bb Bb Am   Gm
-before my heart will break
-    F          C          Dm   C  Dm
-I'm going, I'm going, I'm gone
-</pre>
-<pre class="tab">
-  Dm  [n.c.]        Dm  C Dm
-  :   .   .   .     :   .   .
-|-----3-1---------|-1--10-1----
-|-----3-1-3-1---1-|-3--31-3----
-|-------------2---|-2--20-2----
-|-----------------|-0--02-0----
-|-----------------|-----3------
-|-----------------|------------
-</pre>
-<pre class="verse">
-Come over here baby
-'cause I'm telling you this
-You gotta believe it
-you gotta give me one more kiss
+    I've just reached a place
+    before I can hardly see
+    And I'll just be too long
+    so (...) take it what you see
 
-Fix me one more drink baby
-and hold me one more time
-But don't get too close
-To make me change my mind
-</pre>
+    Papa said...
 
-<pre class="bridge">
-       Am                                                     G
-Now my mama always said something true: you gotta follow your heart
-G                     C          G
-You'll be fine at the end of the line
-G                      C        G
-all that's gold wasn't meant to shine
-Am                                        F        C    G
-Just don't put your horse in front of the car
-</pre>
+    I've been telling you baby
+    and you got to understand
+    that you want to be free
+    so let go of my hand
 
-<pre class="verse">
-[instr. verse]
+<h2 class="songversion">
+Budokan 1978
 
-Now from Boston to Birmingham
-is a two day ride
-But I got to be going now
-'cause I'm so dissatisfied
-</pre>
+</h2>
+               F
+    Well, I've just reached a place
+    Gm
+    where I can't stay awake
+    Am
+    I got to leave you baby
+              Bb Bb Am   Gm
+    before my heart will break
+        F          C          Dm   C  Dm
+    I'm going, I'm going, I'm gone
 
-<pre class="bridge">
-Am     G
+      Dm  [n.c.]        Dm  C Dm
+      :   .   .   .     :   .   .
+    |-----3-1---------|-1--10-1----
+    |-----3-1-3-1---1-|-3--31-3----
+    |-------------2---|-2--20-2----
+    |-----------------|-0--02-0----
+    |-----------------|-----3------
+    |-----------------|------------
 
-G
-|: going, going, going going gone :|
-A
-going, going, going going gone
-B             B A   E D   B
-going, going, going going gone
-</pre>
+    Come over here baby
+    'cause I'm telling you this
+    You gotta believe it
+    you gotta give me one more kiss
 
-<h2 class="songversion">Paris 4. juli 1978</h2>
-<pre class="verse">
-I've just reached a place
-where I'm feeling kind of low
-I don't mind leaving
-And you know I'm not afraid to go
+    Fix me one more drink baby
+    and hold me one more time
+    But don't get too close
+    To make me change my mind
 
-Fix me one more drink baby
-and hold me one more time
-But don't get too close
-and try and make me change my mind
+           Am                                                     G
+    Now my mama always said something true: you gotta follow your heart
+    G                     C          G
+    You'll be fine at the end of the line
+    G                      C        G
+    all that's gold wasn't meant to shine
+    Am                                        F        C    G
+    Just don't put your horse in front of the car
 
-I've been hanging round your house so long
-You been treating me like a clown
-You don't know how to do nothing,
-'cept tear a good man's reputation down
-</pre>
+    [instr. verse]
 
-<pre class="bridge">
-You know my mama always said: "Son be true and follow your heart
-You'll be fine at the end of the line
-All that's gold wasn't meant to shine
-just don't put your horse in front of your car
-</pre>
+    Now from Boston to Birmingham
+    is a two day ride
+    But I got to be going now
+    'cause I'm so dissatisfied
 
-<pre class="verse">
-Come over here one more time, baby,
-you might shake my hand
-I could find me another woman
-and you could find you another man
-</pre>
-<h2 class="songversion">Paris 4. juli 1978</h2>
-<pre class="verse">
-I've just reached a place
-where I'm feeling kind of low
-I don't mind leaving you
-And you know I'm not afraid to go
+    Am     G
 
-Fix me one more drink baby
-and hold me one more time
-But don't get too close
-and try and make me change my mind
+    G
+    |: going, going, going going gone :|
+    A
+    going, going, going going gone
+    B             B A   E D   B
+    going, going, going going gone
 
-I've been hanging round your house so long
-You been treating me like a clown
-You haven't done nothing but
-tear a good man's reputation down
-</pre>
+<h2 class="songversion">
+Paris 4. juli 1978
 
-<pre class="bridge">
-You know my mama always said: "Son be true and follow your heart
-You'll be fine at the end of the line
-All that's gold wasn't meant to shine
-just don't put your horse in front of your car
-</pre>
+</h2>
+    I've just reached a place
+    where I'm feeling kind of low
+    I don't mind leaving
+    And you know I'm not afraid to go
 
-<pre class="verse">
-Come over here one more time, mama,
-and shake my hand
-I'm gonna go back to my woman
-You can go back to your man
-</pre>
-<h2 class="songversion">Earl's Court 18 Jun 1978</h2>
+    Fix me one more drink baby
+    and hold me one more time
+    But don't get too close
+    and try and make me change my mind
 
+    I've been hanging round your house so long
+    You been treating me like a clown
+    You don't know how to do nothing,
+    'cept tear a good man's reputation down
+
+    You know my mama always said: "Son be true and follow your heart
+    You'll be fine at the end of the line
+    All that's gold wasn't meant to shine
+    just don't put your horse in front of your car
+
+    Come over here one more time, baby,
+    you might shake my hand
+    I could find me another woman
+    and you could find you another man
+
+<h2 class="songversion">
+Paris 4. juli 1978
+
+</h2>
+    I've just reached a place
+    where I'm feeling kind of low
+    I don't mind leaving you
+    And you know I'm not afraid to go
+
+    Fix me one more drink baby
+    and hold me one more time
+    But don't get too close
+    and try and make me change my mind
+
+    I've been hanging round your house so long
+    You been treating me like a clown
+    You haven't done nothing but
+    tear a good man's reputation down
+
+    You know my mama always said: "Son be true and follow your heart
+    You'll be fine at the end of the line
+    All that's gold wasn't meant to shine
+    just don't put your horse in front of your car
+
+    Come over here one more time, mama,
+    and shake my hand
+    I'm gonna go back to my woman
+    You can go back to your man
+
+<h2 class="songversion">
+Earl's Court 18 Jun 1978
+
+</h2>
 Last verse:
 
-<pre class="verse">
-Come over here quickly one time baby
-and shake my had
-I could find me another woman
-you could find you another man
-</pre>
-
-[[Category:Songs]]
+    Come over here quickly one time baby
+    and shake my had
+    I could find me another woman
+    you could find you another man

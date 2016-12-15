@@ -1,511 +1,762 @@
-In chronological order (approximately). Only songs that do not appear on official albums are listed here.
+---
+title: Miscellaneous
+permalink: Miscellaneous
+layout: wiki
+tags:
+ - Albums
+---
 
-<h3><span id="early">Early Acoustic Bob</span></h3>
-[[The Two Sisters]] (Karen Wallace Tape, May 1960)
+In chronological order (approximately). Only songs that do not appear on
+official albums are listed here.
 
-[[Mary Ann (Karen Wallace tape)|Mary Ann]] (from the "Karen Wallace tape", 1960)
+<h3>
+<span id="early">Early Acoustic Bob</span>
 
-[[Jesus Met The Woman At The Well]] (Gleason Home Tape, Feb/March 1961)
+</h3>
+[The Two Sisters](/wiki/The Two Sisters "wikilink") (Karen Wallace Tape, May
+1960)
 
-[[Remember me (When the Candle Lights are Gleaming)]] (Gleason Home Tape, Feb/March 1961)
+[Mary Ann](/wiki/Mary Ann (Karen Wallace tape) "wikilink") (from the "Karen
+Wallace tape", 1960)
 
-[[James Alley Blues]] (Minnesota Party Tape, May 1961)
+[Jesus Met The Woman At The
+Well](/wiki/Jesus Met The Woman At The Well "wikilink") (Gleason Home Tape,
+Feb/March 1961)
 
-[[Railroad Bill]] (Minnesota Party Tape, May 1961)
+[Remember me (When the Candle Lights are
+Gleaming)](/wiki/Remember me (When the Candle Lights are Gleaming) "wikilink")
+(Gleason Home Tape, Feb/March 1961)
 
-[[It's Hard To Be Blind]] (Minnesota Party and Hotel Tapes, May/Dec 1961)
+[James Alley Blues](/wiki/James Alley Blues "wikilink") (Minnesota Party Tape,
+May 1961)
 
-[[Naomi Wise]] (Riverside Church, Jul 29, 1961)
+[Railroad Bill](/wiki/Railroad Bill "wikilink") (Minnesota Party Tape, May
+1961)
 
-[[Acne]] (Riverside Church, Jul 29, 1961, w/Ramblin' Jack Elliott)
+[It's Hard To Be Blind](/wiki/It's Hard To Be Blind "wikilink") (Minnesota
+Party and Hotel Tapes, May/Dec 1961)
 
-<strong>[[The Gaslight Tapes]]</strong>
+[Naomi Wise](/wiki/Naomi Wise "wikilink") (Riverside Church, Jul 29, 1961)
 
-[[San Francisco Bay Blues]] (Gerde's Folk City, Sept 1961)
+[Acne](/wiki/Acne "wikilink") (Riverside Church, Jul 29, 1961, w/Ramblin' Jack
+Elliott)
 
-[[The Girl I Left Behind]] (Oscar Brand Show, Radio, 29 Oct 1961)
+<strong>[The Gaslight Tapes](/wiki/The Gaslight Tapes "wikilink")</strong>
 
-[[1913 Massacre]] (Carnegie Chapter Hall, Oct 4, 1961)
+[San Francisco Bay Blues](/wiki/San Francisco Bay Blues "wikilink") (Gerde's
+Folk City, Sept 1961)
 
-[[Young But Daily Growin']] (Carnegie Chapter Hall, 4 Nov 1961)
+[The Girl I Left Behind](/wiki/The Girl I Left Behind "wikilink") (Oscar Brand
+Show, Radio, 29 Oct 1961)
 
-[[In The Pines]] (Carnegie Chapter Hall, Nov 1961 and Toad's Place, Jan 1990)
+[1913 Massacre](1913 Massacre "wikilink") (Carnegie Chapter Hall, Oct 4,
+1961)
 
-[[In The Evening]] (Minnesota Hotel Tape, Dec 1961)
+[Young But Daily Growin'](/wiki/Young But Daily Growin' "wikilink") (Carnegie
+Chapter Hall, 4 Nov 1961)
 
-[[Dink's Song]] (Minnesota Hotel Tape, Dec 1961)
+[In The Pines](/wiki/In The Pines "wikilink") (Carnegie Chapter Hall, Nov 1961
+and Toad's Place, Jan 1990)
 
-[[I Was Young When I Left Home]] (Minnesota Hotel Tape, Dec 1961)
+[In The Evening](/wiki/In The Evening "wikilink") (Minnesota Hotel Tape, Dec
+1961)
 
-[[Poor Lazarus]] (Minnesota Hotel Tape, Dec 1961)
+[Dink's Song](/wiki/Dink's Song "wikilink") (Minnesota Hotel Tape, Dec 1961)
 
-[[Stealin']] (var, early 1960s)
+[I Was Young When I Left Home](/wiki/I Was Young When I Left Home "wikilink")
+(Minnesota Hotel Tape, Dec 1961)
 
-[[Ballad For A Friend]] (Leed Music demo, Jan 1962)
+[Poor Lazarus](/wiki/Poor Lazarus "wikilink") (Minnesota Hotel Tape, Dec 1961)
 
-[[Standing On The Highway]] (Leed Music demo, Jan 1962)
+[Stealin'](/wiki/Stealin' "wikilink") (var, early 1960s)
 
-[[Smokestack Lightning]] (Cynthia Gooding show, March 11, 1962)
+[Ballad For A Friend](/wiki/Ballad For A Friend "wikilink") (Leed Music demo,
+Jan 1962)
 
-[[Roll On John]] (Cynthia Gooding, Folksinger's Choice, Jan/March 1962)
+[Standing On The Highway](/wiki/Standing On The Highway "wikilink") (Leed
+Music demo, Jan 1962)
 
-[[Hard Travelin']] (Cynthia Gooding, Folksinger's Choice, Jan/March 1962)
+[Smokestack Lightning](/wiki/Smokestack Lightning "wikilink") (Cynthia Gooding
+show, March 11, 1962)
 
-[[Long Time Man]] (Cynthia Gooding's <em>Folksinger's Choice</em>, Jan/March 1962)
+[Roll On John](/wiki/Roll On John "wikilink") (Cynthia Gooding, Folksinger's
+Choice, Jan/March 1962)
 
-[[Ballad Of Donald White]] (various, 1962)
+[Hard Travelin'](/wiki/Hard Travelin' "wikilink") (Cynthia Gooding,
+Folksinger's Choice, Jan/March 1962)
 
-[[Tomorrow is a Long Time]] (Witmark demo 1962, <em>Greatest Hits vol 2</em>/<em>In Concert</em>, <em>New Morning </em>outtake 1970)
+[Long Time Man](/wiki/Long Time Man "wikilink") (Cynthia Gooding's
+<em>Folksinger's Choice</em>, Jan/March 1962)
 
-[[Deep Ellem Blues]] (live, Gerde's Folk City, NY, Apr 16, 1962)
+[Ballad Of Donald White](/wiki/Ballad Of Donald White "wikilink") (various,
+1962)
 
-[[Rocks and Gravel]] ([[Freewheelin']] outtake, 1962)
+[Tomorrow is a Long Time](/wiki/Tomorrow is a Long Time "wikilink") (Witmark
+demo 1962, <em>Greatest Hits vol 2</em>/<em>In Concert</em>, <em>New
+Morning </em>outtake 1970)
 
-[[Milk Cow's Calf Blues]] ([[Freewheelin']] outtake, Apr 1962)
+[Deep Ellem Blues](/wiki/Deep Ellem Blues "wikilink") (live, Gerde's Folk
+City, NY, Apr 16, 1962)
 
-[[Going Down To New Orleans]] ([[Freewheelin']] outtake, Apr 24, 1962)
+[Rocks and Gravel](/wiki/Rocks and Gravel "wikilink")
+([Freewheelin'](/wiki/Freewheelin' "wikilink") outtake, 1962)
 
-[[Sally Girl]]<strong> </strong>(<em>Freewheelin</em>' outtake, Apr 1962)
+[Milk Cow's Calf Blues](/wiki/Milk Cow's Calf Blues "wikilink")
+([Freewheelin'](/wiki/Freewheelin' "wikilink") outtake, Apr 1962)
 
-[[Baby, Please Don't Go]] (<em>Freewheelin</em>' outtake, Apr 25, 1962)
+[Going Down To New Orleans](/wiki/Going Down To New Orleans "wikilink")
+([Freewheelin'](/wiki/Freewheelin' "wikilink") outtake, Apr 24, 1962)
 
-[[Wichita Blues]](Cynthia Gooding's Appartment, Feb/March 1962 and 2nd Freewheelin' session, Apr 25, 1962)
+[Sally Girl](/wiki/Sally Girl "wikilink")<strong>
+</strong>(<em>Freewheelin</em>' outtake, Apr 1962)
 
-[[Lonesome Whistle Blues]] (<em>Freewheelin'</em> outtake, 1962)
+[Baby, Please Don't Go](/wiki/Baby, Please Don't Go "wikilink")
+(<em>Freewheelin</em>' outtake, Apr 25, 1962)
 
-[[The Death of Emmett Till]] ([[Freewheelin']] outtake, 1962)
+[Wichita Blues](/wiki/Wichita Blues "wikilink")(Cynthia Gooding's Appartment,
+Feb/March 1962 and 2nd Freewheelin' session, Apr 25, 1962)
 
-[[Whatcha Gonna Do?]] ([[Freewheelin']] outtake, 1962)
+[Lonesome Whistle Blues](/wiki/Lonesome Whistle Blues "wikilink")
+(<em>Freewheelin'</em> outtake, 1962)
 
-[[Hero Blues]] ([[Freewheelin']] outtake, 1962)
+[The Death of Emmett Till](/wiki/The Death of Emmett Till "wikilink")
+([Freewheelin'](/wiki/Freewheelin' "wikilink") outtake, 1962)
 
-[[Hiram Hubbard]] (Finjan Club, July 1962)
+[Whatcha Gonna Do?](/wiki/Whatcha Gonna Do? "wikilink")
+([Freewheelin'](/wiki/Freewheelin' "wikilink") outtake, 1962)
 
-[[Two Trains Runnin']] (Morganfield; Finjan Club, Montreal, July 2, 1962)
+[Hero Blues](/wiki/Hero Blues "wikilink")
+([Freewheelin'](/wiki/Freewheelin' "wikilink") outtake, 1962)
 
-[[Motherless Children]] (Gaslight II, late Oct 1962)
+[Hiram Hubbard](/wiki/Hiram Hubbard "wikilink") (Finjan Club, July 1962)
 
-[[Handsome Molly]] (Gaslight II, late Oct 1962)
+[Two Trains Runnin'](/wiki/Two Trains Runnin' "wikilink") (Morganfield; Finjan
+Club, Montreal, July 2, 1962)
 
-[[Cuckoo Is A Pretty Bird]] (Gaslight II, late Oct 1962)
+[Motherless Children](/wiki/Motherless Children "wikilink") (Gaslight II, late
+Oct 1962)
 
-[[West Texas]] (Gaslight II, late Oct 1962)
+[Handsome Molly](/wiki/Handsome Molly "wikilink") (Gaslight II, late Oct 1962)
 
-[[Ain't No More Cane]] (Gaslight II, late Oct 1962)
+[Cuckoo Is A Pretty Bird](/wiki/Cuckoo Is A Pretty Bird "wikilink") (Gaslight
+II, late Oct 1962)
 
-[[Kindhearted Woman Blues]] (Gaslight II, late Oct 1962)
+[West Texas](/wiki/West Texas "wikilink") (Gaslight II, late Oct 1962)
 
-[[Black Cross (Hezekiah Jones)]] (Gaslight III, late oct 1962)
+[Ain't No More Cane](/wiki/Ain't No More Cane "wikilink") (Gaslight II, late
+Oct 1962)
 
-[[Ballad of the Gliding Swan]] (Madhouse on Castle Street, Dec. 1962)
+[Kindhearted Woman Blues](/wiki/Kindhearted Woman Blues "wikilink") (Gaslight
+II, late Oct 1962)
 
-[[Liverpool Gal]] (manuscript from late 1962, no known version by Dylan)
+[Black Cross (Hezekiah Jones)](/wiki/Black Cross (Hezekiah Jones) "wikilink")
+(Gaslight III, late oct 1962)
 
-[[Long Ago, Far Away]]<strong> </strong>(Witmark Demo, Nov, 1962)
+[Ballad of the Gliding Swan](/wiki/Ballad of the Gliding Swan "wikilink")
+(Madhouse on Castle Street, Dec. 1962)
 
-[[Talkin' Devil]] (Broadside sessions, Jan 19, 1963)
+[Liverpool Gal](/wiki/Liverpool Gal "wikilink") (manuscript from late 1962, no
+known version by Dylan)
 
-[[All Over You]] (Witmark Demo, early 1963)
+[Long Ago, Far Away](/wiki/Long Ago, Far Away "wikilink")<strong>
+</strong>(Witmark Demo, Nov, 1962)
 
-[[I'd Hate To Be You On That Dreadful Day]] (Witmark Demo, early 1963)
+[Talkin' Devil](/wiki/Talkin' Devil "wikilink") (Broadside sessions, Jan 19,
+1963)
 
-[[Bound To Lose, Bound To Win]] (Witmark Demo, early 1963)
+[All Over You](/wiki/All Over You "wikilink") (Witmark Demo, early 1963)
 
-[[Back Door Blues]] (the "Banjo Tape" with Happy Traum, Feb 8 1963)
+[I'd Hate To Be You On That Dreadful
+Day](/wiki/I'd Hate To Be You On That Dreadful Day "wikilink") (Witmark Demo,
+early 1963)
 
-[[Lonesome River Edge]] (the "Banjo Tape" with Happy Traum, Feb 8 1963)
+[Bound To Lose, Bound To Win](/wiki/Bound To Lose, Bound To Win "wikilink")
+(Witmark Demo, early 1963)
 
-[[Farewell]] (Witmark demo/<em>Times </em>outtake, 1963)
+[Back Door Blues](/wiki/Back Door Blues "wikilink") (the "Banjo Tape" with
+Happy Traum, Feb 8 1963)
 
-[[Long Time Gone]] (Witmark Demo, March 1963)
+[Lonesome River Edge](/wiki/Lonesome River Edge "wikilink") (the "Banjo Tape"
+with Happy Traum, Feb 8 1963)
 
-[[Cuban Missile Crisis]] (Broadside sessions, March 1963)
+[Farewell](/wiki/Farewell "wikilink") (Witmark demo/<em>Times </em>outtake,
+1963)
 
-[[Wieviele Straßen]] (German version of <em>Blowin' in the Wind</em>)
+[Long Time Gone](/wiki/Long Time Gone "wikilink") (Witmark Demo, March 1963)
 
-[[I Rode Out One Morning]] (Fourth McKenzie tape, Apr 1963)
+[Cuban Missile Crisis](/wiki/Cuban Missile Crisis "wikilink") (Broadside
+sessions, March 1963)
 
-[[Ramblin' Down Through the World]] (W. Guthrie; NY Town Hall, Apr 12, 1963)
+[Wieviele Straßen](/wiki/Wieviele Straßen "wikilink") (German version of
+<em>Blowin' in the Wind</em>)
 
-[[Hiding Too Long]] (NY Town Hall, Apr 12 1963)
+[I Rode Out One Morning](/wiki/I Rode Out One Morning "wikilink") (Fourth
+McKenzie tape, Apr 1963)
 
-[[Bob Dylan's New Orleans Rag]] (NY Town Hall, Apr 12 1963)
+[Ramblin' Down Through the
+World](/wiki/Ramblin' Down Through the World "wikilink") (W. Guthrie; NY Town
+Hall, Apr 12, 1963)
 
-[[Dusty Old Fairgrounds]] (Town Hall, NY, 12 Apr 1963)
+[Hiding Too Long](/wiki/Hiding Too Long "wikilink") (NY Town Hall, Apr 12
+1963)
 
-[[Ain't A-Gonna Grieve]] (Witmark Demo, Aug 1963)
+[Bob Dylan's New Orleans Rag](/wiki/Bob Dylan's New Orleans Rag "wikilink")
+(NY Town Hall, Apr 12 1963)
 
-[[Gypsy Lou]] (Witmark Demo, Aug 1963)
+[Dusty Old Fairgrounds](/wiki/Dusty Old Fairgrounds "wikilink") (Town Hall,
+NY, 12 Apr 1963)
 
-[[Troubled and I don't Know Why]] (Forest Hills Tennis Stadium, NYC 17 Aug 1963)
+[Ain't A-Gonna Grieve](/wiki/Ain't A-Gonna Grieve "wikilink") (Witmark Demo,
+Aug 1963)
 
-[[Percy's Song]] (Carnegie Hall, New York City 26 Oct 1963)
+[Gypsy Lou](/wiki/Gypsy Lou "wikilink") (Witmark Demo, Aug 1963)
 
-[[Guess I'm Doin' Fine]] (Witmark Demo, Jan 1964)
+[Troubled and I don't Know
+Why](/wiki/Troubled and I don't Know Why "wikilink") (Forest Hills Tennis
+Stadium, NYC 17 Aug 1963)
 
-[[If You Gotta Go, Go Now]] (Halloween show, 1964)
+[Percy's Song](/wiki/Percy's Song "wikilink") (Carnegie Hall, New York City 26
+Oct 1963)
 
-[[Love Is Just A Four-Letter Word]] (Joan Baez' version)
+[Guess I'm Doin' Fine](/wiki/Guess I'm Doin' Fine "wikilink") (Witmark Demo,
+Jan 1964)
 
-[[Lost Highway]] (Savoy Hotel, May 1965, from <em>Don't Look Back</em>)
+[If You Gotta Go, Go Now](/wiki/If You Gotta Go, Go Now "wikilink") (Halloween
+show, 1964)
 
-<h3><span id="electric">(More or less) Electric Bob, 1965-1975</span></h3>
-[[Positively 4th Street]] (Single, 1966)
+[Love Is Just A Four-Letter
+Word](/wiki/Love Is Just A Four-Letter Word "wikilink") (Joan Baez' version)
 
-[http://www.geocities.com/SunsetStrip/Palms/9695/chords/Positively_Van_Gogh.html Positively Van Gogh] (Denver Hotel Room, March 13, 1966; external link)
+[Lost Highway](/wiki/Lost Highway "wikilink") (Savoy Hotel, May 1965, from
+<em>Don't Look Back</em>)
 
-[[On A Rainy Afternoon/Does She Need Me?/I Can't Leave Her Behind]] (From <em>Eat The Document</em>, 1966)
+<h3>
+<span id="electric">(More or less) Electric Bob, 1965-1975</span>
 
-[[What Kind of Friend Is This?]] (<em>Eat the Document</em>, 1966)
+</h3>
+[Positively 4th Street](/wiki/Positively 4th Street "wikilink") (Single, 1966)
 
-<strong>[[The Basement Tapes|The Basement Tapes outtakes]]</strong>
+[Positively Van
+Gogh](http://www.geocities.com/SunsetStrip/Palms/9695/chords/Positively_Van_Gogh.html)
+(Denver Hotel Room, March 13, 1966; external link)
 
-[[I Ain't Got No Home]] (Woody Guthrie Tribute concert, Jan 1968)
+[On A Rainy Afternoon/Does She Need Me?/I Can't Leave Her
+Behind](/wiki/On A Rainy Afternoon/Does She Need Me?/I Can't Leave Her Behind "wikilink")
+(From <em>Eat The Document</em>, 1966)
 
-[[Dear Mrs. Roosevelt]] (Woody Guthrie Tribute concert, Jan 1968)
+[What Kind of Friend Is This?](/wiki/What Kind of Friend Is This? "wikilink")
+(<em>Eat the Document</em>, 1966)
 
-[[The Grand Coulee Dam]] (Woody Guthrie Tribute concert, Jan 1968)
+<strong>[The Basement Tapes
+outtakes](/wiki/The Basement Tapes "wikilink")</strong>
 
-[[Telephone Wire]] (George Harrison session, May 1, 1970)
+[I Ain't Got No Home](/wiki/I Ain't Got No Home "wikilink") (Woody Guthrie
+Tribute concert, Jan 1968)
 
-[[George Jackson]] (single, 1971)
+[Dear Mrs. Roosevelt](/wiki/Dear Mrs. Roosevelt "wikilink") (Woody Guthrie
+Tribute concert, Jan 1968)
 
-[[Vomit Express]] (w/Allen Ginsberg, 17 Nov, 1971)
+[The Grand Coulee Dam](/wiki/The Grand Coulee Dam "wikilink") (Woody Guthrie
+Tribute concert, Jan 1968)
 
-[[Rock Me Mama]] (<em>Pat Garret &amp; Billy The Kid</em> outtake, 1973)
+[Telephone Wire](/wiki/Telephone Wire "wikilink") (George Harrison session,
+May 1, 1970)
 
-[[Climax Tobacco]] (<em>Pat Garret &amp; Billy The Kid</em> "outtake", 1973)
+[George Jackson](/wiki/George Jackson "wikilink") (single, 1971)
 
-[[Abandoned Love]] ("Bitter end" version, 1975)
+[Vomit Express](/wiki/Vomit Express "wikilink") (w/Allen Ginsberg, 17 Nov,
+1971)
 
-[[Rita May]] (<em>Desire</em> outtake, 1975)
+[Rock Me Mama](/wiki/Rock Me Mama "wikilink") (<em>Pat Garret & Billy The
+Kid</em> outtake, 1973)
 
-[[Sign Language]] (written for Eric Clapton, relased on his album <em>No Reason to Cry </em>(1976)
+[Climax Tobacco](/wiki/Climax Tobacco "wikilink") (<em>Pat Garret & Billy The
+Kid</em> "outtake", 1973)
 
-  <h3><span id="rtr">Rolling Thunder Revue 1975-1976</span></h3>
-[[People Get Ready]] (<em>Renaldo &amp; Clara</em> version)
+[Abandoned Love](/wiki/Abandoned Love "wikilink") ("Bitter end" version, 1975)
 
-[[Dark As A Dungeon]] (Various, Rolling Thunder Revue I, 1975)
+[Rita May](/wiki/Rita May "wikilink") (<em>Desire</em> outtake, 1975)
 
-[[Never Let Me Go]] (Various, Rolling Thunder Revue I, 1975)
+[Sign Language](/wiki/Sign Language "wikilink") (written for Eric Clapton,
+relased on his album <em>No Reason to Cry </em>(1976)
 
-[[The Water Is Wide]] (Various, Rolling Thunder Revue I, 1975)
+<h3>
+<span id="rtr">Rolling Thunder Revue 1975-1976</span>
 
-[[Railroad Boy]] (Various, Rolling Thunder Revue II, 1976)
+</h3>
+[People Get Ready](/wiki/People Get Ready "wikilink") (<em>Renaldo &
+Clara</em> version)
 
-[[Deportee (Plane Wreck at Los Gatos)]] (Rolling Thunder II, 1976)
+[Dark As A Dungeon](/wiki/Dark As A Dungeon "wikilink") (Various, Rolling
+Thunder Revue I, 1975)
 
-[[Vincent Van Gogh]] (Various, Rolling Thunder Revue II, 1976)
+[Never Let Me Go](/wiki/Never Let Me Go "wikilink") (Various, Rolling Thunder
+Revue I, 1975)
 
-[[Spanish is the Loving Tongue]] (live, Rolling Thunder Revue II, 1976)
+[The Water Is Wide](/wiki/The Water Is Wide "wikilink") (Various, Rolling
+Thunder Revue I, 1975)
 
-[[Wild Mountain Thyme]] (duet with Joan Baez, Rolling Thunder Revues I+II, 1975-6)
+[Railroad Boy](/wiki/Railroad Boy "wikilink") (Various, Rolling Thunder Revue
+II, 1976)
 
-[[Dink's Song]] (Rolling Thunder version w/Joan Baez, Apr 25, 1976)
+[Deportee (Plane Wreck at Los
+Gatos)](/wiki/Deportee (Plane Wreck at Los Gatos) "wikilink") (Rolling Thunder
+II, 1976)
 
-[[Answerphone Message]] (Malibu, 1975)
+[Vincent Van Gogh](/wiki/Vincent Van Gogh "wikilink") (Various, Rolling
+Thunder Revue II, 1976)
 
-  <h3><span id="1978">1978 World Tour</span></h3>
-[[Am I Your Stepchild?]] (Various, Fall tour 1978 )
+[Spanish is the Loving Tongue](/wiki/Spanish is the Loving Tongue "wikilink")
+(live, Rolling Thunder Revue II, 1976)
 
-[[She's Love Crazy]] (Various, Fall tour 1978)
+[Wild Mountain Thyme](/wiki/Wild Mountain Thyme "wikilink") (duet with Joan
+Baez, Rolling Thunder Revues I+II, 1975-6)
 
-[[Legionnaire's disease ]] (recorded by Billy Cross)
+[Dink's Song](/wiki/Dink's Song "wikilink") (Rolling Thunder version w/Joan
+Baez, Apr 25, 1976)
 
-  <h3><span id="gospel">Gospel period, 1979-81</span></h3>
+[Answerphone Message](/wiki/Answerphone Message "wikilink") (Malibu, 1975)
 
-[[Trouble In Mind]] (B-side, singles from <em>Slow Train Coming</em>, 1979)
+<h3>
+<span id="1978">1978 World Tour</span>
 
-[[Blessed is the Name]] (var. 1979-80)
+</h3>
+[Am I Your Stepchild?](/wiki/Am I Your Stepchild? "wikilink") (Various, Fall
+tour 1978 )
 
-[[I Will Love Him]] (Toronto, Apr 19, 1980)
+[She's Love Crazy](/wiki/She's Love Crazy "wikilink") (Various, Fall tour
+1978)
 
-[[Ain't Gonna Go To Hell For Anybody]] (1980 tours)
+[Legionnaire's disease](/wiki/Legionnaire's disease "wikilink") (recorded by
+Billy Cross)
 
-[[Cover Down, Break Through]] (Spring 1980)
+<h3>
+<span id="gospel">Gospel period, 1979-81</span>
 
-[[I Will Sing]] (Akron, Ohio May 18th, 1980; only performance)
+</h3>
+[Trouble In Mind](/wiki/Trouble In Mind "wikilink") (B-side, singles from
+<em>Slow Train Coming</em>, 1979)
 
-[[Caribbean Wind]] (Fox Warfield, SF, Nov 12 1980)
+[Blessed is the Name](/wiki/Blessed is the Name "wikilink") (var. 1979-80)
 
-[[City of Gold]] (unreleased, played live 1980-1981)
+[I Will Love Him](/wiki/I Will Love Him "wikilink") (Toronto, Apr 19, 1980)
 
-[[Let's Keep It Between Us]] (1980 tours)
+[Ain't Gonna Go To Hell For
+Anybody](/wiki/Ain't Gonna Go To Hell For Anybody "wikilink") (1980 tours)
 
-[[Yonder Comes Sin]] (<em>Shot of Love</em> outtake, 1980)
+[Cover Down, Break Through](/wiki/Cover Down, Break Through "wikilink")
+(Spring 1980)
 
-[[Fever]] (Seattle, Nov 30, 1980)
+[I Will Sing](/wiki/I Will Sing "wikilink") (Akron, Ohio May 18th, 1980; only
+performance)
 
-[[We Just Disagree]] (Jim Krueger; Various locations, 1980-1981 tour)
+[Caribbean Wind](/wiki/Caribbean Wind "wikilink") (Fox Warfield, SF, Nov 12
+1980)
 
-[[Till I Get It Right]] (Sung by Regina McCrary during the 1980-81 gospel tour)
+[City of Gold](/wiki/City of Gold "wikilink") (unreleased, played live
+1980-1981)
 
-[[Walk Around Heaven All Day]] (Sung by Carolyn Dennis during the 1980-81 gospel tour)
+[Let's Keep It Between Us](/wiki/Let's Keep It Between Us "wikilink") (1980
+tours)
 
-[[Rise Again]] (1980-81 tour)
+[Yonder Comes Sin](/wiki/Yonder Comes Sin "wikilink") (<em>Shot of Love</em>
+outtake, 1980)
 
-[[Abraham, Martin and John]] (1980-81)
+[Fever](/wiki/Fever "wikilink") (Seattle, Nov 30, 1980)
 
-[[Mary Of The Wild Moor]] (1980-81)
+[We Just Disagree](/wiki/We Just Disagree "wikilink") (Jim Krueger; Various
+locations, 1980-1981 tour)
 
-[[Let's Begin]] (by Jim Webb; 1981 tour)
+[Till I Get It Right](/wiki/Till I Get It Right "wikilink") (Sung by Regina
+McCrary during the 1980-81 gospel tour)
 
-[[Thief On The Cross]] (New Orleans, Nov 10 1981)
+[Walk Around Heaven All Day](/wiki/Walk Around Heaven All Day "wikilink")
+(Sung by Carolyn Dennis during the 1980-81 gospel tour)
 
-<h3><span id="outtakes">Studio outtakes, soundtracks etc. 1978–</span></h3>
-[[Repossession Blues]] (1978 rehearsal tape)
+[Rise Again](/wiki/Rise Again "wikilink") (1980-81 tour)
 
-[[Coming From The Heart (The Road Is Long)]] (<em>Street Legal </em>outtake, 1978)
+[Abraham, Martin and John](/wiki/Abraham, Martin and John "wikilink")
+(1980-81)
 
-[[If I Don't Be There By Morning]] (written for Eric Clapton's album <em>Backless</em>, 1978)
+[Mary Of The Wild Moor](/wiki/Mary Of The Wild Moor "wikilink") (1980-81)
 
-[[Angel Flying Too Close to the Ground]] (<em>Infidels </em>outtake and single B-side, 1983)
+[Let's Begin](/wiki/Let's Begin "wikilink") (by Jim Webb; 1981 tour)
 
-[[This Was My Love]] (<em>Infidels</em> outtake, 1983)
+[Thief On The Cross](/wiki/Thief On The Cross "wikilink") (New Orleans, Nov 10
+1981)
 
-[[Julius and Ethel]] (<em>Infidels</em> outtake, 1983)
+<h3>
+<span id="outtakes">Studio outtakes, soundtracks etc. 1978–</span>
 
-[[Almost Done]] (Verona rehearsal tape, May 1984)
+</h3>
+[Repossession Blues](/wiki/Repossession Blues "wikilink") (1978 rehearsal
+tape)
 
-[[Dirty Lies]] (Verona rehearsal tape, May 1984)
+[Coming From The Heart (The Road Is
+Long)](/wiki/Coming From The Heart (The Road Is Long) "wikilink") (<em>Street
+Legal </em>outtake, 1978)
 
-[[Freedom for the Stallion]]<strong> </strong>(1985 studio outtake)
+[If I Don't Be There By
+Morning](/wiki/If I Don't Be There By Morning "wikilink") (written for Eric
+Clapton's album <em>Backless</em>, 1978)
 
-[[To Fall In Love With You]] (<em>Hearts of Fire </em>outtake, aug 1986)
+[Angel Flying Too Close to the
+Ground](/wiki/Angel Flying Too Close to the Ground "wikilink") (<em>Infidels
+</em>outtake and single B-side, 1983)
 
-[[The Usual]] (from the film <em>Hearts of Fire</em>, 1987)
+[This Was My Love](/wiki/This Was My Love "wikilink") (<em>Infidels</em>
+outtake, 1983)
 
-[[A Couple More Years]] (from the film <em>Hearts of Fire</em>, 1987)
+[Julius and Ethel](/wiki/Julius and Ethel "wikilink") (<em>Infidels</em>
+outtake, 1983)
 
-[[Old Five And Dimer]] (outtake from the film <em>Hearts Of Fire</em>, 1987)
+[Almost Done](/wiki/Almost Done "wikilink") (Verona rehearsal tape, May 1984)
 
-[[Night After Night]] (outtake from <em>Hearts of Fire</em>,<em> </em>1987)
+[Dirty Lies](/wiki/Dirty Lies "wikilink") (Verona rehearsal tape, May 1984)
 
-[[Go 'way Little Boy]] (<em>Empire Burlesque </em>outtake, 1985)
+[Freedom for the Stallion](/wiki/Freedom for the Stallion "wikilink")<strong>
+</strong>(1985 studio outtake)
 
-[[Band Of The Hand (It's Hell Time, Man!)]] (soundtrack, 1986)
+[To Fall In Love With You](/wiki/To Fall In Love With You "wikilink")
+(<em>Hearts of Fire </em>outtake, aug 1986)
 
-[[Pretty Boy Floyd]] (<em>Folkways: A Vision Shared</em>, Spring 1987)
+[The Usual](/wiki/The Usual "wikilink") (from the film <em>Hearts of
+Fire</em>, 1987)
 
-[[Important Words]] (<em>Down in the Groove </em>outtake, 1987)
+[A Couple More Years](/wiki/A Couple More Years "wikilink") (from the film
+<em>Hearts of Fire</em>, 1987)
 
-[[Steel Bars]] (co-written with Michael Bolton, who sung it on his album <em>Time Love &amp; Tenderness</em>, 1991)
+[Old Five And Dimer](/wiki/Old Five And Dimer "wikilink") (outtake from the
+film <em>Hearts Of Fire</em>, 1987)
 
-[[Miss the Mississippi and You]] (Bill Halley; Bromberg sessions, May/June 1992)
+[Night After Night](/wiki/Night After Night "wikilink") (outtake from
+<em>Hearts of Fire</em>,<em> </em>1987)
 
-[[Kaatskill Serenade]] (Bromberg; Bromberg sessions, early/mid June 1992)
+[Go 'way Little Boy](/wiki/Go 'way Little Boy "wikilink") (<em>Empire
+Burlesque </em>outtake, 1985)
 
-[[Polly Vaughn]] (Bromberg Sessions, early/mid June 1992)
+[Band Of The Hand (It's Hell Time,
+Man!)](/wiki/Band Of The Hand (It's Hell Time, Man!) "wikilink") (soundtrack,
+1986)
 
-[[Sloppy Drunk]] (Rogers; Bromberg Sessions, early/mid June 1992)
+[Pretty Boy Floyd](/wiki/Pretty Boy Floyd "wikilink") (<em>Folkways: A Vision
+Shared</em>, Spring 1987)
 
-[[You Belong To Me]](<em>Good As I Been To You </em>outtake, from the <em>Natural Born Killers </em>soundtrack, 1994)
+[Important Words](/wiki/Important Words "wikilink") (<em>Down in the Groove
+</em>outtake, 1987)
 
-[[Any Way You Want Me]] (Sony Studios, Sept 30, 1994)
+[Steel Bars](/wiki/Steel Bars "wikilink") (co-written with Michael Bolton, who
+sung it on his album <em>Time Love & Tenderness</em>, 1991)
 
-[[My Blue Eyed Jane]] (from the Jimmie Rodgers tribute album, 1997)
+[Miss the Mississippi and You](/wiki/Miss the Mississippi and You "wikilink")
+(Bill Halley; Bromberg sessions, May/June 1992)
 
-[[The Man in Me]] (From <em>New Morning </em>(1970); used for the soundtrack of <em>The Big Lebowski</em>, 1998)
+[Kaatskill Serenade](/wiki/Kaatskill Serenade "wikilink") (Bromberg; Bromberg
+sessions, early/mid June 1992)
 
-[[The Lonesome River]] (by the Stanley Brothers, sung with Ralph Stanley, 1998)
+[Polly Vaughn](/wiki/Polly Vaughn "wikilink") (Bromberg Sessions, early/mid
+June 1992)
 
-[[Things Have Changed]] (<em>Wonder Boys</em> soundtrack, 2000)
+[Sloppy Drunk](/wiki/Sloppy Drunk "wikilink") (Rogers; Bromberg Sessions,
+early/mid June 1992)
 
-[[Return To Me]] (<em>Sopranos </em>soundtrack, 2001)
+[You Belong To Me](/wiki/You Belong To Me "wikilink")(<em>Good As I Been To
+You </em>outtake, from the <em>Natural Born Killers </em>soundtrack,
+1994)
 
-[[I Can't Get You Off Of My Mind]] (from the Hank Williams tribute album <em>Timeless</em>, 2001)
+[Any Way You Want Me](/wiki/Any Way You Want Me "wikilink") (Sony Studios,
+Sept 30, 1994)
 
-[[Red Cadillac and a Black Moustache]] (from the Sun Records tribute album <em>Good Rockin' Tonight (The Legacy of Sun Records)</em>, Oct 30 2001)
+[My Blue Eyed Jane](/wiki/My Blue Eyed Jane "wikilink") (from the Jimmie
+Rodgers tribute album, 1997)
 
-[[Waitin' For You]] (<em>Divine Secrets of the Ya-Ya Sisterhood</em><strong> </strong>soundtrack, 2002)
+[The Man in Me](/wiki/The Man in Me "wikilink") (From <em>New Morning
+</em>(1970); used for the soundtrack of <em>The Big Lebowski</em>, 1998)
 
-[[Cross The Green Mountain]] (<em>Gods And Generals</em>, soundtrack, 2003)
+[The Lonesome River](/wiki/The Lonesome River "wikilink") (by the Stanley
+Brothers, sung with Ralph Stanley, 1998)
 
-[[Diamond Joe (M&amp;A)]] (from <em>Masked and Anonymous</em>, 2003)
+[Things Have Changed](/wiki/Things Have Changed "wikilink") (<em>Wonder
+Boys</em> soundtrack, 2000)
 
-[[Dixie]] (from <em>Masked and Anonymous</em>, 2003)
+[Return To Me](/wiki/Return To Me "wikilink") (<em>Sopranos </em>soundtrack,
+2001)
 
-[[Tell Ol' Bill ]] (from <em>North Country</em>, (2005)
+[I Can't Get You Off Of My
+Mind](/wiki/I Can't Get You Off Of My Mind "wikilink") (from the Hank Williams
+tribute album <em>Timeless</em>, 2001)
 
-  <h3><span id="live">Live covers 1984–</span></h3>
-[[Enough is Enough]] (live, 1984)
+[Red Cadillac and a Black
+Moustache](/wiki/Red Cadillac and a Black Moustache "wikilink") (from the Sun
+Records tribute album <em>Good Rockin' Tonight (The Legacy of Sun
+Records)</em>, Oct 30 2001)
 
-[[Why Do I Have To Choose?]] (Gothenburg, 1984)
+[Waitin' For You](/wiki/Waitin' For You "wikilink") (<em>Divine Secrets of the
+Ya-Ya Sisterhood</em><strong> </strong>soundtrack, 2002)
 
-[[We Had It All]] (1986 tour)
+[Cross The Green Mountain](/wiki/Cross The Green Mountain "wikilink")
+(<em>Gods And Generals</em>, soundtrack, 2003)
 
-[[I'm Movin' On]] (Hank Snow; Tokyo, March 10, 1986)
+[Diamond Joe (M&amp;A)](/wiki/Diamond Joe (M&amp;A) "wikilink") (from
+<em>Masked and Anonymous</em>, 2003)
 
-[[That Lucky Old Sun]] (var., 1986-2000)
+[Dixie](/wiki/Dixie "wikilink") (from <em>Masked and Anonymous</em>, 2003)
 
-[[We Three (My Echo, My Shadow and Me)]] (live, 1986)
+[Tell Ol' Bill](/wiki/Tell Ol' Bill "wikilink") (from <em>North Country</em>,
+(2005)
 
-[[Lonesome Town]] (summer 1986)
+<h3>
+<span id="live">Live covers 1984–</span>
 
-[[Thank God]] (Chabad contribrution, June 1986)
+</h3>
+[Enough is Enough](/wiki/Enough is Enough "wikilink") (live, 1984)
 
-[[Red Cadillac and a Black Moustache]] (summer 1986)
+[Why Do I Have To Choose?](/wiki/Why Do I Have To Choose? "wikilink")
+(Gothenburg, 1984)
 
-[[All My Tomorrows]] (July 1, 1986, Clarkston, Michigan. One-off)
+[We Had It All](/wiki/We Had It All "wikilink") (1986 tour)
 
-[[Across the Borderline]] (Mountain View, CA, Aug 5 1986)
+[I'm Movin' On](/wiki/I'm Movin' On "wikilink") (Hank Snow; Tokyo, March 10,
+1986)
 
-[[Soon]] (Gerschwin Gala, Mar 11, 1987)
+[That Lucky Old Sun](/wiki/That Lucky Old Sun "wikilink") (var., 1986-2000)
 
-[[Lakes of Pontchartrain]] (St Louis, Missouri, June 17 1988)
+[We Three (My Echo, My Shadow and
+Me)](/wiki/We Three (My Echo, My Shadow and Me) "wikilink") (live, 1986)
 
-[[Eileen Aroon]] (St Louis, Missouri, June 17 1988)
+[Lonesome Town](/wiki/Lonesome Town "wikilink") (summer 1986)
 
-[[Hallelujah]] (Montreal Jul 8, 1988)
+[Thank God](/wiki/Thank God "wikilink") (Chabad contribrution, June 1986)
 
-[[I'll Be Around]] (Hollywood, CA, Aug 4, 1988)
+[Red Cadillac and a Black
+Moustache](/wiki/Red Cadillac and a Black Moustache "wikilink") (summer 1986)
 
-[[Barbara Allen]] (NY, Oct 19 1988)
+[All My Tomorrows](/wiki/All My Tomorrows "wikilink") (July 1, 1986,
+Clarkston, Michigan. One-off)
 
-[[Wagoner's Lad]] (NY, Oct 19 1988)
+[Across the Borderline](/wiki/Across the Borderline "wikilink") (Mountain
+View, CA, Aug 5 1986)
 
-[[I'm In The Mood For Love]] (live 1988/9)
+[Soon](/wiki/Soon "wikilink") (Gerschwin Gala, Mar 11, 1987)
 
-[[Trail of the Buffalo]] (live 1988/1991)
+[Lakes of Pontchartrain](/wiki/Lakes of Pontchartrain "wikilink") (St Louis,
+Missouri, June 17 1988)
 
-[[You Don't Know Me]] (various locations, 1989-1991)
+[Eileen Aroon](/wiki/Eileen Aroon "wikilink") (St Louis, Missouri, June 17
+1988)
 
-[[Hey La La]] (My true La La/My La La) (spring/summer 1989)
+[Hallelujah](/wiki/Hallelujah "wikilink") (Montreal Jul 8, 1988)
 
-[[Peace in the Valley]] (Les Arènes, Frejus, France 13 June 1989, one-off)
+[I'll Be Around](/wiki/I'll Be Around "wikilink") (Hollywood, CA, Aug 4, 1988)
 
-[[Pancho and Lefty]] (June 21, 1989)
+[Barbara Allen](/wiki/Barbara Allen "wikilink") (NY, Oct 19 1988)
 
-[[Crazy Love]] (duet with Van Morrison, June 27, 1989, Athens)
+[Wagoner's Lad](/wiki/Wagoner's Lad "wikilink") (NY, Oct 19 1988)
 
-[[One Irish Rover]] (duet with Van Morrison, June 27, 1989, Athens)
+[I'm In The Mood For Love](/wiki/I'm In The Mood For Love "wikilink") (live
+1988/9)
 
-[[Don't Pity Me]](Joliette, Quebec, July 31 1989 (one-off)
+[Trail of the Buffalo](/wiki/Trail of the Buffalo "wikilink") (live 1988/1991)
 
-[[The Harder They Come]] (Jimmy Cliff; Bonner Springs, 22 Aug, 1989)
+[You Don't Know Me](/wiki/You Don't Know Me "wikilink") (various locations,
+1989-1991)
 
-[[Willin']] (Lowell George, var. Never Ending Tour, 1990-2000)
+[Hey La La](/wiki/Hey La La "wikilink") (My true La La/My La La)
+(spring/summer 1989)
 
-[[In The Pines]] (Carnegie Chapter Hall, Nov 1961 and Toad's Place, Jan 1990)
+[Peace in the Valley](/wiki/Peace in the Valley "wikilink") (Les Arènes,
+Frejus, France 13 June 1989, one-off)
 
-[[Help Me Make It Through The Night]]<strong> </strong>(Toad's Place, Jan 1990)
+[Pancho and Lefty](/wiki/Pancho and Lefty "wikilink") (June 21, 1989)
 
-[[I've Been All Around This World]] (Toad's Place, Jan 1990)
+[Crazy Love](/wiki/Crazy Love "wikilink") (duet with Van Morrison, June 27,
+1989, Athens)
 
-[[Confidential To Me]] (Toad's Place, 1990; Dayton OH, 1991)
+[One Irish Rover](/wiki/One Irish Rover "wikilink") (duet with Van Morrison,
+June 27, 1989, Athens)
 
-[[Key to the Highway]] (Toad's Place, Jan 1990)
+[Don't Pity Me](/wiki/Don't Pity Me "wikilink")(Joliette, Quebec, July 31 1989
+(one-off)
 
-[[Old Rock 'n' Roller]] (Hamburg, 3 July 1990. Two performances only)
+[The Harder They Come](/wiki/The Harder They Come "wikilink") (Jimmy Cliff;
+Bonner Springs, 22 Aug, 1989)
 
-[[Stand By Me]] (Aug 28, 1990, Merrillville, Indiana. One-off)
+[Willin'](/wiki/Willin' "wikilink") (Lowell George, var. Never Ending Tour,
+1990-2000)
 
-[[Moon River]] (Merriville, In., Aug 27, 1990)
+[In The Pines](/wiki/In The Pines "wikilink") (Carnegie Chapter Hall, Nov 1961
+and Toad's Place, Jan 1990)
 
-[[When First Unto This Country]] (June 1991)
+[Help Me Make It Through The
+Night](/wiki/Help Me Make It Through The Night "wikilink")<strong>
+</strong>(Toad's Place, Jan 1990)
 
-[[People Putting People Down]] (Prine; Rome, June 6, 1991)
+[I've Been All Around This
+World](/wiki/I've Been All Around This World "wikilink") (Toad's Place, Jan
+1990)
 
-[[20/20 Vision]] (Austin, 25 October 1991. One-off)
+[Confidential To Me](/wiki/Confidential To Me "wikilink") (Toad's Place, 1990;
+Dayton OH, 1991)
 
-[[Answer Me]] (a few performances, Fall 1991)
+[Key to the Highway](/wiki/Key to the Highway "wikilink") (Toad's Place, Jan
+1990)
 
-[[Black Muddy River]]<strong> </strong>(Apr 6, 1992)
+[Old Rock 'n' Roller](/wiki/Old Rock 'n' Roller "wikilink") (Hamburg, 3 July
+1990. Two performances only)
 
-[[Lady of Carlisle]] (Sydney, Apr 14, 1992)
+[Stand By Me](/wiki/Stand By Me "wikilink") (Aug 28, 1990, Merrillville,
+Indiana. One-off)
 
-[[Female Rambling Sailor]] (played live six times in 1992)
+[Moon River](/wiki/Moon River "wikilink") (Merriville, In., Aug 27, 1990)
 
-[[Golden Vanity]] (Waikiki, HI, Apr 24 1992)
+[When First Unto This Country](/wiki/When First Unto This Country "wikilink")
+(June 1991)
 
-[[Girl on the Green Briar Shore]] (live, 1992)
+[People Putting People Down](/wiki/People Putting People Down "wikilink")
+(Prine; Rome, June 6, 1991)
 
-[[Farewell To The Gold]] (Youngstown, OH, Nov 2, 1992)
+[20/20 Vision](20/20 Vision "wikilink") (Austin, 25 October 1991.
+One-off)
 
-[[Little Moses]] (Milan, Italy, Jun 27 1993)
+[Answer Me](/wiki/Answer Me "wikilink") (a few performances, Fall 1991)
 
-[[Weeping Willow]] (Supper Club, Nov 17, 1993)
+[Black Muddy River](/wiki/Black Muddy River "wikilink")<strong> </strong>(Apr
+6, 1992)
 
-[[The Lady Came From Baltimore]] (live 1994)
+[Lady of Carlisle](/wiki/Lady of Carlisle "wikilink") (Sydney, Apr 14, 1992)
 
-[[New Minglewood Blues]] (Århus, Denmark, 15 June 1996)
+[Female Rambling Sailor](/wiki/Female Rambling Sailor "wikilink") (played live
+six times in 1992)
 
-[[Shake Sugaree]] (E. Cotten; live 1996/7)
+[Golden Vanity](/wiki/Golden Vanity "wikilink") (Waikiki, HI, Apr 24 1992)
 
-[[Cocaine Blues]] (Gaslight II 1962/St Johns March 1 1997)
+[Girl on the Green Briar
+Shore](/wiki/Girl on the Green Briar Shore "wikilink") (live, 1992)
 
-[[Viola Lee Blues]] (Sapporo, Japan, Feb 24 1997)
+[Farewell To The Gold](/wiki/Farewell To The Gold "wikilink") (Youngstown, OH,
+Nov 2, 1992)
 
-[[Not Fade Away]] (various locations, 1997-)
+[Little Moses](/wiki/Little Moses "wikilink") (Milan, Italy, Jun 27 1993)
 
-[[Stone Walls and Steel Bars]] (Beverly Hills, May 21 1997)
+[Weeping Willow](/wiki/Weeping Willow "wikilink") (Supper Club, Nov 17, 1993)
 
-[[I'll Not Be A Stranger]] (twice, late 1997)
+[The Lady Came From Baltimore](/wiki/The Lady Came From Baltimore "wikilink")
+(live 1994)
 
-[[Roving Gambler]] (El Rey Theatre, LA, CA, Dec 17 1997)
+[New Minglewood Blues](/wiki/New Minglewood Blues "wikilink") (Århus, Denmark,
+15 June 1996)
 
-[[White Dove]] (Various locations, 1997-2000)
+[Shake Sugaree](/wiki/Shake Sugaree "wikilink") (E. Cotten; live 1996/7)
 
-[[Oh, Babe, It Ain't No Lie]] (Durham NH, 1997)
+[Cocaine Blues](/wiki/Cocaine Blues "wikilink") (Gaslight II 1962/St Johns
+March 1 1997)
 
-[[Friend of the Devil]] (Hunter/Garcia/Dawson)
+[Viola Lee Blues](/wiki/Viola Lee Blues "wikilink") (Sapporo, Japan, Feb 24
+1997)
 
-[[I'm Not Supposed To Care]] (Gordon Lightfoot; may 1998)
+[Not Fade Away](/wiki/Not Fade Away "wikilink") (various locations, 1997-)
 
-[[The Times We've Known]] (Madison Square Garden, November 1 1998)
+[Stone Walls and Steel Bars](/wiki/Stone Walls and Steel Bars "wikilink")
+(Beverly Hills, May 21 1997)
 
-[[You're Too Late]] (Frizzell/Willis; Daytona Beach, 1999)
+[I'll Not Be A Stranger](/wiki/I'll Not Be A Stranger "wikilink") (twice, late
+1997)
 
-[[Train of Love]] (Johnny Cash Tribute, April 6, 1999)
+[Roving Gambler](/wiki/Roving Gambler "wikilink") (El Rey Theatre, LA, CA, Dec
+17 1997)
 
-[[Hallelujah, I'm Ready To Go]] (Various locations, 1999)
+[White Dove](/wiki/White Dove "wikilink") (Various locations, 1997-2000)
 
-[[Somebody Touched Me]] (Various locations, fall 1999)
+[Oh, Babe, It Ain't No Lie](/wiki/Oh, Babe, It Ain't No Lie "wikilink")
+(Durham NH, 1997)
 
-[[I Am The Man, Thomas]] (Various locations, fall 1999)
+[Friend of the Devil](/wiki/Friend of the Devil "wikilink")
+(Hunter/Garcia/Dawson)
 
-[[Pass Me Not, O Gentle Savior]] (Various locations, 1999-2000)
+[I'm Not Supposed To Care](/wiki/I'm Not Supposed To Care "wikilink") (Gordon
+Lightfoot; may 1998)
 
-[[Rock of Ages]] (by Augustus Montague Toplady; since 1999)
+[The Times We've Known](/wiki/The Times We've Known "wikilink") (Madison
+Square Garden, November 1 1998)
 
-[[A Satisfied Mind]] (Philadelphia, Nov 9, 1999)
+[You're Too Late](/wiki/You're Too Late "wikilink") (Frizzell/Willis; Daytona
+Beach, 1999)
 
-[[Duncan And Brady]] (Durham, NH, Nov 17 1999)
+[Train of Love](/wiki/Train of Love "wikilink") (Johnny Cash Tribute, April 6,
+1999)
 
-[[Things Have Changed]] (<em>Wonder Boys</em> soundtrack, 2000)
+[Hallelujah, I'm Ready To Go](/wiki/Hallelujah, I'm Ready To Go "wikilink")
+(Various locations, 1999)
 
-[[This World Can't Stand Long]] (Anaheim, CA, March 10 2000)
+[Somebody Touched Me](/wiki/Somebody Touched Me "wikilink") (Various
+locations, fall 1999)
 
-[[Roving Blade (Newry Highwayman)]] (Reno, NV, March 17, 2000)
+[I Am The Man, Thomas](/wiki/I Am The Man, Thomas "wikilink") (Various
+locations, fall 1999)
 
-[[Long Black Veil]] (George, Washington, June 17, 2000)
+[Pass Me Not, O Gentle Savior](/wiki/Pass Me Not, O Gentle Savior "wikilink")
+(Various locations, 1999-2000)
 
-[[Searching For A Soldier's Grave]] (Various locations, Summer/Fall 2000)
+[Rock of Ages](/wiki/Rock of Ages "wikilink") (by Augustus Montague Toplady;
+since 1999)
 
-[[Blue Bonnet Girl]] (live, Bloomington, Indiana, Nov 1, 2000)
+[A Satisfied Mind](/wiki/A Satisfied Mind "wikilink") (Philadelphia, Nov 9,
+1999)
 
-[[Humming Bird]] (played by Dylan Summer 2001; incl. John &amp; Jack Anglin's version)
+[Duncan And Brady](/wiki/Duncan And Brady "wikilink") (Durham, NH, Nov 17
+1999)
 
-[[Wait For The Light To Shine]] (by Fred Rose, live, fall 2001)
+[Things Have Changed](/wiki/Things Have Changed "wikilink") (<em>Wonder
+Boys</em> soundtrack, 2000)
 
-[[Voice From On High/I Hear A Voice Calling]] (by Bill Monroe/Bessie Lee Mauldin. Hamburg, NY, Aug 15, 2002; incl. versions by Monroe and the Stanley Brothers.)
+[This World Can't Stand Long](/wiki/This World Can't Stand Long "wikilink")
+(Anaheim, CA, March 10 2000)
 
-[[Accidentally Like A Martyr]] (by Warren Zevon. Fall 2002)
+[Roving Blade (Newry
+Highwayman)](/wiki/Roving Blade (Newry Highwayman) "wikilink") (Reno, NV,
+March 17, 2000)
 
-[[Boom Boom Mancini]] (by Warren Zevon. Fall 2002)
+[Long Black Veil](/wiki/Long Black Veil "wikilink") (George, Washington, June
+17, 2000)
 
-[[Mutineer]] (by Warren Zevon. Fall 2002)
+[Searching For A Soldier's
+Grave](/wiki/Searching For A Soldier's Grave "wikilink") (Various locations,
+Summer/Fall 2000)
 
-[[Lawyers, Guns and Money]] (by Warren Zevon; Fall 2002)
+[Blue Bonnet Girl](/wiki/Blue Bonnet Girl "wikilink") (live, Bloomington,
+Indiana, Nov 1, 2000)
 
-[[Carrying a Torch]] (by Van Morrison; Fall 2002)
+[Humming Bird](/wiki/Humming Bird "wikilink") (played by Dylan Summer 2001;
+incl. John & Jack Anglin's version)
 
-[[Old Man]] (by Neil Young; fall 2002)
+[Wait For The Light To Shine](/wiki/Wait For The Light To Shine "wikilink")
+(by Fred Rose, live, fall 2001)
 
-[[The End Of The Innocence]] (by Henley/Hornsby; fall 2002)
+[Voice From On High/I Hear A Voice
+Calling](/wiki/Voice From On High/I Hear A Voice Calling "wikilink") (by Bill
+Monroe/Bessie Lee Mauldin. Hamburg, NY, Aug 15, 2002; incl. versions by
+Monroe and the Stanley Brothers.)
 
-[[A Change Is Gonna Come]] (28 March 2004, Apollo Theatre)
+[Accidentally Like A Martyr](/wiki/Accidentally Like A Martyr "wikilink") (by
+Warren Zevon. Fall 2002)
 
-[[No More One More Time]] (Oct 13, 2004)
+[Boom Boom Mancini](/wiki/Boom Boom Mancini "wikilink") (by Warren Zevon. Fall
+2002)
 
-[[Category:Albums]]
+[Mutineer](/wiki/Mutineer "wikilink") (by Warren Zevon. Fall 2002)
+
+[Lawyers, Guns and Money](/wiki/Lawyers, Guns and Money "wikilink") (by Warren
+Zevon; Fall 2002)
+
+[Carrying a Torch](/wiki/Carrying a Torch "wikilink") (by Van Morrison; Fall
+2002)
+
+[Old Man](/wiki/Old Man "wikilink") (by Neil Young; fall 2002)
+
+[The End Of The Innocence](/wiki/The End Of The Innocence "wikilink") (by
+Henley/Hornsby; fall 2002)
+
+[A Change Is Gonna Come](/wiki/A Change Is Gonna Come "wikilink") (28 March
+2004, Apollo Theatre)
+
+[No More One More Time](/wiki/No More One More Time "wikilink") (Oct 13, 2004)

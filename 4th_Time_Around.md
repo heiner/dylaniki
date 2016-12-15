@@ -1,126 +1,137 @@
-Words and music Bob Dylan<br>
-Released on [[Blonde on Blonde]] (1966) and in a live version on [[Live 1966]] (1998)<br>
+---
+title: 4th Time Around
+permalink: 4th Time Around
+layout: wiki
+tags:
+ - Songs
+ - Drop C tuning
+---
+
+Words and music Bob Dylan  
+Released on [Blonde on Blonde](/wiki/Blonde on Blonde "wikilink") (1966) and
+in a live version on [Live 1966](/wiki/Live 1966 "wikilink") (1998)  
 Tabbed by Eyolf Østrem
 
-----
-Capo 4th fret (sounding key E major)<br>
-And you might as well tune down the E string two steps, to get the dropped C tuning that he uses on Live 1966 (C-A-d-g-b-e').
+* * * * *
 
-The versions are quite similar, apart from (1) the little riff running through the album version, and (2) the basic chord alternation, which in the album version is C - F, and on [[Live 1966]] C - Csus4. (it actually sounds like that's what Dylan is playing in the album version as well, but the little riff clearly alternates between C and F, so that's the predominant sound anyway).
+Capo 4th fret (sounding key E major)  
+And you might as well tune down the E string two steps, to get the
+dropped C tuning that he uses on Live 1966 (C-A-d-g-b-e').
 
-<pre class="tab">
-  C             F
-  :   .   .     :   .   .
-|-----3---5-3-|-----5---6-5-|
-|---5---5-----|---6---6-----|
-|-5-----------|-5-----------|
-|-------------|-------------|
-|-------------|-------------|
-|-------------|-------------|
-</pre>
+The versions are quite similar, apart from (1) the little riff running
+through the album version, and (2) the basic chord alternation, which in
+the album version is C - F, and on [Live 1966](/wiki/Live 1966 "wikilink") C -
+Csus4. (it actually sounds like that's what Dylan is playing in the
+album version as well, but the little riff clearly alternates between C
+and F, so that's the predominant sound anyway).
+
+      C             F
+      :   .   .     :   .   .
+    |-----3---5-3-|-----5---6-5-|
+    |---5---5-----|---6---6-----|
+    |-5-----------|-5-----------|
+    |-------------|-------------|
+    |-------------|-------------|
+    |-------------|-------------|
 
 Chords (with dropped C tuning):
 
-<pre class="chords">
-C      032010
-F      033211 or 003211 or Fmaj7 033210
-Csus4  033010
-Em     x22000
-Dm     xx0231 or 200231
-</pre>
+    C      032010
+    F      033211 or 003211 or Fmaj7 033210
+    Csus4  033010
+    Em     x22000
+    Dm     xx0231 or 200231
 
-----
-<pre class="verse">
-C    F               C
-When she said,"Don't waste
-     F                   C
-your words, they're just lies,"
-  F             C         F   C   F
-I cried she was deaf.
-    C   F            C
-And she worked on my face
-      F           C
-until breaking my eyes,
-           F                  C      F   C  F
-Then said, "What else you got left?"
-       Em
-It was then that I got up to leave
-                        Dm
-But she said, "Don't forget,
-     C         F              C
-Everybody must give something back
-    F              C       F  C  F
-For something they get."
+* * * * *
 
-I stood there and hummed,
-I tapped on her drum and asked her how come.
-And she buttoned her boot,
-And straightened her suit,
-Then she said, "Don't get cute."
-So I forced my hands in my pockets
-And felt with my thumbs,
-And gallantly handed her
-My very last piece of gum.
+    C    F               C
+    When she said,"Don't waste
+         F                   C
+    your words, they're just lies,"
+      F             C         F   C   F
+    I cried she was deaf.
+        C   F            C
+    And she worked on my face
+          F           C
+    until breaking my eyes,
+               F                  C      F   C  F
+    Then said, "What else you got left?"
+           Em
+    It was then that I got up to leave
+                            Dm
+    But she said, "Don't forget,
+         C         F              C
+    Everybody must give something back
+        F              C       F  C  F
+    For something they get."
 
-She threw me outside,
-I stood in the dirt where ev'ryone walked.
-And after finding I'd
-Forgotten my shirt,
-I went back and knocked.
-I waited in the hallway, she went to get it,
-And I tried to make sense
-Out of that picture of you in your wheelchair
-That leaned up against . . .
+    I stood there and hummed,
+    I tapped on her drum and asked her how come.
+    And she buttoned her boot,
+    And straightened her suit,
+    Then she said, "Don't get cute."
+    So I forced my hands in my pockets
+    And felt with my thumbs,
+    And gallantly handed her
+    My very last piece of gum.
 
-Her Jamaican rum
-And when she did come, I asked her for some.
-She said, "No, dear."
-I said, "Your words aren't clear,
-You'd better spit out your gum."
-She screamed till her face got so red
-Then she fell on the floor,
-And I covered her up and then
-Thought I'd go look through her drawer.
+    She threw me outside,
+    I stood in the dirt where ev'ryone walked.
+    And after finding I'd
+    Forgotten my shirt,
+    I went back and knocked.
+    I waited in the hallway, she went to get it,
+    And I tried to make sense
+    Out of that picture of you in your wheelchair
+    That leaned up against . . .
 
-And, when I was through
-I filled up my shoe
-And brought it to you.
-And you, you took me in,
-You loved me then
-You didn't waste time.
-And I, I never took much,
-I never asked for your crutch.
-Now don't ask for mine.
-</pre>
+    Her Jamaican rum
+    And when she did come, I asked her for some.
+    She said, "No, dear."
+    I said, "Your words aren't clear,
+    You'd better spit out your gum."
+    She screamed till her face got so red
+    Then she fell on the floor,
+    And I covered her up and then
+    Thought I'd go look through her drawer.
 
-<h2 class="songversion">Live 1966 version</h2>
+    And, when I was through
+    I filled up my shoe
+    And brought it to you.
+    And you, you took me in,
+    You loved me then
+    You didn't waste time.
+    And I, I never took much,
+    I never asked for your crutch.
+    Now don't ask for mine.
 
+<h2 class="songversion">
+Live 1966 version
+
+</h2>
 As I said, it's identical, just replace all the F's with Csus4's.
 
-<h2 class="songversion">Live version from 1999 (various locations)</h2>
+<h2 class="songversion">
+Live version from 1999 (various locations)
 
-<pre class="verse">
-D    Dsus4           D
-When she said,"Don't waste
-     Dsus4               D
-your words, they're just lies,"
-  C         G/b  D      Dsus4  D Dsus4
-I cried she was deaf.
-    D   Dsus4        D
-And she worked on my face
-      Dsus4       D
-until breaking my eyes,
-           C              G/b D      Dsus4 D
-Then said, "What else you got left?"
-       F#m
-It was then that I got up to leave
-                        Em
-But she said, "Don't forget,
-     D         Dsus4          D
-Everybody must give something back
-    Dsus4          D         Dsus4 D Dsus4
-For something they get."
-</pre>
-
-[[Category:Songs]]
-[[Category:Drop C tuning]]
+</h2>
+    D    Dsus4           D
+    When she said,"Don't waste
+         Dsus4               D
+    your words, they're just lies,"
+      C         G/b  D      Dsus4  D Dsus4
+    I cried she was deaf.
+        D   Dsus4        D
+    And she worked on my face
+          Dsus4       D
+    until breaking my eyes,
+               C              G/b D      Dsus4 D
+    Then said, "What else you got left?"
+           F#m
+    It was then that I got up to leave
+                            Em
+    But she said, "Don't forget,
+         D         Dsus4          D
+    Everybody must give something back
+        Dsus4          D         Dsus4 D Dsus4
+    For something they get."

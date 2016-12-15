@@ -1,9 +1,17 @@
-Peter LaFarge<br>
-Recorded by Bob Dylan June 1, 1970 and released by Columbia on
-[[Dylan]] (1973)<br>
-Tabbed by Eyolf Østrem<br>
+---
+title: The Ballad of Ira Hayes
+permalink: The Ballad of Ira Hayes
+layout: wiki
+tags:
+ - Songs
+---
 
-[read the story of Ira Hayes at [http://www.bobdylanroots.com/ira.html http://www.bobdylanroots.com/ira.html]]
+Peter LaFarge  
+Recorded by Bob Dylan June 1, 1970 and released by Columbia on
+[Dylan](/wiki/Dylan "wikilink") (1973)  
+Tabbed by Eyolf Østrem  
+ [read the story of Ira Hayes at
+[<http://www.bobdylanroots.com/ira.html>](http://www.bobdylanroots.com/ira.html)]
 
 Dylan at the piano; the following is a suggestion for guitar.
 
@@ -11,106 +19,85 @@ Capo 1st fret (sounding key Ab major)
 
 The Ds are usually embellished with D11 turns (i.e. C/d = xx0010)
 
-----
-<pre class="verse">
-G                              C     /b     Am
-Gather round me, people, and a story I will tell
-D                          G
-About a brave young Indian you should remember well
-                                  C           /b       Am
-From the tribe of Pima Indians, a proud and a peaceful band,
-     D                            G
-They farmed the Phoenix valley in Arizona land.
+* * * * *
 
-Down their ditches for a thousand years the sparkling water rushed,
-Till the white man stole their water rights and the running water hushed.
-Now Ira's folks were hungry, and their farms grew crops of weeds.
-But when war came, he volunteered and forgot the white man's greed.
-</pre>
+    G                              C     /b     Am
+    Gather round me, people, and a story I will tell
+    D                          G
+    About a brave young Indian you should remember well
+                                      C           /b       Am
+    From the tribe of Pima Indians, a proud and a peaceful band,
+         D                            G
+    They farmed the Phoenix valley in Arizona land.
 
-<pre class="refrain">
-         G       /f# G7/f
-Call him drunken Ira Hayes
-         C      /b Am
-He won't answer anymore,
-        D
-Not the whiskey-drinking Indian
-       C/g                G
-Or the Marine who went to war.
-              G       /f# G7/f
-Yes, call him drunken Ira Hayes
-         C      /b Am
-He won't answer anymore,
-        D
-Not the whiskey-drinking Indian
-       C/g                G
-Or the Marine who went to war.
-</pre>
+    Down their ditches for a thousand years the sparkling water rushed,
+    Till the white man stole their water rights and the running water hushed.
+    Now Ira's folks were hungry, and their farms grew crops of weeds.
+    But when war came, he volunteered and forgot the white man's greed.
 
-<pre class="verse">
-They started up Iwo Jima hill, two hundred and fifty men,
-But only twenty-seven lived to walk back down that hill again.
-And when the fight was over and Old Glory raised
-One of the men who held it high was the Indian, Ira Hayes.
-</pre>
+             G       /f# G7/f
+    Call him drunken Ira Hayes
+             C      /b Am
+    He won't answer anymore,
+            D
+    Not the whiskey-drinking Indian
+           C/g                G
+    Or the Marine who went to war.
+                  G       /f# G7/f
+    Yes, call him drunken Ira Hayes
+             C      /b Am
+    He won't answer anymore,
+            D
+    Not the whiskey-drinking Indian
+           C/g                G
+    Or the Marine who went to war.
 
-<pre class="refrain">
-Call him drunken Ira Hayes
-He won't answer anymore,
-Not the whiskey-drinking Indian
-Or the Marine who went to war.
-Call him drunken Ira Hayes
-He won't answer anymore,
-Not the whiskey-drinking Indian
-Or the Marine who went to war.
-</pre>
+    They started up Iwo Jima hill, two hundred and fifty men,
+    But only twenty-seven lived to walk back down that hill again.
+    And when the fight was over and Old Glory raised
+    One of the men who held it high was the Indian, Ira Hayes.
 
-<pre class="verse">
-Now, Ira returned a hero, celebrated throughout the land
-He was wined and speeched and honored, everybody shook his hand.
-But he was just a Pima Indian - no money, no crops, no chance -
-And at home nobody cared what Ira'd done, and when do the Indians dance?
-</pre>
+    Call him drunken Ira Hayes
+    He won't answer anymore,
+    Not the whiskey-drinking Indian
+    Or the Marine who went to war.
+    Call him drunken Ira Hayes
+    He won't answer anymore,
+    Not the whiskey-drinking Indian
+    Or the Marine who went to war.
 
-<pre class="refrain">
-Call him drunken Ira Hayes
-He won't answer anymore,
-Not the whiskey-drinking Indian
-Or the Marine who went to war.
-Call him drunken Ira Hayes
-He won't answer anymore,
-Not the whiskey-drinking Indian
-Or the Marine who went to war.
-</pre>
+    Now, Ira returned a hero, celebrated throughout the land
+    He was wined and speeched and honored, everybody shook his hand.
+    But he was just a Pima Indian - no money, no crops, no chance -
+    And at home nobody cared what Ira'd done, and when do the Indians dance?
 
-<pre class="verse">
-Then Ira started drinking hard, jail was often his home.
-They let him raise the flag there and lower it like you'd throw a dog a bone.
-He died drunk early one morning, alone in the land he'd fought to save.
-Two inches of water in a lonely ditch was the grave for Ira Hayes.
-</pre>
+    Call him drunken Ira Hayes
+    He won't answer anymore,
+    Not the whiskey-drinking Indian
+    Or the Marine who went to war.
+    Call him drunken Ira Hayes
+    He won't answer anymore,
+    Not the whiskey-drinking Indian
+    Or the Marine who went to war.
 
-<pre class="refrain">
-Call him drunken Ira Hayes
-He won't answer anymore,
-Not the whiskey-drinking Indian
-Or the Marine who went to war.
-Call him drunken Ira Hayes
-He won't answer anymore,
-Not the whiskey-drinking Indian
-Or the Marine who went to war.
-</pre>
+    Then Ira started drinking hard, jail was often his home.
+    They let him raise the flag there and lower it like you'd throw a dog a bone.
+    He died drunk early one morning, alone in the land he'd fought to save.
+    Two inches of water in a lonely ditch was the grave for Ira Hayes.
 
-<pre class="verse">
-Yes, call him drunken Ira Hayes, but his land is still as dry,
-And his ghost is lying thirsty In the ditch where Ira died.
-</pre>
+    Call him drunken Ira Hayes
+    He won't answer anymore,
+    Not the whiskey-drinking Indian
+    Or the Marine who went to war.
+    Call him drunken Ira Hayes
+    He won't answer anymore,
+    Not the whiskey-drinking Indian
+    Or the Marine who went to war.
 
-<pre class="refrain">
-Call him drunken Ira Hayes
-He won't answer anymore,
-Not the whiskey-drinking Indian
-Or the Marine who went to war.
-</pre>
+    Yes, call him drunken Ira Hayes, but his land is still as dry,
+    And his ghost is lying thirsty In the ditch where Ira died.
 
-[[Category:Songs]]
+    Call him drunken Ira Hayes
+    He won't answer anymore,
+    Not the whiskey-drinking Indian
+    Or the Marine who went to war.
