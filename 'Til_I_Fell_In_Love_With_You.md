@@ -1,13 +1,13 @@
 ---
-title: 'Til I Fell In Love With You
-permalink: 'Til I Fell In Love With You
+title: "'Til I Fell In Love With You"
+permalink: "'Til I Fell In Love With You"
 layout: wiki
 tags:
  - Songs|T
 ---
 
-Words and music by Bob Dylan  
-Released on [Time out of Mind](/wiki/Time out of Mind "wikilink") (1997)  
+Words and music by Bob Dylan
+Released on [Time out of Mind](/wiki/Time out of Mind "wikilink") (1997)
 Tabbed by Eyolf Østrem
 
 Standard three-chord blues, with more of a E feeling than G, so
