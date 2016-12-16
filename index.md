@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Dylaniki
+layout: page
 ---
 
 -   [Bob Dylan](Bob Dylan) (1962)
