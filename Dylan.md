@@ -1,6 +1,6 @@
 ---
 title: Dylan
-permalink: Dylan/
+permalink: Dylan
 redirect_to: Dylan_(A_fool_such_as_I)/
 ---
 

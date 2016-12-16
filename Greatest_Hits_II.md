@@ -1,6 +1,6 @@
 ---
 title: Greatest Hits II
-permalink: Greatest_Hits_II/
+permalink: Greatest_Hits_II
 redirect_to: Greatest_Hits_vol_2/
 ---
 

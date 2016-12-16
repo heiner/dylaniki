@@ -1,6 +1,6 @@
 ---
 title: Oh Mercy!
-permalink: Oh_Mercy!/
+permalink: Oh_Mercy!
 redirect_to: Oh_Mercy/
 ---
 

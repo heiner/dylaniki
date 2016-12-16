@@ -1,6 +1,6 @@
 ---
 title: Most Of The Time
-permalink: Most_Of_The_Time/
+permalink: Most_Of_The_Time
 redirect_to: Most_of_the_Time/
 ---
 

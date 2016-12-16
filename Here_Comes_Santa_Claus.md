@@ -1,6 +1,6 @@
 ---
 title: Here Comes Santa Claus
-permalink: Here_Comes_Santa_Claus/
+permalink: Here_Comes_Santa_Claus
 redirect_to: Here_comes_Santa_Claus/
 ---
 

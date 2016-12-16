@@ -1,6 +1,6 @@
 ---
 title: Greatest Hits I
-permalink: Greatest_Hits_I/
+permalink: Greatest_Hits_I
 redirect_to: Greatest_Hits/
 ---
 

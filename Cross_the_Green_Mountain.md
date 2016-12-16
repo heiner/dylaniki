@@ -1,6 +1,6 @@
 ---
 title: Cross the Green Mountain
-permalink: Cross_the_Green_Mountain/
+permalink: Cross_the_Green_Mountain
 redirect_to: Cross_The_Green_Mountain/
 ---
 

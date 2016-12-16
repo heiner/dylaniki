@@ -1,6 +1,6 @@
 ---
 title: Ballad of the Gliding Swan
-permalink: Ballad_of_the_Gliding_Swan/
+permalink: Ballad_of_the_Gliding_Swan
 redirect_to: The_Ballad_of_the_Gliding_Swan/
 ---
 

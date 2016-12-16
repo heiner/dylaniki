@@ -1,6 +1,6 @@
 ---
 title: Budokan
-permalink: Budokan/
+permalink: Budokan
 redirect_to: At_Budokan/
 ---
 

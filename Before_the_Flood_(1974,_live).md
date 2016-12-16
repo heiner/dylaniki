@@ -1,6 +1,6 @@
 ---
 title: Before the Flood (1974, live)
-permalink: Before_the_Flood_(1974,_live)/
+permalink: Before_the_Flood_(1974,_live)
 redirect_to: Before_the_Flood/
 ---
 

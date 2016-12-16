@@ -1,6 +1,6 @@
 ---
 title: Another Side of Bob Dylan
-permalink: Another_Side_of_Bob_Dylan/
+permalink: Another_Side_of_Bob_Dylan
 redirect_to: Another_Side_Of_Bob_Dylan/
 ---
 

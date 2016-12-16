@@ -1,6 +1,6 @@
 ---
 title: Tempest (2012)
-permalink: Tempest_(2012)/
+permalink: Tempest_(2012)
 redirect_to: Tempest_(Album)/
 ---
 

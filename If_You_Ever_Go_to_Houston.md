@@ -1,6 +1,6 @@
 ---
 title: If You Ever Go to Houston
-permalink: If_You_Ever_Go_to_Houston/
+permalink: If_You_Ever_Go_to_Houston
 redirect_to: If_you_ever_go_to_Houston/
 ---
 

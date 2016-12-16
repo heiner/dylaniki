@@ -1,6 +1,6 @@
 ---
 title: Girl From the North Country
-permalink: Girl_From_the_North_Country/
+permalink: Girl_From_the_North_Country
 redirect_to: Girl_of_the_North_Country/
 ---
 

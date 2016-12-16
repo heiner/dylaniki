@@ -1,6 +1,6 @@
 ---
 title: Bringing it all Back Home
-permalink: Bringing_it_all_Back_Home/
+permalink: Bringing_it_all_Back_Home
 redirect_to: Bringing_It_All_Back_Home/
 ---
 
