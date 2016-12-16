@@ -21,6 +21,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dylaniki.kuettler.org" # the base hostname & protocol for your site
 github_username:
 exclude: ["*.md"]
-include: ["D*.md", "E*.md", "F*.md"]
+include: ["A*.md", "C*.md", "D*.md", "E*.md", "F*.md"]
 # Build settings
 markdown: kramdown
