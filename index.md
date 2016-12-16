@@ -1,7 +1,6 @@
 ---
-title: Main Page
-permalink: Main Page
-layout: wiki
+layout: default
+title: Dylaniki
 ---
 
 -   [Bob Dylan](Bob Dylan "wikilink") (1962)
@@ -63,4 +62,4 @@ layout: wiki
 -   [Christmas in the Heart](Christmas in the Heart "wikilink") (2009)
 -   [Tempest](Tempest (Album) "wikilink") (2012)
 
-[List of albums at bobdylan.com](http://www.bobdylan.com/albums/list)
+[List of albums at bobdylan.com](http://www.bobdylan.com/albums/)

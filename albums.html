@@ -1,0 +1,23 @@
+---
+layout: default
+title: Albums
+permalink: albums
+---
+
+<div class="home">
+
+  <h1 class="page-heading">All {{  page.title }}</h1>
+
+  <ul>
+    {% for page in site.pages %}
+    {% for tag in page.tags %}
+    {% if tag == "Albums" %}
+    <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+    {% endif %}
+    {% endfor %}
+    {% endfor %}
+  </ul>
+
+[List of albums at bobdylan.com](http://www.bobdylan.com/albums/)
+
+</div>

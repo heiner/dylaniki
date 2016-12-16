@@ -1,0 +1,23 @@
+---
+layout: default
+title: Songs
+permalink: songs
+---
+
+<div class="home">
+
+  <h1 class="page-heading">All {{  page.title }}</h1>
+
+  <ul>
+    {% for page in site.pages %}
+    {% for tag in page.tags %}
+    {% if tag == "Songs" %}
+    <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+    {% endif %}
+    {% endfor %}
+    {% endfor %}
+  </ul>
+
+[List of songs at bobdylan.com](http://www.bobdylan.com/songs/)
+
+</div>

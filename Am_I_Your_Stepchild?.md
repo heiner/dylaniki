@@ -1,18 +1,18 @@
 ---
 title: Am I Your Stepchild?
-permalink: Am I Your Stepchild?
+permalink: Am I Your Stepchild
 layout: wiki
 tags:
  - Songs
  - Miscellaneous Songs
 ---
 
-Words and music Bob Dylan  
+Words and music Bob Dylan
 Played during the fall 1978 tour, with constantly changing lyrics.
 
 The “A” is rather a bluesy simultaneous A and Am, with lots of G and C
-in the bass (not at the same time, I guess...).  
-An ascent A-B-C-C\#-D in the bass starts at the \*).  
+in the bass (not at the same time, I guess...).
+An ascent A-B-C-C\#-D in the bass starts at the \*).
 Corrections or emendations to the lyrics (and other versions) are most
 welcome.
 

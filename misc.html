@@ -1,0 +1,21 @@
+---
+layout: default
+title: Misc Songs
+permalink: misc-songs
+---
+
+<div class="home">
+
+  <h1 class="page-heading">{{  page.title }}</h1>
+
+  <ul>
+    {% for page in site.pages %}
+    {% for tag in page.tags %}
+    {% if tag == "Miscellaneous Songs" %}
+    <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+    {% endif %}
+    {% endfor %}
+    {% endfor %}
+  </ul>
+
+</div>

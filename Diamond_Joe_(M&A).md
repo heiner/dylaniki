@@ -7,21 +7,19 @@ tags:
  - Miscellaneous Songs
 ---
 
-Trad.  
+Trad.
 Recorded and filmed by Bob Dylan w/band for *Masked and Anonymous*
-(2003)  
+(2003)
 Tabbed by Eyolf Østrem
-
-* * * * *
 
 *Diamond Jo* was the name of a steamboat that ran on the upper
 Mississippi in the period 1864-83, owned by “Diamond Jo” Reynolds. (He
 also built his own railroad from Malvern to Hot Springs (Arkansas, I
 believe), after a painful carriage trip to cure his rheumatism in the
 healing waters of Hot Springs). The refrain line “Diamond Jo come and
-get me” could be a reference to the boat.  
+get me” could be a reference to the boat.
 Early versions of the song recorded by the Georgia Crackers (1927) and
-Charlie Butler (1937), then a prisoner at the Parchman prison.  
+Charlie Butler (1937), then a prisoner at the Parchman prison.
 The song is not related to [Diamond Joe](Diamond Joe "wikilink") on
 [Good As I Been To You](Good As I Been To You "wikilink"), neither
 musically nor thematically.
@@ -88,9 +86,9 @@ musically nor thematically.
 References:
 
 The Story of Joseph Reynolds:
-[<http://asms.k12.ar.us/armem/crites/djbio.htm>](http://asms.k12.ar.us/armem/crites/djbio.htm)  
+[<http://asms.k12.ar.us/armem/crites/djbio.htm>](http://asms.k12.ar.us/armem/crites/djbio.htm)
 Riverboats (register):
-[<http://members.tripod.com/~Write4801/owners/d.html>](http://members.tripod.com/~Write4801/owners/d.html),  
+[<http://members.tripod.com/~Write4801/owners/d.html>](http://members.tripod.com/~Write4801/owners/d.html),
 Mudcat entry:
 [<http://www.mudcat.org/@displaysong.cfm?SongID=1558>](http://www.mudcat.org/@displaysong.cfm?SongID=1558)
 (see also the related threads)
