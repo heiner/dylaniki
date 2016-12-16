@@ -1,6 +1,6 @@
 ---
-title: Bootleg Series vol. 7&#58; No Direction Home
-permalink: wiki/Bootleg_Series_vol._7:_No_Direction_Home/
+title: "Bootleg Series vol. 7: No Direction Home"
+permalink: "Bootleg_Series_vol._7:_No_Direction_Home/"
 redirect_to: No_Direction_Home/
 ---
 
