@@ -1,6 +1,6 @@
 ---
 title: Time Out Of Mind
-permalink: wiki/Time_Out_Of_Mind/
+permalink: Time_Out_Of_Mind/
 redirect_to: Time_out_of_Mind/
 ---
 

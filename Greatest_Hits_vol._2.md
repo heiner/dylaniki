@@ -1,6 +1,6 @@
 ---
 title: Greatest Hits vol. 2
-permalink: wiki/Greatest_Hits_vol._2/
+permalink: Greatest_Hits_vol._2/
 redirect_to: Greatest_Hits_vol_2/
 ---
 

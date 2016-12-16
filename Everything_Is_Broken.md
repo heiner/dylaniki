@@ -1,6 +1,6 @@
 ---
 title: Everything Is Broken
-permalink: wiki/Everything_Is_Broken/
+permalink: Everything_Is_Broken/
 redirect_to: Everything_is_Broken/
 ---
 

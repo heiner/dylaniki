@@ -1,6 +1,6 @@
 ---
 title: No direction home
-permalink: wiki/No_direction_home/
+permalink: No_direction_home/
 redirect_to: No_Direction_Home/
 ---
 

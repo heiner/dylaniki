@@ -1,6 +1,6 @@
 ---
 title: Template talk:Infobox/doc
-permalink: wiki/Template_talk:Infobox/doc/
+permalink: Template_talk:Infobox/doc/
 redirect_to: Template_talk:Infobox/
 ---
 

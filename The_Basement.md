@@ -1,6 +1,6 @@
 ---
 title: The Basement
-permalink: wiki/The_Basement/
+permalink: The_Basement/
 redirect_to: The_Basement_Tapes/
 ---
 

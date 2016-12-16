@@ -1,6 +1,6 @@
 ---
 title: Knocked out Loaded
-permalink: wiki/Knocked_out_Loaded/
+permalink: Knocked_out_Loaded/
 redirect_to: Knocked_Out_Loaded/
 ---
 

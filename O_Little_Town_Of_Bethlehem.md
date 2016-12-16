@@ -1,6 +1,6 @@
 ---
 title: O Little Town Of Bethlehem
-permalink: wiki/O_Little_Town_Of_Bethlehem/
+permalink: O_Little_Town_Of_Bethlehem/
 redirect_to: O_Little_Town_of_Bethlehem/
 ---
 

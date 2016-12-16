@@ -1,6 +1,6 @@
 ---
 title: Hard Rain (1976, live)
-permalink: wiki/Hard_Rain_(1976,_live)/
+permalink: Hard_Rain_(1976,_live)/
 redirect_to: Hard_Rain/
 ---
 

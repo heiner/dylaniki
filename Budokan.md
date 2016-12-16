@@ -1,6 +1,6 @@
 ---
 title: Budokan
-permalink: wiki/Budokan/
+permalink: Budokan/
 redirect_to: At_Budokan/
 ---
 

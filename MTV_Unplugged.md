@@ -1,6 +1,6 @@
 ---
 title: MTV Unplugged
-permalink: wiki/MTV_Unplugged/
+permalink: MTV_Unplugged/
 redirect_to: Unplugged/
 ---
 

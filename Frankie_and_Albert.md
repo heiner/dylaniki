@@ -1,6 +1,6 @@
 ---
 title: Frankie and Albert
-permalink: wiki/Frankie_and_Albert/
+permalink: Frankie_and_Albert/
 redirect_to: Frankie_&_Albert/
 ---
 

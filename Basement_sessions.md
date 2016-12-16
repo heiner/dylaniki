@@ -1,6 +1,6 @@
 ---
 title: Basement sessions
-permalink: wiki/Basement_sessions/
+permalink: Basement_sessions/
 redirect_to: The_Basement_Tapes/
 ---
 

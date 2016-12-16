@@ -1,6 +1,6 @@
 ---
 title: The Times They Are A-changin'
-permalink: wiki/The_Times_They_Are_A-changin'/
+permalink: The_Times_They_Are_A-changin'/
 redirect_to: The_Times_They_Are_A-Changin'/
 ---
 

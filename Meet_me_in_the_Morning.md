@@ -1,6 +1,6 @@
 ---
 title: Meet me in the Morning
-permalink: wiki/Meet_me_in_the_Morning/
+permalink: Meet_me_in_the_Morning/
 redirect_to: Meet_Me_in_the_Morning/
 ---
 

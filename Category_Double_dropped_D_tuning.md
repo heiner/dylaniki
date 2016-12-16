@@ -1,6 +1,6 @@
 ---
 title: Category:Double dropped D tuning
-permalink: wiki/Category:Double_dropped_D_tuning/
+permalink: Category:Double_dropped_D_tuning/
 redirect_to: Category%3ADouble_dropped_D_tuning/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Hark The Herald Angels Sing
-permalink: wiki/Hark_The_Herald_Angels_Sing/
+permalink: Hark_The_Herald_Angels_Sing/
 redirect_to: Hark!_The_Herald_Angels_Sing/
 ---
 

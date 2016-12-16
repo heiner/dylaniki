@@ -1,6 +1,6 @@
 ---
 title: Born In Time
-permalink: wiki/Born_In_Time/
+permalink: Born_In_Time/
 redirect_to: Born_in_Time/
 ---
 

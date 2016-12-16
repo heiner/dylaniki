@@ -1,6 +1,6 @@
 ---
 title: Blood On The Tracks
-permalink: wiki/Blood_On_The_Tracks/
+permalink: Blood_On_The_Tracks/
 redirect_to: Blood_on_the_Tracks/
 ---
 

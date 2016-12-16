@@ -1,6 +1,6 @@
 ---
 title: It's All Good
-permalink: wiki/It's_All_Good/
+permalink: It's_All_Good/
 redirect_to: It’s_All_Good/
 ---
 

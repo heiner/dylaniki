@@ -1,6 +1,6 @@
 ---
 title: Weeping Willow Blues
-permalink: wiki/Weeping_Willow_Blues/
+permalink: Weeping_Willow_Blues/
 redirect_to: Weeping_Willow_Blues_(Blind_Boy_Fuller)/
 ---
 
