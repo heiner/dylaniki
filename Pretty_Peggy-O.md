@@ -7,7 +7,7 @@ tags:
 ---
 
 Arranged by Bob Dylan  
-Played by Bob Dylan on [Bob Dylan](Bob Dylan "wikilink") (1962) and
+Played by Bob Dylan on [Bob Dylan](Bob Dylan) (1962) and
 occasionally during the Never Ending tour (21 performances in 1992, last
 performance 1998)  
 Tabbed by Eyolf Østrem

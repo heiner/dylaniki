@@ -9,7 +9,7 @@ tags:
 Words Bob Dylan, music more than vaguely resembling Bing Crosby ’s
 trademark song “Where the Blue of the Night” by Roy Turk and Fred E.
 Ahlert  
-Released on [Modern Times](Modern Times "wikilink") (2006)  
+Released on [Modern Times](Modern Times) (2006)  
 Tabbed by Eyolf Østrem
 
 * * * * *

@@ -7,8 +7,8 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Infidels](Infidels "wikilink") (1983) and in a live version
-on [Real Live](Real Live "wikilink") (1984)  
+Released on [Infidels](Infidels) (1983) and in a live version
+on [Real Live](Real Live) (1984)  
 Tabbed by Eyolf Østrem
 
 * * * * *

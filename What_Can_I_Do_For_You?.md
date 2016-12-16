@@ -8,7 +8,7 @@ tags:
 ---
 
 Words and Music by Bob Dylan  
-Released on [Saved](Saved (Album) "wikilink") (1980)  
+Released on [Saved](Saved (Album)) (1980)  
 Tabbed by Eyolf Østrem
 
 Capo 3rd fret (original key Eb major).
@@ -72,6 +72,6 @@ you can download from
 * * * * *
 
 I have for some reason transcribed the final harp solo. You can find it
-[here. \<br\>It](here. <br> "wikilink") is not optimized for screen
+[here. \<br\>It](here. <br>) is not optimized for screen
 viewing, not at all, but you can save the image and print it out if/when
 you want to recreate Dylan's most glorious moment as a harpist.

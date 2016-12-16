@@ -8,7 +8,7 @@ tags:
 ---
 
 Written by Big Joe Williams  
-Played by Bob Dylan during the [Freewheelin'](Freewheelin' "wikilink")
+Played by Bob Dylan during the [Freewheelin'](Freewheelin')
 sessions (April 25, 1962)  
 Tabbed by Eyolf Østrem
 

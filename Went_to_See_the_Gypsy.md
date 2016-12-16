@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [New Morning](New Morning "wikilink") (1970)  
+Released on [New Morning](New Morning) (1970)  
 Tabbed by Eyolf Østrem
 
 Piano song. I shamelessly suggest a capo on the 3rd fret (sounding key

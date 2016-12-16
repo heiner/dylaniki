@@ -7,11 +7,11 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Nashville Skyline](Nashville Skyline "wikilink") (1969),
-[Greatest Hits II](Greatest Hits II "wikilink") (1971) and
-[Biograph](Biograph "wikilink") (1985), and in live versions on [Before
-the Flood](Before the Flood "wikilink") (1974) and [Hard
-Rain](Hard Rain "wikilink") (1976)  
+Released on [Nashville Skyline](Nashville Skyline) (1969),
+[Greatest Hits II](Greatest Hits II) (1971) and
+[Biograph](Biograph) (1985), and in live versions on [Before
+the Flood](Before the Flood) (1974) and [Hard
+Rain](Hard Rain) (1976)  
 Tabbed by Eyolf Østrem
 
 <h2 class="songversion">

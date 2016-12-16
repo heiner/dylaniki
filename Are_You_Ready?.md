@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Saved](Saved (Album) "wikilink") (1980)  
+Released on [Saved](Saved (Album)) (1980)  
 Tabbed by Eyolf Østrem
 
 * * * * *

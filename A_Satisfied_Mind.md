@@ -8,7 +8,7 @@ tags:
 ---
 
 Written by J. H. “Red” Hayes/Jack Rhodes  
-Released by Bob Dylan on [Saved](Saved (Album) "wikilink") (1980), and
+Released by Bob Dylan on [Saved](Saved (Album)) (1980), and
 played live once in 1999  
 Tabbed by Eyolf Østrem
 

@@ -7,7 +7,7 @@ tags:
 ---
 
 Written by Hal Moore and Bill Fredricks  
-Released on [Christmas in the Heart](Christmas in the Heart "wikilink")
+Released on [Christmas in the Heart](Christmas in the Heart)
 (2009)  
 Tabbed by Eyolf Østrem
 

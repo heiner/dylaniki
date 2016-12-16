@@ -8,9 +8,9 @@ tags:
 
 Trad. Arr Bob Dylan (that must be that descending bass line – that's the
 arrangement)  
-Recorded Nov 14, 1962 during the [Freewheelin'](Freewheelin' "wikilink")
+Recorded Nov 14, 1962 during the [Freewheelin'](Freewheelin')
 sessions, released on [The Bootleg Series
-1-3](The Bootleg Series 1-3 "wikilink") (1991)  
+1-3](The Bootleg Series 1-3) (1991)  
 Tabbed by Eyolf Østrem
 
 * * * * *

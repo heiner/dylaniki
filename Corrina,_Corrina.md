@@ -8,7 +8,7 @@ tags:
 ---
 
 Trad., arr. Bob Dylan  
-Released on [Freewheelin'](Freewheelin' "wikilink") (1963)  
+Released on [Freewheelin'](Freewheelin') (1963)  
 Tabbed by Eyolf Østrem
 
 The tab is based on the outtake without the band, where Dylan's guitar

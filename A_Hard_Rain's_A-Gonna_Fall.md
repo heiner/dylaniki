@@ -8,10 +8,10 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Freewheelin'](Freewheelin' "wikilink") (1963) and on
-[Greatest Hits II](Greatest Hits II "wikilink") (1971) and in live
-versions on [Live 1975](Live 1975 "wikilink") (2002) and [Live
-1964](Live 1964 "wikilink") (2004)  
+Released on [Freewheelin'](Freewheelin') (1963) and on
+[Greatest Hits II](Greatest Hits II) (1971) and in live
+versions on [Live 1975](Live 1975) (2002) and [Live
+1964](Live 1964) (2004)  
 Tabbed by Eyolf Østrem
 
 * * * * *

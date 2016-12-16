@@ -8,10 +8,10 @@ tags:
 
 Words and music Bob Dylan (although half of the words are borrowed from
 the Maltese Falcon)  
-First recorded during the [Infidels](Infidels "wikilink") sessions as
+First recorded during the [Infidels](Infidels) sessions as
 “Someone's Got a Hold of My Heart” and eventually released on [The
-Bootleg Series 1-3](The Bootleg Series 1-3 "wikilink") (1991)  
-Re-recorded for [Empire Burlesque](Empire Burlesque "wikilink") (1985).
+Bootleg Series 1-3](The Bootleg Series 1-3) (1991)  
+Re-recorded for [Empire Burlesque](Empire Burlesque) (1985).
 Played live i.a. in a stunning version at the Supper Club (1993)  
 Tabbed by Eyolf Østrem
 

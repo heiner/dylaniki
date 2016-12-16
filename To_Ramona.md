@@ -8,9 +8,9 @@ tags:
 
 Words and music Bob Dylan  
 Released on [Another Side Of Bob
-Dylan](Another Side Of Bob Dylan "wikilink") (1964) and
-[Biograph](Biograph "wikilink") (1985), and in a live version on [Live
-1964](Live 1964 "wikilink") (2004)  
+Dylan](Another Side Of Bob Dylan) (1964) and
+[Biograph](Biograph) (1985), and in a live version on [Live
+1964](Live 1964) (2004)  
 Tabbed by Eyolf Østrem
 
 * * * * *

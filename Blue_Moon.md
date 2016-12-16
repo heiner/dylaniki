@@ -7,7 +7,7 @@ tags:
 ---
 
 Lorenz Hart & Richard Rodgers  
-Recorded by Bob Dylan for [Self Portrait](Self Portrait "wikilink")
+Recorded by Bob Dylan for [Self Portrait](Self Portrait)
 (1970)  
 Tabbed by Eyolf Østrem
 

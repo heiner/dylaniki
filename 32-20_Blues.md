@@ -7,8 +7,8 @@ tags:
 ---
 
 Written by Robert Johnson  
-Recorded 1993 for [World Gone Wrong](World Gone Wrong "wikilink"), and
-released on [Tell Tale Signs](Tell Tale Signs "wikilink") (2008)  
+Recorded 1993 for [World Gone Wrong](World Gone Wrong), and
+released on [Tell Tale Signs](Tell Tale Signs) (2008)  
 Tabbed by Eyolf Østrem
 
 * * * * *

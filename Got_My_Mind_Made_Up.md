@@ -7,7 +7,7 @@ tags:
 ---
 
 Written by Bob Dylan and Tom Petty (who've both done better)  
-Released on [Knocked Out Loaded](Knocked Out Loaded "wikilink") (1986)  
+Released on [Knocked Out Loaded](Knocked Out Loaded) (1986)  
 Tabbed by Eyolf Østrem
 
 * * * * *

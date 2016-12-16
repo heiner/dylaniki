@@ -7,14 +7,14 @@ tags:
  - Open D/E tuning
 ---
 
-Sung by Bob Dylan on the [self-titled album](Bob Dylan "wikilink")
+Sung by Bob Dylan on the [self-titled album](Bob Dylan)
 (1961)  
 Tabbed by Eyolf Østrem
 
 * * * * *
 
 The song is basically just a finger-picking/bottleneck exercise over a
-sustained chord in [Open D/E](Help:Roadmaps#Open_tunings "wikilink")
+sustained chord in [Open D/E](Help:Roadmaps#Open_tunings)
 tuning. It's all in the singing... :-)
 
 Open D tuning (D-A-d-f\#-a-d')/Capo 4th fret or (preferably, since the

@@ -10,7 +10,7 @@ tags:
 Trad.  
 Performed by Bob Dylan and Joan Baez (8 times) during the first Rolling
 Thunder Tour (1975), and 3 times in 1989-90. Released on [Live
-1975](Live 1975 "wikilink") (2002)  
+1975](Live 1975) (2002)  
 Tabbed by Eyolf Østrem
 
 The tab is based on the version from Plymouth, Oct 1975

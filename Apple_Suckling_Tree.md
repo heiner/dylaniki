@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [The Basement Tapes](The Basement Tapes "wikilink")
+Released on [The Basement Tapes](The Basement Tapes)
 (1967/1975)  
 Tabbed and transcribed by Eyolf Østrem
 

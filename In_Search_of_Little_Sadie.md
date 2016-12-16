@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Self Portrait](Self Portrait "wikilink") (1970)  
+Released on [Self Portrait](Self Portrait) (1970)  
 Tabbed by Eyolf Østrem
 
 No comment . . . \*)

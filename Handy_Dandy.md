@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Under The Red Sky](Under The Red Sky "wikilink") (1990)  
+Released on [Under The Red Sky](Under The Red Sky) (1990)  
 Tabbed by Eyolf Østrem
 
 Sounding key Bb major. I'd suggest a capo somewhere – 1st or 3rd frets

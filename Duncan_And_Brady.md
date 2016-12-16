@@ -12,7 +12,7 @@ As performed by Bob Dylan in Durham, New Hampshire, Nov 17, 1999 (first
 live performance), with emendations from other performances.  
 The song was recorded in 1992 for *Good As I Been To You*, in a version
 that was eventually released on [Tell Tale
-Signs](Tell Tale Signs "wikilink") (2008). Performed live during late
+Signs](Tell Tale Signs) (2008). Performed live during late
 1999/early 2000. Dylan's source is probably Tom Rush's version, with
 virtually exactly identical lyrics (thanks to Peter J. Curry for the
 info). Other possible influences are Jerry Garcia or David Bromberg,
@@ -20,7 +20,7 @@ with whom he played around that time.
 Tabbed and transcribed by Eyolf Østrem (Thanks to Mike Miller and to
 Antonio for corrections)
 
-The [Tell Tale Signs](Tell Tale Signs "wikilink") version has the chords
+The [Tell Tale Signs](Tell Tale Signs) version has the chords
 A, E, and D.
 
 * * * * *

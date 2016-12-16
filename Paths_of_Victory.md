@@ -8,8 +8,8 @@ tags:
 
 Words and music Bob Dylan  
 Recorded Aug 12, 1963 during the sessions for [The Times They Are
-A-Changin'](The Times They Are A-Changin' "wikilink"), released on [The
-Bootleg Series 1-3](The Bootleg Series 1-3 "wikilink") (1991)  
+A-Changin'](The Times They Are A-Changin'), released on [The
+Bootleg Series 1-3](The Bootleg Series 1-3) (1991)  
 Tabbed by Eyolf Østrem
 
 Dylan at the piano – hence black keys. Put a capo on the first fret and

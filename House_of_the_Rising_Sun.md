@@ -8,7 +8,7 @@ tags:
 
 (Bob Dylan/trad., arr. “borrowed” – along with some records – from Dave
 Van Ronk)  
-Played by Bob Dylan on [Bob Dylan](Bob Dylan "wikilink") (1962)  
+Played by Bob Dylan on [Bob Dylan](Bob Dylan) (1962)  
 Tabbed by Eyolf Østrem
 
 * * * * *

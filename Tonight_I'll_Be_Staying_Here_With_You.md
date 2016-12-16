@@ -7,9 +7,9 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Nashville Skyline](Nashville Skyline "wikilink") (1969) and
-[Greatest Hits II](Greatest Hits II "wikilink") (1971), and in a live
-version on [Live 1975](Live 1975 "wikilink") (2002)  
+Released on [Nashville Skyline](Nashville Skyline) (1969) and
+[Greatest Hits II](Greatest Hits II) (1971), and in a live
+version on [Live 1975](Live 1975) (2002)  
 Tabbed by Eyolf Østrem (thanks to Matthew for correction. Won't happen
 again...)
 

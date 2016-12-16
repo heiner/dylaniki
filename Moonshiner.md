@@ -9,8 +9,8 @@ tags:
 Trad (aka The Bottle song, Moonshine blues or Kentucky Moonshiner), arr.
 Bob Dylan  
 Recorded August 12 1963 ([The Times They Are
-A-changin'](The Times They Are A-changin' "wikilink") sessions), and
-released on [The Bootleg Series 1-3](The Bootleg Series 1-3 "wikilink")
+A-changin'](The Times They Are A-changin') sessions), and
+released on [The Bootleg Series 1-3](The Bootleg Series 1-3)
 (1991)  
 Tabbed by Eyolf Østrem
 

@@ -10,16 +10,16 @@ Recorded May 1993
 Released Oct 26, 1993
 
 <div id="songs">
-1.  [World Gone Wrong](World Gone Wrong "wikilink")
-2.  [Love Henry](Love Henry "wikilink")
-3.  [Ragged &amp; Dirty](Ragged &amp; Dirty "wikilink")
-4.  [Blood in My Eyes](Blood in My Eyes "wikilink")
-5.  [Broke Down Engine](Broke Down Engine "wikilink")
-6.  [Delia](Delia "wikilink")
-7.  [Stack A Lee](Stack A Lee "wikilink")
-8.  [Two Soldiers](Two Soldiers "wikilink")
-9.  [Jack-A-Roe](Jack-A-Roe "wikilink")
-10. [Lone Pilgrim](Lone Pilgrim "wikilink")
+1.  [World Gone Wrong](World Gone Wrong)
+2.  [Love Henry](Love Henry)
+3.  [Ragged &amp; Dirty](Ragged &amp; Dirty)
+4.  [Blood in My Eyes](Blood in My Eyes)
+5.  [Broke Down Engine](Broke Down Engine)
+6.  [Delia](Delia)
+7.  [Stack A Lee](Stack A Lee)
+8.  [Two Soldiers](Two Soldiers)
+9.  [Jack-A-Roe](Jack-A-Roe)
+10. [Lone Pilgrim](Lone Pilgrim)
 
 </div>
 <div id="intro">

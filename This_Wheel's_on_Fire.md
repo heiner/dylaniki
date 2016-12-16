@@ -7,7 +7,7 @@ tags:
 ---
 
 By Bob Dylan and Rick Danko  
-Released on [The Basement Tapes](The Basement Tapes "wikilink")
+Released on [The Basement Tapes](The Basement Tapes)
 (1967/1975)  
 Tabbed by Eyolf Østrem
 

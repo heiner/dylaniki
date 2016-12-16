@@ -10,16 +10,16 @@ Recorded ?
 Released Aug 29, 2006
 
 <div id="songs">
-1.  [Thunder on the Mountain](Thunder on the Mountain "wikilink")
-2.  [Spirit on the Water](Spirit on the Water "wikilink")
-3.  [Rollin’ and Tumblin’](Rollin’ and Tumblin’ "wikilink")
-4.  [When the Deal Goes Down](When the Deal Goes Down "wikilink")
-5.  [Someday Baby](Someday Baby "wikilink")
-6.  [Workingman’s Blues \# 2](Workingman’s Blues #_2 "wikilink")
-7.  [Beyond the Horizon](Beyond the Horizon "wikilink")
-8.  [Nettie Moore](Nettie Moore "wikilink")
-9.  [The Levee’s Gonna Break](The Levee’s Gonna Break "wikilink")
-10. [Ain’t Talkin’](Ain’t Talkin’ "wikilink")
+1.  [Thunder on the Mountain](Thunder on the Mountain)
+2.  [Spirit on the Water](Spirit on the Water)
+3.  [Rollin’ and Tumblin’](Rollin’ and Tumblin’)
+4.  [When the Deal Goes Down](When the Deal Goes Down)
+5.  [Someday Baby](Someday Baby)
+6.  [Workingman’s Blues \# 2](Workingman’s Blues #_2)
+7.  [Beyond the Horizon](Beyond the Horizon)
+8.  [Nettie Moore](Nettie Moore)
+9.  [The Levee’s Gonna Break](The Levee’s Gonna Break)
+10. [Ain’t Talkin’](Ain’t Talkin’)
 
 </div>
 <div id="intro">

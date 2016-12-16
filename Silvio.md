@@ -7,7 +7,7 @@ tags:
 ---
 
 Lyrics: Robert Hunter, Music: Bob Dylan  
-Sung by Bob Dylan on [Down In The Groove](Down In The Groove "wikilink")
+Sung by Bob Dylan on [Down In The Groove](Down In The Groove)
 (1988)  
 Tabbed by Eyolf Østrem
 

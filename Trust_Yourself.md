@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Empire Burlesque](Empire Burlesque "wikilink") (1985)  
+Released on [Empire Burlesque](Empire Burlesque) (1985)  
 Tabbed by Eyolf Østrem
 
 A quite monotonous song... Liven up the sustained A by A/g (3x222x) or

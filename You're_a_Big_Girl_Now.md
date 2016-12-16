@@ -11,7 +11,7 @@ Words and music Bob Dylan
 Recorded in New York Sept 17th 1974 (released on *Biograph*, 1985) and
 in Minneapolis Dec 27 1974 (released on *Blood on the Tracks*, 1975).
 Released in a live version from Fort Collins, May 23, 1976, on [Hard
-Rain](Hard Rain "wikilink") (1976)  
+Rain](Hard Rain) (1976)  
  Tabbed by Eyolf Østrem
 
 <h2 class="songversion">

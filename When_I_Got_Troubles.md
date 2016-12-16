@@ -8,7 +8,7 @@ tags:
 
 Written by Bob Dylan  
 Recorded May 1959, and released on [No direction
-home](No direction home "wikilink") (2005)  
+home](No direction home) (2005)  
 Tabbed by Eyolf Østrem
 
 * * * * *

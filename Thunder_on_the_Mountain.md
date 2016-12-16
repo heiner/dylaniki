@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Modern Times](Modern Times "wikilink") (2006)  
+Released on [Modern Times](Modern Times) (2006)  
 Tabbed by Eyolf Østrem
 
 * * * * *

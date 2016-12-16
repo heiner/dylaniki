@@ -7,10 +7,10 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Blonde on Blonde](Blonde on Blonde "wikilink") (1966),
-[Greatest Hits](Greatest Hits "wikilink") (1967) and
-[Biograph](Biograph "wikilink") (1985), and in live versions on [At
-Budokan](At Budokan "wikilink") (1978) and *Dylan & the Dead* (1988)  
+Released on [Blonde on Blonde](Blonde on Blonde) (1966),
+[Greatest Hits](Greatest Hits) (1967) and
+[Biograph](Biograph) (1985), and in live versions on [At
+Budokan](At Budokan) (1978) and *Dylan & the Dead* (1988)  
 Tabbed by Eyolf Østrem
 
 * * * * *
@@ -141,7 +141,7 @@ Budokan is played – slowly – in E major (Chords: E, G\#m, C\#m, B, A, B,
 C\#m, B etc.)
 
 <h2 class="songversion">
-[Unplugged](Unplugged "wikilink") version (outtake)
+[Unplugged](Unplugged) version (outtake)
 
 </h2>
 If you don't have this one, do yourself the favor of getting it. It's

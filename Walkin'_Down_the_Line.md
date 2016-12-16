@@ -9,7 +9,7 @@ tags:
 
 Words and music Bob Dylan  
 Recorded March 1963 as a Witmark Demo, Released on [The Bootleg Series
-1-3](The Bootleg Series 1-3 "wikilink") (1991)  
+1-3](The Bootleg Series 1-3) (1991)  
 Tabbed by Eyolf Østrem
 
 Open D tuning (D-A-d-f\#-a-d'), capo 5th fret (sounding key G major).

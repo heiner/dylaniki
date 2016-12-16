@@ -10,23 +10,23 @@ Recorded July 1975
 Released Jan 16 1976
 
 <div id="songs">
-1.  [Hurricane](Hurricane "wikilink")
-2.  [Isis](Isis "wikilink")
-3.  [Mozambique](Mozambique "wikilink")
+1.  [Hurricane](Hurricane)
+2.  [Isis](Isis)
+3.  [Mozambique](Mozambique)
 4.  [One More Cup of Coffee (Valley
-    Below)](One More Cup of Coffee (Valley Below) "wikilink")
-5.  [Oh, Sister](Oh, Sister "wikilink")
-6.  [Joey](Joey "wikilink")
-7.  [Romance in Durango](Romance in Durango "wikilink")
-8.  [Black Diamond Bay](Black Diamond Bay "wikilink")
-9.  [Sara](Sara "wikilink")
+    Below)](One More Cup of Coffee (Valley Below))
+5.  [Oh, Sister](Oh, Sister)
+6.  [Joey](Joey)
+7.  [Romance in Durango](Romance in Durango)
+8.  [Black Diamond Bay](Black Diamond Bay)
+9.  [Sara](Sara)
 
 Outtakes:
 
--   [Rita May](Rita May "wikilink")
--   [Abandoned Love](Abandoned Love "wikilink")
--   [Golden Loom](Golden Loom "wikilink")
--   [Catfish](Catfish "wikilink")
+-   [Rita May](Rita May)
+-   [Abandoned Love](Abandoned Love)
+-   [Golden Loom](Golden Loom)
+-   [Catfish](Catfish)
 
 </div>
 <div id="intro">

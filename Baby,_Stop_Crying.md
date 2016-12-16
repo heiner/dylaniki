@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Street Legal](Street Legal "wikilink") (1978)  
+Released on [Street Legal](Street Legal) (1978)  
 Tabbed by Eyolf Østrem
 
 Capo 1st fret (sounding key Bb major)

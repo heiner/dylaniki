@@ -8,8 +8,8 @@ tags:
 
 Words and music by Bob Dylan  
 Released on [Another Side Of Bob
-Dylan](Another Side Of Bob Dylan "wikilink") (1964), and in a live
-version on [No Direction Home](No Direction Home "wikilink") (2005)  
+Dylan](Another Side Of Bob Dylan) (1964), and in a live
+version on [No Direction Home](No Direction Home) (2005)  
 Tabbed by Eyolf Østrem
 
 * * * * *

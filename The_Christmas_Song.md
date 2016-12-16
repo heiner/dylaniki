@@ -7,7 +7,7 @@ tags:
 ---
 
 Written by Mel Torme and Robert Wells  
-Released on [Christmas in the Heart](Christmas in the Heart "wikilink")
+Released on [Christmas in the Heart](Christmas in the Heart)
 (2009)  
 Tabbed by Eyolf Østrem
 

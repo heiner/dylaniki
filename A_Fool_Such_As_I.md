@@ -8,7 +8,7 @@ tags:
 
 Bill Trader  
 Recorded by Bob Dylan Apr 1969, and released by Columbia on
-[Dylan](Dylan "wikilink") (1973)  
+[Dylan](Dylan) (1973)  
 Tabbed by Eyolf Østrem
 
 Chords:

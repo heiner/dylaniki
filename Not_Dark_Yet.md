@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music by Bob Dylan  
-Released on [Time out of Mind](Time out of Mind "wikilink") (1997)  
+Released on [Time out of Mind](Time out of Mind) (1997)  
 Tabbed by Eyolf Østrem
 
 Sounds very C major-ish in the chords, but can of course be played in E

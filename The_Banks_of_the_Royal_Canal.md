@@ -8,7 +8,7 @@ tags:
 
 Brendan Behan  
 Recorded by Bob Dylan and The Band during [The Basement
-Tapes](The Basement Tapes "wikilink") sessions (1967)  
+Tapes](The Basement Tapes) sessions (1967)  
 Tabbed by Eyolf Østrem
 
 Em' = xx5450

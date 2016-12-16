@@ -7,8 +7,8 @@ tags:
 ---
 
 Written by Bob Dylan  
-Recorded 9 Jul, 1962 during the [Freewheelin'](Freewheelin' "wikilink")
-sessions, released on [Biograph](Biograph "wikilink") (1985)  
+Recorded 9 Jul, 1962 during the [Freewheelin'](Freewheelin')
+sessions, released on [Biograph](Biograph) (1985)  
 Tabbed by Eyolf Østrem
 
 B7/f\# = 22120x

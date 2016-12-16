@@ -9,7 +9,7 @@ tags:
 
 Written by Bob Dylan  
 Tabbed by Eyolf Østrem  
-as recorded during the [Freewheelin'](Freewheelin' "wikilink") sessions
+as recorded during the [Freewheelin'](Freewheelin') sessions
 (1962)
 
 Capo 3rd fret

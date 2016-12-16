@@ -8,7 +8,7 @@ tags:
 
 Words and music Bob Dylan  
 Recorded March 1971 and released on [Greatest Hits, vol
-2](Greatest Hits, vol 2 "wikilink") (1971)  
+2](Greatest Hits, vol 2) (1971)  
 Tabbed by Eyolf Østrem
 
 The nice figures A - D/a - A and D/a - A/e - E work well on a piano, but

@@ -8,7 +8,7 @@ tags:
 
 Written by Woody Guthrie  
 Released by Bob Dylan on [No direction
-home](No direction home "wikilink") (2005) in a version from the
+home](No direction home) (2005) in a version from the
 Carnegie Chapter Hall, Nov 4, 1961  
 Tabbed by Eyolf Østrem
 

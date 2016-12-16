@@ -5,7 +5,7 @@ layout: wiki
 ---
 
 Written by Bob Dylan  
-Released on [Highway 61 Revisited](Highway 61 Revisited "wikilink")
+Released on [Highway 61 Revisited](Highway 61 Revisited)
 (1965)  
 Tabbed by Eyolf Østrem
 

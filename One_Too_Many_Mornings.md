@@ -9,18 +9,18 @@ tags:
 
 Words and music Bob Dylan  
 Released on [The Times They Are
-A-changin'](The Times They Are A-changin' "wikilink") (1964) and in live
-versions on [Live 1966](Live 1966 "wikilink") (1998) and [Hard
-Rain](Hard Rain "wikilink") (1976)  
+A-changin'](The Times They Are A-changin') (1964) and in live
+versions on [Live 1966](Live 1966) (1998) and [Hard
+Rain](Hard Rain) (1976)  
 Tabbed by Eyolf Østrem
 
 * * * * *
 
 The song is played in [open A
-tuning](Help:Roadmaps#Open_tunings "wikilink"): E-A-c\#-e-a-c\#' (tune
+tuning](Help:Roadmaps#Open_tunings): E-A-c\#-e-a-c\#' (tune
 down the fourth string a semitone and the three highest strings to the
 same tones as the three lowest; this is the tuning that was used for
-[Wichita Blues](Wichita Blues "wikilink"), with the exception of the
+[Wichita Blues](Wichita Blues), with the exception of the
 highest string), and with a capo on the 3rd fret (sounding key C major).
 
 If you're not comfortable with open tunings, it is of course possible to
@@ -212,7 +212,7 @@ Version from the BBC show, June 1, 1965
     Bm' C  G D
 
 <h2 class="songversion">
-[Live 1966](Live 1966 "wikilink") version
+[Live 1966](Live 1966) version
 
 </h2>
 Capo 2nd fret (sounding key A major). Robbie's guitar is uncapoed.

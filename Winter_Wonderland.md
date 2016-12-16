@@ -8,7 +8,7 @@ tags:
 
 ` Music by Felix Bernard, lyrics by Richard B. Smith`  
 `Released on `[`Christmas` `in` `the`
-`Heart`](Christmas in the Heart "wikilink")` (2009)`  
+`Heart`](Christmas in the Heart)` (2009)`  
 `Tabbed by Eyolf Østrem`
 
 * * * * *

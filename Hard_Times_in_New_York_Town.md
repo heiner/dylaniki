@@ -10,7 +10,7 @@ Written by Bob Dylan, heavily based on “Down on Penny's Farm” by the
 Bently Boys  
 Recorded Dec 22, 1961 (“The Minnesota Hotel Tape”, Bonnie Beecher's
 appartment), and released on [The Bootleg Series
-1-3](The Bootleg Series 1-3 "wikilink") (1991)  
+1-3](The Bootleg Series 1-3) (1991)  
 Tabbed by Eyolf Østrem
 
 Although the guitar playing sounds very casual, it is actually quite

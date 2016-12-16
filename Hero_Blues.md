@@ -8,7 +8,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Recorded during the [Freewheelin'](Freewheelin' "wikilink") sessions
+Recorded during the [Freewheelin'](Freewheelin') sessions
 (Dec 6, 1962)  
 Tabbed by Eyolf Østrem
 

@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan.  
-Released on [Oh Mercy](Oh Mercy "wikilink") (1989).  
+Released on [Oh Mercy](Oh Mercy) (1989).  
 Tabbed by Eyolf Østrem
 
 Piano song, black keys, capo on the 1st fret (sounding key C\# major)

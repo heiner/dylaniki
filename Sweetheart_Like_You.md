@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Infidels](Infidels "wikilink") (1983)  
+Released on [Infidels](Infidels) (1983)  
 tabbed by Eyolf Østrem
 
 The song sounds in E major, and it can perfectly well be played with

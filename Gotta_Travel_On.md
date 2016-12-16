@@ -7,7 +7,7 @@ tags:
 ---
 
 Paul Clayton-L. Ehrlich/D. Lazar-T. Six  
-Released by Bob Dylan on [Self Portrait](Self Portrait "wikilink")
+Released by Bob Dylan on [Self Portrait](Self Portrait)
 (1970) and played live during the Rolling Thunder Revue (1975)  
 Tabbed by Eyolf Østrem
 

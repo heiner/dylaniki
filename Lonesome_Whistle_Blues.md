@@ -9,7 +9,7 @@ tags:
 
 Williams/Davies  
 Recorded by Bob Dylan Apr 24, 1962 during the
-[Freewheelin'](Freewheelin' "wikilink") sessions  
+[Freewheelin'](Freewheelin') sessions  
 Tabbed by Eyolf Østrem
 
 Capo 2nd fret (sounding key D major)

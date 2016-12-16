@@ -8,8 +8,8 @@ tags:
 
 Written by Bob Dylan/Sam Shepard  
 Recorded as "New Danville Girl" Dec 1984 during the [Empire
-Burlesque](Empire Burlesque "wikilink") sessions, and released with
-rewritten lyrics on [Knocked out Loaded](Knocked out Loaded "wikilink")
+Burlesque](Empire Burlesque) sessions, and released with
+rewritten lyrics on [Knocked out Loaded](Knocked out Loaded)
 (1986), as the only real excuse for that album. Since it's one of
 Dylan's greatest epic ballads, it's a good excuse.  
 Tabbed and transcribed by Eyolf Østrem

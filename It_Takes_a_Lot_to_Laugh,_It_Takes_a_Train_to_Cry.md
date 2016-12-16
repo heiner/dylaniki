@@ -7,13 +7,13 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Highway 61 Revisited](Highway 61 Revisited "wikilink")
+Released on [Highway 61 Revisited](Highway 61 Revisited)
 (1965), in different
 
 `   studio versions on `[`The` `Bootleg` `Series`
-`1-3`](The Bootleg Series 1-3 "wikilink")` (1991) and `[`No` `Direction`
-`Home`](No Direction Home "wikilink")` (2005), and in a live version on `[`Live`
-`1975`](Live 1975 "wikilink")` (2002)`  
+`1-3`](The Bootleg Series 1-3)` (1991) and `[`No` `Direction`
+`Home`](No Direction Home)` (2005), and in a live version on `[`Live`
+`1975`](Live 1975)` (2002)`  
 `Tabbed by Eyolf Østrem`
 
 <h2 class="songversion">

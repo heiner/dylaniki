@@ -7,8 +7,8 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Love And Theft](Love And Theft "wikilink") (2001) and in
-alternate versions on [Tell Tale Signs](Tell Tale Signs "wikilink")
+Released on [Love And Theft](Love And Theft) (2001) and in
+alternate versions on [Tell Tale Signs](Tell Tale Signs)
 (2008).  
 Tabbed by Eyolf Østrem
 
@@ -106,7 +106,7 @@ the *f*.
 * * * * *
 
 -   ) In the light of the reference to Othello and Desdemona in [Po'
-    Boy](Po' Boy "wikilink"), the following exchange from *Measure for
+    Boy](Po' Boy), the following exchange from *Measure for
     Measure* is interesting (submitted by Mike Conley):
 
 *Duke Vincentio [to Isabella]*:  

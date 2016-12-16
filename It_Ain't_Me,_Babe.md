@@ -8,12 +8,12 @@ tags:
 
 Words and music Bob Dylan  
 Released on [Another Side Of Bob
-Dylan](Another Side Of Bob Dylan "wikilink") (1964), [Greatest
-Hits](Greatest Hits "wikilink") (1967) and
-[Biograph](Biograph "wikilink") (1985), and in different live versions
-on [Before the Flood](Before the Flood "wikilink") (1974), [Real
-Live](Real Live "wikilink") (1984), [Live 1975](Live 1975 "wikilink")
-(2002) and [Live 1964](Live 1964 "wikilink") (2004)  
+Dylan](Another Side Of Bob Dylan) (1964), [Greatest
+Hits](Greatest Hits) (1967) and
+[Biograph](Biograph) (1985), and in different live versions
+on [Before the Flood](Before the Flood) (1974), [Real
+Live](Real Live) (1984), [Live 1975](Live 1975)
+(2002) and [Live 1964](Live 1964) (2004)  
 Tabbed by Eyolf Østrem
 
 * * * * *
@@ -109,7 +109,7 @@ Version from *Before the Flood* w/The Band (1974)
     It ain't me you're lookin' for, babe.
 
 <h2 class="songversion">
-Version from [Real Live](Real Live "wikilink") (1984)
+Version from [Real Live](Real Live) (1984)
 
 </h2>
 This version is basically the same as the original album version.

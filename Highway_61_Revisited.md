@@ -7,11 +7,11 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Highway 61 Revisited](Highway 61 Revisited "wikilink")
+Released on [Highway 61 Revisited](Highway 61 Revisited)
 (1965), in an alternate take on [No direction
-home](No direction home "wikilink") (2005), and in live versions on
-[Before the Flood](Before the Flood "wikilink") (1974) and [Real
-Live](Real Live "wikilink") (1984)  
+home](No direction home) (2005), and in live versions on
+[Before the Flood](Before the Flood) (1974) and [Real
+Live](Real Live) (1984)  
 Tabbed by Eyolf Østrem
 
 Capo 1st fret (sounding key Bb major)

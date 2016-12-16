@@ -8,9 +8,9 @@ tags:
 
 Words and music Bob Dylan (the melody loosely based on “St James
 Infirmary Blues”)  
-Recorded during the [Infidels](Infidels "wikilink") sessions (1991), but
+Recorded during the [Infidels](Infidels) sessions (1991), but
 not released until [The Bootleg Series
-1-3](The Bootleg Series 1-3 "wikilink") (1991)  
+1-3](The Bootleg Series 1-3) (1991)  
 Tabbed by Eyolf Østrem
 
 Guitar tuned down one half step (sounding key Eb minor) (Otherwise: put

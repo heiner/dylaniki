@@ -7,8 +7,8 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Saved](Saved (Album) "wikilink") (1980) and on
-[Biograph](Biograph "wikilink") (1985)  
+Released on [Saved](Saved (Album)) (1980) and on
+[Biograph](Biograph) (1985)  
 Tabbed by Eyolf Østrem
 
 Opening riff:  

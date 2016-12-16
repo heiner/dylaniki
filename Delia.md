@@ -7,7 +7,7 @@ tags:
 ---
 
 Traditional, arranged by Bob Dylan  
-Released on [World Gone Wrong](World Gone Wrong "wikilink") (1993)  
+Released on [World Gone Wrong](World Gone Wrong) (1993)  
 Tabbed by Eyolf Østrem
 
 Read [John Garst's story about Delia

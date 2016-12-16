@@ -7,7 +7,7 @@ tags:
 ---
 
 Written by Bob Dylan  
-Released on [Self Portrait](Self Portrait "wikilink") (1970), probably
+Released on [Self Portrait](Self Portrait) (1970), probably
 the only Dylan album which has never been underestimated (enough)  
 Tabbed by Eyolf Østrem (there is actually a little finesse here which
 justifies the term)

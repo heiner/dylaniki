@@ -8,7 +8,7 @@ tags:
 ---
 
 Jim Harbert  
-Recorded during The [Infidels](Infidels "wikilink") sessions (Apr-May
+Recorded during The [Infidels](Infidels) sessions (Apr-May
 1983)  
 Tabbed by Eyolf Østrem
 

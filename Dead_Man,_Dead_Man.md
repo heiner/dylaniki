@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Shot of Love](Shot of Love "wikilink") (1981)  
+Released on [Shot of Love](Shot of Love) (1981)  
 Tabbed by Eyolf Østrem
 
 A true two-chord song! One of his many reggae-influenced songs from this

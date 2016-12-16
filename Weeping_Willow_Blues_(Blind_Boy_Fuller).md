@@ -7,7 +7,7 @@ tags:
 ---
 
 Blind Boy Fuller (see [Bob Dylan's
-version](Weeping Willow "wikilink"))  
+version](Weeping Willow))  
 Tabbed by Eyolf Østrem
 
 Capo 3rd fret (sounding key C major)

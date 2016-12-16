@@ -7,9 +7,9 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Recorded spring 1983 during the [Infidels](Infidels "wikilink")
+Recorded spring 1983 during the [Infidels](Infidels)
 sessions, released on [The Bootleg Series
-1-3](The Bootleg Series 1-3 "wikilink") (1991)  
+1-3](The Bootleg Series 1-3) (1991)  
 Tabbed by Eyolf Østrem
 
 The Bs are tinted with B7.  

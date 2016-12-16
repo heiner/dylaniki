@@ -7,7 +7,7 @@ tags:
 ---
 
 Albert Frank Beddoe  
-Released by Bob Dylan on [Self Portrait](Self Portrait "wikilink")
+Released by Bob Dylan on [Self Portrait](Self Portrait)
 (1970)  
 tabbed by Eyolf Østrem
 

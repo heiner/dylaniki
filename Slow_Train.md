@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Slow Train Coming](Slow Train Coming "wikilink") (1979)  
+Released on [Slow Train Coming](Slow Train Coming) (1979)  
 Tabbed by Jeffrey Kokosinsky and Eyolf Østrem
 
     Am   577555  (or 002210)

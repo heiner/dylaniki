@@ -7,7 +7,7 @@ tags:
 ---
 
 Written by Gilbert Bécaud, Pierre Delanoë, M. Curtis  
-Released by Bob Dylan on [Self Portrait](Self Portrait "wikilink")
+Released by Bob Dylan on [Self Portrait](Self Portrait)
 (1970)  
 Tabbed by Eyolf Østrem
 

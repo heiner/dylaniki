@@ -7,8 +7,8 @@ tags:
 ---
 
 Words and music by Bob Dylan  
-Released on [Time out of Mind](Time out of Mind "wikilink") (1997) and
-in an alternate version on [Tell Tale Signs](Tell Tale Signs "wikilink")
+Released on [Time out of Mind](Time out of Mind) (1997) and
+in an alternate version on [Tell Tale Signs](Tell Tale Signs)
 (2008).  
 Tabbed by Eyolf Østrem
 
@@ -83,7 +83,7 @@ Live versions (2000-)
 
 </h2>
 This is the version that is released on [Tell Tale
-Signs](Tell Tale Signs "wikilink"), vol. 3.
+Signs](Tell Tale Signs), vol. 3.
 
 Kenneth Mirandola has noted that in live versions (fall 2001) “both
 Campbell and Larry played with capoes. Larry was capoed at the first

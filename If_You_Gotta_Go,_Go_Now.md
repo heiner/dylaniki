@@ -10,9 +10,9 @@ tags:
 Words and music Bob Dylan  
 Played in an acoustic version occasionally in 1964-5, and recorded with
 a band in Jan 1965 during the sessions for [Bringing It All Back
-Home](Bringing It All Back Home "wikilink"). Released on [The Bootleg
-Series 1-3](The Bootleg Series 1-3 "wikilink") (1991) in the electric
-version, and on [Live 1964](Live 1964 "wikilink") (2004) in a live
+Home](Bringing It All Back Home). Released on [The Bootleg
+Series 1-3](The Bootleg Series 1-3) (1991) in the electric
+version, and on [Live 1964](Live 1964) (2004) in a live
 version from the Philharmonic Hall
 
 Tabbed by Eyolf Østrem

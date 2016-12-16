@@ -8,7 +8,7 @@ tags:
 ---
 
 Recorded during the sessions for [Pat Garrett &amp; Billy The
-Kid](Pat Garrett &amp; Billy The Kid "wikilink") (Feb 1973)
+Kid](Pat Garrett &amp; Billy The Kid) (Feb 1973)
 
 * * * * *
 

@@ -8,8 +8,8 @@ tags:
 
 Words and music Bob Dylan  
 Recorded Jan 14, 1965 and Jan 27, 1966, released on
-[Biograph](Biograph "wikilink") (1985) and [The Bootleg Series
-1-3](The Bootleg Series 1-3 "wikilink") respectively  
+[Biograph](Biograph) (1985) and [The Bootleg Series
+1-3](The Bootleg Series 1-3) respectively  
 Tabbed by Eyolf Østrem
 
 Since these are both played at the piano, the value as a guitar tab is

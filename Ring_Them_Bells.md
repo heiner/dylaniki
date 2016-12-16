@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and Music by Bob Dylan  
-Released on [Oh Mercy](Oh Mercy "wikilink") (1989).  
+Released on [Oh Mercy](Oh Mercy) (1989).  
 Tabbed by Eyolf Østrem
 
 I think this song is originally in C\# major or some other unplayable

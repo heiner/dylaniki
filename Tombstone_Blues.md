@@ -8,11 +8,11 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Highway 61 Revisited](Highway 61 Revisited "wikilink")
-(1965), [Biograph](Biograph "wikilink") (1985) and [No direction
-home](No direction home "wikilink") (2005), and in live versions on
-[Real Live](Real Live "wikilink") (1984) and
-*[Unplugged](Unplugged "wikilink")* (1995)  
+Released on [Highway 61 Revisited](Highway 61 Revisited)
+(1965), [Biograph](Biograph) (1985) and [No direction
+home](No direction home) (2005), and in live versions on
+[Real Live](Real Live) (1984) and
+*[Unplugged](Unplugged)* (1995)  
 Tabbed by Eyolf Østrem. Solo licks tabbed by Jeff Kokosinsky
 
 * * * * *
@@ -184,13 +184,13 @@ Solo licks:
     With the tombstone blues
 
 <h2 class="songversion">
-*[Unplugged](Unplugged "wikilink")* version
+*[Unplugged](Unplugged)* version
 
 </h2>
 (recorded nov 1994)
 
 The G is a bluesy mix of G major and minor (exactly the same used in
-[Viola Lee Blues](Viola Lee Blues "wikilink").
+[Viola Lee Blues](Viola Lee Blues).
 
 The following riff is played by one of the guitars throughout the song,
 where there's a line with G.

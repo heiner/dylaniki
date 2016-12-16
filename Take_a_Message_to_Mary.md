@@ -7,7 +7,7 @@ tags:
 ---
 
 Felice Bryant, Boudleaux Bryant  
-Released by Bob Dylan on [Self Portrait](Self Portrait "wikilink")
+Released by Bob Dylan on [Self Portrait](Self Portrait)
 (1970)  
 Tabbed by Eyolf Østrem
 

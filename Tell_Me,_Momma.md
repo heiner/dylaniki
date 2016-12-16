@@ -9,7 +9,7 @@ tags:
 
 Written by Bob Dylan  
 Performed during the 1965/66 tour, and released on [Live
-1966](Live 1966 "wikilink")  
+1966](Live 1966)  
 Tabbed by Eyolf Østrem (thanks to Andy for lyric suggestions)
 
 * * * * *

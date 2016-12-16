@@ -7,8 +7,8 @@ tags:
 ---
 
 Words and music Bob Dylan.  
-Released on [Oh Mercy](Oh Mercy "wikilink") (1989) and in an outtake
-version on [Tell Tale Signs](Tell Tale Signs "wikilink") (2008).  
+Released on [Oh Mercy](Oh Mercy) (1989) and in an outtake
+version on [Tell Tale Signs](Tell Tale Signs) (2008).  
 Tabbed by Eyolf Østrem
 
 * * * * *
@@ -93,7 +93,7 @@ interesting variation …
 
 Also worth noting is the slowing down of the harmonic rhythm in the last
 verse, which brings the song closer to the album version in a way which
-reminds of [On A Rainy Afternoon](On A Rainy Afternoon "wikilink") from
+reminds of [On A Rainy Afternoon](On A Rainy Afternoon) from
 *Eat The Document*.
 
 `G11` is played `3x3211`.

@@ -8,7 +8,7 @@ tags:
 ---
 
 Blind Boy Fuller (see [Fuller's
-version](Weeping Willow Blues (Blind Boy Fuller) "wikilink"))  
+version](Weeping Willow Blues (Blind Boy Fuller)))  
 Recorded by Bob Dylan during the fourth Supper Club show (Nov 17,
 1993)  
 Tabbed by Eyolf Østrem

@@ -8,7 +8,7 @@ tags:
 
 Words and music Bob Dylan  
 Released on the soundtrack album [Pat Garrett & Billy The
-Kid](Pat Garrett & Billy The Kid "wikilink") (1973)  
+Kid](Pat Garrett & Billy The Kid) (1973)  
 Tabbed and transcribed by Eyolf Østrem
 
 <h2 class="songversion">

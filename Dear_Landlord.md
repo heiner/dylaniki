@@ -7,8 +7,8 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [John Wesley Harding](John Wesley Harding "wikilink") (1967)
-and on [Biograph](Biograph "wikilink") (1985)  
+Released on [John Wesley Harding](John Wesley Harding) (1967)
+and on [Biograph](Biograph) (1985)  
 Tabbed by Eyolf Østrem  
 Read my article about this song, [The propelling harmony of “Dear
 Landlord”](http://dylanchords.info/professors/landlord.htm)

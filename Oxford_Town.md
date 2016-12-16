@@ -8,7 +8,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Freewheelin'](Freewheelin' "wikilink") (1963)  
+Released on [Freewheelin'](Freewheelin') (1963)  
 Tabbed by Eyolf Østrem
 
 Open D tuning (D-A-d-f\#-a-d')  

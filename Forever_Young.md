@@ -7,8 +7,8 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Planet Waves](Planet Waves "wikilink") (1974) and in an
-early demo version on [Biograph](Biograph "wikilink") (1985)  
+Released on [Planet Waves](Planet Waves) (1974) and in an
+early demo version on [Biograph](Biograph) (1985)  
 Tabbed by Eyolf Østrem
 
 <h2 class="songversion">

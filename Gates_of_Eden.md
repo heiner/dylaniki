@@ -8,8 +8,8 @@ tags:
 
 Words and music Bob Dylan  
 Released on [Bringing It All Back
-Home](Bringing It All Back Home "wikilink") (1965), and in a live
-version on [Live 1964](Live 1964 "wikilink") (2004)  
+Home](Bringing It All Back Home) (1965), and in a live
+version on [Live 1964](Live 1964) (2004)  
 Tabbed by Eyolf Østrem
 
 * * * * *

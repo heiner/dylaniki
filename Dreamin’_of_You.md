@@ -7,8 +7,8 @@ tags:
 ---
 
 Written by Bob Dylan  
-Recorded Jan 1997 for [Time Out Of Mind](Time Out Of Mind "wikilink"),
-and released on [Tell Tale Signs](Tell Tale Signs "wikilink") (2008)  
+Recorded Jan 1997 for [Time Out Of Mind](Time Out Of Mind),
+and released on [Tell Tale Signs](Tell Tale Signs) (2008)  
 Tabbed by Eyolf Østrem
 
 * * * * *

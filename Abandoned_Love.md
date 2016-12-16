@@ -9,7 +9,7 @@ tags:
 
 Words and music Bob Dylan  
 Recorded in 1975, during the sessions for *Desire* and released on
-[Biograph](Biograph "wikilink") (1985).  
+[Biograph](Biograph) (1985).  
 Performed live once, in a stunning version on the *Bitter End* (or the
 *Other end*) club in july 1975 [Read and listen to a sample at
 [expectingrain.com](http://www.expectingrain.com/dok/books/encounters.html)  

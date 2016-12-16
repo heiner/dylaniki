@@ -8,7 +8,7 @@ tags:
 
 Written by Charles Wesley, music by Felix Mendelssohn-Bartholdy (rev. by
 W. Cummings)  
-Released on [Christmas in the Heart](Christmas in the Heart "wikilink")
+Released on [Christmas in the Heart](Christmas in the Heart)
 (2009)  
 Tabbed by Eyolf Østrem
 

@@ -7,7 +7,7 @@ tags:
 ---
 
 Written by Bob Dylan  
-Released on [Nashville Skyline](Nashville Skyline "wikilink") (1969)  
+Released on [Nashville Skyline](Nashville Skyline) (1969)  
 Tabbed by Eyolf Østrem
 
 * * * * *

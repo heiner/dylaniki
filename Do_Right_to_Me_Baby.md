@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Slow Train Coming](Slow Train Coming "wikilink") (1979)  
+Released on [Slow Train Coming](Slow Train Coming) (1979)  
 Tabbed by Eyolf Østrem
 
 Capo 7th fret (sounding key B major; in Toronto, Apr 20 1980, Dylan

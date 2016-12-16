@@ -8,7 +8,7 @@ tags:
 
 Words and music Bob Dylan  
 Released on [Another Side of Bob
-Dylan](Another Side of Bob Dylan "wikilink") (1964)  
+Dylan](Another Side of Bob Dylan) (1964)  
 Tabbed by Eyolf Østrem
 
 * * * * *

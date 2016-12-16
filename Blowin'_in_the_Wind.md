@@ -8,12 +8,12 @@ tags:
 
 Words and music Bob Dylan ([not Lorre
 Wyatt](http://www.expectingrain.com/dok/who/w/wyattlorre.html))  
-Released on [Freewheelin'](Freewheelin' "wikilink") (1963), [Greatest
-Hits I](Greatest Hits I "wikilink") (1967) and
-[Biograph](Biograph "wikilink") (1985), and in live versions on [Before
-the Flood](Before the Flood "wikilink") (1975),
-[Budokan](Budokan "wikilink") (1978) [Live 1975](Live 1975 "wikilink")
-(2002), and [No direction home](No direction home "wikilink") (2005)  
+Released on [Freewheelin'](Freewheelin') (1963), [Greatest
+Hits I](Greatest Hits I) (1967) and
+[Biograph](Biograph) (1985), and in live versions on [Before
+the Flood](Before the Flood) (1975),
+[Budokan](Budokan) (1978) [Live 1975](Live 1975)
+(2002), and [No direction home](No direction home) (2005)  
 Tabbed by Eyolf Østrem
 
 <h2 class="songversion">
@@ -88,7 +88,7 @@ Recorded live at New York Town Hall, Dec 4, 1963
     The answer is blowin' in the wind.
 
 <h2 class="songversion">
-Version from [Before the Flood](Before the Flood "wikilink") (1974)
+Version from [Before the Flood](Before the Flood) (1974)
 
 </h2>
     G        C            G
@@ -132,7 +132,7 @@ Live 1975 version
     The answer is blowin' in the wind.
 
 <h2 class="songversion">
-Version from [Budokan](Budokan "wikilink") (1978)
+Version from [Budokan](Budokan) (1978)
 
 </h2>
     D         G/d   D                 G/d

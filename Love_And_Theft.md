@@ -15,26 +15,26 @@ Chris Johnson has found numerous text lines from "L&T" in Junichi Saga's
 <em>Confessions of a Yakuza</em>
 
 1.  [Tweedle Dee And Tweedle
-    Dum](Tweedle Dee And Tweedle Dum "wikilink")
-2.  [Mississippi](Mississippi "wikilink")
-3.  [Summer Days](Summer Days "wikilink")
-4.  [Bye And Bye](Bye And Bye "wikilink")
-5.  [Lonesome Day Blues](Lonesome Day Blues "wikilink")
-6.  [Floater (Too Much To Ask)](Floater (Too Much To Ask) "wikilink")
+    Dum](Tweedle Dee And Tweedle Dum)
+2.  [Mississippi](Mississippi)
+3.  [Summer Days](Summer Days)
+4.  [Bye And Bye](Bye And Bye)
+5.  [Lonesome Day Blues](Lonesome Day Blues)
+6.  [Floater (Too Much To Ask)](Floater (Too Much To Ask))
 7.  [High Water (For Charlie
-    Patton)](High Water (For Charlie Patton) "wikilink")
-8.  [Moonlight](Moonlight "wikilink")
-9.  [Honest With Me](Honest With Me "wikilink")
-10. [Po' Boy](Po' Boy "wikilink")
-11. [Cry Awhile](Cry Awhile "wikilink")
-12. [Sugar Baby](Sugar Baby "wikilink")
+    Patton)](High Water (For Charlie Patton))
+8.  [Moonlight](Moonlight)
+9.  [Honest With Me](Honest With Me)
+10. [Po' Boy](Po' Boy)
+11. [Cry Awhile](Cry Awhile)
+12. [Sugar Baby](Sugar Baby)
 
 Bonus tracks on the Limited edition:
 
 -   [I Was Young When I Left
-    Home](I Was Young When I Left Home "wikilink") (From the "Minnesota
+    Home](I Was Young When I Left Home) (From the "Minnesota
     Hotel Tape", Dec 22, 1961)
 -   [The Times They Are
-    A-Changin'](The Times They Are A-Changin' "wikilink") (Outtake from
+    A-Changin'](The Times They Are A-Changin') (Outtake from
     the <em>Times...</em> sessions, Oct 1963)
 

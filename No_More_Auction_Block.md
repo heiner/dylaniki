@@ -8,11 +8,11 @@ tags:
 
 Trad. (arr. Bob Dylan)  
 Recorded live at the Gaslight cafe, late 1962. Released on [The Bootleg
-Series 1-3](The Bootleg Series 1-3 "wikilink") (1991)  
+Series 1-3](The Bootleg Series 1-3) (1991)  
  Tabbed by Eyolf Østrem
 
 This is reportedly the melody that Dylan used for [Blowin' in the
-Wind](Blowin' in the Wind "wikilink"). This is most evident in the
+Wind](Blowin' in the Wind). This is most evident in the
 beginning of the verses and in the guitar interlude.
 
 Capo 5th fret (sounding key F major)  

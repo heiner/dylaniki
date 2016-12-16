@@ -7,7 +7,7 @@ tags:
 ---
 
 Written by Gene Autry and O. Haldeman  
-Released on [Christmas in the Heart](Christmas in the Heart "wikilink")
+Released on [Christmas in the Heart](Christmas in the Heart)
 (2009)  
 Tabbed by Eyolf Østrem
 

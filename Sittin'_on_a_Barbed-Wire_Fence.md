@@ -8,8 +8,8 @@ tags:
 
 Words and music Bob Dylan  
 Recorded June 15, 1965 during the [Highway 61
-Revisited](Highway 61 Revisited "wikilink") sessions, released on [The
-Bootleg Series 1-3](The Bootleg Series 1-3 "wikilink") (1991)  
+Revisited](Highway 61 Revisited) sessions, released on [The
+Bootleg Series 1-3](The Bootleg Series 1-3) (1991)  
 Tabbed by Eyolf Østrem
 
 Dylan is at the piano, hence the (black) key. A fair guess is that the

@@ -12,7 +12,7 @@ Written by Blind Willie McTell. In this case I suppose the arrangement
 credits could actually go to Dylan, since his version sounds nothing
 like Blind Willie's (unless Dylan is using someone else's
 arrangement).  
-Released on [World Gone Wrong](World Gone Wrong "wikilink") (1993)  
+Released on [World Gone Wrong](World Gone Wrong) (1993)  
 Tabbed by Eyolf Østrem
 
 * * * * *

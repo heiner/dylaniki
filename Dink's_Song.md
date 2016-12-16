@@ -10,7 +10,7 @@ tags:
 (trad., John/Alan Lomax)  
 Recorded in Bonnie Beecher's appartment, with Tony Glover at the
 recording wheels, on what came to be known as the *Minnesota Hotel Tape*
-(Released on [No direction home](No direction home "wikilink") [2005]).
+(Released on [No direction home](No direction home) [2005]).
 Also played once during the second Rolling Thunder Revue (Apr 25, 1976)
 in a duet with Joan Baez.  
 Tabbed by Eyolf Østrem

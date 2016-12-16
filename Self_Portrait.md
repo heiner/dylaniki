@@ -10,34 +10,34 @@ Recorded Apr 1969-Mar 1970
 Released June 8, 1970
 
 <div id="songs">
-` # `[`All` `The` `Tired` `Horses`](All The Tired Horses "wikilink")
+` # `[`All` `The` `Tired` `Horses`](All The Tired Horses)
 
-1.  [Alberta](Alberta "wikilink")
+1.  [Alberta](Alberta)
 2.  [I Forgot More Than You'll Ever
-    Know](I Forgot More Than You'll Ever Know "wikilink")
-3.  [Days of '49](Days of '49 "wikilink")
-4.  [Early Mornin' Rain](Early Mornin' Rain "wikilink")
-5.  [In Search of Little Sadie](In Search of Little Sadie "wikilink")
-6.  [Let It Be Me](Let It Be Me "wikilink")
-7.  [Little Sadie](Little Sadie "wikilink")
+    Know](I Forgot More Than You'll Ever Know)
+3.  [Days of '49](Days of '49)
+4.  [Early Mornin' Rain](Early Mornin' Rain)
+5.  [In Search of Little Sadie](In Search of Little Sadie)
+6.  [Let It Be Me](Let It Be Me)
+7.  [Little Sadie](Little Sadie)
 8.  Woogie Boogie (12-bar blues in Ab)
-9.  [Belle Isle](Belle Isle "wikilink")
-10. [Living the Blues](Living the Blues "wikilink")
-11. [Like a Rolling Stone](Like a Rolling Stone "wikilink")
-12. [Copper Kettle](Copper Kettle "wikilink")
-13. [Gotta Travel On](Gotta Travel On "wikilink")
-14. [Blue Moon](Blue Moon "wikilink")
-15. [The Boxer](The Boxer "wikilink")
+9.  [Belle Isle](Belle Isle)
+10. [Living the Blues](Living the Blues)
+11. [Like a Rolling Stone](Like a Rolling Stone)
+12. [Copper Kettle](Copper Kettle)
+13. [Gotta Travel On](Gotta Travel On)
+14. [Blue Moon](Blue Moon)
+15. [The Boxer](The Boxer)
 16. [Quinn The Eskimo (The Mighty
-    Quinn)](Quinn The Eskimo (The Mighty Quinn) "wikilink")
+    Quinn)](Quinn The Eskimo (The Mighty Quinn))
 17. [Take Me as I Am (Or Let Me
-    Go)](Take Me as I Am (Or Let Me Go) "wikilink")
-18. [Take a Message to Mary](Take a Message to Mary "wikilink")
-19. [It Hurts Me Too](It Hurts Me Too "wikilink")
-20. [Minstrel Boy](Minstrel Boy "wikilink")
-21. [She Belongs to Me](She Belongs to Me "wikilink")
-22. [Wigwam](Wigwam "wikilink")
-23. [Alberta](Alberta "wikilink")
+    Go)](Take Me as I Am (Or Let Me Go))
+18. [Take a Message to Mary](Take a Message to Mary)
+19. [It Hurts Me Too](It Hurts Me Too)
+20. [Minstrel Boy](Minstrel Boy)
+21. [She Belongs to Me](She Belongs to Me)
+22. [Wigwam](Wigwam)
+23. [Alberta](Alberta)
 
 </div>
 <div id="intro">
@@ -53,14 +53,14 @@ Eyolf Østrem
 review of this album, and there is something to that question. There are
 only three possible explanations to the mix of the blatant
 sentimentality of [I Forgot More Than You'll Ever
-Know](I Forgot More Than You'll Ever Know "wikilink") (and a bunch of
+Know](I Forgot More Than You'll Ever Know) (and a bunch of
 others), the ludicrous chord changes of “[In Search of Little
-Sadie](In Search of Little Sadie "wikilink")”, the duet between the old,
+Sadie](In Search of Little Sadie)”, the duet between the old,
 nasal Dylan and the new country-crooner Dylan in [The
-Boxer](The Boxer "wikilink"), which is fun on the first hearing, but
+Boxer](The Boxer), which is fun on the first hearing, but
 gets quite dull already on the second (and I don’t know what happens
 after the second hearing), and – the best of them all – “[All The Tired
-Horses](All The Tired Horses "wikilink")”, which brilliantly captures
+Horses](All The Tired Horses)”, which brilliantly captures
 the mood of this album.
 
 Either it was, as Dylan himself has explained, conceived as a collection

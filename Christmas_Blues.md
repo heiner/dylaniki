@@ -7,7 +7,7 @@ tags:
 ---
 
 Written by Sammy Cahn and David Jack Holt  
-Released on [Christmas in the Heart](Christmas in the Heart "wikilink")
+Released on [Christmas in the Heart](Christmas in the Heart)
 (2009)  
 Tabbed by Eyolf Østrem
 

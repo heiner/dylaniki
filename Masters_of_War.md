@@ -8,10 +8,10 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Freewheelin'](Freewheelin' "wikilink") (1963) and
-[Biograph](Biograph "wikilink") (1985) and in live versions on [Real
-Live](Real Live "wikilink") (1984) and on [No direction
-home](No direction home "wikilink") (2005)  
+Released on [Freewheelin'](Freewheelin') (1963) and
+[Biograph](Biograph) (1985) and in live versions on [Real
+Live](Real Live) (1984) and on [No direction
+home](No direction home) (2005)  
 Tabbed by Eyolf Østrem
 
 * * * * *

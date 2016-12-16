@@ -14,25 +14,25 @@ tags:
 Recorded June-Nov, 1967  
 Released June 26, 1975
 
-1.  [Odds and Ends](Odds and Ends "wikilink")
-2.  [Million Dollar Bash](Million Dollar Bash "wikilink")
-3.  [Goin' to Acapulco](Goin' to Acapulco "wikilink")
-4.  [Lo and Behold!](Lo and Behold! "wikilink")
-5.  [Clothes Line Saga](Clothes Line Saga "wikilink")
-6.  [Apple Suckling Tree](Apple Suckling Tree "wikilink")
-7.  [Please, Mrs. Henry](Please, Mrs. Henry "wikilink")
-8.  [Tears of Rage](Tears of Rage "wikilink")
-9.  [Too Much of Nothing](Too Much of Nothing "wikilink")
+1.  [Odds and Ends](Odds and Ends)
+2.  [Million Dollar Bash](Million Dollar Bash)
+3.  [Goin' to Acapulco](Goin' to Acapulco)
+4.  [Lo and Behold!](Lo and Behold!)
+5.  [Clothes Line Saga](Clothes Line Saga)
+6.  [Apple Suckling Tree](Apple Suckling Tree)
+7.  [Please, Mrs. Henry](Please, Mrs. Henry)
+8.  [Tears of Rage](Tears of Rage)
+9.  [Too Much of Nothing](Too Much of Nothing)
 10. [Yea! Heavy and a bottle of
-    bread](Yea! Heavy and a bottle of bread "wikilink")
+    bread](Yea! Heavy and a bottle of bread)
 11. [Down in the Flood (Crash on the
-    Levee)](Down in the Flood (Crash on the Levee) "wikilink") (updated)
-12. [Tiny Montgomery](Tiny Montgomery "wikilink")
-13. [You Ain't Goin' Nowhere](You Ain't Goin' Nowhere "wikilink")
-14. [Don't Ya Tell Henry](Don't Ya Tell Henry "wikilink")
-15. [Nothing was Delivered](Nothing was Delivered "wikilink")
-16. [Open the Door, Homer](Open the Door, Homer "wikilink")
-17. [This Wheel's on Fire](This Wheel's on Fire "wikilink")
+    Levee)](Down in the Flood (Crash on the Levee)) (updated)
+12. [Tiny Montgomery](Tiny Montgomery)
+13. [You Ain't Goin' Nowhere](You Ain't Goin' Nowhere)
+14. [Don't Ya Tell Henry](Don't Ya Tell Henry)
+15. [Nothing was Delivered](Nothing was Delivered)
+16. [Open the Door, Homer](Open the Door, Homer)
+17. [This Wheel's on Fire](This Wheel's on Fire)
 
 <h2>
 Outtakes (as they appear in the <em>Genuine Basement Tapes</em>):
@@ -41,58 +41,58 @@ Outtakes (as they appear in the <em>Genuine Basement Tapes</em>):
 <strong>Vol 1</strong>
 
 -   [All You Have To Do Is
-    Dream](All You Have To Do Is Dream "wikilink")
+    Dream](All You Have To Do Is Dream)
 -   I Can't Make It Alone
 -   Down On Me
--   [Bonnie Ship the Diamond](Bonnie Ship the Diamond "wikilink")
--   [One Man's Loss](One Man's Loss "wikilink")
+-   [Bonnie Ship the Diamond](Bonnie Ship the Diamond)
+-   [One Man's Loss](One Man's Loss)
 -   Baby, Ain't That Fine
--   [Rock Salt and Nails](Rock Salt and Nails "wikilink")
--   [A Fool Such As I](A Fool Such As I "wikilink")
+-   [Rock Salt and Nails](Rock Salt and Nails)
+-   [A Fool Such As I](A Fool Such As I)
 -   [(Be Careful of) Stones That You
-    Throw]((Be Careful of) Stones That You Throw "wikilink")
+    Throw]((Be Careful of) Stones That You Throw)
 -   Hills of Mexico - see [Trail of the
-    Buffalo](Trail of the Buffalo "wikilink")
+    Buffalo](Trail of the Buffalo)
 -   It's Alright
 -   [One Single River (Song For
-    Canada)](One Single River (Song For Canada) "wikilink")
--   [Try Me](Try Me "wikilink")
+    Canada)](One Single River (Song For Canada))
+-   [Try Me](Try Me)
 -   One For The Road
--   [I Don't Hurt Anymore](I Don't Hurt Anymore "wikilink")
--   [People Get Ready](People Get Ready "wikilink")
+-   [I Don't Hurt Anymore](I Don't Hurt Anymore)
+-   [People Get Ready](People Get Ready)
 -   [Baby, Won't You Be My
-    Baby?](Baby, Won't You Be My Baby? "wikilink")
+    Baby?](Baby, Won't You Be My Baby?)
 -   Don't You Try Me Now
--   [Young But Daily Growin'](Young But Daily Growin' "wikilink")
+-   [Young But Daily Growin'](Young But Daily Growin')
 
 <strong>Vol 2</strong>
 
 -   [Quinn The Eskimo (The Mighty
-    Quinn)](Quinn The Eskimo (The Mighty Quinn) "wikilink")
--   [I'm Not There (1956)](I'm Not There (1956) "wikilink")
+    Quinn)](Quinn The Eskimo (The Mighty Quinn))
+-   [I'm Not There (1956)](I'm Not There (1956))
 
 <strong>Vol 3</strong>
 
--   [I Shall Be Released](I Shall Be Released "wikilink")
--   [Santa Fe](Santa Fe "wikilink")
--   [Silent Weekend](Silent Weekend "wikilink")
--   [Sign on the Cross](Sign on the Cross "wikilink")
+-   [I Shall Be Released](I Shall Be Released)
+-   [Santa Fe](Santa Fe)
+-   [Silent Weekend](Silent Weekend)
+-   [Sign on the Cross](Sign on the Cross)
 
 <strong>Vol 4</strong>
 
--   [I'm A Fool For You](I'm A Fool For You "wikilink")
+-   [I'm A Fool For You](I'm A Fool For You)
 -   [You Gotta Quit Kicking My Dog
-    Around](You Gotta Quit Kicking My Dog Around "wikilink")
+    Around](You Gotta Quit Kicking My Dog Around)
 -   [See You Later Allen
-    Ginsberg](See You Later Allen Ginsberg "wikilink")
--   [I'm Your Teenage Prayer](I'm Your Teenage Prayer "wikilink")
+    Ginsberg](See You Later Allen Ginsberg)
+-   [I'm Your Teenage Prayer](I'm Your Teenage Prayer)
 
 <strong>Vol 5</strong>
 
--   [Four Strong Winds](Four Strong Winds "wikilink")
--   [The French Girl](The French Girl "wikilink")
--   [Still in Town](Still in Town "wikilink")
--   [Waltzing With Sin](Waltzing With Sin "wikilink")
+-   [Four Strong Winds](Four Strong Winds)
+-   [The French Girl](The French Girl)
+-   [Still in Town](Still in Town)
+-   [Waltzing With Sin](Waltzing With Sin)
 -   [The Banks of the Royal
-    Canal](The Banks of the Royal Canal "wikilink")
+    Canal](The Banks of the Royal Canal)
 

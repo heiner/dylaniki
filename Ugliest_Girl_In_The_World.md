@@ -8,7 +8,7 @@ tags:
 
 (Words and Music by Bob Dylan and Robert Hunter)  
 Released by Bob Dylan on [Down In The
-Groove](Down In The Groove "wikilink") (1988)  
+Groove](Down In The Groove) (1988)  
 Tabbed by Eyolf Østrem
 
 * * * * *

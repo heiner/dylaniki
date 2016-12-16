@@ -7,9 +7,9 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Recorded during the glorious [Desire](Desire "wikilink") session Jul 30,
+Recorded during the glorious [Desire](Desire) session Jul 30,
 1975, and released on [The Bootleg Series
-1-3](The Bootleg Series 1-3 "wikilink") (1991)  
+1-3](The Bootleg Series 1-3) (1991)  
  Tabbed by Eyolf Østrem
 
 * * * * *

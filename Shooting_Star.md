@@ -7,8 +7,8 @@ tags:
 ---
 
 Words and music Bob Dylan.  
-Released on [Oh Mercy](Oh Mercy "wikilink") (1989) and in a live version
-on [Unplugged](Unplugged "wikilink") (1995).  
+Released on [Oh Mercy](Oh Mercy) (1989) and in a live version
+on [Unplugged](Unplugged) (1995).  
 Tabbed by Eyolf Østrem
 
 B” (in the bridge) is a chord with a whole lot of tones in it, on
@@ -16,7 +16,7 @@ several guitars, playing quite different chords. A good approximation is
 x22324.
 
 In the outtake version the song is clearly played in C, with a capo on
-the 4th fret (see below). On *[Unplugged](Unplugged "wikilink")* Dylan
+the 4th fret (see below). On *[Unplugged](Unplugged)* Dylan
 plays his licks without a capo, while Jackson uses the capo on the 4th
 fret.
 
@@ -108,7 +108,7 @@ Capoed version (capo 4th fret)
     F                 F/g
     The last radio is playing.
 
-(The *[Unplugged](Unplugged "wikilink")* version has
+(The *[Unplugged](Unplugged)* version has
 
     F                 D9
     The last radio is playing.

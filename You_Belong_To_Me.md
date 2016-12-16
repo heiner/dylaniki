@@ -41,11 +41,11 @@ Some comments on the tab and the song:
 5.  All in all the intro is a great sample of Dylan's inimitable
     `acoustic melody-strumming playing style a la `*`Good` `As` `I`
     `Been` `To` `You`*` (just compare with `[`Frankie` `and`
-    `Albert`](Frankie and Albert "wikilink")`, e.g.).`
+    `Albert`](Frankie and Albert)`, e.g.).`
 
 6.  Just one more thing before I'll let you go on playing: The
     `song – both the tune and the text – reminds quite a lot of `[`Make`
-    `You` `Feel` `My` `Love`](Make You Feel My Love "wikilink")`.`
+    `You` `Feel` `My` `Love`](Make You Feel My Love)`.`
 
 Capo 4th fret (sounding key E major)
 

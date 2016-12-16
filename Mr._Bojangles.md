@@ -8,7 +8,7 @@ tags:
 
 Jerry Jeff Walker  
 Released by Columbia on the official bootleg album
-[Dylan](Dylan "wikilink") (1973)  
+[Dylan](Dylan) (1973)  
 Tabbed by Eyolf Østrem
 
 * * * * *

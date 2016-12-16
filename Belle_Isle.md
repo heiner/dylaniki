@@ -7,7 +7,7 @@ tags:
 ---
 
 Trad./arr by Bob Dylan  
-Released on [Self Portrait](Self Portrait "wikilink") (1970)  
+Released on [Self Portrait](Self Portrait) (1970)  
 Tabbed by Eyolf Østrem
 
     G7sus4  xx3013

@@ -7,7 +7,7 @@ tags:
 ---
 
 (traditional, arranged by Bob Dylan)  
-Released on [World Gone Wrong](World Gone Wrong "wikilink") (1993)  
+Released on [World Gone Wrong](World Gone Wrong) (1993)  
 Tabbed by Eyolf Østrem
 
 Capo 2nd fret (Original key D major)

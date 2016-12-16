@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Shot of Love](Shot of Love "wikilink") (1981)  
+Released on [Shot of Love](Shot of Love) (1981)  
 Tabbed by Eyolf Østrem
 
 There are two problems with this song concerning how to translate it to

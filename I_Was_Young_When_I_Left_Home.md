@@ -10,8 +10,8 @@ tags:
 
 Trad.  
 Recorded on the “Minnesota Hotel Tape” (Dec 22, 1961) and released on
-the limited edition of [Love And Theft](Love And Theft "wikilink")
-(2001) and on [No direction home](No direction home "wikilink") (2005)  
+the limited edition of [Love And Theft](Love And Theft)
+(2001) and on [No direction home](No direction home) (2005)  
 Tabbed by Gabor Bella and Eyolf Østrem
 
 * * * * *

@@ -9,8 +9,8 @@ tags:
 
 Words and music Bob Dylan  
 Recorded Oct 20, 1965 during the [Blonde on
-Blonde](Blonde on Blonde "wikilink") sessions, released on
-[Biograph](Biograph "wikilink") (1985)  
+Blonde](Blonde on Blonde) sessions, released on
+[Biograph](Biograph) (1985)  
  Tabbed by Eyolf Østrem
 
 (For the record: I do think Dylan plays in dropped C tuning

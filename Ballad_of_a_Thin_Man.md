@@ -7,11 +7,11 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Highway 61 Revisited](Highway 61 Revisited "wikilink")
+Released on [Highway 61 Revisited](Highway 61 Revisited)
 (1965) and in live versions on *Before the Flood* 1974), [At
-Budokan](At Budokan "wikilink") (1978), *[Real
-Live](Real Live "wikilink")* (1984), [Live 1966](Live 1966 "wikilink")
-(1998), and [No direction home](No direction home "wikilink") (2005).  
+Budokan](At Budokan) (1978), *[Real
+Live](Real Live)* (1984), [Live 1966](Live 1966)
+(1998), and [No direction home](No direction home) (2005).  
 Tabbed by Eyolf Østrem
 
 * * * * *
@@ -176,7 +176,7 @@ Capo 2nd fret
     Do you, Mister Jones?
 
 <h2 class="songversion">
-Lyric variations from [Live 1966](Live 1966 "wikilink")
+Lyric variations from [Live 1966](Live 1966)
 
 </h2>
 \*) “You walk in so politely”  

@@ -7,9 +7,9 @@ tags:
 ---
 
 (trad./Eric Von Schmidt)  
-Released by Bob Dylan on [Bob Dylan](Bob Dylan "wikilink") (1962) and on
-[Biograph](Biograph "wikilink") (1985), and in a live version on [Live
-1966](Live 1966 "wikilink") (1998)  
+Released by Bob Dylan on [Bob Dylan](Bob Dylan) (1962) and on
+[Biograph](Biograph) (1985), and in a live version on [Live
+1966](Live 1966) (1998)  
 Tabbed by Eyolf Østrem
 
 * * * * *

@@ -8,9 +8,9 @@ tags:
 
 First published in 1913 by the blind Richard Burnett. Also recorded by
 the Stanley Brothers and others.  
-Played by Bob Dylan on [Bob Dylan](Bob Dylan "wikilink") (1962), and
+Played by Bob Dylan on [Bob Dylan](Bob Dylan) (1962), and
 released in a live version (from the TV show “Folk Songs & More Folk
-Songs”, March 1963) on [No direction home](No direction home "wikilink")
+Songs”, March 1963) on [No direction home](No direction home)
 (2005)  
 Tabbed by Eyolf Østrem
 

@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Infidels](Infidels "wikilink") (1983)  
+Released on [Infidels](Infidels) (1983)  
 Tabbed by Eyolf Østrem
 
 Play with the chords below, or put a capo on the 1st fret and use the

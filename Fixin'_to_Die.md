@@ -9,7 +9,7 @@ tags:
 ---
 
 (Booker White)  
-Played by Bob Dylan on [Bob Dylan](Bob Dylan "wikilink") (1962)  
+Played by Bob Dylan on [Bob Dylan](Bob Dylan) (1962)  
 Tabbed by Jeffrey Kokosinski
 
 * * * * *

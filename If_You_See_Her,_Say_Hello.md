@@ -11,7 +11,7 @@ Words and music Bob Dylan
 Recorded in New York, Sept 16th 1974 (released on the *Bootleg Series
 1-3*, 1991)  
 and in Minneapolis Dec 30 1974 (released on [Blood on the
-Tracks](Blood on the Tracks "wikilink"), 1975)  
+Tracks](Blood on the Tracks), 1975)  
 Tabbed by Eyolf Østrem
 
 <h2 class="songversion">

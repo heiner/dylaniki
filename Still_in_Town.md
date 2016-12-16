@@ -8,7 +8,7 @@ tags:
 
 Written by Hank Cochran and Harlan Howard  
 Performed by Bob Dylan during the [Basement
-sessions](Basement sessions "wikilink") (1967)  
+sessions](Basement sessions) (1967)  
 Tabbed by Eyolf Østrem
 
 Capo 4th fret (sounding key E major)

@@ -10,7 +10,7 @@ tags:
 Trad., Resembles Muddy Waters' *Louisiana Blues*, and Dylan's own
 (trad.) *Whichita*  
 Recorded by Bob Dylan during the first
-[Freewheelin'](Freewheelin' "wikilink") session, Apr 24, 1962  
+[Freewheelin'](Freewheelin') session, Apr 24, 1962  
 Tabbed by Eyolf Østrem
 
 * * * * *

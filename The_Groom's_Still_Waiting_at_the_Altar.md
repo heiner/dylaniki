@@ -7,8 +7,8 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Biograph](Biograph "wikilink") (1985) and on the CD edition
-of [Shot of Love](Shot of Love "wikilink") (1981)  
+Released on [Biograph](Biograph) (1985) and on the CD edition
+of [Shot of Love](Shot of Love) (1981)  
 Tabbed by Eyolf Østrem
 
 Tabbed with a capo in the 1st fret.

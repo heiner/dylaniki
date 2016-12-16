@@ -9,7 +9,7 @@ tags:
 Written by Bob Dylan (but heavily based on the trad. *The Parting
 Glass*)  
 Released on [The Times They Are
-A-changin'](The Times They Are A-changin' "wikilink") (1964)  
+A-changin'](The Times They Are A-changin') (1964)  
 Tabbed by Andrew Mullins
 
 * * * * *

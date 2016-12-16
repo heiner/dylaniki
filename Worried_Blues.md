@@ -7,9 +7,9 @@ tags:
 ---
 
 Trad. (arr. Bob Dylan)  
-Recorded Jul 9, 1962 during the [Freewheelin'](Freewheelin' "wikilink")
+Recorded Jul 9, 1962 during the [Freewheelin'](Freewheelin')
 sessions, and released on [The Bootleg Series
-1-3](The Bootleg Series 1-3 "wikilink") (1991)  
+1-3](The Bootleg Series 1-3) (1991)  
 Tabbed by Eyolf Østrem
 
 * * * * *

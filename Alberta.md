@@ -7,7 +7,7 @@ tags:
 ---
 
 Written by Bob Dylan  
-Released on [Self Portrait](Self Portrait "wikilink") (1970)  
+Released on [Self Portrait](Self Portrait) (1970)  
 Tabbed by Eyolf Østrem
 
 The only difference between the two versions is that in Alberta \#1 the

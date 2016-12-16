@@ -10,17 +10,17 @@ Recorded Feb 11-15 1980
 Released June 20 1980
 
 <div id="songs">
-1.  [A Satisfied Mind](A Satisfied Mind "wikilink") (incl. live version,
+1.  [A Satisfied Mind](A Satisfied Mind) (incl. live version,
     1999)
-2.  [Saved](Saved "wikilink")
-3.  [Covenant Woman](Covenant Woman "wikilink")
-4.  [What Can I Do For You?](What Can I Do For You? "wikilink") (With
+2.  [Saved](Saved)
+3.  [Covenant Woman](Covenant Woman)
+4.  [What Can I Do For You?](What Can I Do For You?) (With
     transcription of the harp solo at the end)
-5.  [Solid Rock](Solid Rock "wikilink")
-6.  [Pressing On](Pressing On "wikilink")
-7.  [In the Garden](In the Garden "wikilink")
-8.  [Saving Grace](Saving Grace "wikilink")
-9.  [Are You Ready?](Are You Ready? "wikilink")
+5.  [Solid Rock](Solid Rock)
+6.  [Pressing On](Pressing On)
+7.  [In the Garden](In the Garden)
+8.  [Saving Grace](Saving Grace)
+9.  [Are You Ready?](Are You Ready?)
 
 </div>
 <div id="intro">

@@ -8,11 +8,11 @@ tags:
 
 Words and music Bob Dylan  
 Released on [Bringing It All Back
-Home](Bringing It All Back Home "wikilink") (1965) and [Greatest Hits
-II](Greatest Hits II "wikilink") (1971), and in live versions on [Hard
-Rain](Hard Rain "wikilink") (1976), [Budokan](Budokan "wikilink")
-(1978), [Real Live](Real Live "wikilink") (1984), and [No Direction
-Home](No Direction Home "wikilink") (2005)  
+Home](Bringing It All Back Home) (1965) and [Greatest Hits
+II](Greatest Hits II) (1971), and in live versions on [Hard
+Rain](Hard Rain) (1976), [Budokan](Budokan)
+(1978), [Real Live](Real Live) (1984), and [No Direction
+Home](No Direction Home) (2005)  
 Tabbed by Eyolf Østrem
 
 Capo 3rd fret (sounding key G major)

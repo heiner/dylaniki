@@ -8,7 +8,7 @@ tags:
 
 Trad.  
 Recorded by Bob Dylan June 2, 1970, and released by Columbia on
-[Dylan](Dylan "wikilink") (1973)  
+[Dylan](Dylan) (1973)  
 Tabbed by Eyolf Østrem
 
 Capo 2nd fret (sounding key A major)

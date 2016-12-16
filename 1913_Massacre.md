@@ -8,7 +8,7 @@ tags:
 ---
 
 Written by Woody Guthrie (later adapted by Dylan for his own [Song to
-Woody](Song to Woody "wikilink"))  
+Woody](Song to Woody))  
 Played by Dylan during his concert at the Carnegie Chapter Hall, Nov 4,
 1961  
 Tabbed by Eyolf Østrem
@@ -16,7 +16,7 @@ Tabbed by Eyolf Østrem
 * * * * *
 
 Melodically identical to Song to Woody. The playing resembles [Long Time
-Growing](Long Time Growing "wikilink") with the fast strumming, but with
+Growing](Long Time Growing) with the fast strumming, but with
 the G /e /d /b G figure from Song to Woody in place:
 
       G           /e          /d          /b      /a    G

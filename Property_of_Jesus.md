@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Shot of Love](Shot of Love "wikilink") (1981)  
+Released on [Shot of Love](Shot of Love) (1981)  
 Tabbed by Eyolf Østrem
 
 The song can of course be played with a capo on the 1st fret (chords A,

@@ -7,7 +7,7 @@ tags:
 ---
 
 Words by Noël Regney, music by Gloria Shayne Baker  
-Released on [Christmas in the Heart](Christmas in the Heart "wikilink")
+Released on [Christmas in the Heart](Christmas in the Heart)
 (2009)  
 Tabbed by Eyolf Østrem
 

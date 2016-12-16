@@ -9,7 +9,7 @@ tags:
 Written by Bob Dylan (may not be the song that he brags about in
 interviews and family parties, though – “Hey, I wrote this song --
 'Driftin' too far from shore' “)  
-Released on [Knocked Out Loaded](Knocked Out Loaded "wikilink") (1986)  
+Released on [Knocked Out Loaded](Knocked Out Loaded) (1986)  
 Tabbed by Eyolf Østrem
 
 * * * * *

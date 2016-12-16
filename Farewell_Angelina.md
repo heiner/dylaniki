@@ -9,13 +9,13 @@ tags:
 
 Words and music Bob Dylan  
 Recorded jan 13 1965 and released on [The Bootleg Series
-1-3](The Bootleg Series 1-3 "wikilink") (1991)  
+1-3](The Bootleg Series 1-3) (1991)  
 The melody is based on an old standard, sung by Pete Seeger called
 "Wagoners Lad" on "Americas Favorite Ballads Vol. 1" released on
 Smithsonian Folkways. Tabbed by Eyolf Østrem
 
 The melody is clearly based upon his earlier unfinished [I Rode Out One
-Morning](I Rode Out One Morning "wikilink").
+Morning](I Rode Out One Morning).
 
 Dropped C tuning (C-A-d-g-b-e')  
 Capo 7th fret (sounding key G major)

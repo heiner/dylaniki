@@ -7,9 +7,9 @@ tags:
 ---
 
 (Bob Dylan, based on Woody Guthrie's [1913
-Massacre](1913 Massacre "wikilink")  
-Released on [Bob Dylan](Bob Dylan "wikilink") (1962) and [No direction
-home](No direction home "wikilink") (2005)  
+Massacre](1913 Massacre)  
+Released on [Bob Dylan](Bob Dylan) (1962) and [No direction
+home](No direction home) (2005)  
 Tabbed by Eyolf Østrem
 
 Capo 2nd fret (sounding key A major)

@@ -7,7 +7,7 @@ tags:
 ---
 
 H. Parker Jr  
-Released on [Knocked Out Loaded](Knocked Out Loaded "wikilink") (1986)  
+Released on [Knocked Out Loaded](Knocked Out Loaded) (1986)  
 Tabbed by Eyolf Østrem
 
     D9      xx0555 or x54555

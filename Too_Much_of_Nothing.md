@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [The Basement Tapes](The Basement Tapes "wikilink")
+Released on [The Basement Tapes](The Basement Tapes)
 (recorded during the summer of '67, released in 1975)  
 Tabbed by Eyolf Østrem
 

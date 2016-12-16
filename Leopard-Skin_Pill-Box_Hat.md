@@ -7,9 +7,9 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Blonde on Blonde](Blonde on Blonde "wikilink") (1966), in
-an alternate take on [No direction home](No direction home "wikilink")
-(2005), and in a live version on [Live 1966](Live 1966 "wikilink")
+Released on [Blonde on Blonde](Blonde on Blonde) (1966), in
+an alternate take on [No direction home](No direction home)
+(2005), and in a live version on [Live 1966](Live 1966)
 (1998), essentially identical to the album version.  
 Tabbed by Eyolf Østrem
 
@@ -143,7 +143,7 @@ also a different intro:
     in your brand new leopard-skin pill-box hat
 
 <h2 class="songversion">
-Lyric variants from [Live 1966](Live 1966 "wikilink")
+Lyric variants from [Live 1966](Live 1966)
 
 </h2>
 \*) “You wear it so pretty”

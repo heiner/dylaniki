@@ -9,7 +9,7 @@ tags:
 Words by Bob Dylan. Music based on 'Having Myself a Time' by Leo Robin &
 Ralph Rainger, sung by Billie Holiday (thanks to Trev for notifying
 me)  
-Released on [Love And Theft](Love And Theft "wikilink") (2001)  
+Released on [Love And Theft](Love And Theft) (2001)  
 Tabbed by Eyolf Østrem
 
 * * * * *

@@ -8,7 +8,7 @@ tags:
 ---
 
 (Willie Nelson)  
-Recorded by Bob Dylan during the [Infidels](Infidels "wikilink") session
+Recorded by Bob Dylan during the [Infidels](Infidels) session
 (1983) and released as a single  
 Tabbed by Eyolf Østrem
 

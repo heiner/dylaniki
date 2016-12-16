@@ -8,7 +8,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Recorded during the [Infidels](Infidels "wikilink") sessions (1983)  
+Recorded during the [Infidels](Infidels) sessions (1983)  
 Tabbed by Eyolf Østrem
 
 Who were Julius and Ethel? See

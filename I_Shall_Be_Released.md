@@ -7,12 +7,12 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Recorded during [The Basement](The Basement "wikilink") sessions (1967)
+Recorded during [The Basement](The Basement) sessions (1967)
 and released on [The Bootleg Series
-1-3](The Bootleg Series 1-3 "wikilink") (1991). A different version was
+1-3](The Bootleg Series 1-3) (1991). A different version was
 recorded Oct 1971 with Happy Traum (banjo) and released on [Greatest
-Hits II](Greatest Hits II "wikilink") (1971). A live version was
-released on [Live 1975](Live 1975 "wikilink") (2002)  
+Hits II](Greatest Hits II) (1971). A live version was
+released on [Live 1975](Live 1975) (2002)  
  Tabbed by Eyolf Østrem
 
 Capo 2nd fret (sounding key A major)

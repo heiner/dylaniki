@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Planet Waves](Planet Waves "wikilink") (1974)  
+Released on [Planet Waves](Planet Waves) (1974)  
 Tabbed by Eyolf Østrem
 
 Written during the recording sessions, recorded Dylan *sans*

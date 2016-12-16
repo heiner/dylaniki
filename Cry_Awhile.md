@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Love And Theft](Love And Theft "wikilink") (2001)  
+Released on [Love And Theft](Love And Theft) (2001)  
 Tabbed by Eyolf Østrem
 
 * * * * *

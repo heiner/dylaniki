@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [New Morning](New Morning "wikilink") (1970)  
+Released on [New Morning](New Morning) (1970)  
 Tabbed by Eyolf Østrem
 
 Very little Bob-guitar on this one. He just plays the A's and D's, and

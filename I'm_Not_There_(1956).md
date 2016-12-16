@@ -7,7 +7,7 @@ tags:
 ---
 
 Bob Dylan  
-Recorded during [The Basement Tapes](The Basement Tapes "wikilink")
+Recorded during [The Basement Tapes](The Basement Tapes)
 sessions (1967), and released (unofficially) on the Genuine Basement
 Tapes.  
 Lyrics transcribed by J.W. Mahoney, with some emendations to make it

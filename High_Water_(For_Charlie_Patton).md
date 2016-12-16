@@ -7,8 +7,8 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Love And Theft](Love And Theft "wikilink") (2001) and in a
-live version on [Tell Tale Signs](Tell Tale Signs "wikilink") (2008)  
+Released on [Love And Theft](Love And Theft) (2001) and in a
+live version on [Tell Tale Signs](Tell Tale Signs) (2008)  
 Tabbed by Eyolf Østrem
 
 * * * * *
@@ -92,5 +92,5 @@ and Wabasha is also in Kansas City, Missouri, within walking distance
 from the Kansas border.
 
 \*\*) This is of course a reference to [Cuckoo Is A Pretty
-Bird](Cuckoo Is A Pretty Bird "wikilink"), sung by Bob Dylan at the
+Bird](Cuckoo Is A Pretty Bird), sung by Bob Dylan at the
 second Gaslight show (oct 1962).

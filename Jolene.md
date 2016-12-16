@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Together Through Life](Together Through Life "wikilink")
+Released on [Together Through Life](Together Through Life)
 (2009)  
 Tabbed by Eyolf Østrem
 
@@ -17,7 +17,7 @@ If you absolutely want to play this on a single guitar, and at least <i>
 try</i> to include the lick in the refrain, the easiest thing to do is
 to play it with a capo on the 6th fret, hence the chords below.
 Otherwise, pick any key and play a [Help:Roadmaps\#shuffle regular
-shuffle](Help:Roadmaps#shuffle_regular_shuffle "wikilink") with the
+shuffle](Help:Roadmaps#shuffle_regular_shuffle) with the
 straight three-chord chords.
 
     The lick (play at *):

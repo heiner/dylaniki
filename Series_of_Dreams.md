@@ -7,8 +7,8 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Recorded Apr 1989 for [Oh Mercy](Oh Mercy "wikilink"), and released on
-[The Bootleg Series 1-3](The Bootleg Series 1-3 "wikilink") (1991)  
+Recorded Apr 1989 for [Oh Mercy](Oh Mercy), and released on
+[The Bootleg Series 1-3](The Bootleg Series 1-3) (1991)  
  Tabbed by Eyolf Østrem
 
 * * * * *
@@ -66,7 +66,7 @@ Recorded Apr 1989 for [Oh Mercy](Oh Mercy "wikilink"), and released on
 *Tell Tale Signs* version
 
 </h2>
-Outtake from the [Oh Mercy!](Oh Mercy! "wikilink") sessions (1989).
+Outtake from the [Oh Mercy!](Oh Mercy!) sessions (1989).
 
     I was thinking of a series of dreams
     Where nothing comes up to the top

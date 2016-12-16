@@ -8,14 +8,14 @@ tags:
 
 Words and music Bob Dylan  
 Released on [The Times They Are
-A-changin'](The Times They Are A-changin' "wikilink") (1964), [Greatest
-Hits](Greatest Hits "wikilink") (1967) and
-[Biograph](Biograph "wikilink") (1985), in alternate versions on
-[Bootleg Series 1-3](Bootleg Series 1-3 "wikilink") (1991) and [Love And
-Theft](Love And Theft "wikilink") (limited edition, 2001), and live on
-[At Budokan](At Budokan "wikilink") (1978),
-[Unplugged](Unplugged "wikilink") (1995) and [Live
-1964](Live 1964 "wikilink") (2004)  
+A-changin'](The Times They Are A-changin') (1964), [Greatest
+Hits](Greatest Hits) (1967) and
+[Biograph](Biograph) (1985), in alternate versions on
+[Bootleg Series 1-3](Bootleg Series 1-3) (1991) and [Love And
+Theft](Love And Theft) (limited edition, 2001), and live on
+[At Budokan](At Budokan) (1978),
+[Unplugged](Unplugged) (1995) and [Live
+1964](Live 1964) (2004)  
 Tabbed by Eyolf Østrem
 
 * * * * *
@@ -29,7 +29,7 @@ Chords:
 The *Bootleg Series* version is the same as below, only played at the
 piano, and with pianistic instead of guitaristic chords in the descent
 at the end.  
-The *[Unplugged](Unplugged "wikilink")* version is also the same as
+The *[Unplugged](Unplugged)* version is also the same as
 below, only with a capo on the 2nd fret.
 
 * * * * *

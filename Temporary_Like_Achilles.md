@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Blonde on Blonde](Blonde on Blonde "wikilink") (1966), and
+Released on [Blonde on Blonde](Blonde on Blonde) (1966), and
 never played live.  
 Tabbed by Eyolf Østrem
 

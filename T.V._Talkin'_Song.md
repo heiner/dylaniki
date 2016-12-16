@@ -7,7 +7,7 @@ tags:
 ---
 
 Written by Bob Dylan  
-Released on [Under The Red Sky](Under The Red Sky "wikilink") (1990)  
+Released on [Under The Red Sky](Under The Red Sky) (1990)  
 On this one, Eyolf Østrem commented: Go to bobdylan.com, get the lyrics,
 pick any chord and stay there.
 

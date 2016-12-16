@@ -9,7 +9,7 @@ tags:
 
 Written by Bob Dylan  
 Recorded in the Rundown studios, October 1980 ([Shot of
-Love](Shot of Love "wikilink") sessions)  
+Love](Shot of Love) sessions)  
 Tabbed by Eyolf Østrem
 
 Great song! “You've been seeking them eternal, spiritual things, / but

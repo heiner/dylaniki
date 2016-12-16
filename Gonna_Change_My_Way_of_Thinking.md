@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Slow Train Coming](Slow Train Coming "wikilink") (1979)  
+Released on [Slow Train Coming](Slow Train Coming) (1979)  
 Tabbed by Eyolf Østrem
 
 There isn't really much of a chord structure here, just a 12-bar blues

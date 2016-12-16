@@ -9,7 +9,7 @@ tags:
 Words and music Bob Dylan  
 Performed during the Rolling Thunder Revue II (1976)  
 Released in a live version from Tampa, Florida, Apr 21, 1976 on [The
-Bootleg Series 1-3](The Bootleg Series 1-3 "wikilink") (1991)  
+Bootleg Series 1-3](The Bootleg Series 1-3) (1991)  
 Tabbed by Eyolf Østrem
 
 It's hard to tell from the live version what he's actually singing in

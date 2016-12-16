@@ -9,7 +9,7 @@ tags:
 
 Traditional  
 As performed by Bob Dylan during [The Basement
-Tapes](The Basement Tapes "wikilink") sessions, and in the Carnegie
+Tapes](The Basement Tapes) sessions, and in the Carnegie
 Chapter Hall, Nov 4, 1961  
 Tabbed by Eyolf Østrem
 

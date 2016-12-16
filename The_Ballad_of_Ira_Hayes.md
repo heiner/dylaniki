@@ -8,7 +8,7 @@ tags:
 
 Peter LaFarge  
 Recorded by Bob Dylan June 1, 1970 and released by Columbia on
-[Dylan](Dylan "wikilink") (1973)  
+[Dylan](Dylan) (1973)  
 Tabbed by Eyolf Østrem  
  [read the story of Ira Hayes at
 [<http://www.bobdylanroots.com/ira.html>](http://www.bobdylanroots.com/ira.html)]

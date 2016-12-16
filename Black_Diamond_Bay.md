@@ -7,7 +7,7 @@ tags:
 ---
 
 Words and Music Bob Dylan and Jacques Levy  
-Released on [Desire](Desire "wikilink") (1976)  
+Released on [Desire](Desire) (1976)  
 Tabbed by Eyolf Østrem
 
 “C/b” (or just /b when following a C) is shorthand for x20010 in the

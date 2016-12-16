@@ -7,7 +7,7 @@ tags:
 ---
 
 Written by Bob Dylan  
-Released on [The Bootleg Series 1-3](The Bootleg Series 1-3 "wikilink")
+Released on [The Bootleg Series 1-3](The Bootleg Series 1-3)
 (1991) in a version from Carnegie Hall, NYC, Oct 26, 1963  
 Tabbed by Eyolf Østrem
 

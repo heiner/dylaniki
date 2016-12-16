@@ -7,9 +7,9 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [The Basement Tapes](The Basement Tapes "wikilink")
+Released on [The Basement Tapes](The Basement Tapes)
 (1967/1975) and in a different version on [Greatest Hits, vol
-2](Greatest Hits, vol 2 "wikilink") (1971)  
+2](Greatest Hits, vol 2) (1971)  
 Tabbed by Eyolf Østrem
 
 <h2 class="songversion">

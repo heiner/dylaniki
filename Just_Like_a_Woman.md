@@ -8,12 +8,12 @@ tags:
 ---
 
 (Words and Music by Bob Dylan)  
-Released on [Blonde on Blonde](Blonde on Blonde "wikilink") (1966),
-[Greatest Hits](Greatest Hits "wikilink") (1967) and
-[Biograph](Biograph "wikilink") (1985), and in live versions on [Before
-the Flood](Before the Flood "wikilink") (1974),
-[Budokan](Budokan "wikilink") (1978), [Live 1966](Live 1966 "wikilink")
-(1998) and [Live 1975](Live 1975 "wikilink") (2002)  
+Released on [Blonde on Blonde](Blonde on Blonde) (1966),
+[Greatest Hits](Greatest Hits) (1967) and
+[Biograph](Biograph) (1985), and in live versions on [Before
+the Flood](Before the Flood) (1974),
+[Budokan](Budokan) (1978), [Live 1966](Live 1966)
+(1998) and [Live 1975](Live 1975) (2002)  
 Tabbed by Eyolf Østrem  
  Read my essay about this song: [Just Like a Woman
 Revisited](http://dylanchords.info/professors/JustLikeaWoman.htm).

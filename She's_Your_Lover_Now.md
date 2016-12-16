@@ -8,15 +8,15 @@ tags:
 
 Words and music Bob Dylan  
 Recorded Jan 21, 1966 during the [Blonde on
-Blonde](Blonde on Blonde "wikilink") sessions, and released on [The
-Bootleg Series 1-3](The Bootleg Series 1-3 "wikilink") (1991)  
+Blonde](Blonde on Blonde) sessions, and released on [The
+Bootleg Series 1-3](The Bootleg Series 1-3) (1991)  
  Tabbed by Eyolf Østrem
 
 The “Piano song” *par exellence*, it takes some skill and some will (and
 it's revealing!) to make it sound good on a guitar. The original is one
 half tone higher, in C\# major, so use a capo on the 1st fret.  
 Note the similarity with [Like A Rolling
-Stone](Like A Rolling Stone "wikilink").
+Stone](Like A Rolling Stone).
 
 * * * * *
 

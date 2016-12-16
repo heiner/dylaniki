@@ -9,8 +9,8 @@ tags:
 Words by Bob Dylan, music traditional, from a northern song called
 “Young man who wouldn't hoe corn” (thanks to Andrea Baroni for notifying
 me)  
-Recorded Nov 22, 1961 ([Bob Dylan](Bob Dylan "wikilink") sessions) and
-released on [The Bootleg Series 1-3](The Bootleg Series 1-3 "wikilink")
+Recorded Nov 22, 1961 ([Bob Dylan](Bob Dylan) sessions) and
+released on [The Bootleg Series 1-3](The Bootleg Series 1-3)
 (1991)  
 Tabbed by Eyolf Østrem
 

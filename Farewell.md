@@ -10,7 +10,7 @@ tags:
 Words and music Bob Dylan  
 Recorded as a Witmark demo in march 1963 and during the sessions for
 [The Times They Are
-A-Changin'](The Times They Are A-Changin' "wikilink") (Aug 6 1963)  
+A-Changin'](The Times They Are A-Changin') (Aug 6 1963)  
 Tabbed by Jeffrey Kokoskinsky and Eyolf Østrem
 
 <h2 class="songversion">

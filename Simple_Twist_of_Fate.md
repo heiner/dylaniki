@@ -8,9 +8,9 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Blood on the Tracks](Blood on the Tracks "wikilink") (1975)
-and live on [At Budokan](At Budokan "wikilink") (1978) and [Live
-1975](Live 1975 "wikilink") (2002)  
+Released on [Blood on the Tracks](Blood on the Tracks) (1975)
+and live on [At Budokan](At Budokan) (1978) and [Live
+1975](Live 1975) (2002)  
 Tabbed by Eyolf Østrem
 
 The lyrics were re-written already in time for the Rolling Thunder Revue
@@ -24,7 +24,7 @@ keep changing from day to day.
 Album version
 
 </h2>
-[Open D/E tuning](Help:Roadmaps#Open_tunings "wikilink") (D-A-d-f\#-a-d'
+[Open D/E tuning](Help:Roadmaps#Open_tunings) (D-A-d-f\#-a-d'
 or E-B-e-g\#-b-e')
 
 Chords (named according to open E tuning):

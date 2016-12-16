@@ -8,7 +8,7 @@ tags:
 
 Trad.  
 Recorded June 2, 1970 by Bob Dylan, and released by Columbia on
-[Dylan](Dylan "wikilink") (1973)  
+[Dylan](Dylan) (1973)  
 Tabbed by Eyolf Østrem
 
 * * * * *

@@ -7,7 +7,7 @@ tags:
 ---
 
 Performed by Bob Dylan and the Band during the [Basement
-sessions](Basement sessions "wikilink") (1967)  
+sessions](Basement sessions) (1967)  
 Tabbed by Eyolf Østrem
 
 Capo 2th fret (sounding key D major)

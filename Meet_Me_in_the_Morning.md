@@ -8,11 +8,11 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Blood on the Tracks](Blood on the Tracks "wikilink")
+Released on [Blood on the Tracks](Blood on the Tracks)
 (1975)  
 Tabbed by Eyolf Østrem
 
-[Open D/E tuning](Help:Roadmaps#Open_tunings "wikilink")
+[Open D/E tuning](Help:Roadmaps#Open_tunings)
 
 Chords:
 

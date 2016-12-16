@@ -8,8 +8,8 @@ tags:
 
 Words and music Bob Dylan  
 Released on [Another Side of Bob
-Dylan](Another Side of Bob Dylan "wikilink") (1964), and in a live
-version on [Live 1964](Live 1964 "wikilink") (2004)  
+Dylan](Another Side of Bob Dylan) (1964), and in a live
+version on [Live 1964](Live 1964) (2004)  
 Tabbed by Eyolf Østrem
 
 * * * * *

@@ -9,7 +9,7 @@ tags:
 Author uncertain, but
 [probably](http://www.hymnsandcarolsofchristmas.com/Hymns_and_Carols/Images/Stephan/adeste_fideles_a_study_on_its_or.htm)
 John Francis Wade (both words and music), some time before 1744  
-Released on [Christmas in the Heart](Christmas in the Heart "wikilink")
+Released on [Christmas in the Heart](Christmas in the Heart)
 (2009)  
 Tabbed by Eyolf Østrem
 

@@ -9,9 +9,9 @@ tags:
 
 Words and music Bob Dylan  
 Released on [Bringing It All Back
-Home](Bringing It All Back Home "wikilink") (1965) and on
-[Budokan](Budokan "wikilink") (1978), and in a live version on [Live
-1975](Live 1975 "wikilink") (2002)  
+Home](Bringing It All Back Home) (1965) and on
+[Budokan](Budokan) (1978), and in a live version on [Live
+1975](Live 1975) (2002)  
 Tabbed by Eyolf Østrem
 
 <h2 class="songversion">
@@ -172,7 +172,7 @@ Played quite squarely, with a constant emphasis on the up-beats
     Valentines can't buy her
 
 <h2 class="songversion">
-[Unplugged](Unplugged "wikilink") version
+[Unplugged](Unplugged) version
 
 </h2>
 Standard tuning

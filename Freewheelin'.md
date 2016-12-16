@@ -10,47 +10,47 @@ Recorded: April 24, 1962–April 24, 1963
 Released: May 27, 1963
 
 <div id="songs">
-1.  [Blowin' in the Wind](Blowin' in the Wind "wikilink")
-2.  [Girl of the North Country](Girl of the North Country "wikilink")
-3.  [Masters of War](Masters of War "wikilink")
-4.  [Down the Highway](Down the Highway "wikilink")
-5.  [Bob Dylan's Blues](Bob Dylan's Blues "wikilink")
-6.  [A Hard Rain's A-Gonna Fall](A Hard Rain's A-Gonna Fall "wikilink")
+1.  [Blowin' in the Wind](Blowin' in the Wind)
+2.  [Girl of the North Country](Girl of the North Country)
+3.  [Masters of War](Masters of War)
+4.  [Down the Highway](Down the Highway)
+5.  [Bob Dylan's Blues](Bob Dylan's Blues)
+6.  [A Hard Rain's A-Gonna Fall](A Hard Rain's A-Gonna Fall)
 7.  [Don't Think Twice, It's All
-    Right](Don't Think Twice, It's All Right "wikilink")
-8.  [Bob Dylan's Dream](Bob Dylan's Dream "wikilink")
-9.  [Oxford Town](Oxford Town "wikilink")
+    Right](Don't Think Twice, It's All Right)
+8.  [Bob Dylan's Dream](Bob Dylan's Dream)
+9.  [Oxford Town](Oxford Town)
 10. [Talkin' World War III
-    Blues](Talkin' World War III Blues "wikilink")
-11. [Corrina, Corrina](Corrina, Corrina "wikilink")
+    Blues](Talkin' World War III Blues)
+11. [Corrina, Corrina](Corrina, Corrina)
 12. [Honey, Just Allow Me One More
-    Chance](Honey, Just Allow Me One More Chance "wikilink")
-13. [I Shall Be Free](I Shall Be Free "wikilink")
+    Chance](Honey, Just Allow Me One More Chance)
+13. [I Shall Be Free](I Shall Be Free)
 
 Outtakes:
 
--   [Going Down To New Orleans](Going Down To New Orleans "wikilink")
--   [The Death of Emmett Till](The Death of Emmett Till "wikilink")
--   [Lonesome Whistle Blues](Lonesome Whistle Blues "wikilink")
--   [Rambling Gambling Willie](Rambling Gambling Willie "wikilink")
--   [Worried Blues](Worried Blues "wikilink")
--   [Hero Blues](Hero Blues "wikilink")
--   [Rocks and Gravel](Rocks and Gravel "wikilink")
+-   [Going Down To New Orleans](Going Down To New Orleans)
+-   [The Death of Emmett Till](The Death of Emmett Till)
+-   [Lonesome Whistle Blues](Lonesome Whistle Blues)
+-   [Rambling Gambling Willie](Rambling Gambling Willie)
+-   [Worried Blues](Worried Blues)
+-   [Hero Blues](Hero Blues)
+-   [Rocks and Gravel](Rocks and Gravel)
 -   [Talking Bear Mountain Picnic Massacre
-    Blues](Talking Bear Mountain Picnic Massacre Blues "wikilink")
--   [Let Me Die in My Footsteps](Let Me Die in My Footsteps "wikilink")
+    Blues](Talking Bear Mountain Picnic Massacre Blues)
+-   [Let Me Die in My Footsteps](Let Me Die in My Footsteps)
 -   [Talkin' Hava Negeilah
-    Blues](Talkin' Hava Negeilah Blues "wikilink")
--   [Walls of Red Wing](Walls of Red Wing "wikilink")
--   [Quit Your Low Down Ways](Quit Your Low Down Ways "wikilink")
+    Blues](Talkin' Hava Negeilah Blues)
+-   [Walls of Red Wing](Walls of Red Wing)
+-   [Quit Your Low Down Ways](Quit Your Low Down Ways)
 -   [Baby, I'm in the Mood for
-    You](Baby, I'm in the Mood for You "wikilink")
--   [Kingsport Town](Kingsport Town "wikilink")
--   [Whatcha Gonna Do?](Whatcha Gonna Do? "wikilink")
--   [Milk Cow's Calf Blues](Milk Cow's Calf Blues "wikilink")
--   [Sally Girl](Sally Girl "wikilink")<strong> </strong>
--   [Baby, Please Don't Go](Baby, Please Don't Go "wikilink")
--   [Wichita Blues](Wichita Blues "wikilink")
+    You](Baby, I'm in the Mood for You)
+-   [Kingsport Town](Kingsport Town)
+-   [Whatcha Gonna Do?](Whatcha Gonna Do?)
+-   [Milk Cow's Calf Blues](Milk Cow's Calf Blues)
+-   [Sally Girl](Sally Girl)<strong> </strong>
+-   [Baby, Please Don't Go](Baby, Please Don't Go)
+-   [Wichita Blues](Wichita Blues)
 
 </div>
 <div id="intro">
@@ -79,31 +79,31 @@ What this album first of all shows (and which was confirmed by <em>Good
 As I Been To You</em>) is what an accomplished guitar player Dylan was –
 and still is, when he wants to. There is some really nice guitar work on
 some of these tracks: the finger-picking on [Don't Think Twice, It's All
-Right](Don't Think Twice, It's All Right "wikilink") and [Talkin' World
-War III Blues](Talkin' World War III Blues "wikilink"), the
+Right](Don't Think Twice, It's All Right) and [Talkin' World
+War III Blues](Talkin' World War III Blues), the
 free-rhythmical blues a la Big Joe Williams of [Down the
-Highway](Down the Highway "wikilink"), the lyricism of [Corrina,
-Corrina](Corrina, Corrina "wikilink"), and the persistent, rhythmical
-hammering-on of [Masters of War](Masters of War "wikilink"). None of it
+Highway](Down the Highway), the lyricism of [Corrina,
+Corrina](Corrina, Corrina), and the persistent, rhythmical
+hammering-on of [Masters of War](Masters of War). None of it
 is really (really) difficult – he gets as much effect as possible from
 techniques that are actually quite simple (once you master them). This
 is not to say that he’s a cheater (those who have access to “[Hero
-Blues](Hero Blues "wikilink")”, an outtake from the
+Blues](Hero Blues)”, an outtake from the
 <em>Freewheelin’</em> sessions, can hear for themselves that Dylan anno
 1963 had a quite good control of his instrument).
 
 A contributing element is the use of [altered or open
-tunings.](Help:Roadmaps#Open.2Falternate_tunings "wikilink") Three of
+tunings.](Help:Roadmaps#Open.2Falternate_tunings) Three of
 the songs on <em>Freewheelin’ </em>are in open D ([I Shall Be
-Free](I Shall Be Free "wikilink"), [Corrina,
-Corrina](Corrina, Corrina "wikilink"), and [Oxford
-Town](Oxford Town "wikilink")) and three in Dropped D tuning ([Masters
-of War](Masters of War "wikilink"), [Down the
-Highway](Down the Highway "wikilink"), and [A Hard Rain's A-Gonna
-Fall](A Hard Rain's A-Gonna Fall "wikilink")). Several of the outtakes
+Free](I Shall Be Free), [Corrina,
+Corrina](Corrina, Corrina), and [Oxford
+Town](Oxford Town)) and three in Dropped D tuning ([Masters
+of War](Masters of War), [Down the
+Highway](Down the Highway), and [A Hard Rain's A-Gonna
+Fall](A Hard Rain's A-Gonna Fall)). Several of the outtakes
 also use such tunings. It is noteworthy that the playing style in these
 songs differs considerably from the style of the [\<em\>Blood on the
-Tracks\</em\>](<em>Blood on the Tracks</em> "wikilink") songs, which
+Tracks\</em\>](<em>Blood on the Tracks</em>) songs, which
 were also originally played in open D tuning. It is said that it was
 Joni Mitchell who inspired and/or taught him to use open D tuning, and
 although he apparently knew it even ten years earlier, he didn’t use the
@@ -113,10 +113,10 @@ A striking unifying feature of the playing style of
 <em>Freewheelin’</em> is the many second-inversion chords, <em>i.e.</em>
 chords with the fifth in the bass, such as D/a
 (x<strong>0</strong>0232), which is so prominent in [Blowin' in the
-Wind](Blowin' in the Wind "wikilink"). Another (I think related) feature
+Wind](Blowin' in the Wind). Another (I think related) feature
 is the many ways he uses to avoid the dominant, such as the turn C –
-Gadd4/b – G in [Blowin' in the Wind](Blowin' in the Wind "wikilink") and
-[Bob Dylan's Dream](Bob Dylan's Dream "wikilink"), about
+Gadd4/b – G in [Blowin' in the Wind](Blowin' in the Wind) and
+[Bob Dylan's Dream](Bob Dylan's Dream), about
 
 which I intend to write a little piece some day.
 

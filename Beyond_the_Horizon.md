@@ -8,7 +8,7 @@ tags:
 
 Words: Bob Dylan, music: taken from Jim Kennedy’s “Red Sails in the
 Sunset”, covered by Nat King Cole, Fats Domino, and others  
-Released on [Modern Times](Modern Times "wikilink") (2006)  
+Released on [Modern Times](Modern Times) (2006)  
 Tabbed by Eyolf Østrem
 
 * * * * *

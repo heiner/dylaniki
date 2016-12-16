@@ -7,10 +7,10 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Blonde on Blonde](Blonde on Blonde "wikilink") (1966) and
-[Greatest Hits](Greatest Hits "wikilink") (1967) and in live versions on
-[Before the Flood](Before the Flood "wikilink") (1974) and
-[Unplugged](Unplugged "wikilink") (1994))  
+Released on [Blonde on Blonde](Blonde on Blonde) (1966) and
+[Greatest Hits](Greatest Hits) (1967) and in live versions on
+[Before the Flood](Before the Flood) (1974) and
+[Unplugged](Unplugged) (1994))  
 Tabbed by Eyolf Østrem
 
 * * * * *
@@ -73,7 +73,7 @@ played.
     Everybody must get stoned.
 
 <h2 class="songversion">
-[Unplugged](Unplugged "wikilink") version
+[Unplugged](Unplugged) version
 
 </h2>
 Played in E without a capo. The descending riffs are played with the

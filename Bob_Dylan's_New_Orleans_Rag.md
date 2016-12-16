@@ -9,7 +9,7 @@ tags:
 
 Written by Bob Dylan  
 Recorded during the [The Times They Are
-A-changin'](The Times They Are A-changin' "wikilink") sessions, and
+A-changin'](The Times They Are A-changin') sessions, and
 performed at the Town Hall (NY) Apr 12, 1963.  
 The tab is based on the latter version.  
 Tabbed by Eyolf Østrem

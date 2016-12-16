@@ -7,7 +7,7 @@ tags:
 ---
 
 By B.F. White and Adgar M. Pace  
-Released on [World Gone Wrong](World Gone Wrong "wikilink") (1993)  
+Released on [World Gone Wrong](World Gone Wrong) (1993)  
 Tabbed by Eyolf Østrem
 
 Capo 2nd fret (original key D major)
