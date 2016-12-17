@@ -46,7 +46,6 @@ layout: page
 -   [Good As I Been To You](Good As I Been To You) (1992)
 -   [World Gone Wrong](World Gone Wrong (Album)) (1993)
 -   [Unplugged](Unplugged) (1994)
-
 -   [Time out of Mind](Time out of Mind) (1997)
 -   [Live 1966 (The "Royal Albert Hall" concert)](Live 1966)
     (1998)
@@ -63,4 +62,4 @@ layout: page
 
 * * * * *
 
-[List of albums at bobdylan.com](http://www.bobdylan.com/albums/)
+[Miscellaneous songs](Miscellaneous) &middot; [List of albums at bobdylan.com](http://www.bobdylan.com/albums/)
