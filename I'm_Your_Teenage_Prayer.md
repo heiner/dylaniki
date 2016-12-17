@@ -72,9 +72,9 @@ I haven't written out the laughter, because it's all over the place.
     I won't give you any disgrace - Oh no
 
     Take a look at me, Baby (just take a look over here at me baby)
-    I'm your teenage prayer (take a look at me, baby, I'm a teenage <em>bear</em>)
+    I'm your teenage prayer (take a look at me, baby, I'm a teenage *bear*)
     Come and take a look at me, Baby (just take a lookin' over here, baby)
-    I'm your teenage prayer (Yes I'm your teenage <em>hair</em>)
+    I'm your teenage prayer (Yes I'm your teenage *hair*)
 
     When it's cloudy all the time,
     all you gotta do is say you're mine
@@ -107,5 +107,5 @@ I haven't written out the laughter, because it's all over the place.
     when it's cloudy all the time,
     all you gotta do is say you're mine,
     Girl, I'll come running to ya anywhere, ah yeah, You know I will
-    take a <em>look</em> at me baby
+    take a *look* at me baby
     I'm your teenage prayer

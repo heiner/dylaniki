@@ -9,9 +9,9 @@ tags:
 
 Written by Woody Guthrie (See Manfred Helfert's site for details about
 the song:
-[<http://www.geocities.com/Nashville/3448/iaint.html>](http://www.geocities.com/Nashville/3448/iaint.htm))  
+[<http://www.geocities.com/Nashville/3448/iaint.html>](http://www.geocities.com/Nashville/3448/iaint.htm))
  Performed by Bob Dylan and The Band at the Woody Guthrie tribute
-concert, Carnegie Hall, NY, Jan 20, 1968.  
+concert, Carnegie Hall, NY, Jan 20, 1968.
 Tabbed by Eyolf Østrem
 
 * * * * *
@@ -26,7 +26,7 @@ indicate the chords for the raised verses:
     G#m  466444    Am   A#m  Bm
     B    799877    C    C#   D
 
-The last verse reverts to the original position.  
+The last verse reverts to the original position.
 Verses not sung by Dylan and the Band are written in italics.
 
 * * * * *
@@ -37,10 +37,10 @@ Verses not sung by Dylan and the Band are written in italics.
     His mortal flesh*) is laid away, but his good work fills the sky.
          G#m       B                E
     This world was lucky to see him born.
-    <em>
-    [He's born in a money family on that Hudson's rocky shore.
+
+    *[He's born in a money family on that Hudson's rocky shore.
     Outrun every kid a-growin' up 'round Hyde Park just for fun.
-    This world was lucky to see him born.]</em>
+    This world was lucky to see him born.]*
 
     Now he went up to the grade school and he wrote back to his folks.
     He drew such funny pictures and was always pulling jokes.
@@ -57,10 +57,10 @@ Verses not sung by Dylan and the Band are written in italics.
     He took office on a crippled leg, he said to one and all:
     "You money changin' racket boys sure 'nuff got to fall."
     This world was lucky to see him born.
-    <em>
-    [In senate walls and congress halls he used his gift of tongue
+
+    *[In senate walls and congress halls he used his gift of tongue
     To get you thieves and liars told and put you on the run.
-    This world was lucky to see him born.]</em>
+    This world was lucky to see him born.]*
 
     I voted for him lots of times *), and I'd vote for him again.
     He tried to find an honest job for every idle man.
@@ -70,8 +70,7 @@ Verses not sung by Dylan and the Band are written in italics.
     I could see he was a cripple but he learned my soul to walk ***).
     This world was lucky to see him born.
 
-    <em>
-    [You Nazis and you fascists tried to boss this world by hate.
+    *[You Nazis and you fascists tried to boss this world by hate.
     He fought my war the union way and the hate gang all got beat.
     This world was lucky to see him born.
 
@@ -85,7 +84,7 @@ Verses not sung by Dylan and the Band are written in italics.
 
     I was torpedoed on my merchant ship the day he took command.
     He was hated by my captain, but loved by all ships hands.
-    This world was lucky to see him born.]</em>
+    This world was lucky to see him born.]*
 
     I was a GI in the army the day he passed away,
     And over my shoulder I could hear some soldier say:

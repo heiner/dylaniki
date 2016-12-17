@@ -75,8 +75,8 @@ folk singer, that still hold their ground in the repertory of a man who
 has for 35 of those years been a rock artist – that's in itself a brand
 of quality. And the rest of the songs ain't so bad either.
 
-What this album first of all shows (and which was confirmed by <em>Good
-As I Been To You</em>) is what an accomplished guitar player Dylan was –
+What this album first of all shows (and which was confirmed by *Good
+As I Been To You*) is what an accomplished guitar player Dylan was –
 and still is, when he wants to. There is some really nice guitar work on
 some of these tracks: the finger-picking on [Don't Think Twice, It's All
 Right](Don't Think Twice, It's All Right) and [Talkin' World
@@ -89,12 +89,12 @@ is really (really) difficult – he gets as much effect as possible from
 techniques that are actually quite simple (once you master them). This
 is not to say that he's a cheater (those who have access to “[Hero
 Blues](Hero Blues)”, an outtake from the
-<em>Freewheelin'</em> sessions, can hear for themselves that Dylan anno
+*Freewheelin'* sessions, can hear for themselves that Dylan anno
 1963 had a quite good control of his instrument).
 
 A contributing element is the use of [altered or open
 tunings.](Help:Roadmaps#Open.2Falternate_tunings) Three of
-the songs on <em>Freewheelin' </em>are in open D ([I Shall Be
+the songs on *Freewheelin'* are in open D ([I Shall Be
 Free](I Shall Be Free), [Corrina,
 Corrina](Corrina, Corrina), and [Oxford
 Town](Oxford Town)) and three in Dropped D tuning ([Masters
@@ -103,14 +103,14 @@ Highway](Down the Highway), and [A Hard Rain's A-Gonna
 Fall](A Hard Rain's A-Gonna Fall)). Several of the outtakes
 also use such tunings. It is noteworthy that the playing style in these
 songs differs considerably from the style of the [\<em\>Blood on the
-Tracks\</em\>](<em>Blood on the Tracks</em>) songs, which
+Tracks\</em\>](*Blood on the Tracks*) songs, which
 were also originally played in open D tuning. It is said that it was
 Joni Mitchell who inspired and/or taught him to use open D tuning, and
 although he apparently knew it even ten years earlier, he didn't use the
 same style and technique then.
 
 A striking unifying feature of the playing style of
-<em>Freewheelin'</em> is the many second-inversion chords, <em>i.e.</em>
+*Freewheelin'* is the many second-inversion chords, *i.e.*
 chords with the fifth in the bass, such as D/a
 (x<strong>0</strong>0232), which is so prominent in [Blowin' in the
 Wind](Blowin' in the Wind). Another (I think related) feature

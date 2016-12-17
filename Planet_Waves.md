@@ -23,6 +23,6 @@ Released Jan 17, 1974
 
 Outtake:
 
--   [Nobody 'Cept You](Nobody 'Cept You) (released on <em>The
-    Bootleg Series 1-3</em>)
+-   [Nobody 'Cept You](Nobody 'Cept You) (released on *The
+    Bootleg Series 1-3*)
 

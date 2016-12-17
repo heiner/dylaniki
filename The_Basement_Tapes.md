@@ -35,7 +35,7 @@ Released June 26, 1975
 17. [This Wheel's on Fire](This Wheel's on Fire)
 
 <h2>
-Outtakes (as they appear in the <em>Genuine Basement Tapes</em>):
+Outtakes (as they appear in the *Genuine Basement Tapes*):
 
 </h2>
 <strong>Vol 1</strong>

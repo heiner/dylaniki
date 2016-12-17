@@ -33,21 +33,21 @@ Eyolf Østrem
 
 </h3>
 While there is general agreement that no matter what one thinks about
-the lyrics on <em>Slow Train Coming</em>, musically it is one of Dylan's
+the lyrics on *Slow Train Coming*, musically it is one of Dylan's
 strongest, the general verdict is not equally lenient with
-<em>Saved</em>. With its ghastly cover — rivalled in tackiness only by
-<em>Shot of Love</em> — and its unequivocal title, it has proved to be
+*Saved*. With its ghastly cover — rivalled in tackiness only by
+*Shot of Love* — and its unequivocal title, it has proved to be
 an even bitterer pill to swallow than the precursor.
 
-Which is understandable, but not quite fair. <em>Saved</em> is an
+Which is understandable, but not quite fair. *Saved* is an
 excellent album, provided one can endure the obnoxious born-again
-evangelization. It may be a far cry from <em>Slow Train Coming</em> in
+evangelization. It may be a far cry from *Slow Train Coming* in
 the areas of polish and commercial appeal, but it has an energy, a
 punch, and a new approach to communication and message that is quite
 unique in Dylan's production, and, as such, quite refreshing.
 
 It should be said, however, that this more positive verdict is only
-partly true if one refers to the published album. <em>Saved</em> is
+partly true if one refers to the published album. *Saved* is
 unique in connection with Dylan in consisting only/mostly of songs that
 had already been tried out on stage for a long time before they were
 committed to vinyl. There is critical and historiographical consensus
@@ -80,16 +80,16 @@ mostly lost in the album version.
 
 It probably couldn't be any other way. None of the songs I've mentioned
 are among his strongest — from the gospel period or any other — but
-their effect depends on <em>presence</em>: the <em>physical</em>
+their effect depends on *presence*: the *physical*
 presence of the person and the band producing a sound of wall to bang
-one's head against, and the <em>temporal</em> presence, exploiting the
-contrast between the <em>indefiniteness</em> of not knowing where this
-is going to end, and the <em>inevitability</em> of the process set in
+one's head against, and the *temporal* presence, exploiting the
+contrast between the *indefiniteness* of not knowing where this
+is going to end, and the *inevitability* of the process set in
 motion by the first “on-an-don-an-don-an-doon”. In the absence that the
 record medium necessarily entails, some of that is naturally lost. But
 some remains (and five bonus points for trying).
 
-Besides, it doesn't matter: there are strong songs left that <em>do</em>
+Besides, it doesn't matter: there are strong songs left that *do*
 make the transition from concert stage to recording studio. Partly,
 perhaps, because they are stronger songs altogether, but mainly because
 they don't depend on the live situation to the same extent.

@@ -148,9 +148,9 @@ cheap fares, not used to airplanes, throwing up airsick.
     I'm going down on the Vomit Express
     I'm going down with my suitcase pain.
 
-    <em>
+    *
     [this chorus is completely out of rhythm.
-    Luckily they decided to take an instrumental verse, followed by:]</em>
+    Luckily they decided to take an instrumental verse, followed by:]*
 
     Go find my old friend, we'll go to the museum,
     talk 'bout politics with the cats, and ask for revolution,

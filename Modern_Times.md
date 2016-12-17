@@ -38,9 +38,9 @@ First the lyrics: as Scott Warmuth has discovered, through an ingenious
 google investigation, [several lines of lyrics are
 lifted](http://dylanchords.info/45_modern/timrod.html) from the works of
 the “Poet Laureate of the Confederacy” Henry Timrod in much the same way
-as Yunichi Saga's <em>Confessions of a Yakuza</em> [unwittingly
+as Yunichi Saga's *Confessions of a Yakuza* [unwittingly
 contributed](http://dylanchords.info/41_lat/textual_sources.htm) to
-<em>“Love and Theft”</em>. This has caused considerable reactions, in
+*“Love and Theft”*. This has caused considerable reactions, in
 far wider circles than usual.
 
 So, is Dylan a thieving scoundrel and a plagiarist, or a genius who
@@ -49,11 +49,11 @@ transforms what he reads into new gems?
 The lyrical side of his creative borrowings don't bother me a single
 bit, and I'm surprised that such a fuss has been made over this. If
 anything, they add to the value of Dylan's effort, rather than subtract
-from it. I would never call any of that <em>plagiarism</em>, neither in
-the case of <em>Modern Times</em> nor of <em>“Love and Theft”</em>. I
+from it. I would never call any of that *plagiarism*, neither in
+the case of *Modern Times* nor of *“Love and Theft”*. I
 can't imagine Dylan sitting there in his divine solitude, struggling
 with a line, then walking over to the bookshelf and picking out Timrod
-or Saga in search for a line that would work. Now, <em>that</em> would
+or Saga in search for a line that would work. Now, *that* would
 have come closer to plagiarism: to let someone else do the job. I
 imagine it's the other way around: Dylan has read Yakuza and Timrod,
 certain phrases and figures have stuck in his mind, from where they in
@@ -69,7 +69,7 @@ reaction to the musical borrowings. These are both much more substantial
 and much more difficult to defend.
 
 At the time of writing (Wed 20 Sept, 16:08 CET), the following songs on
-<em>Modern Times</em> have known models for their music (for the textual
+*Modern Times* have known models for their music (for the textual
 borrowings from Henry Timrod, see the link above. Note also that there
 are numerous borrowings from sources other than Timrod; see
 [<http://www.republika.pl/bobdylan/>](http://www.republika.pl/bobdylan/)):
@@ -96,7 +96,7 @@ lifted from the models and the melody is clearly recognizable, and in
 some cases, the whole arrangement is “borrowed”.
 
 That's five out of ten. Furthermore, I'd be very surprised if the music
-to <em>Spirit on the Water</em> is Dylan's own. Thunder on the Mountain
+to *Spirit on the Water* is Dylan's own. Thunder on the Mountain
 could be by anyone, and probably is. That leaves us with three songs
 where the music is – at least until proven otherwise – truly “by Bob
 Dylan”.
@@ -113,7 +113,7 @@ years?
 
 If this is a sign of creative drought, that may be a matter of concern
 regarding the possibility of more albums in the future, but in
-<em>this</em> particular context, it's not my main concern.
+*this* particular context, it's not my main concern.
 
 If the various textual allusions and citations can be redeemed as a
 fascinating display of creative intertextual intution, it is quite the
@@ -128,7 +128,7 @@ Not all the borrowings are as straightforward as “Rollin' and Tumblin'”.
 Bing Crosby's “Where the Blue of the Night (Meets the Gold of the Day)”,
 and Dylan has in fact been open or semi-open about this. In a Live Talk
 with David Gates, who interviewed Dylan for Newsweek after
-<em>Chronicles</em> came out, Gates answered questions from the
+*Chronicles* came out, Gates answered questions from the
 audience. One of them was:
 
 `       Did Bob share any details with you regarding the songs for his next album? What's the scoop?`  
@@ -155,31 +155,31 @@ same. The difference is that “You Belong To Me” doesn't have “Written by
 Bob Dylan” under it
 
 Putting the label “All songs written by Bob Dylan” on this CD is plain
-indecency. Again, this applies only to the music; I would <em>not</em>
+indecency. Again, this applies only to the music; I would *not*
 have wished to see anyhing like: “Words by Bob Dylan and Henry Timrod”.
-But I <em>would</em> have liked to see: “Words: Bob Dylan, Music: Muddy
+But I *would* have liked to see: “Words: Bob Dylan, Music: Muddy
 Waters” (disregarding here the fact that Muddy didn't write the tune
-either, but that's moot: <em>he</em> played those solos, <em>he</em>
+either, but that's moot: *he* played those solos, *he*
 shaped the song into the form which Dylan has taken over, so for all
 intents and purposes Muddy is the originator). If Dylan has copyrighted
 the tunes of Rollin' and Tumblin' and Beyond the Horizon, he gets money
 from selling something he didn't own in the first place. And regardless
 of the money, by putting “by Bob Dylan” under it he is taking creative
 credit for something he didn't create, stating “This is what I have to
-say” without actually saying anything. <em>That's</em> my main concern:
+say” without actually saying anything. *That's* my main concern:
 he isn't saying anything. And as Tom Lehrer so eloquently put it: “If
-you can't communicate, the least you can do is <em>shut up</em>!”
+you can't communicate, the least you can do is *shut up*!”
 
-As more and more references and borrowings were discovered on <em>“Love
-and Theft”</em>, I got this wonderful vision: what if it wasn't just a
+As more and more references and borrowings were discovered on *“Love
+and Theft”*, I got this wonderful vision: what if it wasn't just a
 few lines of Japanese gangster-lore here and there – what if
-<em>every</em> note and <em>every</em> lyric line were direct
-quotations, put together in a grand collage – <em>that</em> would have
+*every* note and *every* lyric line were direct
+quotations, put together in a grand collage – *that* would have
 been a major achievement, and a bold highlighting of the problematic of
 communication, by blurring the normally well-established pattern of
 sender-receiver; pointing (fingers) to our expectations and norms, and
 proving them to be wrong. It would have been like a game. And that title
-… But when the same thing happens on <em>Modern Times</em>, only without
+… But when the same thing happens on *Modern Times*, only without
 the extra level of “game”, it just becomes a sign of someone who is
 content with playing lounge music, but who has a reputation to live up
 to and a record company with an over-zealous sales department on his
@@ -196,7 +196,7 @@ would then be if a multi-million seller is at all comparable to the
 swapping, sharing, reworking of songs in coffee-houses or dance halls
 which I would more immediately associate with the “folk tradition”. If
 the folk tradition is about community, sharing, and freedom of
-expression, <em>Modern Times</em> does that, but it does a lot of other
+expression, *Modern Times* does that, but it does a lot of other
 things too, such as making money for the artist, the record company, and
 the manager's uncle, which places it in a completely different context.
 
@@ -204,11 +204,11 @@ Besides, as [Nick Manho](http://nickmanho.blogspot.com) said on the
 dylanpool (making a point that he had borrowed/stolen from emily smith):
 
 The difference between Bob ripping off the blues guys in the 60s and Bob
-ripping off the blues guys now is that <em>in the 60s Bob's rip-offs
-were better than the originals</em>.
+ripping off the blues guys now is that *in the 60s Bob's rip-offs
+were better than the originals*.
 
 There's a point in that. Not that quality would be a justification for
-rip-offs, nor that the statement is <em>always</em> true, taken
+rip-offs, nor that the statement is *always* true, taken
 literally, but to the extent that standing in a creative tradition would
 imply taking in something from a common storehouse (whether or not an
 original composer can be identified), processing it, and putting out

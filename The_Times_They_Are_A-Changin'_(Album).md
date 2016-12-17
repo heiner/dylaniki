@@ -24,18 +24,18 @@ Released Jan 13, 1964
 
 Outtakes:
 
--   [Eternal Circle](Eternal Circle) (released on <em>The
-    Bootleg Series 1-3</em>)
--   [Moonshiner](Moonshiner) (released on <em>The Bootleg
-    Series 1-3</em>)
--   [Only a Hobo](Only a Hobo) (released on <em>The Bootleg
-    Series 1-3</em>)
+-   [Eternal Circle](Eternal Circle) (released on *The
+    Bootleg Series 1-3*)
+-   [Moonshiner](Moonshiner) (released on *The Bootleg
+    Series 1-3*)
+-   [Only a Hobo](Only a Hobo) (released on *The Bootleg
+    Series 1-3*)
 -   [Percy's Song](Percy's Song) (released on
-    <em>Biograph</em>)
+    *Biograph*)
 -   [Lay Down Your Weary Tune](Lay Down Your Weary Tune)
-    (released on <em>Biograph</em>)
--   [Paths of Victory](Paths of Victory) (released on <em>The
-    Bootleg Series 1-3</em>)
+    (released on *Biograph*)
+-   [Paths of Victory](Paths of Victory) (released on *The
+    Bootleg Series 1-3*)
 -   [Bob Dylan's New Orleans
     Rag](Bob Dylan's New Orleans Rag) (NY Town Hall, Apr 12
     1963)

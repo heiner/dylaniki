@@ -37,17 +37,17 @@ Introductory Remarks
 Eyolf Østrem
 
 </h3>
-<em>Down in the Groove </em>came at a time when Dylan wasn't exactly at
+*Down in the Groove* came at a time when Dylan wasn't exactly at
 the zenith of his powers as a recording artist. His struggles with the
 modern recording techniques (at the time mostly resulting in lost
 battles), as well as a steadily decreasing audience since his religious
-trilogy, hadn't been good for his reputation. And <em>Down in the Groove
-</em>didn't make things much better.
+trilogy, hadn't been good for his reputation. And *Down in the Groove*
+didn't make things much better.
 
 It is probably one of the last albums people buy. And in my most
 critical moments I'm inclined to say: “And for good reason.” But still:
-the album has qualities, not only compared with <em>Knocked out
-Loaded</em>, which only has <em>one</em> quality (“Brownsville Girl”).
+the album has qualities, not only compared with *Knocked out
+Loaded*, which only has *one* quality (“Brownsville Girl”).
 
 I'll return to the qualities in a moment. First a general overview: The
 six first songs, and eight out of ten songs on the album as a whole, are
@@ -77,12 +77,12 @@ favourably not only to the non-Dylan songs. For a very long time it was
 the regular ending of the first electric set of just about every show,
 which added to its strangeness: a song that for tape-collectors was a
 nuisance and a drag, as the eternal song no. 5, but which most others
-had never heard – who had got <em>Down in the Groove</em> apart from the
+had never heard – who had got *Down in the Groove* apart from the
 collectors (the song request of all times: in Stockholm, June 9 1998
 someone yelled out “SILVIO” after song nr. 4)?
 
-Musically it is a carbon copy of <em>Isis</em>. That's perhaps not where
-the real genious of <em>Isis</em> lies, but it's a persistent little
+Musically it is a carbon copy of *Isis*. That's perhaps not where
+the real genious of *Isis* lies, but it's a persistent little
 bugger of a riff.
 
 The songs that are neither square rock'n'roll in A or “Death is not the

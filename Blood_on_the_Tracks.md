@@ -33,10 +33,10 @@ released Jan 20, 1975
 
 Outtakes:
 
--   [Up to Me](Up to Me) (released on <em>Biograph</em>,
+-   [Up to Me](Up to Me) (released on *Biograph*,
     1985)
 -   [Call Letter Blues](Call Letter Blues) (Released on
-    <em>The Bootleg Series 1–3</em>, 1991)
+    *The Bootleg Series 1–3*, 1991)
 
 </div>
 <div id="intro">
@@ -48,14 +48,14 @@ Introductory Notes
 Eyolf Østrem
 
 </h3>
-<em>Blood on the Tracks</em> is Dylan's best album.
+*Blood on the Tracks* is Dylan's best album.
 
-Others may tell you that <em>Blonde on Blonde</em>, <em>Highway 61
-Revisited </em>or even <em>Desire </em>is his best album, but they're
+Others may tell you that *Blonde on Blonde*, *Highway 61
+Revisited* or even *Desire* is his best album, but they're
 wrong, and when pressed (up against the wall, and in the presence of a
 .44, if necessary), they will eventually agree.
 
-<em>Blood on the Tracks</em> is also Dylan's best album in its released
+*Blood on the Tracks* is also Dylan's best album in its released
 form.
 
 Others may tell you that had he not tinkered with the songs, but left
@@ -71,7 +71,7 @@ versions may get the upper hand (the one undisputable exception is “If
 You See Her, Say Hello”, but even “Lily, Rosemary and the Jack of
 Hearts” is better in the Minnesota version). But even if we were to
 define the New York versions of “Tangled up in Blue”, “Idiot Wind” and
-“You're a Big Girl Now” as <em>perfection</em>, the Minnesota versions
+“You're a Big Girl Now” as *perfection*, the Minnesota versions
 are close enough to this level, musically, and the extra qualities they
 add to their New Yorkean counterparts (the rhythmical drive of
 “Tangled”, the angered bite of “Idiot Wind”, the softness of “Big
@@ -102,17 +102,17 @@ ringing of the open e' and b strings will drive you crazy after a while.
 
 I know which album I prefer.
 
-That said, the most interesting <em>musical </em>remarks concern the New
+That said, the most interesting *musical* remarks concern the New
 York versions. This is of course mainly owing precisely to the open
 tuning. The biographies (i.e. Heylin) say that Dylan had learned the
 open D/E tuning from Joni Mitchell (I'll refer to it as “open E”
 hereafter). This can't be all true, since Dylan used this tuning
 extensively during the recording of
-<em>[Freewheelin'](Freewheelin'). </em>He does use it in a
+*[Freewheelin'](Freewheelin').* He does use it in a
 quite different way, though.
 
-The center of gravity in the open-tuning <em>Blood on the Tracks
-</em>songs, is the root chord E=054000 (or 054300). It may seem odd to
+The center of gravity in the open-tuning *Blood on the Tracks*
+songs, is the root chord E=054000 (or 054300). It may seem odd to
 use a chord like this, when you have the same chord on the open strings
 – after all, that's the whole point of open tuning, isn't it?
 
@@ -161,8 +161,8 @@ frequent chord, especially in Dylan's production after Blood on the
 Tracks. Part of the explanation is that 11th chords are central in the
 gospel tradition, which Dylan dived into shortly afterwards, but it is
 not either impossible that he discovered its sweetness through the use
-of this B chord. It is a quite rare guest in his songs <em>prior to
-</em>Blood on the Tracks.
+of this B chord. It is a quite rare guest in his songs *prior to*
+Blood on the Tracks.
 
 When Dylan wants a “real” B sound, as in the outtake [Up to
 Me](Up to Me) he uses the barre 777777.
@@ -181,11 +181,11 @@ Although they go in opposite directions (E-B-A and G\#m/B-A-E), they are
 closely related, tonally. Look at the 4th string: that's what it's all
 about. Both figures are realizations of the basic progression g\#-f\#-e
 (try it!), but this progression is given different functions through
-different harmonizations. In the first figure, <em>g\# </em>is home base
-and <em>e </em>is part of the contrasting sonority A (see [Up to
+different harmonizations. In the first figure, *g\#* is home base
+and *e* is part of the contrasting sonority A (see [Up to
 Me](Up to Me)). In the second this is reversed: here
-<em>g\#</em> belongs to the contrasting “B-area” (G\#m and B are closely
-related), and <em>e</em> brings resolution to the phrase by landing on
+*g\#* belongs to the contrasting “B-area” (G\#m and B are closely
+related), and *e* brings resolution to the phrase by landing on
 the tonic (see [You're a Big Girl
 Now](You're a Big Girl Now)). (I doubt that Dylan is aware of
 this, but it's a neat little twin-figure all the same).

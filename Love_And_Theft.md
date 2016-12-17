@@ -12,7 +12,7 @@ Released Sept 11, 2001
 Read my [review/analysis of "Love and
 Theft"](http://dylanchords.info/professors/a_day_above_ground.htm).  
 Chris Johnson has found numerous text lines from "L&T" in Junichi Saga's
-<em>Confessions of a Yakuza</em>
+*Confessions of a Yakuza*
 
 1.  [Tweedle Dee And Tweedle
     Dum](Tweedle Dee And Tweedle Dum)
@@ -36,5 +36,5 @@ Bonus tracks on the Limited edition:
     Hotel Tape", Dec 22, 1961)
 -   [The Times They Are
     A-Changin'](The Times They Are A-Changin') (Outtake from
-    the <em>Times...</em> sessions, Oct 1963)
+    the *Times...* sessions, Oct 1963)
 

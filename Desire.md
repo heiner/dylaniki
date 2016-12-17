@@ -41,12 +41,12 @@ Eyolf Østrem
 In a
 <span href="http://oestrem.com/thingstwice/2009/02/things-twice-the-book-now-in-html/#comment-42999" id="Things Twice">blog
 post</span>, Oisin O'Faghain suggested I write the following about
-<em>Desire</em>:
+*Desire*:
 
-I think Dylan's best singing is on <em>Desire</em> and Rolling Thunder
+I think Dylan's best singing is on *Desire* and Rolling Thunder
 (the latter being the superior).
 
-<em>Desire</em> stories (yes i just used “story” as a verb) the crap out
+*Desire* stories (yes i just used “story” as a verb) the crap out
 of other story albums and yet its “stories” contain questionable
 biographies “Joey”, “Sara”, “Hurricane”.
 
@@ -56,9 +56,9 @@ but also lyrically it is a stand-alone album (probably closest to John
 Wesley Harding) because its lyrics are not complex but yet remain
 opaque: “Time is an ocean but it ends at the shore”.
 
-So I did. I think I have a thing or two to say about <em>Desire</em>
+So I did. I think I have a thing or two to say about *Desire*
 myself, eventually, but until I do, the above stands, with the possible
-qualification that it should start: “While I listen to <em>Desire</em>,
+qualification that it should start: “While I listen to *Desire*,
 I tend to forget that Dylan's best singing happened a few years later,
 during the Gospel period.”
 

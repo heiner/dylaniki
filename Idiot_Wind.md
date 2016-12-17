@@ -29,7 +29,7 @@ Chords:
     C#m     020020
     G#m     xx4340 (or if you want the fuller bass: 444300)
     A       020120 or 020100
-    B11     x02120 (changes to x02100 at the verse endings <em>et al.</em>)
+    B11     x02120 (changes to x02100 at the verse endings *et al.*)
 
 <h2 class="songversion">
 “Organ version” (September 16 1974)

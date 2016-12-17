@@ -31,11 +31,11 @@ Introductory Remarks
 Eyolf Østrem
 
 </h3>
-<em>World Gone Wrong</em> (1993) is a body. Not just a great body of
+*World Gone Wrong* (1993) is a body. Not just a great body of
 work, but a body.
 
 The greatness of this album of folk and blues classics is that there is
-<em>one</em> voice speaking on it and one person speaking with this
+*one* voice speaking on it and one person speaking with this
 voice, whether he speaks guitar, harmonica, or English.
 
 I'll try to make it a little clearer.
@@ -44,15 +44,15 @@ I'll try to make it a little clearer.
 Not-a-one-man-band
 
 </h3>
-Perhaps if I start by saying what it's not: The tracks on <em>World Gone
-Wrong</em> are not those of a one-man band, a skilled display by a
+Perhaps if I start by saying what it's not: The tracks on *World Gone
+Wrong* are not those of a one-man band, a skilled display by a
 person who can speak different languages at the same time, or, more
 down-to-earth, is able to sing and play harp and guitar at the same
 time.
 
 Instead, it is as if the different parts of the performance — words,
 guitar, language, harmonica, rhythm, sound — come together and blend
-into one; <em>here</em> more than on any other Dylan album (or any album
+into one; *here* more than on any other Dylan album (or any album
 whatsoever, probably).
 
 <h3>
@@ -68,10 +68,10 @@ body parts are so prominent that they together form, if not a full human
 body, then at least the image of one, the impression of a full body in
 our presence, speaking body language in sound.
 
-To phrase it differently, what I hear on <em>World Gone Wrong</em> is
+To phrase it differently, what I hear on *World Gone Wrong* is
 all the informational extras, the toppings on the ‘message': that which
 we see/experience/understand when we speak with someone face to face,
-but which disappear in <em>this</em> medium, the disembodied text (or
+but which disappear in *this* medium, the disembodied text (or
 the un-incarnated Word, which is more or less the same), where they are
 replaced with smilies or rhetorics (or parentheses like this one).
 
@@ -86,13 +86,13 @@ artfulness and/or aesthetics between what is said and who says it,
 adding something in the process, but at the cost of blurring the person
 at the other end.
 
-But on <em>World Gone Wrong</em> I can hear him. I hear all that which
-<em>fleshes out</em> the message, i.e. makes it appear <em>in the
-flesh</em>, as a human expression and not just as a stick figure.
+But on *World Gone Wrong* I can hear him. I hear all that which
+*fleshes out* the message, i.e. makes it appear *in the
+flesh*, as a human expression and not just as a stick figure.
 
 This would not have been possible had Dylan not been a great, natural
-guitar player: technically speaking, <em>World Gone Wrong</em> is
-Dylan's greatest achievement as a guitarist since <em>Freewheelin'</em>.
+guitar player: technically speaking, *World Gone Wrong* is
+Dylan's greatest achievement as a guitarist since *Freewheelin'*.
 Worth pointing out is the consistent technique of picking out the melody
 line or fragments of it on the bass strings and strum on in the higher
 strings as if nothing special was happening. Two Soldiers is the
@@ -204,7 +204,7 @@ falling apart, but miraculously it doesn't. Again: the variations give
 body where the plain structure is just dead surface.
 
 Greatest of them all, <strong>‘Broke Down Engine'</strong>: Dylan's best
-guitar track since ‘Hero Blues', the outtake from <em>Freewheelin'</em>.
+guitar track since ‘Hero Blues', the outtake from *Freewheelin'*.
 The rhythmic drive and the precision of the playing is fabulous. The
 “Lordy lord” part is amazing, in more ways than one: It's well played,
 of course, but it is also a good illustration of the synergy of body

@@ -86,14 +86,14 @@ Choice, Jan/March 1962)
 Folksinger's Choice, Jan/March 1962)
 
 [Long Time Man](Long Time Man) (Cynthia Gooding's
-<em>Folksinger's Choice</em>, Jan/March 1962)
+*Folksinger's Choice*, Jan/March 1962)
 
 [Ballad Of Donald White](Ballad Of Donald White) (various,
 1962)
 
 [Tomorrow is a Long Time](Tomorrow is a Long Time) (Witmark
-demo 1962, <em>Greatest Hits vol 2</em>/<em>In Concert</em>, <em>New
-Morning </em>outtake 1970)
+demo 1962, *Greatest Hits vol 2*/*In Concert*, *New
+Morning* outtake 1970)
 
 [Deep Ellem Blues](Deep Ellem Blues) (live, Gerde's Folk
 City, NY, Apr 16, 1962)
@@ -108,16 +108,16 @@ City, NY, Apr 16, 1962)
 ([Freewheelin'](Freewheelin') outtake, Apr 24, 1962)
 
 [Sally Girl](Sally Girl)<strong>
-</strong>(<em>Freewheelin</em>' outtake, Apr 1962)
+</strong>(*Freewheelin'* outtake, Apr 1962)
 
 [Baby, Please Don't Go](Baby, Please Don't Go)
-(<em>Freewheelin</em>' outtake, Apr 25, 1962)
+(*Freewheelin'* outtake, Apr 25, 1962)
 
 [Wichita Blues](Wichita Blues)(Cynthia Gooding's Appartment,
 Feb/March 1962 and 2nd Freewheelin' session, Apr 25, 1962)
 
 [Lonesome Whistle Blues](Lonesome Whistle Blues)
-(<em>Freewheelin'</em> outtake, 1962)
+(*Freewheelin'* outtake, 1962)
 
 [The Death of Emmett Till](The Death of Emmett Till)
 ([Freewheelin'](Freewheelin') outtake, 1962)
@@ -179,7 +179,7 @@ Happy Traum, Feb 8 1963)
 [Lonesome River Edge](Lonesome River Edge) (the "Banjo Tape"
 with Happy Traum, Feb 8 1963)
 
-[Farewell](Farewell) (Witmark demo/<em>Times </em>outtake,
+[Farewell](Farewell) (Witmark demo/*Times* outtake,
 1963)
 
 [Long Time Gone](Long Time Gone) (Witmark Demo, March 1963)
@@ -188,7 +188,7 @@ with Happy Traum, Feb 8 1963)
 sessions, March 1963)
 
 [Wieviele Straßen](Wieviele Straßen) (German version of
-<em>Blowin' in the Wind</em>)
+*Blowin' in the Wind*)
 
 [I Rode Out One Morning](I Rode Out One Morning) (Fourth
 McKenzie tape, Apr 1963)
@@ -228,7 +228,7 @@ show, 1964)
 Word](Love Is Just A Four-Letter Word) (Joan Baez' version)
 
 [Lost Highway](Lost Highway) (Savoy Hotel, May 1965, from
-<em>Don't Look Back</em>)
+*Don't Look Back*)
 
 <h3>
 <span id="electric">(More or less) Electric Bob, 1965-1975</span>
@@ -242,10 +242,10 @@ Gogh](http://www.geocities.com/SunsetStrip/Palms/9695/chords/Positively_Van_Gogh
 
 [On A Rainy Afternoon/Does She Need Me?/I Can't Leave Her
 Behind](On A Rainy Afternoon/Does She Need Me?/I Can't Leave Her Behind)
-(From <em>Eat The Document</em>, 1966)
+(From *Eat The Document*, 1966)
 
 [What Kind of Friend Is This?](What Kind of Friend Is This?)
-(<em>Eat the Document</em>, 1966)
+(*Eat the Document*, 1966)
 
 <strong>[The Basement Tapes
 outtakes](The Basement Tapes)</strong>
@@ -267,25 +267,25 @@ May 1, 1970)
 [Vomit Express](Vomit Express) (w/Allen Ginsberg, 17 Nov,
 1971)
 
-[Rock Me Mama](Rock Me Mama) (<em>Pat Garret & Billy The
-Kid</em> outtake, 1973)
+[Rock Me Mama](Rock Me Mama) (*Pat Garret & Billy The
+Kid* outtake, 1973)
 
-[Climax Tobacco](Climax Tobacco) (<em>Pat Garret & Billy The
-Kid</em> "outtake", 1973)
+[Climax Tobacco](Climax Tobacco) (*Pat Garret & Billy The
+Kid* "outtake", 1973)
 
 [Abandoned Love](Abandoned Love) ("Bitter end" version, 1975)
 
-[Rita May](Rita May) (<em>Desire</em> outtake, 1975)
+[Rita May](Rita May) (*Desire* outtake, 1975)
 
 [Sign Language](Sign Language) (written for Eric Clapton,
-relased on his album <em>No Reason to Cry </em>(1976)
+relased on his album *No Reason to Cry* (1976)
 
 <h3>
 <span id="rtr">Rolling Thunder Revue 1975-1976</span>
 
 </h3>
-[People Get Ready](People Get Ready) (<em>Renaldo &
-Clara</em> version)
+[People Get Ready](People Get Ready) (*Renaldo &
+Clara* version)
 
 [Dark As A Dungeon](Dark As A Dungeon) (Various, Rolling
 Thunder Revue I, 1975)
@@ -335,7 +335,7 @@ Billy Cross)
 
 </h3>
 [Trouble In Mind](Trouble In Mind) (B-side, singles from
-<em>Slow Train Coming</em>, 1979)
+*Slow Train Coming*, 1979)
 
 [Blessed is the Name](Blessed is the Name) (var. 1979-80)
 
@@ -359,7 +359,7 @@ performance)
 [Let's Keep It Between Us](Let's Keep It Between Us) (1980
 tours)
 
-[Yonder Comes Sin](Yonder Comes Sin) (<em>Shot of Love</em>
+[Yonder Comes Sin](Yonder Comes Sin) (*Shot of Love*
 outtake, 1980)
 
 [Fever](Fever) (Seattle, Nov 30, 1980)
@@ -393,21 +393,21 @@ McCrary during the 1980-81 gospel tour)
 tape)
 
 [Coming From The Heart (The Road Is
-Long)](Coming From The Heart (The Road Is Long)) (<em>Street
-Legal </em>outtake, 1978)
+Long)](Coming From The Heart (The Road Is Long)) (*Street
+Legal* outtake, 1978)
 
 [If I Don't Be There By
 Morning](If I Don't Be There By Morning) (written for Eric
-Clapton's album <em>Backless</em>, 1978)
+Clapton's album *Backless*, 1978)
 
 [Angel Flying Too Close to the
-Ground](Angel Flying Too Close to the Ground) (<em>Infidels
-</em>outtake and single B-side, 1983)
+Ground](Angel Flying Too Close to the Ground) (*Infidels*
+outtake and single B-side, 1983)
 
-[This Was My Love](This Was My Love) (<em>Infidels</em>
+[This Was My Love](This Was My Love) (*Infidels*
 outtake, 1983)
 
-[Julius and Ethel](Julius and Ethel) (<em>Infidels</em>
+[Julius and Ethel](Julius and Ethel) (*Infidels*
 outtake, 1983)
 
 [Almost Done](Almost Done) (Verona rehearsal tape, May 1984)
@@ -418,35 +418,35 @@ outtake, 1983)
 </strong>(1985 studio outtake)
 
 [To Fall In Love With You](To Fall In Love With You)
-(<em>Hearts of Fire </em>outtake, aug 1986)
+(*Hearts of Fire* outtake, aug 1986)
 
-[The Usual](The Usual) (from the film <em>Hearts of
-Fire</em>, 1987)
+[The Usual](The Usual) (from the film *Hearts of
+Fire*, 1987)
 
 [A Couple More Years](A Couple More Years) (from the film
-<em>Hearts of Fire</em>, 1987)
+*Hearts of Fire*, 1987)
 
 [Old Five And Dimer](Old Five And Dimer) (outtake from the
-film <em>Hearts Of Fire</em>, 1987)
+film *Hearts Of Fire*, 1987)
 
 [Night After Night](Night After Night) (outtake from
-<em>Hearts of Fire</em>,<em> </em>1987)
+*Hearts of Fire*, 1987)
 
-[Go 'way Little Boy](Go 'way Little Boy) (<em>Empire
-Burlesque </em>outtake, 1985)
+[Go 'way Little Boy](Go 'way Little Boy) (*Empire
+Burlesque* outtake, 1985)
 
 [Band Of The Hand (It's Hell Time,
 Man!)](Band Of The Hand (It's Hell Time, Man!)) (soundtrack,
 1986)
 
-[Pretty Boy Floyd](Pretty Boy Floyd) (<em>Folkways: A Vision
-Shared</em>, Spring 1987)
+[Pretty Boy Floyd](Pretty Boy Floyd) (*Folkways: A Vision
+Shared*, Spring 1987)
 
-[Important Words](Important Words) (<em>Down in the Groove
-</em>outtake, 1987)
+[Important Words](Important Words) (*Down in the Groove*
+outtake, 1987)
 
 [Steel Bars](Steel Bars) (co-written with Michael Bolton, who
-sung it on his album <em>Time Love & Tenderness</em>, 1991)
+sung it on his album *Time Love & Tenderness*, 1991)
 
 [Miss the Mississippi and You](Miss the Mississippi and You)
 (Bill Halley; Bromberg sessions, May/June 1992)
@@ -460,8 +460,8 @@ June 1992)
 [Sloppy Drunk](Sloppy Drunk) (Rogers; Bromberg Sessions,
 early/mid June 1992)
 
-[You Belong To Me](You Belong To Me)(<em>Good As I Been To
-You </em>outtake, from the <em>Natural Born Killers </em>soundtrack,
+[You Belong To Me](You Belong To Me)(*Good As I Been To
+You* outtake, from the *Natural Born Killers* soundtrack,
 1994)
 
 [Any Way You Want Me](Any Way You Want Me) (Sony Studios,
@@ -470,39 +470,39 @@ Sept 30, 1994)
 [My Blue Eyed Jane](My Blue Eyed Jane) (from the Jimmie
 Rodgers tribute album, 1997)
 
-[The Man in Me](The Man in Me) (From <em>New Morning
-</em>(1970); used for the soundtrack of <em>The Big Lebowski</em>, 1998)
+[The Man in Me](The Man in Me) (From *New Morning*
+(1970); used for the soundtrack of *The Big Lebowski*, 1998)
 
 [The Lonesome River](The Lonesome River) (by the Stanley
 Brothers, sung with Ralph Stanley, 1998)
 
-[Things Have Changed](Things Have Changed) (<em>Wonder
-Boys</em> soundtrack, 2000)
+[Things Have Changed](Things Have Changed) (*Wonder
+Boys* soundtrack, 2000)
 
-[Return To Me](Return To Me) (<em>Sopranos </em>soundtrack,
+[Return To Me](Return To Me) (*Sopranos* soundtrack,
 2001)
 
 [I Can't Get You Off Of My
 Mind](I Can't Get You Off Of My Mind) (from the Hank Williams
-tribute album <em>Timeless</em>, 2001)
+tribute album *Timeless*, 2001)
 
 [Red Cadillac and a Black
 Moustache](Red Cadillac and a Black Moustache) (from the Sun
-Records tribute album <em>Good Rockin' Tonight (The Legacy of Sun
-Records)</em>, Oct 30 2001)
+Records tribute album *Good Rockin' Tonight (The Legacy of Sun
+Records)*, Oct 30 2001)
 
-[Waitin' For You](Waitin' For You) (<em>Divine Secrets of the
-Ya-Ya Sisterhood</em><strong> </strong>soundtrack, 2002)
+[Waitin' For You](Waitin' For You) (*Divine Secrets of the
+Ya-Ya Sisterhood* soundtrack, 2002)
 
 [Cross The Green Mountain](Cross The Green Mountain)
-(<em>Gods And Generals</em>, soundtrack, 2003)
+(*Gods And Generals*, soundtrack, 2003)
 
 [Diamond Joe (M&amp;A)](Diamond Joe (M&amp;A)) (from
-<em>Masked and Anonymous</em>, 2003)
+*Masked and Anonymous*, 2003)
 
-[Dixie](Dixie) (from <em>Masked and Anonymous</em>, 2003)
+[Dixie](Dixie) (from *Masked and Anonymous*, 2003)
 
-[Tell Ol' Bill](Tell Ol' Bill) (from <em>North Country</em>,
+[Tell Ol' Bill](Tell Ol' Bill) (from *North Country*,
 (2005)
 
 <h3>
@@ -706,8 +706,8 @@ since 1999)
 [Duncan And Brady](Duncan And Brady) (Durham, NH, Nov 17
 1999)
 
-[Things Have Changed](Things Have Changed) (<em>Wonder
-Boys</em> soundtrack, 2000)
+[Things Have Changed](Things Have Changed) (*Wonder
+Boys* soundtrack, 2000)
 
 [This World Can't Stand Long](This World Can't Stand Long)
 (Anaheim, CA, March 10 2000)

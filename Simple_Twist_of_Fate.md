@@ -232,21 +232,21 @@ more than happy to receive them.
     And watched out for a simple twist of fate.
 
     They walked along by the old canal
-    Down Waterfront Street, by the tolling bell   <em>Brussels:</em> All by the cathedral bell
-    stopped into the Grand Hotel                  <em>Wembley:</em> Rio Grande Hotel
-                                                  <em>Gothenburg and Brussels:</em> Saint Claire Hotel
+    Down Waterfront Street, by the tolling bell   *Brussels:* All by the cathedral bell
+    stopped into the Grand Hotel                  *Wembley:* Rio Grande Hotel
+                                                  *Gothenburg and Brussels:* Saint Claire Hotel
     where the desk clerks dressed in white.
     With a face as black as night
     he said: "Check-out time's at eight".
     All a part of that simple twist of fate.
 
-    <em>Additional verse in Gothenburg and Brussels:</em>  She was walking by the street parade
+    *Additional verse in Gothenburg and Brussels:*  She was walking by the street parade
                                                   [...] but underpaid
                                                   The sun is bursting through a beat-up shade
                                                   Where he's waking up, etc.
                                                   (as the standard version in the next verse)
 
-    He woke up, and the room was thick            <em>Brussels:</em> Something inside this room
+    He woke up, and the room was thick            *Brussels:* Something inside this room
                                                   was making him sick
     Something there inside was making him sick.   [...]
     He heard her bootheels in the hallway click,  Hears those bootheels in the hallway click
@@ -255,7 +255,7 @@ more than happy to receive them.
     of a blind man at the gate                    You know it just could not wait.
     And forgot about that simple twist of fate.   All the time for that simple twist of fate.
 
-    [Head out to wind] and the rain and snow      <em>Wembley:</em> He's walkin' out through the
+    [Head out to wind] and the rain and snow      *Wembley:* He's walkin' out through the
                                                   city streets
     [Didn't leave from far, where]                look into the eyes of the people he meets
       the chilly winds blow

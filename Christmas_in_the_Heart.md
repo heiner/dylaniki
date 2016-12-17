@@ -48,24 +48,24 @@ soul out of the unsuspecting innocent, and perhaps – just perhaps – blow
 some meaning into these songs again.
 
 Because surely it's hilarious. But that's not the main reason why I've
-played this album more than any Dylan album since <em>Time out of
-Mind</em>. The reason is simple: the way he sings ‘ad Bethlehem' in
-<em>Adeste fideles</em> sends shivers down my spine; his demonstration
-of Santa's laughter in <em>Must be Santa</em> is the funniest thing
-since ‘Talkin' WWIII Blues'; the sombre tone of <em>Do you hear what I
-hear?</em> is stunning and a perfect counterpart to the angelic serenity
-of <em>Hark! The Herald Angels Sing</em>, perspectivizing both qualities
+played this album more than any Dylan album since *Time out of
+Mind*. The reason is simple: the way he sings ‘ad Bethlehem' in
+*Adeste fideles* sends shivers down my spine; his demonstration
+of Santa's laughter in *Must be Santa* is the funniest thing
+since ‘Talkin' WWIII Blues'; the sombre tone of *Do you hear what I
+hear?* is stunning and a perfect counterpart to the angelic serenity
+of *Hark! The Herald Angels Sing*, perspectivizing both qualities
 and leaving us, not somewhere undefined in the middle, but somewhere
 where there is room for both sombre and serene, hilarious and
 breathtakingly beautiful.
 
 Of course, it's a brilliant idea of Dylan to make a Christmas album,
 because it's the last thing anyone would have expected (and, for that
-reason alone, perhaps not at all surprising). But <em>Christmas in the
-Heart</em> is much more than a funny idea, a joke, or, for that matter,
+reason alone, perhaps not at all surprising). But *Christmas in the
+Heart* is much more than a funny idea, a joke, or, for that matter,
 just a nice way to do charity. It's obvious that he loves this stuff.
 And somehow, amid the croaking and the frolicking, he manages to
-communicate that love, at least to <em>this</em> listener.
+communicate that love, at least to *this* listener.
 
 And when love is communicated, what more can one ask? Have yourselves a
 merry Christmas!
@@ -76,13 +76,13 @@ Dylan and tradition
 </h3>
 Quite a lot has been made out of the fact that this is a 1950s version
 of the American christmas song tradition. Someone pointed out that seven
-of the songs are from Frank Sinatra's 1957 <em>A Jolly Christmas</em>
+of the songs are from Frank Sinatra's 1957 *A Jolly Christmas*
 album; others that Dylan secretly wants to be Dean Martin, another
 important source for songs on the album.
 
 I won't repeat all that has been said about that. Here, just a brief
 remark about harmony. If there is one thing that runs through Dylan's
-<em>entire</em> production, all period included, it is his consistent
+*entire* production, all period included, it is his consistent
 avoidance of the plain dominant, especially the dominant seventh: the
 strong harmonic tension generator, which is resolved to the key note,
 e.g. `G7 -&gt; C`. Even when he plays covers, or when he relates to
@@ -104,7 +104,7 @@ and the room for taking liberties is smaller in this genre than in folk
 and blues. What is interesting about it, is the degree to which (and the
 ease with which) Dylan has subordinated himself to the style, without
 feeling the need to make a statement about it, the way he did on
-<em>Self Portrait</em>, the only album which is comparable in this
+*Self Portrait*, the only album which is comparable in this
 respect (but not in many other).
 
 The same can be said about the way he treats melody: he actually sings
@@ -124,7 +124,7 @@ Christian, or is it a just as clear sign of the opposite; that it's all
 
 I have no idea, and I don't care (there is only one recent song that has
 made me wonder what he actually thinks in this area, but it's not on
-<em>Christmas in the Heart</em>). What I do know is that the lyrics to
+*Christmas in the Heart*). What I do know is that the lyrics to
 “Here Comes Santa Claus” in the version that Dylan sings is a most
 fascinating mix of symbols. From the “jingle bells” intro with the
 smooth, soft jazz choir, and through the first two verses, it's classic
@@ -159,7 +159,7 @@ only perform if you're enjoying yourself and what you're doing,
 perfectly unaffected by the 70,000 fathoms of thin air between you and
 total disaster. Dylan seems to have been staring into that abyss for
 quite some time, ever since he first tried to shake off the yoke of
-being some Generation's Voice. <em>Christmas in the Heart</em> is a sign
+being some Generation's Voice. *Christmas in the Heart* is a sign
 that he is finally free.
 
 </div>

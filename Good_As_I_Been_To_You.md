@@ -27,5 +27,5 @@ Released Nov 3, 1992
 Outtake:
 
 -   [You Belong To Me](You Belong To Me) (from soundtrack:
-    <em>Natural Born Killers</em>)
+    *Natural Born Killers*)
 

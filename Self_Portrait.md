@@ -49,7 +49,7 @@ Introductory remarks
 Eyolf Østrem
 
 </h3>
-“What is this shit?!” wrote Greil Marcus in his <em>Rolling Stone</em>
+“What is this shit?!” wrote Greil Marcus in his *Rolling Stone*
 review of this album, and there is something to that question. There are
 only three possible explanations to the mix of the blatant
 sentimentality of [I Forgot More Than You'll Ever
@@ -67,16 +67,16 @@ Either it was, as Dylan himself has explained, conceived as a collection
 of country standards, maybe inspired by the sessions with Johnny Cash in
 1969. This would imply that it's a serious effort. If so, it's the best
 proof that his muse was silent at the moment (as Paul Williams asks: if
-the tracks that ended up on <em>Self Portrait </em>and <em>Dylan</em>
-were just warm-ups for the band, then where are the <em>real</em>
+the tracks that ended up on *Self Portrait* and *Dylan*
+were just warm-ups for the band, then where are the *real*
 tracks?).
 
-Or it was, as Dylan himself has <em>also</em> explained, an attempt to
+Or it was, as Dylan himself has *also* explained, an attempt to
 shake off the annoying role of icon and voice of a generation that he
 felt he was being forced into and kept locked up in – a big “fuck you”
 to everyone caring to take it as a provocation. But why then the effort?
-There are more sessions for these albums (counting also <em>New
-Morning</em>) than for any other Dylan album. And why the inclusion of
+There are more sessions for these albums (counting also *New
+Morning*) than for any other Dylan album. And why the inclusion of
 tracks that are actually quite enjoyable, among the shit?
 
 Or was it, perhaps, an ironic kick in the butt to the country idiom, and
@@ -120,12 +120,12 @@ Wigwam stretches limits too, but mostly those of patience.
 <hr>
 Postscript II: I couldn't resist to put up this note, posted at r.m.d:
 
-<em>Hello-  
+*Hello-  
 Just picked this one up this afternoon. I have the following to say:
 That is \$11.99 and 74 minutes of my life that I'm never getting back.  
   
 Best,  
-    \~Ryan</em>
+    \~Ryan*
 
 </div>
 

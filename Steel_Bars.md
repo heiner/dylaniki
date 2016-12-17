@@ -92,7 +92,7 @@ Chords:
         D
     I'm still loving you
 
-    [<em> a cappella, choir</em>:]
+    [*a cappella, choir*:]
     Steel bars, wrapped all around me
     I've been your prisoner since the day you found me
     I'm bound forever, till the end of time...

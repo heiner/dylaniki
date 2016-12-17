@@ -23,9 +23,9 @@ Released Aug 12, 1981
 
 Outtakes:
 
--   [Need A Woman](Need A Woman) (released on <em>The Bootleg
-    Series 1-3</em>)
+-   [Need A Woman](Need A Woman) (released on *The Bootleg
+    Series 1-3*)
 -   [You Changed My Life](You Changed My Life) (released on
-    <em>The Bootleg Series 1-3</em>)
+    *The Bootleg Series 1-3*)
 -   [Yonder Comes Sin](Yonder Comes Sin)
 

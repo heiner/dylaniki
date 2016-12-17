@@ -104,7 +104,7 @@ C11 x3333x (could be played C7sus4 x33310)
     I am hanging in the balance of a perfect finished plan *)
     Like every sparrow falling, like every grain of sand.
 
-    *) On <em>Shot of Love</em> he sings "of the reality of man".
+    *) On *Shot of Love* he sings "of the reality of man".
 
 <h2 class="songversion">
 Shot of Love version

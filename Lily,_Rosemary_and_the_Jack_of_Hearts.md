@@ -100,12 +100,12 @@ Chords:
     He went to get the hangin' judge, but the hangin' judge was drunk,
     As the leading actor hurried by in the costume of a monk.
     There was no actor anywhere better than the Jack of Hearts.
-    <em>
+    *
     Lily's arms were locked around the man that she dearly loved to touch,
     She forgot all about the man she couldn't stand who hounded her so much.
     "I've missed you so," she said to him, and he felt she was sincere,
     But just beyond the door he felt jealousy and fear.
-    Just another night in the life of the Jack of Hearts.</em>
+    Just another night in the life of the Jack of Hearts.*
 
     No one knew the circumstance but they say that it happened pretty quick,
     The door to the dressing room burst open and a cold revolver clicked.
