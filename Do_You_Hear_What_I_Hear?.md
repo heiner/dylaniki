@@ -13,7 +13,7 @@ Tabbed by Eyolf Østrem
 
 Tabbed in A major (original key Bb major)
 
-The thing after the ‘Do you see …’ lines is in principle something like
+The thing after the ‘Do you see …' lines is in principle something like
 `A E D A/e`, but very thinly orchestrated, consisting mostly of the
 figures
 

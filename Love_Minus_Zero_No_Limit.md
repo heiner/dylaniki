@@ -91,10 +91,10 @@ be a hint of the bass strings, could be the middle strings):
 * * * * *
 
 <h3>
-*Don’t Look Back* version
+*Don't Look Back* version
 
 </h3>
-Below is the interlude between the verses, as played in *Don’t Look
+Below is the interlude between the verses, as played in *Don't Look
 Back* (the “Donovan” scene).
 
       C         Csus4 C Csus2 C                     G   F

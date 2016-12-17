@@ -6,7 +6,7 @@ tags:
  - Songs
 ---
 
-Words and Music Bob Dylan (but strongly based on Dominic Behan’s *The
+Words and Music Bob Dylan (but strongly based on Dominic Behan's *The
 Patriot Game*)  
 Released on [The Times They Are
 A-Changin'](The Times They Are A-Changin') (1963) and in live

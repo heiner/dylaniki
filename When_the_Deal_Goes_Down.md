@@ -6,7 +6,7 @@ tags:
  - Songs
 ---
 
-Words Bob Dylan, music more than vaguely resembling Bing Crosby ’s
+Words Bob Dylan, music more than vaguely resembling Bing Crosby 's
 trademark song “Where the Blue of the Night” by Roy Turk and Fred E.
 Ahlert  
 Released on [Modern Times](Modern Times) (2006)  

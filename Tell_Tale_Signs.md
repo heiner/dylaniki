@@ -21,18 +21,18 @@ Disc 1
     <em>Modern Times</em>, 2006)
 5.  [Red River Shore](Red River Shore) (unreleased, <em>Time
     Out Of Mind</em>, 1997)
-6.  [Tell Ol’ Bill](Tell Ol’ Bill) (alternate version, North
+6.  [Tell Ol' Bill](Tell Ol' Bill) (alternate version, North
     Country Soundtrack)
 7.  [Born In Time](Born In Time) (unreleased, <em>Oh
     Mercy!</em>, 1989)
-8.  [Can’t Wait](Can’t Wait) (alternate version, <em>Time Out
+8.  [Can't Wait](Can't Wait) (alternate version, <em>Time Out
     Of Mind</em>, 1997)
 9.  [Everything Is Broken](Everything Is Broken) (alternate
     version, <em>Oh Mercy!</em>, 1989)
-10. [Dreamin’ Of You](Dreamin’ Of You) (unreleased, <em>Time
+10. [Dreamin' Of You](Dreamin' Of You) (unreleased, <em>Time
     Out Of Mind</em>, 1997)
-11. [Huck’s Tune](Huck’s Tune) (from Lucky You soundtrack)
-12. [Marchin’ To The City](Marchin’ To The City) (unreleased,
+11. [Huck's Tune](Huck's Tune) (from Lucky You soundtrack)
+12. [Marchin' To The City](Marchin' To The City) (unreleased,
     <em>Time Out Of Mind</em>, 1997)
 13. [High Water (For Charlie
     Patton)](High Water (For Charlie Patton)) (live, 23 Aug
@@ -48,12 +48,12 @@ Disc 2
     Mercy!</em>, 1989)
 4.  [God Knows](God Knows) (unreleased, <em>Oh Mercy!</em>,
     1989)
-5.  [Can’t Escape From You](Can’t Escape From You)
+5.  [Can't Escape From You](Can't Escape From You)
     (unreleased, December 2005)
 6.  [Dignity](Dignity) (unreleased, <em>Oh Mercy!</em>, 1989)
 7.  Ring them Bells (live at the Supper Club, 1993)
 8.  [Cocaine Blues](Cocaine Blues) (live, 1997)
-9.  Ain’t Talkin’ (alternate version, <em>Modern Times</em>, 2006)
+9.  Ain't Talkin' (alternate version, <em>Modern Times</em>, 2006)
 10. [Girl on the Green Briar
     Shore](Girl on the Green Briar Shore) (live, 1992)
 11. [Lonesome Day Blues](Lonesome Day Blues) (live, 2002)

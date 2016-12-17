@@ -15,7 +15,7 @@ Tabbed by Eyolf Østrem
 Chords
 
 </h3>
-Don’t let the long names scare you off. Rule of thumb \#1: it will
+Don't let the long names scare you off. Rule of thumb \#1: it will
 rarely hurt to chop off from the end (e.g. E7-9 is just a spiced-up E7).
 Rule of thumb \#2: a plain 7 or m7 will usually work just fine.
 

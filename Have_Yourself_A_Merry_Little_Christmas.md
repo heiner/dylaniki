@@ -73,7 +73,7 @@ Chords
     Gmaj7     Em7
       Until then,
           Am7            B7          Em7    G7/6
-    we’ll have to muddle through somehow
+    we'll have to muddle through somehow
 
        Cmaj7      Bm7
     So have yourself

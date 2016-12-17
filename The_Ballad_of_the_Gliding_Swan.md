@@ -46,7 +46,7 @@ Spoken version
 
 </h3>
 This version of the text is recited after the song in one of the
-circulating snippets. I don’t know who reads them or who wrote them;
+circulating snippets. I don't know who reads them or who wrote them;
 they seem to be the “Captain Subtext” version.
 
 Tenderly William kissed his wife.  
@@ -61,8 +61,8 @@ a thalidomide baby with no eyes.
 Little Billy Brown will shake with fright.  
 He has a new uncle – every night.
 
-My father has cancer, my mother’s insane  
-The girl I’m in love with takes cocaine
+My father has cancer, my mother's insane  
+The girl I'm in love with takes cocaine
 
 When will the swan begin to sing?  
 I am weary of everything.

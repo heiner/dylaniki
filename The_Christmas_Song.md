@@ -102,8 +102,8 @@ interview](http://streetnewspapers.wordpress.com/2009/11/23/sns-exclusive-bob-dy
 BF: I think you did drop the “goodies” on the sleigh. Did something
 about that bother you?
 
-BD: No not really. I don’t think I thought of it until you mentioned it.
+BD: No not really. I don't think I thought of it until you mentioned it.
 I try my best to be exact, but sometimes things just fall away. We
 probably recorded the song, got the feel right and moved on. Most likely
-we didn’t even listen back. Just moved on to something else. I don’t
-think that’s something I would have noticed anyway.
+we didn't even listen back. Just moved on to something else. I don't
+think that's something I would have noticed anyway.

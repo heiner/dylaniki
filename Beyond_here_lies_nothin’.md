@@ -1,6 +1,6 @@
 ---
-title: Beyond here lies nothin’
-permalink: Beyond here lies nothin’
+title: Beyond here lies nothin'
+permalink: Beyond here lies nothin'
 layout: wiki
 tags:
  - Songs
@@ -100,4 +100,4 @@ Tabbed by Eyolf Østrem
     Listen to me pretty baby,
     Lay your hand upon my head.
     Beyond here lies nothin',
-    Nothin’ done and nothin’ said.
+    Nothin' done and nothin' said.

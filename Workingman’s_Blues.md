@@ -1,6 +1,6 @@
 ---
-title: Workingman’s Blues
-permalink: Workingman’s Blues
+title: Workingman's Blues
+permalink: Workingman's Blues
 layout: wiki
 tags:
  - Songs
@@ -16,13 +16,13 @@ Did you ever expect to hear a line like “The buying power of the
 proletariat's gone down” in a song lyric? Way to go, Bobby! In a
 straight line from [Ballad of Hollis
 Brown](Ballad of Hollis Brown), through the ''Farm Aid
-''initiative in the eighties, here’s one of the highlights of the album
+''initiative in the eighties, here's one of the highlights of the album
 — but more than a political statement, it is also a love-ballad.
 
 Musically, it is a close cousin of [Cross the Green
 Mountain](Cross the Green Mountain) with which it shares the
 ever-descending bass line and some of the chord shadings that never
-manage to decide whether they’re major or minor (and *which* minor they
+manage to decide whether they're major or minor (and *which* minor they
 are!).
 
 A stroke of genius is the G7 between the verses — the only place where

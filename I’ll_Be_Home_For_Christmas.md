@@ -1,6 +1,6 @@
 ---
-title: I’ll Be Home For Christmas
-permalink: I’ll Be Home For Christmas
+title: I'll Be Home For Christmas
+permalink: I'll Be Home For Christmas
 layout: wiki
 tags:
  - Songs

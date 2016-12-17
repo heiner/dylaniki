@@ -1,6 +1,6 @@
 ---
-title: It’s All Good
-permalink: It’s All Good
+title: It's All Good
+permalink: It's All Good
 layout: wiki
 tags:
  - Songs
@@ -13,7 +13,7 @@ Tabbed by Eyolf Østrem
 
 * * * * *
 
-Nothing much here, but I guess it’s all good. Or was it: it’s all G?
+Nothing much here, but I guess it's all good. Or was it: it's all G?
 
 Calling it “G” is a little too simple, by the way. It's one half G, one
 half Gm, one half G7, and the rest is an assortment of blues licks

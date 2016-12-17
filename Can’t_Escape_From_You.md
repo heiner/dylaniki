@@ -1,6 +1,6 @@
 ---
-title: Can’t Escape From You
-permalink: Can’t Escape From You
+title: Can't Escape From You
+permalink: Can't Escape From You
 layout: wiki
 tags:
  - Songs

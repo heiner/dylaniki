@@ -16,13 +16,13 @@ Tabbed by Eyolf Østrem
 Written out with a capo on the 1st fret (sounding key: Bb). Another
 alternative is to use a 3rd fret capo and the chords G, Em, Am, D11,
 which is easier to play, but misses the deep, full E sound for the last
-chord in each ‘round’.
+chord in each ‘round'.
 
 Lots of things going on here, even though it sounds simple enough.
 Especially the chord noted as an E11 is only vaguely defined.
 Alternatives to E11 are plain E, E7, or some other muddy version of E.
 
-The ‘last part of the day…’ part could be (and is, at least at one
+The ‘last part of the day…' part could be (and is, at least at one
 point) embellished as:
 
       E7      A/e       E7  A/e     E7    A
@@ -57,7 +57,7 @@ Chords:
 
     We got so much in common,
     we strive for the same old ends.
-    And I just can’t wait,
+    And I just can't wait,
     wait for us to become friends.
 
     I feel a change coming on,
@@ -72,7 +72,7 @@ Chords:
     and the fourth part of the day is already gone.
 
               D
-    Well now, what’s the use in dreamin’,
+    Well now, what's the use in dreamin',
             A
     you got better things to do.
     D
@@ -83,22 +83,22 @@ Chords:
     You are as whorish *) as ever.            *) or porous? I
     Baby, you can start a fire.                  like "whorish"...
     I must be losing my mind,
-    you’re the object of my desire.
+    you're the object of my desire.
 
     I feel a change coming on,
     and the fourth part of the day is already gone.
 
     [instrumental verse]
 
-    I’m listening to Billy Joe Shaver,
-    and I’m reading james Joyce.
+    I'm listening to Billy Joe Shaver,
+    and I'm reading james Joyce.
     Some people they tell me
     I got the blood of the land in my voice.
 
     Everybody got all the money,
     everybody got all the beautiful clothes,
     Everybody got all the flowers.
-    I don’t have one single rose.
+    I don't have one single rose.
 
     I feel a change coming on,
     and the fourth part of the day is already gone.

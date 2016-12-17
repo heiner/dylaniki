@@ -46,10 +46,10 @@ Tabbed by Eyolf Østrem
 
     Who's got a big red cherry nose
     [<span class="chorus">Santa's got a big red cherry nose</span>]
-    Who laughs this way ‘Ho, Ho, Ho!’
-    [<span class="chorus">Santa laughs this way ‘Ho, Ho, Ho!’</span>]
+    Who laughs this way ‘Ho, Ho, Ho!'
+    [<span class="chorus">Santa laughs this way ‘Ho, Ho, Ho!'</span>]
 
-    ‘Ho, Ho, Ho!’, cherry nose
+    ‘Ho, Ho, Ho!', cherry nose
     Cap on head, suit that's red
     Special night, beard that's white
     Must be Santa
@@ -68,7 +68,7 @@ Tabbed by Eyolf Østrem
     [<span class="chorus">Santa's little reindeer pull his sleigh</span>]
 
     Reindeer sleigh, come our way
-    ‘Ho, Ho, Ho!’, cherry nose
+    ‘Ho, Ho, Ho!', cherry nose
     Cap on head, suit that's red
     Special night, beard that's white
 
@@ -92,7 +92,7 @@ Tabbed by Eyolf Østrem
 
 
     Reindeer sleigh, come our way
-    ‘Ho, Ho, Ho!’, cherry nose
+    ‘Ho, Ho, Ho!', cherry nose
     Cap on head, suit that's red
     Special night, beard that's white
 

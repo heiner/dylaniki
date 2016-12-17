@@ -34,12 +34,12 @@ Clinton Heylin may have given the most adequate description, as “a
 typical Dylan session – flashes of sheer brilliance, improvisational
 flair, songs coming together and falling apart (in fairly equal measure)
 – in the studio” (Heylin: <em>Dylan Behind Closed Doors, the Recording
-Sessions [1960–1994]</em>). In other words: he can’t be all right all
+Sessions [1960–1994]</em>). In other words: he can't be all right all
 the time.
 
 In several of the songs, most notably in <em>[Ballad in Plain
 D](Ballad in Plain D) </em>and <em>[My Back
-Pages](My Back Pages), </em>it is evident that Dylan hasn’t
+Pages](My Back Pages), </em>it is evident that Dylan hasn't
 really learnt the chord changes properly before he started recording. In
 these two songs it is difficult to find two verses that are played in
 the same way. There are lots of temporary solutions. True enough, the

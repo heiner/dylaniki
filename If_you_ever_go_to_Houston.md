@@ -14,11 +14,11 @@ Tabbed by Eyolf Østrem
 * * * * *
 
 I decided to tab this relative to a capo on the first fret. The song is
-in F major, which means that you’ll have to play barre chords all the
+in F major, which means that you'll have to play barre chords all the
 way through. Feel free to do that instead, with the chords suggested at
 the end of the tab.
 
-Instead of the ‘slash chords’, one can use sus4-chords (thus Esus4–E,
+Instead of the ‘slash chords', one can use sus4-chords (thus Esus4–E,
 Asus4–A, and Dsus4–D).
 
 * * * * *

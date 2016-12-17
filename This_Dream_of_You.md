@@ -37,11 +37,11 @@ Chords:
 
     in this nowhere cafe
                      D
-    ’fore night turns into day?
+    'fore night turns into day?
              D
     I wonder why
 
-    I’m so frightened
+    I'm so frightened
        G
     of dawn
 
@@ -54,7 +54,7 @@ Chords:
                           G
     which keeps me living on
 
-    There’s a moment when
+    There's a moment when
     all old things
     become new again
     But that moment
@@ -82,7 +82,7 @@ Chords:
     Am I too blind to see?
     Is my heart
     playing tricks on me?
-    I’m lost in the crowd,
+    I'm lost in the crowd,
     all my tears
     are gone.
 
@@ -97,7 +97,7 @@ Chords:
     you are always here
     I run this race
     until my earthly death
-    I’ll defend this place
+    I'll defend this place
     with my dying breath
 
     From a cheerless room

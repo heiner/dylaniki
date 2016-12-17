@@ -22,7 +22,7 @@ Tabbed by Eyolf Østrem
                  Dm
     Every little detail
                       Am
-    you don’t remember at all.
+    you don't remember at all.
                  F
     The times we knew,
                 E7     Am
@@ -30,17 +30,17 @@ Tabbed by Eyolf Østrem
 
     Forgetful heart,
     we laughed and had a good time, you and I.
-    It’s been so long.
-    Now you’re content to let the days go by.
+    It's been so long.
+    Now you're content to let the days go by.
     When you were there,
     you were the answer to my prayer.
 
     Forgetful heart,
     we loved with all the love that life can give.
     What can I say?
-    Without you, it’s so hard to live.
-    Can’t take much more.
-    Why can’t we love like we did before.
+    Without you, it's so hard to live.
+    Can't take much more.
+    Why can't we love like we did before.
 
     Forgetful heart,
     like a walking shadow in my brain.

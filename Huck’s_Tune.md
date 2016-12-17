@@ -1,6 +1,6 @@
 ---
-title: Huck’s Tune
-permalink: Huck’s Tune
+title: Huck's Tune
+permalink: Huck's Tune
 layout: wiki
 tags:
  - Songs
@@ -84,5 +84,5 @@ Chords:
 \*) Cf. Peter Green's translation of Ovid's "Tristia and the Black Sea
 Letters", page 124: "if such a version of death can be called 'life.'"
 
-\*\*) Cf. Shakespeare’s *The Taming of the Shrew*, IV. 3: “Faith, as
+\*\*) Cf. Shakespeare's *The Taming of the Shrew*, IV. 3: “Faith, as
 cold as can be”. (the reference was communicated to me by Brad Sanders).

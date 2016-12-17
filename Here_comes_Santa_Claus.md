@@ -12,7 +12,7 @@ Released on [Christmas in the Heart](Christmas in the Heart)
 Tabbed by Eyolf Østrem
 
 All the Cs at the end of the verses are in principle C6s (x32210 or
-x35555). The final ‘tonight’s could be played
+x35555). The final ‘tonight's could be played
 
     G      C6
     355433 x35555
@@ -59,9 +59,9 @@ or something like that (or hire a choir).
     Here comes Santa Claus
     [<span class="chorus">Here comes Santa Claus</span>]
     Right down Santa Claus Lane
-    [<span class="chorus">He doesn’t care if you’re rich of poor</span>]
+    [<span class="chorus">He doesn't care if you're rich of poor</span>]
     for he loves you just the same
-    [<span class="chorus">Santa knows that we’re God’s children</span>]
+    [<span class="chorus">Santa knows that we're God's children</span>]
     and that makes everything right
     [<span class="chorus">Fill your hearts with Christmas cheer</span>]
     cause Santa Claus comes tonight.

@@ -49,7 +49,7 @@ In practice, it can take this form:
     |--------------------------|-3----
     |------------------1-------|------
 
-The turn at ‘I can’t be good no more’ goes like this:
+The turn at ‘I can't be good no more' goes like this:
 
       C       Dm7-5     F
       :   .   .   .     :   .

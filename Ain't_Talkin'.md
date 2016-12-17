@@ -1,6 +1,6 @@
 ---
-title: Ain’t Talkin’
-permalink: Ain’t Talkin’
+title: Ain't Talkin'
+permalink: Ain't Talkin'
 layout: wiki
 tags:
  - Songs

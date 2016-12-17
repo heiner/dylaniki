@@ -1,6 +1,6 @@
 ---
-title: Rollin’ and Tumblin’
-permalink: Rollin’ and Tumblin’
+title: Rollin' and Tumblin'
+permalink: Rollin' and Tumblin'
 layout: wiki
 tags:
  - Songs
@@ -9,7 +9,7 @@ tags:
 <img alt="" src="../graphics/roll-tumble.jpg" width="150" height="150">
 
 Words by Bob Dylan (most of them) (probably).  
-Music copied fairly exactly from McKinley Morganfield’s (aka Muddy
+Music copied fairly exactly from McKinley Morganfield's (aka Muddy
 Waters) version of the eponymous song, which was first recorded and
 possibly written by Hambone Willie Newbern around 1929.  
 Released on [Modern Times](Modern Times) (2006)  
@@ -21,7 +21,7 @@ Capoed 1st fret (sounding key Bb major)
 Lead guitar: open G tuning, capo 3rd fret
 
 The lead guitar part, as well as the arrangement as a whole, is almost
-note for note taken from Muddy Waters’ song of the same name.
+note for note taken from Muddy Waters' song of the same name.
 
 The riff between the lines is played like this on the open-tuned guitar:
 

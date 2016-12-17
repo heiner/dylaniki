@@ -9,7 +9,7 @@ tags:
 
 Trad.  
 Performed by Bob Dylan on the “East Orange Tape” (early 1961), and in an
-unreleased fragment from the *Don’t Look Back* (1965) material  
+unreleased fragment from the *Don't Look Back* (1965) material  
 Tabbed by Eyolf Østrem
 
 * * * * *

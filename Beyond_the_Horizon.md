@@ -6,7 +6,7 @@ tags:
  - Songs
 ---
 
-Words: Bob Dylan, music: taken from Jim Kennedy’s “Red Sails in the
+Words: Bob Dylan, music: taken from Jim Kennedy's “Red Sails in the
 Sunset”, covered by Nat King Cole, Fats Domino, and others  
 Released on [Modern Times](Modern Times) (2006)  
 Tabbed by Eyolf Østrem
@@ -18,11 +18,11 @@ Here are two different versions: one in E major (capo 1st fret), which
 gives a fuller sound and the option to play around with the
 E-E6-E7-plus-plus things up at the 7th fret and still use the open
 strings as a soundboard; another in D (capo 3rd fret), which is much
-easier to play, and doesn’t sound half bad at all.
+easier to play, and doesn't sound half bad at all.
 
-Don’t let all the long names scare you off: all the 6-es are there for
+Don't let all the long names scare you off: all the 6-es are there for
 the gently rocking groundwork, and the maj7-s and 9-s for the
-N’Orleans-ish fillings. Any of them can be dropped: play
+N'Orleans-ish fillings. Any of them can be dropped: play
 `E . . . | D7 . . .  |` etc instead if you wish.
 
 * * * * *

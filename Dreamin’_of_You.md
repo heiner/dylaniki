@@ -1,6 +1,6 @@
 ---
-title: Dreamin’ of You
-permalink: Dreamin’ of You
+title: Dreamin' of You
+permalink: Dreamin' of You
 layout: wiki
 tags:
  - Songs

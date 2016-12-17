@@ -1,6 +1,6 @@
 ---
-title: The Levee’s Gonna Break
-permalink: The Levee’s Gonna Break
+title: The Levee's Gonna Break
+permalink: The Levee's Gonna Break
 layout: wiki
 tags:
  - Songs

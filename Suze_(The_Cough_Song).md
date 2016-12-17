@@ -17,7 +17,7 @@ melody tone, such as in the first measure.
 
 Many of the things that are written in as hammer-ons or pull-offs in the
 tab, are really just the almost inevitable result of changing chords at
-breakneck speed. Don’t bother too much about it; if you are able to play
+breakneck speed. Don't bother too much about it; if you are able to play
 it at the correct speed, the effects will come out in any case.
 
 Capo 4th fret

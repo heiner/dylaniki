@@ -33,7 +33,7 @@ Eyolf Østrem
 
 </h3>
 While there is general agreement that no matter what one thinks about
-the lyrics on <em>Slow Train Coming</em>, musically it is one of Dylan’s
+the lyrics on <em>Slow Train Coming</em>, musically it is one of Dylan's
 strongest, the general verdict is not equally lenient with
 <em>Saved</em>. With its ghastly cover — rivalled in tackiness only by
 <em>Shot of Love</em> — and its unequivocal title, it has proved to be
@@ -44,7 +44,7 @@ excellent album, provided one can endure the obnoxious born-again
 evangelization. It may be a far cry from <em>Slow Train Coming</em> in
 the areas of polish and commercial appeal, but it has an energy, a
 punch, and a new approach to communication and message that is quite
-unique in Dylan’s production, and, as such, quite refreshing.
+unique in Dylan's production, and, as such, quite refreshing.
 
 It should be said, however, that this more positive verdict is only
 partly true if one refers to the published album. <em>Saved</em> is
@@ -65,7 +65,7 @@ on a record.
 This applies to the <strong>title track</strong>, a born-again statement
 if there ever was one, slightly too over-eager to be taken quite
 seriously (unless one shares the sentiment), perhaps, but a powerful and
-driving gospel rock number all the same, which I don’t mind listening
+driving gospel rock number all the same, which I don't mind listening
 to.
 
 The same could be said about the brother-in-arms,<strong> “Solid
@@ -75,26 +75,26 @@ World”); and, to an even higher degree, to <strong>“Pressing
 On”</strong> og <strong>“Are You Ready?”</strong> — the intensity that
 grows out of the slow build-up of these two songs during the live
 concerts can make even the hardest of heart jump to his feet and
-rejoice: “Yes! I’m ready! Take me, Bob! Take me with you!”, but that is
+rejoice: “Yes! I'm ready! Take me, Bob! Take me with you!”, but that is
 mostly lost in the album version.
 
-It probably couldn’t be any other way. None of the songs I’ve mentioned
+It probably couldn't be any other way. None of the songs I've mentioned
 are among his strongest — from the gospel period or any other — but
 their effect depends on <em>presence</em>: the <em>physical</em>
 presence of the person and the band producing a sound of wall to bang
-one’s head against, and the <em>temporal</em> presence, exploiting the
+one's head against, and the <em>temporal</em> presence, exploiting the
 contrast between the <em>indefiniteness</em> of not knowing where this
 is going to end, and the <em>inevitability</em> of the process set in
 motion by the first “on-an-don-an-don-an-doon”. In the absence that the
 record medium necessarily entails, some of that is naturally lost. But
 some remains (and five bonus points for trying).
 
-Besides, it doesn’t matter: there are strong songs left that <em>do</em>
+Besides, it doesn't matter: there are strong songs left that <em>do</em>
 make the transition from concert stage to recording studio. Partly,
 perhaps, because they are stronger songs altogether, but mainly because
-they don’t depend on the live situation to the same extent.
+they don't depend on the live situation to the same extent.
 
-<strong>“In The Garden”</strong> is easily Dylan’s most harmonically
+<strong>“In The Garden”</strong> is easily Dylan's most harmonically
 complex song, and although it shares some traits with the likes of
 “Saved”, such as the escalating intensity and the lyric repetitiveness,
 it depends more on the harmonic meandering to hold our attention.
@@ -103,7 +103,7 @@ Both <strong>“Covenant Woman”</strong> and <strong>“Saving
 Grace”</strong> are harmonically interesting, although not as wild as
 “In the Garden”. They are also touching, introspective reflections on
 the role of faith and salvation in the trials and tribulations of
-everyday life (at least that’s what a theologian might say about them).
+everyday life (at least that's what a theologian might say about them).
 Especially “Covenant Woman” stands out in this respect, in a way which
 transcends the religious sphere. Lines like:
 
@@ -113,24 +113,24 @@ He must have loved me so much to send me someone as fine as
 
 and
 
-I’ll always be right by your side — I’ve got
+I'll always be right by your side — I've got
 
 `   a covenant too.`
 
 work well with or without God in the equation.
 
 This leaves the two real gems. <strong>“What Can I Do For You”</strong>
-gives us Dylan’s best harmonica solos ever — for once captured better on
+gives us Dylan's best harmonica solos ever — for once captured better on
 an official album than in any live rendition, at least among the ones
-I’ve heard. It is inventive, it is raw, and it is fragile, all at the
+I've heard. It is inventive, it is raw, and it is fragile, all at the
 same time. (It may be an inappropriate kind of metaphor for this
-particular album, but there’s good sex in those two solos.) The sound of
+particular album, but there's good sex in those two solos.) The sound of
 the mix in general strikes me as a bit on the hard side, but the harp
 sound is unsurpassed.
 
 And last but not least, and the opener, <strong>“A Satisfied
-Mind”</strong>, which in my book is one of Dylan’s crowning achievements
-as a singer. It’s not powerful, it’s not showy, at times he breaks like
+Mind”</strong>, which in my book is one of Dylan's crowning achievements
+as a singer. It's not powerful, it's not showy, at times he breaks like
 a little girl, but there is an intimacy in the delivery which gives the
 message credibility and urgency. The interaction with the backing
 singers is exquisite all the way through, and although my mental image
@@ -139,8 +139,8 @@ which just grows as the song progresses. There happens remarkably much
 in a little less than two minutes.
 
 Have I made my point clear enough? Damn, this is one hell of an album.
-If you’re a godless heathen, don’t let the cover scare you away from
-this album. And if you’re a true believer, don’t let your benevolence
+If you're a godless heathen, don't let the cover scare you away from
+this album. And if you're a true believer, don't let your benevolence
 and agreement prevent the album from grabbing hold of you in ways and
 places you might not have expected.
 

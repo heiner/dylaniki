@@ -1,6 +1,6 @@
 ---
-title: Marchin’ to the City
-permalink: Marchin’ to the City
+title: Marchin' to the City
+permalink: Marchin' to the City
 layout: wiki
 tags:
  - Songs

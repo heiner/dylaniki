@@ -23,7 +23,7 @@ Peter Vincent has suggested the spelling Kaatskill, “because it was the
 spelling used by Washington Irving in the story of Rip Van Winkle, on
 which the song is based.” It is also the spelling that Bromberg used.
 Originally, I just couldn't bring myself to writing it that way – but
-I’ve changed my mind: Peter wins.
+I've changed my mind: Peter wins.
 
 * * * * *
 

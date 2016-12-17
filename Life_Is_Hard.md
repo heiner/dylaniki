@@ -20,8 +20,8 @@ Some playing suggestions:
     `Ebmaj7 . . Eb6 | Dm7 . Eaug E `  
     `   `
 
-2.  The record has the chromatic descent beginning at ‘I’m always
-    `   …’ played both in the bass line and in a higher`  
+2.  The record has the chromatic descent beginning at ‘I'm always
+    `   …' played both in the bass line and in a higher`  
     `   register. It is probably best to choose one of them;`  
     `   see chord suggestions below.`  
     `   `

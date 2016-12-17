@@ -53,7 +53,7 @@ Chords:
     You think He's just an errand boy to satisfy your wandering desires.
 
     You can't take it with you and you know that it's too worthless to be sold,
-    They tell you, ‘Time is money’ as if your life was worth its weight in gold.
+    They tell you, ‘Time is money' as if your life was worth its weight in gold.
 
     There a Man on a cross and He's been crucified for you,
     Believe in His power, that's about all you got to do.

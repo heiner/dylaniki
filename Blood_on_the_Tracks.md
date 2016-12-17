@@ -48,30 +48,30 @@ Introductory Notes
 Eyolf Østrem
 
 </h3>
-<em>Blood on the Tracks</em> is Dylan’s best album.
+<em>Blood on the Tracks</em> is Dylan's best album.
 
 Others may tell you that <em>Blonde on Blonde</em>, <em>Highway 61
-Revisited </em>or even <em>Desire </em>is his best album, but they’re
+Revisited </em>or even <em>Desire </em>is his best album, but they're
 wrong, and when pressed (up against the wall, and in the presence of a
 .44, if necessary), they will eventually agree.
 
-<em>Blood on the Tracks</em> is also Dylan’s best album in its released
+<em>Blood on the Tracks</em> is also Dylan's best album in its released
 form.
 
 Others may tell you that had he not tinkered with the songs, but left
 them alone as they were recorded in September 1974, it would have been a
 far better album, and that the songs that were rewritten and re-recorded
 over Christmas, with local Minnesotan musicians brought together by
-Dylan’s brother David, are inferior, both textually and musically, to
+Dylan's brother David, are inferior, both textually and musically, to
 the intensively emotional New York versions.
 
-They’re wrong even here, although they’re closer to the truth this time.
+They're wrong even here, although they're closer to the truth this time.
 In a one-to-one comparison between the two versions, the New York
 versions may get the upper hand (the one undisputable exception is “If
 You See Her, Say Hello”, but even “Lily, Rosemary and the Jack of
 Hearts” is better in the Minnesota version). But even if we were to
 define the New York versions of “Tangled up in Blue”, “Idiot Wind” and
-“You’re a Big Girl Now” as <em>perfection</em>, the Minnesota versions
+“You're a Big Girl Now” as <em>perfection</em>, the Minnesota versions
 are close enough to this level, musically, and the extra qualities they
 add to their New Yorkean counterparts (the rhythmical drive of
 “Tangled”, the angered bite of “Idiot Wind”, the softness of “Big
@@ -79,15 +79,15 @@ Girl”), more than make up for the lyric changes. In the case of “Idiot
 Wind”, these are generally to the better.
 
 But single songs is one thing – an album is another. And this is the
-real reason why the re-designed album was a good idea. Let’s compare
+real reason why the re-designed album was a good idea. Let's compare
 them: On the one hand you have an album that starts with the
 cross-continental tour (de force) of the never-surpassed masterpiece
 “Tangled up in Blue”, coast to coast, north to south, performed with the
 same restless, unhesitant intensity that the lyrics reveal – revolution
 in the air, indeed; continues with the sleepy drama of “Simple Twist”
-and the bitter-sweet tenderness of “You’re a Big Girl Now” (which one of
-these two is Dylan’s best song?), the rage of “Idiot Wind”, seemingly
-mellowed by the lyricism of “You’re Gonna Make Me Lonesome” (“seemingly”
+and the bitter-sweet tenderness of “You're a Big Girl Now” (which one of
+these two is Dylan's best song?), the rage of “Idiot Wind”, seemingly
+mellowed by the lyricism of “You're Gonna Make Me Lonesome” (“seemingly”
 because the lyricism of the lazy river and the crimson hair can only
 heighten the pain brought about by the inevitable loss of all this –
 this must be the best song of the album); then exquisite blues;
@@ -105,22 +105,22 @@ I know which album I prefer.
 That said, the most interesting <em>musical </em>remarks concern the New
 York versions. This is of course mainly owing precisely to the open
 tuning. The biographies (i.e. Heylin) say that Dylan had learned the
-open D/E tuning from Joni Mitchell (I’ll refer to it as “open E”
-hereafter). This can’t be all true, since Dylan used this tuning
+open D/E tuning from Joni Mitchell (I'll refer to it as “open E”
+hereafter). This can't be all true, since Dylan used this tuning
 extensively during the recording of
-<em>[Freewheelin’](Freewheelin’). </em>He does use it in a
+<em>[Freewheelin'](Freewheelin'). </em>He does use it in a
 quite different way, though.
 
 The center of gravity in the open-tuning <em>Blood on the Tracks
 </em>songs, is the root chord E=054000 (or 054300). It may seem odd to
 use a chord like this, when you have the same chord on the open strings
-– after all, that’s the whole point of open tuning, isn’t it?
+– after all, that's the whole point of open tuning, isn't it?
 
 Well, not quite. Beginners – like the Dylan of
-[Freewheelin’](Freewheelin’) – may find the 000000 chord
+[Freewheelin'](Freewheelin') – may find the 000000 chord
 convenient. But a more proficient and mature player like 1974-Dylan,
 realizes that it has a series of disadvantages compared to 054000.
-First, an open string is like a binary number: it’s either on or off,
+First, an open string is like a binary number: it's either on or off,
 and beyond that, there is really nothing much you can do about it,
 whereas a skilled instrumentalist has a far greater control of the tone
 quality once there is a finger on the string. Second, the uncontrolled
@@ -133,7 +133,7 @@ fourth string. This shimmering, doubled tone is essential to the sound
 of the album. This is the “third”, the tone which decides whether a
 chord is minor or major. Here it is major, emphatically so. Odd, maybe,
 for an album so full of sadness, but effective all the same. Fourth, one
-should not underestimate the value of having somewhere to place one’s
+should not underestimate the value of having somewhere to place one's
 fingers. Besides, fingering a chord also means holding the guitar still…
 
 So much for 054000 (did I say that I like that chord quite a lot?). the
@@ -145,7 +145,7 @@ of the chord. Not until the third string is there an A. Instead, the
 chord is dominated by the tone E, on strings 1, 4 and 6. And, in fact,
 this A in this tuning is most of all an embellishing variant of the main
 E sonority. This is precisely the same function as the C chord has in
-Dylan’s most cherished figure: G-C/g-G (320003-3x2013-320003). This
+Dylan's most cherished figure: G-C/g-G (320003-3x2013-320003). This
 “embellished E” character is emphasized by the alternative fingering
 020100, where the open b string adds yet another tone from the E major
 chord. In [Buckets of Rain](Buckets of Rain), where the 5th
@@ -155,9 +155,9 @@ should be regarded as an A or as an Esus4.
 Even the B is different: x02120 is its standard form, and where the A
 was merely a variant of E, this B is merely a variant of A. This
 conflation of A and B (or in general, and more technical, terms: the
-subdominant and the dominant) has a name: it’s called B11, and is
+subdominant and the dominant) has a name: it's called B11, and is
 basically an A chord paired with a B in the bass. This is a very
-frequent chord, especially in Dylan’s production after Blood on the
+frequent chord, especially in Dylan's production after Blood on the
 Tracks. Part of the explanation is that 11th chords are central in the
 gospel tradition, which Dylan dived into shortly afterwards, but it is
 not either impossible that he discovered its sweetness through the use
@@ -178,7 +178,7 @@ Two more figures should be mentioned:
 |-4---2---0-| |-(4)--4---2----0---(4)-| |-5---4---2-|
 |-(5)-----------2---(5)-| |-0---0---0-| |-(0)--0------------(0)-|</tab>
 Although they go in opposite directions (E-B-A and G\#m/B-A-E), they are
-closely related, tonally. Look at the 4th string: that’s what it’s all
+closely related, tonally. Look at the 4th string: that's what it's all
 about. Both figures are realizations of the basic progression g\#-f\#-e
 (try it!), but this progression is given different functions through
 different harmonizations. In the first figure, <em>g\# </em>is home base
@@ -188,7 +188,7 @@ Me](Up to Me)). In the second this is reversed: here
 related), and <em>e</em> brings resolution to the phrase by landing on
 the tonic (see [You're a Big Girl
 Now](You're a Big Girl Now)). (I doubt that Dylan is aware of
-this, but it’s a neat little twin-figure all the same).
+this, but it's a neat little twin-figure all the same).
 
 These few elements account for most of the songs on the album. Some of
 the songs stand out by employing other effects. The second figure above

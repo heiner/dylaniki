@@ -1,6 +1,6 @@
 ---
-title: The Times They Are A-Changin’
-permalink: The Times They Are A-Changin’
+title: The Times They Are A-Changin'
+permalink: The Times They Are A-Changin'
 layout: wiki
 ---
 
