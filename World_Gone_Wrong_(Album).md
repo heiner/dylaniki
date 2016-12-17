@@ -6,10 +6,9 @@ tags:
  - Albums
 ---
 
-Recorded May 1993  
+Recorded May 1993
 Released Oct 26, 1993
 
-<div id="songs">
 1.  [World Gone Wrong](World Gone Wrong)
 2.  [Love Henry](Love Henry)
 3.  [Ragged &amp; Dirty](Ragged &amp; Dirty)
@@ -21,16 +20,10 @@ Released Oct 26, 1993
 9.  [Jack-A-Roe](Jack-A-Roe)
 10. [Lone Pilgrim](Lone Pilgrim)
 
-</div>
-<div id="intro">
-<h2>
-Introductory Remarks
+## Introductory Remarks
 
-</h2>
-<h3>
-Eyolf Østrem
+### Eyolf Østrem
 
-</h3>
 *World Gone Wrong* (1993) is a body. Not just a great body of
 work, but a body.
 
@@ -40,10 +33,8 @@ voice, whether he speaks guitar, harmonica, or English.
 
 I'll try to make it a little clearer.
 
-<h3>
-Not-a-one-man-band
+### Not-a-one-man-band
 
-</h3>
 Perhaps if I start by saying what it's not: The tracks on *World Gone
 Wrong* are not those of a one-man band, a skilled display by a
 person who can speak different languages at the same time, or, more
@@ -55,10 +46,8 @@ guitar, language, harmonica, rhythm, sound — come together and blend
 into one; *here* more than on any other Dylan album (or any album
 whatsoever, probably).
 
-<h3>
-You speak to me in body language
+### You speak to me in body language
 
-</h3>
 It is as if the different parts of the performance represent different
 facets of the same language, which materialize first as ‘mouth language'
 (which is not to be confused with spoken language): voice range, talking
@@ -111,10 +100,8 @@ strokes on the strings — a slightly harder strum here, a vaguely
 noticeable tempo gain or hesitation there. The strokes set and adjust to
 a pace: the guitar breathes.
 
-<h3>
-The Limbs of the Body
+### The Limbs of the Body
 
-</h3>
 Among the individual performances, I have favourites, of course,
 musically speaking. But at the other end, I really can't pick any of
 them out as superfluous, just as little as I can tell which finger I
@@ -188,8 +175,8 @@ differences are hinted at more than stated.
 <div style="float: right;  width: 40%; margin-left: 20px;">
 <img style="width: 100%;" title="body" src="http://oestrem.com/thingstwice/wp-content/uploads/2009/03/body.png" alt="World Gone Wrong: a body in sound">World
 Gone Wrong: a body in sound
-
 </div>
+
 It is as if he is saying: this may be a song with a fixed verse and
 chord structure, but musically, this isn't poetry, it's prose. It's a
 human talking freely, someone speaking guitar — not someone following
@@ -228,6 +215,3 @@ around here: I hear the lyrics as a commentary to the music. If I can
 identify with the ragged and dirty one who sneaks out the back door when
 his lover's husband comes home, it is because I can identify first with
 the riff and the bodily state it puts me in.
-
-</div>
-

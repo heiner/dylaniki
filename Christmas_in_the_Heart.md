@@ -9,7 +9,6 @@ tags:
 
 Released October 13, 2009
 
-<div id="songs">
 1.  [Here Comes Santa Claus](Here Comes Santa Claus)
 2.  [Do You Hear What I Hear](Do You Hear What I Hear)
 3.  [Winter Wonderland](Winter Wonderland)
@@ -29,12 +28,8 @@ Released October 13, 2009
 14. [The Christmas Song](The Christmas Song)
 15. [O Little Town Of Bethlehem](O Little Town Of Bethlehem)
 
-</div>
-<div id="intro">
-<h2>
-Introductory Remarks
+## Introductory Remarks
 
-</h2>
 I love this album. It's a perfect follow-up, not to Dylan's trilogy of
 albums vacuum-cleaning the American song tradition for inspiration, but
 to his Theme Time Radio Hour. (And for the record, my negative
@@ -70,10 +65,8 @@ communicate that love, at least to *this* listener.
 And when love is communicated, what more can one ask? Have yourselves a
 merry Christmas!
 
-<h3>
-Dylan and tradition
+### Dylan and tradition
 
-</h3>
 Quite a lot has been made out of the fact that this is a 1950s version
 of the American christmas song tradition. Someone pointed out that seven
 of the songs are from Frank Sinatra's 1957 *A Jolly Christmas*
@@ -85,20 +78,18 @@ remark about harmony. If there is one thing that runs through Dylan's
 *entire* production, all period included, it is his consistent
 avoidance of the plain dominant, especially the dominant seventh: the
 strong harmonic tension generator, which is resolved to the key note,
-e.g. `G7 -&gt; C`. Even when he plays covers, or when he relates to
+e.g. `G7 -> C`. Even when he plays covers, or when he relates to
 fixed genres, such as the blues, he usually finds ways to modify the
 dominant relation.
 
 Not so here. In no other Dylan album will one find as many chains of
 dominant seventh as here. Just a sample:
 
-<div style="line-height: 100%;">
     Christmas blues                        | F#7   B7 E7  A7 Dmaj7
     I'll be home for christmas             | Bm7-5 E7 Am7 D7 G
     Here comes Santa Claus                 |       A7 Dm7 G7 C
     Have yourself a merry Iittle Christmas | B7    E7 A7  D7 Gmaj7
 
-</div>
 This is not in itself surprising – that's how the songs were written,
 and the room for taking liberties is smaller in this genre than in folk
 and blues. What is interesting about it, is the degree to which (and the
@@ -113,10 +104,8 @@ recognize the melody” treatment. And he does it wonderfully. He takes
 his mastery of vocal delivery into this – for him, as a public persona –
 foreign territory, and does it convincingly.
 
-<h3>
-Dylan and religion
+### Dylan and religion
 
-</h3>
 This one is inevitable when Dylan chooses to make a Christmas album.
 What does he mean with it? Is it a clear sign that he's still a
 Christian, or is it a just as clear sign of the opposite; that it's all
@@ -133,13 +122,13 @@ toys.
 
 But then, in the third verse:
 
-[He doesn't care if you're rich or poor]  
+[He doesn't care if you're rich or poor]
 for he loves you just the same
 
 Oh, that was Santa, was it? For a moment there, I thought I was in the
 wrong song – I thought that was Christ or something.
 
-[Santa knows that we're God's children]  
+[Santa knows that we're God's children]
 and that makes everything right
 
 OK, so it was something in that direction after all. From here to the
@@ -161,6 +150,3 @@ total disaster. Dylan seems to have been staring into that abyss for
 quite some time, ever since he first tried to shake off the yoke of
 being some Generation's Voice. *Christmas in the Heart* is a sign
 that he is finally free.
-
-</div>
-

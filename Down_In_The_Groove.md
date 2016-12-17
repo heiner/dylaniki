@@ -6,10 +6,9 @@ tags:
  - Albums
 ---
 
-Recorded: Aug 1986 to May 1987  
+Recorded: Aug 1986 to May 1987
 Released: May 31, 1988
 
-<div id="songs">
 1.  [Let's Stick Together](Let's Stick Together)
 2.  [When Did You Leave Heaven?](When Did You Leave Heaven?)
 3.  [Sally Sue Brown](Sally Sue Brown)
@@ -27,16 +26,10 @@ Outtake:
 
 -   [Important Words](Important Words)
 
-</div>
-<div id="intro">
-<h2>
-Introductory Remarks
+## Introductory Remarks
 
-</h2>
-<h3>
-Eyolf Østrem
+### Eyolf Østrem
 
-</h3>
 *Down in the Groove* came at a time when Dylan wasn't exactly at
 the zenith of his powers as a recording artist. His struggles with the
 modern recording techniques (at the time mostly resulting in lost
@@ -102,6 +95,3 @@ To Me](Rank Strangers To Me) is one of the reasons to have
 this one on CD – not because of the sound, but
 
 because of the repeat button.
-
-</div>
-

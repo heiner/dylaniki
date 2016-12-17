@@ -6,10 +6,9 @@ tags:
  - Albums
 ---
 
-Recorded: Oct/Nov 1967  
+Recorded: Oct/Nov 1967
 released: Dec 27, 1967
 
-<div id="songs">
 1.  [John Wesley Harding](John Wesley Harding)
 2.  [As I Went Out One Morning](As I Went Out One Morning)
 3.  [I Dreamed I Saw St.
@@ -25,16 +24,10 @@ released: Dec 27, 1967
 11. [Down Along the Cove](Down Along the Cove)
 12. [I'll Be Your Baby Tonight](I'll Be Your Baby Tonight)
 
-</div>
-<div id="intro">
-<h2>
-Introductory remarks
+## Introductory remarks
 
-</h2>
-<h3>
-Eyolf Østrem
+### Eyolf Østrem
 
-</h3>
 There are three general remarks to be made about this album. One is the
 consistent use of the capo. Several of the songs ([John Wesley
 Harding](John Wesley Harding), [All Along the
@@ -67,6 +60,3 @@ directly, IMHO.
 One song stands out – in the negative sense: the [John Wesley
 Harding](John Wesley Harding). It was what kept me from
 buying the record for several years.
-
-</div>
-

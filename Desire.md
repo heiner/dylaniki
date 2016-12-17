@@ -6,10 +6,9 @@ tags:
  - Albums
 ---
 
-Recorded July 1975  
+Recorded July 1975
 Released Jan 16 1976
 
-<div id="songs">
 1.  [Hurricane](Hurricane)
 2.  [Isis](Isis)
 3.  [Mozambique](Mozambique)
@@ -28,19 +27,13 @@ Outtakes:
 -   [Golden Loom](Golden Loom)
 -   [Catfish](Catfish)
 
-</div>
-<div id="intro">
-<h2>
-Introductory remarks
+## Introductory remarks
 
-</h2>
-<h3>
-Eyolf Østrem
+### Eyolf Østrem
 
-</h3>
 In a
-<span href="http://oestrem.com/thingstwice/2009/02/things-twice-the-book-now-in-html/#comment-42999" id="Things Twice">blog
-post</span>, Oisin O'Faghain suggested I write the following about
+<a href="http://oestrem.com/thingstwice/2009/02/things-twice-the-book-now-in-html/#comment-42999" id="Things Twice">blog
+post</a>, Oisin O'Faghain suggested I write the following about
 *Desire*:
 
 I think Dylan's best singing is on *Desire* and Rolling Thunder
@@ -61,6 +54,3 @@ myself, eventually, but until I do, the above stands, with the possible
 qualification that it should start: “While I listen to *Desire*,
 I tend to forget that Dylan's best singing happened a few years later,
 during the Gospel period.”
-
-</div>
-

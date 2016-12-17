@@ -6,10 +6,9 @@ tags:
  - Albums
 ---
 
-Recorded Feb 11-15 1980  
+Recorded Feb 11-15 1980
 Released June 20 1980
 
-<div id="songs">
 1.  [A Satisfied Mind](A Satisfied Mind) (incl. live version,
     1999)
 2.  [Saved](Saved)
@@ -22,16 +21,10 @@ Released June 20 1980
 8.  [Saving Grace](Saving Grace)
 9.  [Are You Ready?](Are You Ready?)
 
-</div>
-<div id="intro">
-<h2>
-Introductory Remarks
+## Introductory Remarks
 
-</h2>
-<h3>
-Eyolf Østrem
+### Eyolf Østrem
 
-</h3>
 While there is general agreement that no matter what one thinks about
 the lyrics on *Slow Train Coming*, musically it is one of Dylan's
 strongest, the general verdict is not equally lenient with
@@ -62,17 +55,17 @@ numbers of praise and thanksgiving, which come better into its own from
 a stage, where extatically jubilant confession seems more natural than
 on a record.
 
-This applies to the <strong>title track</strong>, a born-again statement
+This applies to the **title track**, a born-again statement
 if there ever was one, slightly too over-eager to be taken quite
 seriously (unless one shares the sentiment), perhaps, but a powerful and
 driving gospel rock number all the same, which I don't mind listening
 to.
 
-The same could be said about the brother-in-arms,<strong> “Solid
-Rock”</strong> (or, as the full title goes when it is presented during
+The same could be said about the brother-in-arms, *“Solid
+Rock”** (or, as the full title goes when it is presented during
 the shows: “Hanging On To A Solid Rock Made Before The Foundation Of The
-World”); and, to an even higher degree, to <strong>“Pressing
-On”</strong> og <strong>“Are You Ready?”</strong> — the intensity that
+World”); and, to an even higher degree, to **“Pressing
+On”** og **“Are You Ready?”** — the intensity that
 grows out of the slow build-up of these two songs during the live
 concerts can make even the hardest of heart jump to his feet and
 rejoice: “Yes! I'm ready! Take me, Bob! Take me with you!”, but that is
@@ -94,32 +87,28 @@ make the transition from concert stage to recording studio. Partly,
 perhaps, because they are stronger songs altogether, but mainly because
 they don't depend on the live situation to the same extent.
 
-<strong>“In The Garden”</strong> is easily Dylan's most harmonically
+**“In The Garden”** is easily Dylan's most harmonically
 complex song, and although it shares some traits with the likes of
 “Saved”, such as the escalating intensity and the lyric repetitiveness,
 it depends more on the harmonic meandering to hold our attention.
 
-Both <strong>“Covenant Woman”</strong> and <strong>“Saving
-Grace”</strong> are harmonically interesting, although not as wild as
+Both **“Covenant Woman”** and **“Saving
+Grace”** are harmonically interesting, although not as wild as
 “In the Garden”. They are also touching, introspective reflections on
 the role of faith and salvation in the trials and tribulations of
 everyday life (at least that's what a theologian might say about them).
 Especially “Covenant Woman” stands out in this respect, in a way which
 transcends the religious sphere. Lines like:
 
-He must have loved me so much to send me someone as fine as
-
-`   you.`
+> He must have loved me so much to send me someone as fine as you.
 
 and
 
-I'll always be right by your side — I've got
-
-`   a covenant too.`
+> I'll always be right by your side — I've got a covenant too.
 
 work well with or without God in the equation.
 
-This leaves the two real gems. <strong>“What Can I Do For You”</strong>
+This leaves the two real gems. **“What Can I Do For You”**
 gives us Dylan's best harmonica solos ever — for once captured better on
 an official album than in any live rendition, at least among the ones
 I've heard. It is inventive, it is raw, and it is fragile, all at the
@@ -128,8 +117,8 @@ particular album, but there's good sex in those two solos.) The sound of
 the mix in general strikes me as a bit on the hard side, but the harp
 sound is unsurpassed.
 
-And last but not least, and the opener, <strong>“A Satisfied
-Mind”</strong>, which in my book is one of Dylan's crowning achievements
+And last but not least, and the opener, **“A Satisfied
+Mind”**, which in my book is one of Dylan's crowning achievements
 as a singer. It's not powerful, it's not showy, at times he breaks like
 a little girl, but there is an intimacy in the delivery which gives the
 message credibility and urgency. The interaction with the backing
@@ -143,6 +132,3 @@ If you're a godless heathen, don't let the cover scare you away from
 this album. And if you're a true believer, don't let your benevolence
 and agreement prevent the album from grabbing hold of you in ways and
 places you might not have expected.
-
-</div>
-

@@ -6,10 +6,9 @@ tags:
  - Albums
 ---
 
-Recorded: April 24, 1962–April 24, 1963  
+Recorded: April 24, 1962–April 24, 1963
 Released: May 27, 1963
 
-<div id="songs">
 1.  [Blowin' in the Wind](Blowin' in the Wind)
 2.  [Girl of the North Country](Girl of the North Country)
 3.  [Masters of War](Masters of War)
@@ -52,16 +51,10 @@ Outtakes:
 -   [Baby, Please Don't Go](Baby, Please Don't Go)
 -   [Wichita Blues](Wichita Blues)
 
-</div>
-<div id="intro">
-<h2>
-Introductory notes
+## Introductory notes
 
-</h2>
-<h3>
-Eyolf Østrem
+### Eyolf Østrem
 
-</h3>
 Ah, but what can I say…! This is the album that is responsible for my
 addiction to Dylan (and not because I bought it when it was released).
 It is not the one I play most regularly, but whenever I pick it out, I
@@ -117,8 +110,4 @@ Wind](Blowin' in the Wind). Another (I think related) feature
 is the many ways he uses to avoid the dominant, such as the turn C –
 Gadd4/b – G in [Blowin' in the Wind](Blowin' in the Wind) and
 [Bob Dylan's Dream](Bob Dylan's Dream), about
-
 which I intend to write a little piece some day.
-
-</div>
-

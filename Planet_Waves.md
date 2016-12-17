@@ -6,7 +6,7 @@ tags:
  - Albums
 ---
 
-Recorded Nov 1973  
+Recorded Nov 1973
 Released Jan 17, 1974
 
 1.  [On a Night Like This](On a Night Like This)
@@ -23,6 +23,5 @@ Released Jan 17, 1974
 
 Outtake:
 
--   [Nobody 'Cept You](Nobody 'Cept You) (released on *The
-    Bootleg Series 1-3*)
-
+- [Nobody &#39;Cept You](Nobody &#39;Cept You)
+  (released on *The Bootleg Series 1-3*)

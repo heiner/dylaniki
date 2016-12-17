@@ -8,7 +8,6 @@ tags:
 
 Released September 11, 2012
 
-<div id="songs">
 1.  [Duquesne Whistle](Duquesne Whistle)
 2.  [Soon After Midnight](Soon After Midnight)
 3.  [Narrow Way](Narrow Way)
@@ -19,6 +18,3 @@ Released September 11, 2012
 8.  [Tin Angel](Tin Angel)
 9.  [Tempest](Tempest)
 10. [Roll On John](Roll On John)
-
-</div>
-

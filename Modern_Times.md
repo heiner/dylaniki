@@ -6,10 +6,9 @@ tags:
  - Albums
 ---
 
-Recorded ?  
+Recorded ?
 Released Aug 29, 2006
 
-<div id="songs">
 1.  [Thunder on the Mountain](Thunder on the Mountain)
 2.  [Spirit on the Water](Spirit on the Water)
 3.  [Rollin' and Tumblin'](Rollin' and Tumblin')
@@ -21,16 +20,10 @@ Released Aug 29, 2006
 9.  [The Levee's Gonna Break](The Levee's Gonna Break)
 10. [Ain't Talkin'](Ain't Talkin')
 
-</div>
-<div id="intro">
-<h2>
-Introductory Remarks
+## Introductory Remarks
 
-</h2>
-<h3>
-Eyolf Østrem
+### Eyolf Østrem
 
-</h3>
 The question is not so much: “Is this a good Dylan album?” – which it is
 – as “Is this a Dylan album?” – which it isn't.
 
@@ -131,14 +124,11 @@ with David Gates, who interviewed Dylan for Newsweek after
 *Chronicles* came out, Gates answered questions from the
 audience. One of them was:
 
-`       Did Bob share any details with you regarding the songs for his next album? What's the scoop?`  
-`     `
+> Did Bob share any details with you regarding the songs for his next album? What's the scoop?
 
-`        And the answer was:`  
-`     `
+And the answer was:
 
-`       David Gates: Really only that he's working on them. he did say he's written a song based on the melody from a Bing Crosby song, “Where the Blue of the Night (Meets the Gold of the Day).” How much it'll actually sound like that is anybody's guess. [From `[[`http://www.msnbc.msn.com/id/6099027/site/newsweek/`](http://www.msnbc.msn.com/id/6099027/site/newsweek/)](http://www.msnbc.msn.com/id/6099027/site/newsweek/)`. Thanks to Jörgen Lindström for directing my attention to this.]`  
-`    `
+> David Gates: Really only that he's working on them. he did say he's written a song based on the melody from a Bing Crosby song, “Where the Blue of the Night (Meets the Gold of the Day).” How much it'll actually sound like that is anybody's guess. [From [[http://www.msnbc.msn.com/id/6099027/site/newsweek/](http://www.msnbc.msn.com/id/6099027/site/newsweek/)](http://www.msnbc.msn.com/id/6099027/site/newsweek/). Thanks to Jörgen Lindström for directing my attention to this.]
 
 We now know the answer to the last question: Not much, actually.
 Although the song structure and he chords are identical, the phrasing,
@@ -203,9 +193,9 @@ the manager's uncle, which places it in a completely different context.
 Besides, as [Nick Manho](http://nickmanho.blogspot.com) said on the
 dylanpool (making a point that he had borrowed/stolen from emily smith):
 
-The difference between Bob ripping off the blues guys in the 60s and Bob
-ripping off the blues guys now is that *in the 60s Bob's rip-offs
-were better than the originals*.
+> The difference between Bob ripping off the blues guys in the 60s and Bob
+> ripping off the blues guys now is that *in the 60s Bob's rip-offs
+> were better than the originals*.
 
 There's a point in that. Not that quality would be a justification for
 rip-offs, nor that the statement is *always* true, taken
@@ -216,6 +206,3 @@ something which adds something to the input. The point of standing on
 others' shoulders should be to see farther, not to stand taller. 'Being
 in the folk tradition' isn't a valid excuse for acting more like a
 thieving bastard than as a creative musician with a rich heritage.
-
-</div>
-

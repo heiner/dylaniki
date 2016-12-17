@@ -7,14 +7,11 @@ tags:
  - Open D/E tuning
 ---
 
-Recorded Sept/Dec 1974,  
+Recorded Sept/Dec 1974,
 released Jan 20, 1975
 
-<div id="songs">
-<center>
-<http://www.bobdylan.com/sites/www.bobdylan.com/files/imagecache/thumb_100/bloodonthetracks_0.jpg>
+![Blood on the Tracks](http://dylanchords.info/graphics/blood.jpg)
 
-</center>
 1.  [Tangled Up in Blue](Tangled Up in Blue)
     ([mini-essay](http://dylanchords.info/professors/tangled_up_in_tangled_up_in_blue.htm)
     about the song and its many incarnations)
@@ -33,21 +30,14 @@ released Jan 20, 1975
 
 Outtakes:
 
--   [Up to Me](Up to Me) (released on *Biograph*,
-    1985)
+-   [Up to Me](Up to Me) (released on *Biograph*, 1985)
 -   [Call Letter Blues](Call Letter Blues) (Released on
     *The Bootleg Series 1–3*, 1991)
 
-</div>
-<div id="intro">
-<h2>
-Introductory Notes
+## Introductory Notes
 
-</h2>
-<h3>
-Eyolf Østrem
+### Eyolf Østrem
 
-</h3>
 *Blood on the Tracks* is Dylan's best album.
 
 Others may tell you that *Blonde on Blonde*, *Highway 61
@@ -169,14 +159,15 @@ Me](Up to Me) he uses the barre 777777.
 
 Two more figures should be mentioned:
 
-`   `<tab>  
-`                       G#m/`  
-` E B(iii) A         E Emaj7 B    A    E`
+                            G#m/
+      E B(iii) A         E Emaj7 B    A    E
+    |-0---0---0-|     |-(0)--0---0----0---(0)-|
+    |-0---0---0-|     |-(0)--4---2----2---(0)-|
+    |-0---0---1-| and |-(0)--3---1-or-1---(0)-|
+    |-4---2---0-|     |-(4)--4---2----0---(4)-|
+    |-5---4---2-|     |-(5)-----------2---(5)-|
+    |-0---0---0-|     |-(0)--0------------(0)-|
 
-|-0---0---0-| |-(0)--0---0----0---(0)-| |-0---0---0-|
-|-(0)--4---2----2---(0)-| |-0---0---1-| and |-(0)--3---1-or-1---(0)-|
-|-4---2---0-| |-(4)--4---2----0---(4)-| |-5---4---2-|
-|-(5)-----------2---(5)-| |-0---0---0-| |-(0)--0------------(0)-|</tab>
 Although they go in opposite directions (E-B-A and G\#m/B-A-E), they are
 closely related, tonally. Look at the 4th string: that's what it's all
 about. Both figures are realizations of the basic progression g\#-f\#-e
@@ -202,6 +193,3 @@ holds this debate in the area of the tonic E itself, in the blues
 manner.
 
 (Did I mention that this is a tremendous album?)
-
-</div>
-
