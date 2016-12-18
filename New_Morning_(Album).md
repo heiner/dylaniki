@@ -6,10 +6,9 @@ tags:
  - Albums
 ---
 
-Recorded Mar-June 1970  
+Recorded Mar-June 1970
 Released Oct 21, 1970
 
-<div id="songs">
 1.  [If Not for You](If Not for You)
 2.  [Day of the Locusts](Day of the Locusts)
 3.  [Time Passes Slowly](Time Passes Slowly)
@@ -27,21 +26,14 @@ Outtakes:
 
 -   [Tomorrow is a Long Time](Tomorrow is a Long Time)
     (several versions)
--   [Wallflower](Wallflower) (released on *The Bootleg
-    Series 1-3*)
+-   [Wallflower](Wallflower) (released on *The Bootleg Series 1-3*)
 -   [Spanish is the Loving
     Tongue](Spanish is the Loving Tongue)
 
-</div>
-<div id="intro">
-<h2>
-Introductory Remarks
+## Introductory Remarks
 
-</h2>
-<h3>
-Eyolf Østrem
+### Eyolf Østrem
 
-</h3>
 *New Morning* has been haunting me ever since I bought it. This
 must be Dylan's most stylistically varied album ever (possibly topped by
 [”Love and Theft”](”Love and Theft”)), but I still can't
@@ -80,8 +72,8 @@ the road / Underneath the bridge where the water flowed through”,
 “Automobile comin' into style / Comin' down the road for a country mile
 or two”), and they are introduced with a shade of desperation in the
 insistent questions: “Can't you hear…?” (“You *really* can't hear
-it? Don't you *remember*? But… that was an *important
-*moment! I thought we shared it… Don't you love me anymore?”)
+it? Don't you *remember*? But… that was an *important*
+moment! I thought we shared it… Don't you love me anymore?”)
 Besides, the song is forever redeemed by the treatment it got in 1991 –
 when someone goes though something like *that*, you just have to
 care for them . . .
@@ -96,6 +88,3 @@ choir on the other two… heavenly! In fact, if Dylan ever wrote a
 heavenly line of music, it's the two bars of dirty-winged angels' song
 between the verses in “Father of Night”, or the very end of “Three
 Angels”.
-
-</div>
-

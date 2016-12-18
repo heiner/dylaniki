@@ -6,16 +6,14 @@ tags:
  - Albums
 ---
 
-Recorded Apr 1969-Mar 1970  
+Recorded Apr 1969-Mar 1970
 Released June 8, 1970
 
-<div id="songs">
-` # `[`All` `The` `Tired` `Horses`](All The Tired Horses)
-
+1.  [All The Tired Horses](All The Tired Horses)
 1.  [Alberta](Alberta)
 2.  [I Forgot More Than You'll Ever
     Know](I Forgot More Than You'll Ever Know)
-3.  [Days of '49](Days of '49)
+3.  [Days of &#39;49](Days of &#39;49)
 4.  [Early Mornin' Rain](Early Mornin' Rain)
 5.  [In Search of Little Sadie](In Search of Little Sadie)
 6.  [Let It Be Me](Let It Be Me)
@@ -39,16 +37,10 @@ Released June 8, 1970
 22. [Wigwam](Wigwam)
 23. [Alberta](Alberta)
 
-</div>
-<div id="intro">
-<h2>
-Introductory remarks
+## Introductory remarks
 
-</h2>
-<h3>
-Eyolf Østrem
+### Eyolf Østrem
 
-</h3>
 “What is this shit?!” wrote Greil Marcus in his *Rolling Stone*
 review of this album, and there is something to that question. There are
 only three possible explanations to the mix of the blatant
@@ -92,7 +84,8 @@ others sound very uninspired). It is an amusing album, but not a good
 one…
 
 <hr>
-Postscript:  
+
+Postscript:
 Having lived with this album for a couple of days now, while tabbing it,
 I have quite reluctantly reached the conclusion (“insight” is too strong
 a word) that the most interesting songs on the album are “In search if
@@ -118,14 +111,13 @@ garbologist!)
 Wigwam stretches limits too, but mostly those of patience.
 
 <hr>
+
 Postscript II: I couldn't resist to put up this note, posted at r.m.d:
 
-*Hello-  
-Just picked this one up this afternoon. I have the following to say:
-That is \$11.99 and 74 minutes of my life that I'm never getting back.  
-  
-Best,  
-    \~Ryan*
-
-</div>
-
+> Hello-
+> Just picked this one up this afternoon. I have the following to say:
+> That is \$11.99 and 74 minutes of my life that I'm never getting back.
+>
+> Best,
+>
+>     \~Ryan
