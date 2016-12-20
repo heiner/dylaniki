@@ -25,8 +25,8 @@ var addDatalist = function(search) {
     var input = document.getElementById("search-input");
     input.setAttribute("list", "search-datalist");
     input.addEventListener("input", function(e) {
-        var option = datalist.querySelector("[value='" +
-                                            input.value.toString() + "']");
+        var option = datalist.querySelector('[value="' +
+                                            input.value.toString() + '"]');
         if (option) {
             window.location.pathname = input.value;
         }
@@ -40,10 +40,8 @@ document.addEventListener("DOMContentLoaded", function() {
         getJSON("/search.json", function(error, data) {
             if (error)
                 return;
-            console.log("data", data);
-            localStorage.setItem("dylaniki_search",
-                                 JSON.stringify(data));
-            addDatalist(search);
+            localStorage.setItem("dylaniki_search", JSON.stringify(data));
+            addDatalist(data);
         });
     } else {
         addDatalist(search);
