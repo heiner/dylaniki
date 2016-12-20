@@ -1,13 +1,13 @@
 ---
 title: When You Gonna Wake Up?
-permalink: When You Gonna Wake Up?
+permalink: When You Gonna Wake Up
 layout: wiki
 tags:
  - Songs
 ---
 
-Words and music Bob Dylan  
-Released on [Slow Train Coming](Slow Train Coming) (1979)  
+Words and music Bob Dylan
+Released on [Slow Train Coming](Slow Train Coming) (1979)
 Tabbed by Eyolf Østrem
 
 Chords:

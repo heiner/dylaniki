@@ -1,15 +1,15 @@
 ---
 title: When Did You Leave Heaven?
-permalink: When Did You Leave Heaven?
+permalink: When Did You Leave Heaven
 layout: wiki
 tags:
  - Songs
 ---
 
 Words and Music W. Bullock and R. Whiting, Whiting music corp./EMI
-Robbins Catalog  
+Robbins Catalog
 Sung by Bob Dylan on [Down In The Groove](Down In The Groove)
-(1988)  
+(1988)
 Tabbed by Eyolf Østrem
 
 * * * * *

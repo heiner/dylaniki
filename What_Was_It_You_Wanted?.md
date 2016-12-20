@@ -1,13 +1,13 @@
 ---
 title: What Was It You Wanted?
-permalink: What Was It You Wanted?
+permalink: What Was It You Wanted
 layout: wiki
 tags:
  - Songs
 ---
 
-Words and music Bob Dylan  
-Released on [Oh Mercy](Oh Mercy) (1989).  
+Words and music Bob Dylan
+Released on [Oh Mercy](Oh Mercy) (1989).
 Tabbed by Eyolf Østrem
 
 * * * * *

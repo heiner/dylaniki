@@ -1,13 +1,13 @@
 ---
 title: What Good Am I?
-permalink: What Good Am I?
+permalink: What Good Am I
 layout: wiki
 tags:
  - Songs
 ---
 
-Words and music Bob Dylan.  
-Released on [Oh Mercy](Oh Mercy) (1989).  
+Words and music Bob Dylan.
+Released on [Oh Mercy](Oh Mercy) (1989).
 Tabbed by Jeff Kokoskinski and Eyolf Østrem
 
 Capo 4th fret (sounding key E major)

@@ -1,6 +1,6 @@
 ---
 title: Whatcha Gonna Do?
-permalink: Whatcha Gonna Do?
+permalink: Whatcha Gonna Do
 layout: wiki
 tags:
  - Songs
@@ -8,9 +8,9 @@ tags:
  - Miscellaneous Songs
 ---
 
-Words and music Bob Dylan  
+Words and music Bob Dylan
 Recorded Nov 14 and Dec 6 1962 during the
-[Freewheelin'](Freewheelin') sessions  
+[Freewheelin'](Freewheelin') sessions
 Tabbed by Eyolf Østrem
 
 * * * * *
@@ -28,13 +28,13 @@ Chords:
 
 The playing on this one is really very simple, but he's playing around
 with the basic elements (both the chord shapes, the rhythms and the
-chord sequences) in a way that makes it look complicated on paper.  
+chord sequences) in a way that makes it look complicated on paper.
 Concerning the D(3) chord (i.e. D in the third position, i.e. beginning
 in the 3rd fret), the first fingering (054300) is to be preferred when
 it replaces the D-G/d-D figure, as in the second verse, and the second
 or third (004350) when it is played in the succession D-A7-D. The
 fingering D(3)=004300 goes with A7=002100, and D(3)=004350 with
-A7=002140.  
+A7=002140.
 I've written out the chords to the first three verses, which I think
 cover most of the variants in the handling of this song.
 

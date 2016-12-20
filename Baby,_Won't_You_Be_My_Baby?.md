@@ -1,13 +1,13 @@
 ---
 title: Baby, Won't You Be My Baby?
-permalink: Baby, Won't You Be My Baby?
+permalink: Baby, Won't You Be My Baby
 layout: wiki
 tags:
  - Songs
 ---
 
-Presumably written by Bob Dylan  
-Recoreded by Bob Dylan and the Band in the Basement, summer 1967  
+Presumably written by Bob Dylan
+Recoreded by Bob Dylan and the Band in the Basement, summer 1967
 Tabbed and transcribed by Eyolf Østrem
 
 Chord suggestions:

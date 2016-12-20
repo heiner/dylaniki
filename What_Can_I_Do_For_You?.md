@@ -1,14 +1,14 @@
 ---
 title: What Can I Do For You?
-permalink: What Can I Do For You?
+permalink: What Can I Do For You
 layout: wiki
 tags:
  - Songs
  - Cleanup
 ---
 
-Words and Music by Bob Dylan  
-Released on [Saved](Saved (Album)) (1980)  
+Words and Music by Bob Dylan
+Released on [Saved](Saved (Album)) (1980)
 Tabbed by Eyolf Østrem
 
 Capo 3rd fret (original key Eb major).
@@ -18,7 +18,7 @@ I have for some reason transcribed the final harp solo. You can find it
 harp, straight. The transcription is in C major). It is far from
 optimized for screen viewing, not at all, but you can save the image and
 print it out if/when you want to recreate Dylan's most glorious moment
-as a harpist.  
+as a harpist.
 [There's also a [midi
 file](http://www.dylanchords.com/23_saved/WHATCAN.mid), not to listen
 to, but to insert into the program “Harping” (if you use Windows), which

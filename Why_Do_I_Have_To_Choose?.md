@@ -1,14 +1,14 @@
 ---
 title: Why Do I Have To Choose?
-permalink: Why Do I Have To Choose?
+permalink: Why Do I Have To Choose
 layout: wiki
 tags:
  - Songs
  - Miscellaneous Songs
 ---
 
-Written by Willie Nelson  
-As performed by Bob Dylan in Gothenburg, June 9, 1984  
+Written by Willie Nelson
+As performed by Bob Dylan in Gothenburg, June 9, 1984
 Tabbed by Eyolf Østrem
 
 * * * * *

@@ -1,13 +1,13 @@
 ---
 title: Are You Ready?
-permalink: Are You Ready?
+permalink: Are You Ready
 layout: wiki
 tags:
  - Songs
 ---
 
-Words and music Bob Dylan  
-Released on [Saved](Saved (Album)) (1980)  
+Words and music Bob Dylan
+Released on [Saved](Saved (Album)) (1980)
 Tabbed by Eyolf Østrem
 
 * * * * *

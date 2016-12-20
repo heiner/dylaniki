@@ -1,14 +1,14 @@
 ---
 title: Can You Please Crawl Out Your Window?
-permalink: Can You Please Crawl Out Your Window?
+permalink: Can You Please Crawl Out Your Window
 layout: wiki
 tags:
  - Songs
 ---
 
-Words and music Bob Dylan  
+Words and music Bob Dylan
 Recorded Oct 1965 and released as a single dec 1965. Released again on
-[Biograph](Biograph) (1985)  
+[Biograph](Biograph) (1985)
 Tabbed by Eyolf Østrem
 
 * * * * *

@@ -1,6 +1,6 @@
 ---
 title: What Kind of Friend Is This?
-permalink: What Kind of Friend Is This?
+permalink: What Kind of Friend Is This
 layout: wiki
 tags:
  - Songs
@@ -8,14 +8,14 @@ tags:
  - Miscellaneous Songs
 ---
 
-Written by Bob Dylan (with input from Robbie Robertson, I assume)  
+Written by Bob Dylan (with input from Robbie Robertson, I assume)
 Recorded in a Glasgow hotel room May 19, 1966, included in the film *Eat
-the Document*  
+the Document*
  Tabbed by Eyolf Østrem
 
 * * * * *
 
-Dropped C tuning (C-A-d-g-b-e')  
+Dropped C tuning (C-A-d-g-b-e')
 Dylan's guitar: Capo 7th fret (sounding key G major)
 
     C    032010

@@ -1,16 +1,16 @@
 ---
 title: Who Killed Davey Moore?
-permalink: Who Killed Davey Moore?
+permalink: Who Killed Davey Moore
 layout: wiki
 tags:
  - Songs
 ---
 
-Words and music Bob Dylan  
+Words and music Bob Dylan
 Released on [The Bootleg Series 1-3](The Bootleg Series 1-3)
 (1991) in a live recording from carnegie Hall, NY, Oct 26, 1963, and in
 a version from Philharmonic Hall (Oct 31, 1964) on [Live
-1964](Live 1964) (2004)  
+1964](Live 1964) (2004)
 Tabbed by Eyolf Østrem
 
 * * * * *
@@ -19,7 +19,7 @@ Capo 3rd fret
 
 In the Carnegie version, the descending figure in the verses is played
 rather freely, with ample variation. In the version from the Halloween
-show (Oct 31, 1964), both the rhythm and the chords are more regular:  
+show (Oct 31, 1964), both the rhythm and the chords are more regular:
 Also, in some verses, at least, it seems that he plays the last line of
 each verse (“No you can't blame me at all”) the same way as the last
 line in the chorus (F G-G6-G7-C)

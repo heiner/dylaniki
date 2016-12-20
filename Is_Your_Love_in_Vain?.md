@@ -1,14 +1,14 @@
 ---
 title: Is Your Love in Vain?
-permalink: Is Your Love in Vain?
+permalink: Is Your Love in Vain
 layout: wiki
 tags:
  - Songs
 ---
 
-Words and music Bob Dylan  
+Words and music Bob Dylan
 Released on [Street Legal](Street Legal) (1978) and in a live
-version on [At Budokan](At Budokan) (1978)  
+version on [At Budokan](At Budokan) (1978)
 Tabbed by Eyolf Østrem
 
 * * * * *
