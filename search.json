@@ -1,0 +1,11 @@
+---
+layout: null
+---
+{% assign content = (site.pages | where: "layout" , "wiki") %}
+[ {% for page in content %}
+  {
+    "title": "{{ page.title }}",
+    "url": "{{ page.url }}"
+  }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

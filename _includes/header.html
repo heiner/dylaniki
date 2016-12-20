@@ -10,6 +10,11 @@
     </div>
     -->
 
+    <!--Custom JS-->
+    <script type="text/javascript" src="{{ site.baseurl}}/js/search.js"></script>
+    <datalist id="search-datalist">
+    </datalist>
+
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
     <nav class="site-nav">
@@ -25,6 +30,7 @@
         </svg>
       </a>
       <div class="trigger">
+        <input type="text" id="search-input" autocomplete="on" />
         <a class="page-link" href="{{ site.baseurl }}/songs">List of Songs</a>
         <a class="page-link" href="{{ site.baseurl }}/albums">List of Albums</a>
         <a class="page-link" href="{{ site.baseurl }}/Miscellaneous">Misc Songs</a>
