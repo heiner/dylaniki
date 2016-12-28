@@ -7,19 +7,17 @@ tags:
 ---
 
 Words and music Bob Dylan ([not Lorre
-Wyatt](http://www.expectingrain.com/dok/who/w/wyattlorre.html))  
+Wyatt](http://www.expectingrain.com/dok/who/w/wyattlorre.html))
 Released on [Freewheelin'](Freewheelin') (1963), [Greatest
 Hits I](Greatest Hits I) (1967) and
 [Biograph](Biograph) (1985), and in live versions on [Before
 the Flood](Before the Flood) (1975),
 [Budokan](Budokan) (1978) [Live 1975](Live 1975)
-(2002), and [No direction home](No direction home) (2005)  
+(2002), and [No direction home](No direction home) (2005)
 Tabbed by Eyolf Østrem
 
-<h2 class="songversion">
-*Freewheelin*' version
+## *Freewheelin'* version
 
-</h2>
 Capo 7th fret (sounding key D major)
 
     Chords:
@@ -64,10 +62,8 @@ Capo 7th fret (sounding key D major)
     The answer, my friend, is blowin' in the wind,
     The answer is blowin' in the wind.
 
-<h2 class="songversion">
-''No Direction Home ''version (1963)
+## ''No Direction Home'' version (1963)
 
-</h2>
 Recorded live at New York Town Hall, Dec 4, 1963
 
     C        F            G        C
@@ -87,10 +83,8 @@ Recorded live at New York Town Hall, Dec 4, 1963
         F         G              C
     The answer is blowin' in the wind.
 
-<h2 class="songversion">
-Version from [Before the Flood](Before the Flood) (1974)
+## Version from [Before the Flood](Before the Flood) (1974)
 
-</h2>
     G        C            G
     How many roads must a man walk down
     G          C          G
@@ -108,10 +102,8 @@ Version from [Before the Flood](Before the Flood) (1974)
         C         D              G
     The answer is blowin' in the wind.
 
-<h2 class="songversion">
-Live 1975 version
+## Live 1975 version
 
-</h2>
 (duet with Joan Baez)
 
     G        C            G
@@ -131,10 +123,8 @@ Live 1975 version
         C         D              G
     The answer is blowin' in the wind.
 
-<h2 class="songversion">
-Version from [Budokan](Budokan) (1978)
+## Version from [Budokan](Budokan) (1978)
 
-</h2>
     D         G/d   D                 G/d
      How many roads   must a man walk down
     D           G/d        D     G/d
@@ -152,10 +142,8 @@ Version from [Budokan](Budokan) (1978)
         G         A              D      G/d    D    G/d
     The answer is blowin' in the wind.
 
-<h2 class="songversion">
-Current version (2002)
+## Current version (2002)
 
-</h2>
 Submitted by Patrik Winkvist
 
     C        F            C   Csus4 C    Csus2
