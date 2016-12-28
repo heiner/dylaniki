@@ -1,13 +1,13 @@
 ---
 title: Where Are You Tonight? (Journey Through Dark Heat)
-permalink: Where Are You Tonight? (Journey Through Dark Heat)
+permalink: Where Are You Tonight (Journey Through Dark Heat)
 layout: wiki
 tags:
  - Songs
 ---
 
-Words and music Bob Dylan  
-Released on [Street Legal](Street Legal) (1978)  
+Words and music Bob Dylan
+Released on [Street Legal](Street Legal) (1978)
 Tabbed by Eyolf Østrem
 
 * * * * *
