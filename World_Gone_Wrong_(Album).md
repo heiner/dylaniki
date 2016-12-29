@@ -6,7 +6,7 @@ tags:
  - Albums
 ---
 
-Recorded May 1993
+Recorded May 1993  
 Released Oct 26, 1993
 
 1.  [World Gone Wrong](World Gone Wrong)

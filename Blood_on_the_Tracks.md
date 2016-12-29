@@ -7,7 +7,7 @@ tags:
  - Open D/E tuning
 ---
 
-Recorded Sept/Dec 1974,
+Recorded Sept/Dec 1974,  
 released Jan 20, 1975
 
 ![Blood on the Tracks](http://dylanchords.info/graphics/blood.jpg)

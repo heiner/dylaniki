@@ -6,7 +6,7 @@ tags:
  - Albums
 ---
 
-Recorded Nov 1973
+Recorded Nov 1973  
 Released Jan 17, 1974
 
 1.  [On a Night Like This](On a Night Like This)

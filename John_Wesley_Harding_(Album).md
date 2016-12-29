@@ -6,7 +6,7 @@ tags:
  - Albums
 ---
 
-Recorded: Oct/Nov 1967
+Recorded: Oct/Nov 1967  
 released: Dec 27, 1967
 
 1.  [John Wesley Harding](John Wesley Harding)

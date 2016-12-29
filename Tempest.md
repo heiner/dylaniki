@@ -6,14 +6,10 @@ tags:
  - Songs
 ---
 
-<span class="writtenby">Written by <span class="writer">Bob Dylan
-</span></span>  
-<span class="versioninfo">Released on [Tempest
-(2012)](Tempest (2012))</span>  
-<span class="tabbedby">Tabbed by <span class="tabber"> Eyolf Østrem
-</span></span>
+Written by Bob Dylan  
+Released on [Tempest (2012)](Tempest (2012))  
+Tabbed by Eyolf Østrem
 
-<div class="song">
     G
     The pale moon rose in its glory
     C
@@ -242,6 +238,3 @@ tags:
     Of all things that can be
     He dreamed the Titanic was sinking
     Into the deep blue sea
-
-</div>
-

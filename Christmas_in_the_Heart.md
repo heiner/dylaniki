@@ -122,14 +122,14 @@ toys.
 
 But then, in the third verse:
 
-[He doesn't care if you're rich or poor]
-for he loves you just the same
+> [He doesn't care if you're rich or poor]  
+> for he loves you just the same
 
 Oh, that was Santa, was it? For a moment there, I thought I was in the
 wrong song – I thought that was Christ or something.
 
-[Santa knows that we're God's children]
-and that makes everything right
+> [Santa knows that we're God's children]  
+> and that makes everything right
 
 OK, so it was something in that direction after all. From here to the
 end of the song, it is quite clear that this has something to do with

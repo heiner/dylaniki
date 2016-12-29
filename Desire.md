@@ -6,7 +6,7 @@ tags:
  - Albums
 ---
 
-Recorded July 1975
+Recorded July 1975  
 Released Jan 16 1976
 
 1.  [Hurricane](Hurricane)

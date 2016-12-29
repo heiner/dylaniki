@@ -6,7 +6,7 @@ tags:
  - Albums
 ---
 
-Recorded Feb 11-15 1980
+Recorded Feb 11-15 1980  
 Released June 20 1980
 
 1.  [A Satisfied Mind](A Satisfied Mind) (incl. live version,

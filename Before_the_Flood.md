@@ -6,7 +6,7 @@ tags:
  - Albums
 ---
 
-Recorded live with The Band Jan 30 and Feb 13-14, 1974
+Recorded live with The Band Jan 30 and Feb 13-14, 1974  
 released: Jun 20, 1974
 
 For The Band's songs, go to [The Band website](http://theband.hiof.no/).

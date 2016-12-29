@@ -6,7 +6,7 @@ tags:
  - Albums
 ---
 
-Recorded: Aug 1986 to May 1987
+Recorded: Aug 1986 to May 1987  
 Released: May 31, 1988
 
 1.  [Let's Stick Together](Let's Stick Together)

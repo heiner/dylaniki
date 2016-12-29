@@ -7,13 +7,13 @@ tags:
 ---
 
 Words and music Bob Dylan ([not Lorre
-Wyatt](http://www.expectingrain.com/dok/who/w/wyattlorre.html))
+Wyatt](http://www.expectingrain.com/dok/who/w/wyattlorre.html))  
 Released on [Freewheelin'](Freewheelin') (1963), [Greatest
 Hits I](Greatest Hits I) (1967) and
 [Biograph](Biograph) (1985), and in live versions on [Before
 the Flood](Before the Flood) (1975),
 [Budokan](Budokan) (1978) [Live 1975](Live 1975)
-(2002), and [No direction home](No direction home) (2005)
+(2002), and [No direction home](No direction home) (2005)  
 Tabbed by Eyolf Østrem
 
 ## *Freewheelin'* version

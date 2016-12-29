@@ -6,7 +6,7 @@ tags:
  - Albums
 ---
 
-Recorded: April 24, 1962–April 24, 1963
+Recorded: April 24, 1962–April 24, 1963  
 Released: May 27, 1963
 
 1.  [Blowin' in the Wind](Blowin' in the Wind)
