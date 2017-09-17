@@ -1,7 +1,7 @@
 ---
 layout: null
 ---
-{% assign content = (site.pages | where: "layout" , "wiki") %}
+{% assign content = site.pages | where: "layout", "wiki" %}
 [ {% for page in content %}
   {
     "title": "{{ page.title }}",
