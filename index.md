@@ -40,7 +40,7 @@ layout: page
 -   [Knocked Out Loaded](Knocked Out Loaded) (1986)
 -   [Down In The Groove](Down In The Groove) (1988)
 -   [Oh Mercy](Oh Mercy) (1989)
--   [Under The Red Sky](Under The Red Sky) (1990)
+-   [Under The Red Sky](Under The Red Sky (Album)) (1990)
 -   [The Bootleg Series 1-3](The Bootleg Series 1-3) (1991)
 -   [Good As I Been To You](Good As I Been To You) (1992)
 -   [World Gone Wrong](World Gone Wrong (Album)) (1993)

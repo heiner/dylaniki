@@ -6,11 +6,11 @@ tags:
  - Songs
 ---
 
-Words and Music by Bob Dylan  
+Words and Music by Bob Dylan
 Recorded for [Oh Mercy](Oh Mercy) (1989) in a version
 released on [Tell Tale Signs](Tell Tale Signs) (2008),
 released in a different version on [Under The Red
-Sky](Under The Red Sky) (1990).  
+Sky](Under The Red Sky (Album)) (1990).
 Tabbed by Eyolf Østrem
 
 * * * * *

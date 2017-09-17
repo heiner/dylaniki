@@ -6,9 +6,9 @@ tags:
  - Songs
 ---
 
-Words and music Bob Dylan  
+Words and music Bob Dylan
 Recorded – and discarded – for *Oh Mercy*, but given a second chance on
-[Under The Red Sky](Under The Red Sky) (1990).  
+[Under The Red Sky](Under The Red Sky (Album)) (1990).
 May not have come out perfectly in the studio, but live this is a gem.
 
 I give two versions: one with G chords, the other with E chords. Both

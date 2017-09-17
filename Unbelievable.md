@@ -6,8 +6,8 @@ tags:
  - Songs
 ---
 
-Written by Bob Dylan  
-Released on [Under The Red Sky](Under The Red Sky) (1990)  
+Written by Bob Dylan
+Released on [Under The Red Sky](Under The Red Sky (Album)) (1990)
 Tabbed by Eyolf Østrem
 
 The basic chord is some kind of Em or Em7, but with hints of E and E7 as
