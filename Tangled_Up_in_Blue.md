@@ -8,7 +8,7 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Blood on the Tracks](Blood_on_the_Tracks) (1975)
+Released on [Blood on the Tracks](Blood on the Tracks) (1975)
 and on [Biograph](Biograph) (1985), and live on
 [Real Live](Real Live) (1984) and [Live 1975](Live 1975) (2002)  
 Original New York version released on [The Bootleg Series 1-3](The Bootleg Series 1-3) (1991)  
