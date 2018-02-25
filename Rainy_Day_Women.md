@@ -1,5 +1,5 @@
 ---
-title: Rainy Day Women
+title: Rainy Day Women #12 & 35
 permalink: Rainy Day Women
 layout: wiki
 tags:
@@ -72,10 +72,8 @@ played.
     But I would not feel so all alone,
     Everybody must get stoned.
 
-<h2 class="songversion">
-[Unplugged](Unplugged) version
+## [Unplugged](Unplugged) version
 
-</h2>
 Played in E without a capo. The descending riffs are played with the
 chord shapes xxx434, xxx323, xxx212, 022100, and correspondingly on the
 other scale steps (see tab above).  
