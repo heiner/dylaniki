@@ -13,13 +13,15 @@ Tabbed by Eyolf Østrem
 Piano song - in F\# major, possibly the worst conceivable guitar key. I
 suggest a capo on the 2nd fret and the following chords:
 
-    Asus2      002200
-    E/b        x<strong>2</strong>2100
-    E/a        x<strong>0</strong>2100
-    E/g#       422100 or 476454
-    F#m7       242222
-    F#9        242324
-    F#m/a      x<strong>0</strong>4222
+<pre>
+  Asus2      002200
+  E/b        x<strong>2</strong>2100
+  E/a        x<strong>0</strong>2100
+  E/g#       422100 or 476454
+  F#m7       242222
+  F#9        242324
+  F#m/a      x<strong>0</strong>4222
+</pre>
 
 * * * * *
 
