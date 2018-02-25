@@ -9,8 +9,7 @@ tags:
 Recorded Oct 5, 1965-March 10, 1966  
 Released May 16, 1966
 
-1.  [Rainy Day Women \#12 &amp;
-    35](Rainy Day Women #12_&amp;_35)
+1.  [Rainy Day Women \#12 &amp; 35](Rainy Day Women)
 2.  [Pledging My Time](Pledging My Time)
 3.  [Visions of Johanna](Visions of Johanna)
 4.  [One of Us Must Know (Sooner or
