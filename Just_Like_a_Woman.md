@@ -41,7 +41,7 @@ Chords:
 Intro:
 
       C                 Em      Dm  G     F
-      &gt;                 &gt;                 &gt;           &gt;
+      >                 >                 >           >
       :   .   .   .     :   .   .   .     :   .   .   .     :   .   .   .
     |-----------------|-----------------|-------1---------|-----------------|
     |-----------------|-----------------|-------1---------|-----------------|
@@ -51,7 +51,7 @@ Intro:
     |-0-------0-------|-----------------|-----0-----------|-0---------------|
 
       C                 Em      Dm  G     F
-      &gt;                 &gt;                 &gt;           &gt;
+      >                 >                 >           >
       :   .   .   .     :   .   .   .     :   .   :   .     :   .   .   .
     |-------0---------|-------0---------|-----------------|-----------------|
     |-----------------|---------3---0---|-1---------------|-----------1-----|
@@ -61,7 +61,7 @@ Intro:
     |-----0---0-------|-----------------|---------0-------|-0-------0-------|
 
       C           Csus4                   C                             Csus4
-                  &gt;                       &gt;
+                  >                       >
       :   .   .   .     :   .   .   .     :   .   .   .     :   .   .   .
     |-----------------|-----------------|-----------------|---0-------------|
     |-------1---------|-----1-----1-----|---------1-------|-----------------|
@@ -71,7 +71,7 @@ Intro:
     |-----0---0-------|-0-------0-------|-0---0-------0---|---------0-------|
 
                         C
-                        &gt;
+                        >
       :   .   .   .     :   .   .   .     :   .   .   .
     |-----------------|-------0---------|-----------------|
     |---1-------1-----|-------1---------|-----------------|
@@ -113,22 +113,22 @@ Intro:
     And she aches just like a woman
     But she breaks just like a little girl.
 
-           E
-    It was raining from the first
+               E
+        It was raining from the first
 
-    And I was dying there of thirst
-         C            Csus4 C
-    So I came in here
-             E
-    And your long-time curse hurts
+        And I was dying there of thirst
+             C            Csus4 C
+        So I came in here
+                 E
+        And your long-time curse hurts
 
-    But what's worse
-            F
-    Is this pain in here
-            G7
-    I can't stay in here
+        But what's worse
+                F
+        Is this pain in here
+                G7
+        I can't stay in here
 
-    Ain't it clear that
+        Ain't it clear that
 
     C F    G     C    etc.
     I just don't fit
@@ -143,10 +143,8 @@ Intro:
     and then you ache just like a woman,
     but you break just like a little girl.
 
-<h2 class="songversion">
-Blonde on Blonde version
+## Blonde on Blonde version
 
-</h2>
 Bob seems to be playing with a capo on the 4th fret, and more or less
 the same chords as above.  
 The 2nd guitar plays without a capo, using the following pattern
@@ -225,10 +223,8 @@ famous fill:
     C F    G     C    etc.
     I just don't fit
 
-<h2 class="songversion">
-“Before the Flood” version
+## “Before the Flood” version
 
-</h2>
 Played in a very square 4/4 beat. The chords marked “/b”are probably
 G/b, but may even be C/b (or rather: Cadd2/b: x20010). The second and
 third Choruses are rushed out of tempo.
@@ -267,22 +263,22 @@ third Choruses are rushed out of tempo.
     And she aches just like a woman
     But she breaks just like a little girl.
 
-           B7
-    It was raining from the first
+               B7
+        It was raining from the first
 
-    And I was dying there of thirst
-         Em           B7  Em
-    So I came in here
-             B7
-    And your long-time curse hurts
+        And I was dying there of thirst
+             Em           B7  Em
+        So I came in here
+                 B7
+        And your long-time curse hurts
 
-    But what's worse
-            C
-    Is this pain in here
-            Am
-    I can't stay in here
-    C        Am
-    Ain't it clear that
+        But what's worse
+                C
+        Is this pain in here
+                Am
+        I can't stay in here
+        C        Am
+        Ain't it clear that
 
     G
     I just don't fit
@@ -296,10 +292,8 @@ third Choruses are rushed out of tempo.
     And you make love just like a woman,
     But you break just like a little girl.
 
-<h2 class="songversion">
-Live 1975 version
+## Live 1975 version
 
-</h2>
     G      C     D   G
     Nobody feels any pain
     G            C       D        G
@@ -323,27 +317,25 @@ Live 1975 version
 
     . . .
 
-         B7
-    It was raining from the first
-
-    And I was dying there of thirst
-         Em           B7  Em
-    So I came in here
              B7
-    And your long-time curse hurts
+        It was raining from the first
 
-    But what's worse
-            C              /b
-    Is this pain in here
-            Am
-    I can't stay in here
-    D           Cadd9 G/b D/a
-    Ain't it clear            that
+        And I was dying there of thirst
+             Em           B7  Em
+        So I came in here
+                 B7
+        And your long-time curse hurts
 
-<h2 class="songversion">
-“Bangla Desh concert” version (Aug 1, 1971)
+        But what's worse
+                C              /b
+        Is this pain in here
+                Am
+        I can't stay in here
+        D           Cadd9 G/b D/a
+        Ain't it clear            that
 
-</h2>
+## “Bangla Desh concert” version (Aug 1, 1971)
+
 The special feat of this version is the use of the F9/a (x03213) chord
 shape, together with the C = x32013 shape.  
 Capo 4th fret (sounding key E major)
@@ -387,27 +379,25 @@ Capo 4th fret (sounding key E major)
             Dm                 G      C   .  F9/a  .  |: C . F9/a . :|
     but she breaks just like a little girl.
 
-           E
-    It was raining from the first
+               E
+        It was raining from the first
 
-    And I was dying there of thirst
-         C            Csus4 C
-    So I came in here
-             E
-    And your long-time curse hurts
+        And I was dying there of thirst
+             C            Csus4 C
+        So I came in here
+                 E
+        And your long-time curse hurts
 
-    But what's worse
-            Am
-    Is this pain in here
-            F
-    I can't stay in here
-    G
-    Ain't it clear that . . .
+        But what's worse
+                Am
+        Is this pain in here
+                F
+        I can't stay in here
+        G
+        Ain't it clear that . . .
 
-<h2 class="songversion">
-Budokan version
+## Budokan version
 
-</h2>
 One guitar plays with a capo on the 4th fret, the other (Dylan's) is
 uncapoed.
 
@@ -449,19 +439,19 @@ A variant of the same is played at the end of some lines.
             Dm                 G      C
     but she breaks just like a little girl.
 
-           E
-    It was raining from the first
+               E
+        It was raining from the first
 
-    And I was dying there of thirst
-         C
-    So I came in here
+        And I was dying there of thirst
+             C
+        So I came in here
              E
-    And your long-time curse hurts
+        And your long-time curse hurts
 
-    But what's worse
-            F
-    Is this pain in here
-            D7(f#)
-    I can't stay in here
-    G
-    Ain't it clear that . . .
+        But what's worse
+                F
+        Is this pain in here
+                D7(f#)
+        I can't stay in here
+        G
+        Ain't it clear that . . .
