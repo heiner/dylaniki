@@ -14,10 +14,12 @@ Capo 3rd fret (sounding key Eb major)
 
 Chords:
 
-    C     x32010
-    C/e   <strong>0</strong>32010
-    C/g   <strong>3</strong>32010
-    F/g   3x3211 (or call it G11 if you like)
+<pre>
+C     x32010
+C/e   <strong>0</strong>32010
+C/g   <strong>3</strong>32010
+F/g   3x3211 (or call it G11 if you like)
+</pre>
 
 * * * * *
 
@@ -35,16 +37,16 @@ Chords:
     The enemy is subtle, how be it we are so deceived
     When the truth's in our hearts and we still don't believe?
 
-    C/e         F     C/g                  F
-     Shine your light, shine your light on me
-    C/e         F     C/g                  F
-     Shine your light, shine your light on me
-    C/e         F     C/g                  F
-     Shine your light, shine your light on me
-              Am                         C/g
-    Ya know I just couldn't make it by myself.
-          F          Dm       F/g
-    I'm a little too blind to see.
+        C/e         F     C/g                  F
+         Shine your light, shine your light on me
+        C/e         F     C/g                  F
+         Shine your light, shine your light on me
+        C/e         F     C/g                  F
+         Shine your light, shine your light on me
+                  Am                         C/g
+        Ya know I just couldn't make it by myself.
+              F          Dm       F/g
+        I'm a little too blind to see.
 
     My so-called friends have fallen under a spell.
     They look me squarely in the eye and they say, "Well, all is well."
@@ -56,11 +58,11 @@ Chords:
     You were telling him about Buddha, you were telling him about Mohammed in one breath.
     You never mentioned one time the Man who came and died a criminal's death.
 
-    Shine your light, shine your light on me
-    Shine your light, shine your light on me
-    Shine your light, shine your light on me
-    Ya know I just couldn't make it by myself.
-    I'm a little too blind to see.
+        Shine your light, shine your light on me
+        Shine your light, shine your light on me
+        Shine your light, shine your light on me
+        Ya know I just couldn't make it by myself.
+        I'm a little too blind to see.
 
     Precious angel, you believe me when I say
     What God has given to us no man can take away.
@@ -72,11 +74,11 @@ Chords:
     But there's violence in the eyes, girl, so let us not be enticed
     On the way out of Egypt, through Ethiopia, to the judgment hall of Christ.
 
-    Shine your light, shine your light on me
-    Shine your light, shine your light on me
-    Shine your light, shine your light on me
-    Ya know I just couldn't make it by myself.
-    I'm a little too blind to see.
+        Shine your light, shine your light on me
+        Shine your light, shine your light on me
+        Shine your light, shine your light on me
+        Ya know I just couldn't make it by myself.
+        I'm a little too blind to see.
 
-    Shine your light, shine your light on me
-    [repeat and fade]
+        Shine your light, shine your light on me
+        [repeat and fade]
