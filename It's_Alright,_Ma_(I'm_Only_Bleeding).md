@@ -8,29 +8,27 @@ tags:
 ---
 
 Words and music Bob Dylan  
-Released on [Bringing It All Back
-Home](Bringing It All Back Home) (1966) and in live versions
-on [Before the Flood](Before the Flood) (1974),
-[Budokan](Budokan) (1978) and [Live
-1964](Live 1964) (2004)  
- Tabbed by Eyolf Østrem
+Released on [Bringing It All Back Home](Bringing It All Back Home) (1966) and in live versions
+on [Before the Flood](Before the Flood) (1974), [Budokan](Budokan) (1978) and [Live 1964](Live 1964) (2004)  
 
-<h2 class="songversion">
-Album version
+Tabbed by Eyolf Østrem
 
-</h2>
+## Album version
+
 Dropped D tuning (D-A-d-g-b-e')  
 capo 2nd fret (sounding key E minor)
 
 Chords:
 
-    D     000232
-    G/b   0<strong>2</strong>003x (or -0 or -3)
-    Csus2 030030
-    Bb6   01003x
-    F/d   000211
-    G/d   000433
-    A     202220
+<pre>
+D     000232
+G/b   0<strong>2</strong>003x (or -0 or -3)
+Csus2 030030
+Bb6   01003x
+F/d   000211
+G/d   000433
+A     202220
+</pre>
 
        :   .   .   .      :   .   .   .
     |--1--/3-------1----|(2)--------------|-
@@ -69,12 +67,12 @@ Chords:
     That you'd just be
     One more person crying.
 
-             D           A
-    So don't fear if you hear
-      D                     G/b
-    A foreign sound to your ear
-    D    A  G/b   A            D
-    It's alright, Ma, I'm only sighing.
+                 D           A
+        So don't fear if you hear
+          D                     G/b
+        A foreign sound to your ear
+        D    A  G/b   A            D
+        It's alright, Ma, I'm only sighing.
 
     As some warn victory, some downfall
     Private reasons great or small
@@ -99,9 +97,9 @@ Chords:
     Sometimes must have
     To stand naked.
 
-    An' though the rules of the road have been lodged
-    It's only people's games that you got to dodge
-    And it's alright, Ma, I can make it.
+        An' though the rules of the road have been lodged
+        It's only people's games that you got to dodge
+        And it's alright, Ma, I can make it.
 
     Advertising signs that con you
     Into thinking you're the one
@@ -125,9 +123,9 @@ Chords:
     That it is not he or she or them or it
     That you belong to.
 
-    Although the masters make the rules
-    For the wise men and the fools
-    I got nothing, Ma, to live up to.
+        Although the masters make the rules
+        For the wise men and the fools
+        I got nothing, Ma, to live up to.
 
     For them that must obey authority
     That they do not respect in any degree
@@ -151,9 +149,9 @@ Chords:
     But rather get you down in the hole
     That he's in.
 
-    But I mean no harm nor put fault
-    On anyone that lives in a vault
-    But it's alright, Ma, if I can't please him.
+        But I mean no harm nor put fault
+        On anyone that lives in a vault
+        But it's alright, Ma, if I can't please him.
 
     Old lady judges watch people in pairs
     Limited in sex, they dare
@@ -177,21 +175,17 @@ Chords:
     Say okay, I have had enough
     What else can you show me?
 
-    And if my thought-dreams could be seen
-    They'd probably put my head in a guillotine
-    But it's alright, Ma, it's life, and life only.
+        And if my thought-dreams could be seen
+        They'd probably put my head in a guillotine
+        But it's alright, Ma, it's life, and life only.
 
-<h2 class="songversion">
-Before the Flood version
+## Before the Flood version
 
-</h2>
 Same as above, except that the fourth verse is omitted, and that the
 audience is more noisy after the second.
 
-<h2 class="songversion">
-Budokan version
+## Budokan version
 
-</h2>
 It's hard to tell if there is an A major involved in the A minor as
 well. There probably is.
 
@@ -212,19 +206,16 @@ well. There probably is.
 
     ...
 
-             Am          E
-    So don't fear if you hear
-      A                     D
-    A foreign sound to your ear
-    A    E  D     D            Am Am
-    It's alright, Ma, I'm only sighing.
+                 Am          E
+        So don't fear if you hear
+          A                     D
+        A foreign sound to your ear
+        A    E  D     D            Am Am
+        It's alright, Ma, I'm only sighing.
 
-    ...
+        ...
 
-<h2 class="songversion">
-30th Anniversary Celebration version
-
-</h2>
+## 30th Anniversary Celebration version
 The song itself is played as the album version, but there is an
 instrumental verse at the end, which is worth looking at.
 
