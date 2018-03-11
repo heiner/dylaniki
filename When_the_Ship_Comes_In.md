@@ -62,12 +62,12 @@ C/e      (30)<strong>2</strong>010
     And the words that are used
     For to get the ship confused
 
-    Em          C                G
+    Em          C                G
     Will not be understood as they're spoken.
-    For the chains of the sea Will
-    have busted in the night
+    For the chains of the sea
+    Will have busted in the night
 
-    G      /b     C      /b     D  /c /b-a G
+    G      /b     C      /b     D  /c /b-a G
     And be buried at the bottom of the o - cean.
 
     A song will lift
