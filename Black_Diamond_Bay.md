@@ -13,10 +13,12 @@ Tabbed by Eyolf Østrem
 “C/b” (or just /b when following a C) is shorthand for x20010 in the
 descending bass figure:
 
-    C   x<strong>3</strong>2010
-    C/b x<strong>2</strong>0010
-    Am  x<strong>0</strong>2210
-    G   <strong>3</strong>20003
+<pre>
+C   x<strong>3</strong>2010
+C/b x<strong>2</strong>0010
+Am  x<strong>0</strong>2210
+G   <strong>3</strong>20003
+</pre>
 
 It is not obvious which chord ends the lines 7 and 9. I've chosen the
 C/b, since it matches both the *b* of the vocal and the *c* of the
