@@ -141,11 +141,13 @@ swing character.
 
 \*) In recent shows (August 2002) these lines have been changed to:
 
-    The trailing moss and mystic glow
-    Purple blossoms soft as snow
-    My tears keep flowing <strong>without end</strong>
-    Doctor, lawyer, Indian chief
-    It takes a thief to catch a thief
-    For whom does the bell toll for, love? It tolls for you, <strong>my friend</strong>
+<pre>
+The trailing moss and mystic glow
+Purple blossoms soft as snow
+My tears keep flowing <strong>without end</strong>
+Doctor, lawyer, Indian chief
+It takes a thief to catch a thief
+For whom does the bell toll for, love? It tolls for you, <strong>my friend</strong>
+</pre>
 
 (reported to pool.dylantree.com by Minstrel Boy and Marcel)
