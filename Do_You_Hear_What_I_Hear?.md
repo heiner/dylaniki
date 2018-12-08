@@ -6,9 +6,8 @@ tags:
  - Songs
 ---
 
-Words by Noël Regney, music by Gloria Shayne Baker
-Released on [Christmas in the Heart](Christmas in the Heart)
-(2009)
+Words by Noël Regney, music by Gloria Shayne Baker  
+Released on [Christmas in the Heart](Christmas in the Heart) (2009)  
 Tabbed by Eyolf Østrem
 
 Tabbed in A major (original key Bb major)
