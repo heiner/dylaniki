@@ -13,11 +13,8 @@ Tabbed by Eyolf Østrem
 
 Capo 1st fret (sounding key Ab major)
 
-<div class="chordcharts">
-<h3>
-Chords
+### Chords
 
-</h3>
 Some of these suggestions depend on the contexts in the song. E.g. the
 Cmaj7-Dm7-Em7 figure, which should be played with the barre chords;
 elsewhere the standard form may work just as good.
@@ -38,7 +35,7 @@ elsewhere the standard form may work just as good.
     G6        35x453
     G7        x-10-9-10-8-x
 
-</div>
+
     G11
 
     C                       G11

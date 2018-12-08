@@ -12,13 +12,11 @@ Released October 13, 2009
 1.  [Here Comes Santa Claus](Here Comes Santa Claus)
 2.  [Do You Hear What I Hear](Do You Hear What I Hear)
 3.  [Winter Wonderland](Winter Wonderland)
-4.  [Hark The Herald Angels
-    Sing](Hark The Herald Angels Sing)
+4.  [Hark! The Herald Angels Sing](Hark! The Herald Angels Sing)
 5.  [I'll Be Home For Christmas](I'll Be Home For Christmas)
 6.  [Little Drummer Boy](Little Drummer Boy)
 7.  [Christmas Blues](Christmas Blues)
-8.  [O Come All Ye Faithful (Adeste
-    Fideles)](O Come All Ye Faithful (Adeste Fideles))
+8.  [O Come, All Ye Faithful (Adeste Fideles)](O Come, All Ye Faithful (Adeste Fideles))
 9.  [Have Yourself A Merry Little
     Christmas](Have Yourself A Merry Little Christmas)
 10. [Must Be Santa](Must Be Santa)

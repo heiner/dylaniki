@@ -13,17 +13,17 @@ Tabbed by Eyolf Østrem
 
 * * * * *
 
-    |: D  A  E  A  :| x4
+<pre>
+|: D  A  E  A  :| x4
 
-    A                        E
-    Who's got a beard that's long and white
-     E                          A
-    [<span class="chorus">Santa's got a beard that's long and white</span>]
-    A                     E
-    Who comes around on a special night
-     E                       A
-    [<span class="chorus">Santa comes around on a special night</span>]
-
+A                        E
+Who's got a beard that's long and white
+ E                          A
+[<em>Santa's got a beard that's long and white</em>]
+A                     E
+Who comes around on a special night
+ E                       A
+[<em>Santa comes around on a special night</em>]
     A
     Special Night, beard that's white
     Bm       E
@@ -33,22 +33,20 @@ Tabbed by Eyolf Østrem
     Bm       E7           A
      Must be Santa, Santa Claus
 
-    Who wears boots and a suit of red
-    [<span class="chorus">Santa wears boots and a suit of red</span>]
-    Who wears a long cap on his head
-    [<span class="chorus">Santa wears a long cap on his head</span>]
-
+Who wears boots and a suit of red
+[<em>Santa wears boots and a suit of red</em>]
+Who wears a long cap on his head
+[<em>Santa wears a long cap on his head</em>]
     Cap on head, suit that's red
     Special night, beard that's white
     Must be Santa
     Must be Santa
     Must be Santa, Santa Claus
 
-    Who's got a big red cherry nose
-    [<span class="chorus">Santa's got a big red cherry nose</span>]
-    Who laughs this way ‘Ho, Ho, Ho!'
-    [<span class="chorus">Santa laughs this way ‘Ho, Ho, Ho!'</span>]
-
+Who's got a big red cherry nose
+[<em>Santa's got a big red cherry nose</em>]
+Who laughs this way ‘Ho, Ho, Ho!'
+[<em>Santa laughs this way ‘Ho, Ho, Ho!'</em>]
     ‘Ho, Ho, Ho!', cherry nose
     Cap on head, suit that's red
     Special night, beard that's white
@@ -56,39 +54,38 @@ Tabbed by Eyolf Østrem
     Must be Santa
     Must be Santa, Santa Claus
 
-    |: Bb  Eb   F    Bb :|
+|: Bb  Eb   F    Bb :|
 
-    Bb                 F
-    Who very soon will come our way
-                          Bb
-    [<span class="chorus">Santa very soon will come our way</span>]
-                          F
-    Eight little reindeer pull his sleigh
-                             Bb
-    [<span class="chorus">Santa's little reindeer pull his sleigh</span>]
-
+Bb                 F
+Who very soon will come our way
+                      Bb
+[<em>Santa very soon will come our way</em>]
+                      F
+Eight little reindeer pull his sleigh
+                         Bb
+[<em>Santa's little reindeer pull his sleigh</em>]
     Reindeer sleigh, come our way
     ‘Ho, Ho, Ho!', cherry nose
     Cap on head, suit that's red
     Special night, beard that's white
 
-    Cm       F
-     Must be Santa
-    Bb       Gm
-     Must be Santa
-    Cm       F            Bb
-     Must be Santa, Santa Claus
+Cm       F
+ Must be Santa
+Bb       Gm
+ Must be Santa
+Cm       F            Bb
+ Must be Santa, Santa Claus
 
-    |: B   E   F#   B  :|
+|: B   E   F#   B  :|
 
-    B               F#
-    Dasher, Dancer, Prancer, Vixen,
-                         B
-    Eisenhower, Kennedy, Johnson, Nixon,
-    B               F#
-    Dasher, Dancer, Prancer, Vixen,
-                    B
-    Carter, Reagan, Bush, and Clinton
+        B               F#
+        Dasher, Dancer, Prancer, Vixen,
+                             B
+        Eisenhower, Kennedy, Johnson, Nixon,
+        B               F#
+        Dasher, Dancer, Prancer, Vixen,
+                        B
+        Carter, Reagan, Bush, and Clinton
 
 
     Reindeer sleigh, come our way
@@ -106,3 +103,4 @@ Tabbed by Eyolf Østrem
     Must be Santa
     Must be Santa
     Must be Santa, Santa Claus
+</pre>
