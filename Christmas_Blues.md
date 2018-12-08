@@ -11,10 +11,8 @@ Released on [Christmas in the Heart](Christmas in the Heart)
 (2009)  
 Tabbed by Eyolf Østrem
 
-<h3>
-Chords
+### Chords
 
-</h3>
 Don't let the long names scare you off. Rule of thumb \#1: it will
 rarely hurt to chop off from the end (e.g. E7-9 is just a spiced-up E7).
 Rule of thumb \#2: a plain 7 or m7 will usually work just fine.
@@ -61,20 +59,20 @@ Rule of thumb \#2: a plain 7 or m7 will usually work just fine.
       E7-9               A7        D7
     I guess I've got the Christmas blues
 
-    F#m7          B9
-    When somebody wants you
-    F#m7          B9
-    Somebody needs you
-    Em7            C      Em6
-    Christmas is a joy of joy
-        G#m7                C#9
-    But friends when you're lonely
-           G#m7            C#9
-    You'll find that it's only
-      F#m7             B9
-    A thing for little girls
-    Em7           A7
-     and little boys
+        F#m7          B9
+        When somebody wants you
+        F#m7          B9
+        Somebody needs you
+        Em7            C      Em6
+        Christmas is a joy of joy
+            G#m7                C#9
+        But friends when you're lonely
+               G#m7            C#9
+        You'll find that it's only
+          F#m7             B9
+        A thing for little girls
+        Em7           A7
+         and little boys
 
     May all your days be merry
     Your seasons full of cheer

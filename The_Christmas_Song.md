@@ -38,16 +38,16 @@ elsewhere the standard form may work just as good.
 
     G11
 
-    C                       G11
-    All through the year we waited
-                              Cmaj7 Dm7 Em7
-    Waited through spring and fall
-            C            Am/f#
-    To hear silver bells ringing
-        B7         Em7
-    see wintertime bringing
-        Am7      D9        G11
-    The happiest season of all:
+            C                       G11
+            All through the year we waited
+                                      Cmaj7 Dm7 Em7
+            Waited through spring and fall
+                    C            Am/f#
+            To hear silver bells ringing
+                B7         Em7
+            see wintertime bringing
+                Am7      D9        G11
+            The happiest season of all:
 
     Cmaj7     Dm7            Em7       Fmaj7 G7
     Chestnuts roasting on an open fire,
@@ -67,21 +67,21 @@ elsewhere the standard form may work just as good.
          Em7     Am7     Dm7  G7   Cmaj7    (G6 Cmaj7)
     Will find it hard to sleep   tonight.
 
-                   Gm7 C7             Gm7    C7
-    They know that San -- ta's on his way;
-                Gm7          C7        Fmaj7
-    He's loaded lots of toys    on his sleigh.    *)
-        Fm7            Bb7               Ebmaj7
-    And every mother's child is going to spy,
-              Am7             D7          Dm7   G7
-    To see if reindeer really know how to fly.
+                       Gm7 C7             Gm7    C7
+        They know that San -- ta's on his way;
+                    Gm7          C7        Fmaj7
+        He's loaded lots of toys    on his sleigh.    *)
+            Fm7            Bb7               Ebmaj7
+        And every mother's child is going to spy,
+                  Am7             D7          Dm7   G7
+        To see if reindeer really know how to fly.
 
     And so I'm offering this simple phrase,
     To kids from one to ninety-two,
     Although its been said many times, many ways,
     Merry Christmas to you
 
-    [instrumental bridge]
+        [instrumental bridge]
 
     And so I'm offering this simple phrase,
     To kids from one to ninety-two,

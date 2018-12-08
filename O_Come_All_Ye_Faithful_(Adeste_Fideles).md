@@ -40,38 +40,31 @@ Chord suggestions:
     Veni - te, ve-ni - te ad Be - thlehem:                different word.
     C G   C F E  D     D7/f#  G
     Natum videte Regem ange - lorum.
-
-    C/g G  C/g G7 C/g      C/g G  C/g G C/g G
-    Veni- te a - do-remus, veni- te a - dore- mus,
-    C7/Bb F/a  C/g F6  D7/f#  G G/f C/e Dm7 C/g G   C
-    ve -  ni - te  a - do  -  re -  mus     Do -  minum.
+        C/g G  C/g G7 C/g      C/g G  C/g G C/g G
+        Veni- te a - do-remus, veni- te a - dore- mus,
+        C7/Bb F/a  C/g F6  D7/f#  G G/f C/e Dm7 C/g G   C
+        ve -  ni - te  a - do  -  re -  mus     Do -  minum.
 
     O come, all ye faithful, joyful and triumphant,
     O come ye, O come ye, to Bethlehem.
     C          F   C     G        D7      G
     Come and behold Him, born the King of angels;
-
-    O come, let us adore Him! O come, let us adore Him!
-    O come, let us adore Him, Christ the Lord.
+        O come, let us adore Him! O come, let us adore Him!
+        O come, let us adore Him, Christ the Lord.
 
     [Sing, choirs of angels, sing in exultation;
     sing, all ye citizens of heaven above!
     Glory to God, all  in the highest;]
-
-    O come, let us adore Him! O come, let us adore Him!
-      F/a   C/g F6 D7/f# E    Fmaj7 Dm C/g G      C
-    O come, let us a --  dore Him,     Christ the Lord.
+        O come, let us adore Him! O come, let us adore Him!
+          F/a   C/g F6 D7/f# E    Fmaj7 Dm C/g G      C
+        O come, let us a --  dore Him,     Christ the Lord.
 
 * * * * *
 
-<h3>
-Additional verses not sung by Dylan
+### Additional verses not sung by Dylan
 
-</h3>
-<h4>
-English
+#### English
 
-</h4>
     True God of true God, Light from Light Eternal,
     Lo, He shuns not the Virgin's womb;
     Son of the Father, begotten, not created;
@@ -92,10 +85,8 @@ English
     Jesus, to Thee be glory given;
     Word of the Father, now in flesh appearing.
 
-<h4>
-Latin
+#### Latin
 
-</h4>
     En grege relicto, humiles ad cunas
     Vocati pastores approperant:
     Et nos ovanti gradu festinemus.

@@ -99,7 +99,6 @@ Cm       F            Bb
      Must be Santa
     C#m      F#           B
      Must be Santa, Santa Claus
-
     Must be Santa
     Must be Santa
     Must be Santa, Santa Claus

@@ -53,16 +53,16 @@ Chords
         Am7              B7     Em7    G7/6
     our troubles will be miles away.
 
-    Cmaj7      Cm7
-    Once again
-          Bm7        Bbdim
-    as in olden days,
-          Am7        D9  Gmaj7   G6
-    Happy golden days of yore.
-    C#m7-5     F#7+5   Bm7(/a)         E9
-      Faithful friends who are dear to us
-    A7                      D9
-    Will be near to us once more.
+        Cmaj7      Cm7
+        Once again
+              Bm7        Bbdim
+        as in olden days,
+              Am7        D9  Gmaj7   G6
+        Happy golden days of yore.
+        C#m7-5     F#7+5   Bm7(/a)         E9
+          Faithful friends who are dear to us
+        A7                      D9
+        Will be near to us once more.
 
     Gmaj7
     Someday soon
@@ -74,8 +74,7 @@ Chords
       Until then,
           Am7            B7          Em7    G7/6
     we'll have to muddle through somehow
-
-       Cmaj7      Bm7
-    So have yourself
-      Am7          D9        Gmaj7
-    a merry little Christmas now.
+           Cmaj7      Bm7
+        So have yourself
+          Am7          D9        Gmaj7
+        a merry little Christmas now.

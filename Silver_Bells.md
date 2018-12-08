@@ -27,15 +27,14 @@ Capo 1st fret (sounding key Ab major)
     Meeting smile after smile
            D            D7            G
     And on every street corner you'll hear
-
-    G             C
-    Silver bells, silver bells
-    D                          G
-    It's Christmas time in the city
-    G            C
-    Ring-a-ling, hear them ring
-    D                         G
-    Soon it will be Christmas day
+        G             C
+        Silver bells, silver bells
+        D                          G
+        It's Christmas time in the city
+        G            C
+        Ring-a-ling, hear them ring
+        D                         G
+        Soon it will be Christmas day
 
     Strings of streetlights, even stoplights
     Blink a bright red and green
@@ -43,8 +42,7 @@ Capo 1st fret (sounding key Ab major)
     Hear the snow crunch, see the kids bunch
     This is Santa's big scene
     And above all this bustle you'll hear
-
-    Silver bells, silver bells
-    It's Christmas time in the city
-    Ring-a-ling, hear them ring
-    Soon it will be Christmas day
+        Silver bells, silver bells
+        It's Christmas time in the city
+        Ring-a-ling, hear them ring
+        Soon it will be Christmas day
