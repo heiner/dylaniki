@@ -1,6 +1,6 @@
 ---
-title: Here comes Santa Claus
-permalink: Here comes Santa Claus
+title: Here Comes Santa Claus
+permalink: Here Comes Santa Claus
 layout: wiki
 tags:
  - Songs
